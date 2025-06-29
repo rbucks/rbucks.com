@@ -1,8 +1,9 @@
 Title: The definition of parallel entrepreneurship
 Date: 2017-10-27 20:20
 Slug: parallel-entrepreneurship-defined
+Tags: parallel-entrepreneurship, entrepreneurship, business-strategy, career, advice
 
-!(https://rbucks.com/wp-content/uploads/2017/10/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)
+!({static}/images/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)
 
 Here’s the concept.
 

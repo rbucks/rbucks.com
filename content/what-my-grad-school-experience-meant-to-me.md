@@ -1,6 +1,7 @@
 Title: What my grad school experience meant to me
 Date: 2019-06-06 13:04
 Slug: what-my-grad-school-experience-meant-to-me
+Tags: education, reflection, personal, career, harvard
 
 I write this from Cambridge, MA. I took the red eye last night, flying in from SFO. There used to be a lot more flights out of OAK a decade ago when I did this trip several times a year. Now they are few and far between. 
 
@@ -22,7 +23,7 @@ Of note, it wasn't Chancellor Berdahl who I worked with to get that letter draft
 
 I've learned time and time again that you have to be nice to and appreciative of everyone. 
 
-!(https://rbucks.com/wp-content/uploads/2019/01/berdahl-award_orig.jpg?w=1024)
+!({static}/images/berdahl-award_orig.jpg?w=1024)
 *The Chancellor of UC Berkeley giving me one of the first Berkeley Sustainability Awards.*
 
 So I was good at this campus sustainability politicking and probably the best at doing this at UC Berkeley at the time. My skills met the right opportunity and it catapulted me forward. I made sure that my Harvard grad school application emphasized that point. I got in. 
@@ -31,7 +32,7 @@ I forwarded that fateful email from Harvard to my mom and went to the bar at a n
 
 I was on cloud nine. I soon made plans to quit my job, spend the summer on an epic road trip through the southwest to Colorado and then to Spain and Europe. It was a unique and amazing time in my life. Limitless opportunity, no obligations, and most of all, a sense of pride that I'd worked towards an ambitious goal and achieved it. It was done. Nobody could take it away. 
 
-- !(https://rbucks.com/wp-content/uploads/2019/06/img_0108.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0182.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0275.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0353.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0438.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0473.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0624.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0649.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0699.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0788.jpg)- !(https://rbucks.com/wp-content/uploads/2019/06/img_0972.jpg)
+- !({static}/images/img_0108.jpg)- !({static}/images/img_0182.jpg)- !({static}/images/img_0275.jpg)- !({static}/images/img_0353.jpg)- !({static}/images/img_0438.jpg)- !({static}/images/img_0473.jpg)- !({static}/images/img_0624.jpg)- !({static}/images/img_0649.jpg)- !({static}/images/img_0699.jpg)- !({static}/images/img_0788.jpg)- !({static}/images/img_0972.jpg)
 
 For the rest of my life I'd always have that Harvard acceptance letter. I was in the club. Indeed my life would change forever, but not in the ways I originally expected. 
 

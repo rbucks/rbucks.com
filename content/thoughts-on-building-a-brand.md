@@ -1,6 +1,7 @@
 Title: Thoughts on building a brand
 Date: 2024-12-25 09:06
 Slug: thoughts-on-building-a-brand
+Tags: entrepreneurship, branding, marketing, business-strategy, reflection
 
 Marketing is increasingly central to who I am and what I do as an entrepreneur. This is not what I expected. 
 
@@ -20,11 +21,11 @@ A brand promises that these expectations are met. If the promise is broken by un
 
 One important note: a brand is not a logo. A logo is not a brand. A logo can represent a brand, and a beautiful logo can enhance a brand on the margins, but the logo itself doesn't make the brand. Here are some examples:
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2024/12/American_Express_logo_2018.svg_-1024x1022.png)
+<figure class="wp-block-image size-large">!({static}/images/American_Express_logo_2018.svg_-1024x1022.png)
 
-!(https://rbucks.com/wp-content/uploads/2024/12/Gap_logo.svg_-1024x1024.png)
+!({static}/images/Gap_logo.svg_-1024x1024.png)
 
-!(https://rbucks.com/wp-content/uploads/2024/12/Bass_logo.svg_-849x1024.png)
+!({static}/images/Bass_logo.svg_-849x1024.png)
 </figure>
 
 - American Express: Just a light blue square with the name of the company

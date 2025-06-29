@@ -1,6 +1,7 @@
 Title: My favorite question to ask
 Date: 2017-10-09 21:07
 Slug: my-favorite-question-to-ask-myself
+Tags: personal, reflection, self-improvement, philosophy, life-lessons
 
 These days I don’t have a lot of structure between 9am and 4pm. I don’t go into an office anymore. I don’t report to anyone. I’m running a nice little business now with no partners and no investors.
 

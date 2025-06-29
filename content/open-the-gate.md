@@ -1,6 +1,7 @@
 Title: Open the gate
 Date: 2017-09-18 11:42
 Slug: open-the-gate
+Tags: personal, reflection, writing, creativity, goals
 
 I’ve thought a lot about running for office. I studied it in college and in graduate school but I decided to take a detour through the private sector to get some practical experience and financial cushion.
 

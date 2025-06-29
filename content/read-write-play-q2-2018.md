@@ -1,6 +1,7 @@
 Title: Read Write Play: Q2 2018
 Date: 2018-06-28 23:04
 Slug: read-write-play-q2-2018
+Tags: reading, writing, music, self-improvement, personal
 
 Coming off an intense Q1, I reflected on knocking out my big accomplishment: writing a damn book and self-publishing it on Amazon. The book launched in the #1 spot in New Releases in small business on the Amazon spots where it stayed for a week! 
 
@@ -34,7 +35,7 @@ In (https://rbucks.com/2017/12/04/how-i-wrote-17k-words-in-just-two-days/), I wr
 
 Here's me crossing the 30,000-word mark that I was shooting for. That's a last-call Old Fashioned in my hand. It was about 11pm on my last night of the retreat. I started with 13,000 words in the document. 
 
-!(https://rbucks.com/wp-content/uploads/2017/12/f1b51-1r6kq9ymy8_kogwoh68ompg.jpeg)
+!({static}/images/f1b51-1r6kq9ymy8_kogwoh68ompg.jpeg)
 
 #### Play: Mayonaise
 

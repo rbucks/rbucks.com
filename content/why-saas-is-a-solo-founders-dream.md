@@ -1,6 +1,7 @@
 Title: Why SaaS is a solo founder’s dream come true
 Date: 2017-11-23 19:51
 Slug: why-saas-is-a-solo-founders-dream
+Tags: saas, entrepreneurship, bootstrapping, business-strategy, finance
 
 The dream is 100 customers paying you $100 per month. That’s the software-as-a-service (SaaS) solopreneur’s mecca.
 

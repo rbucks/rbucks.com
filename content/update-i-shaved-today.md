@@ -1,12 +1,13 @@
 Title: Update: I shaved today
 Date: 2017-04-13 09:21
 Slug: update-i-shaved-today
+Tags: personal, lifestyle, reflection, humor, self-improvement
 
 A little over two months ago I wrote that (https://medium.com/startup-grind/im-not-shaving-until-my-company-is-profitable-ce9661362658). A lot of people liked it, but not everyone did. I expected that. I decided that I would follow the thread of truth wherever it led, even around the murky bends that are difficult to write about.
 
 The (https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53) in particular struck a chord. I got a lot of feedback from distant friends, and even an early Scripted writer. This is what he wrote:
 
-!(https://rbucks.com/wp-content/uploads/2017/04/26acc-1pxb2ui3ik47qb8lcvwmudg.png)
+!({static}/images/26acc-1pxb2ui3ik47qb8lcvwmudg.png)
 
 Truth is hard to find. It’s also hard to hear. I’m finding that honesty is a great filter. The people who I respect and want to spend more time with and learn more from respond well to it. They engage with me, ask questions, and make me probe deeper. I really appreciate it.
 
@@ -24,7 +25,7 @@ I hope these are the last selfies I ever post online. I’m including them only 
 
 I think the best part of this profitability process, and the one that will stay with me for the rest of my career is that I really, *really* like running a normal, profitable business. One that cares, a lot, about how much money it’s making and losing every month and is working *every day* to narrow the gap. In that sense we’re like the millions of SMBs outside of Silicon Valley, and I think that’s a very good thing.
 
-<div class="tiled-gallery__col">!(https://rbucks.com/wp-content/uploads/2017/04/df898-1yltx8w5qoxdqlrkrwmgs8g.jpeg)!(https://rbucks.com/wp-content/uploads/2017/04/b1dd9-1zbo30nkxqxxd0h2fwhutiq.jpeg)</div></div></div></div>
+<div class="tiled-gallery__col">!({static}/images/df898-1yltx8w5qoxdqlrkrwmgs8g.jpeg)!({static}/images/b1dd9-1zbo30nkxqxxd0h2fwhutiq.jpeg)</div></div></div></div>
 
 Growth is great. When high growth leads to big companies, that’s great too. It can happen naturally when your product works and makes people happy.
 

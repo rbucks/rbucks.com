@@ -1,11 +1,12 @@
 Title: Learning to hike
 Date: 2017-11-24 20:42
 Slug: when-i-finally-learned-to-hike
+Tags: hiking, fitness, personal, reflection, lifestyle
 
-!(https://rbucks.com/wp-content/uploads/2017/11/2b401-1ukfvhllbfjaefeqtqiufbq.jpeg)
+!({static}/images/2b401-1ukfvhllbfjaefeqtqiufbq.jpeg)
 *One of the many hiking trails*
 
-!(https://rbucks.com/wp-content/uploads/2017/11/4b59c-18ezr2ezsrhpgqzbzii_0pw.jpeg)
+!({static}/images/4b59c-18ezr2ezsrhpgqzbzii_0pw.jpeg)
 *Fall in Briones Regional Park, about 20 miles east of San Francisco.*
 
 I grew up going on hikes but it wasn’t until this year, at age 35, that I learned how to hike.
@@ -22,9 +23,9 @@ I always admired this about them but I didn’t understand it. How could you jus
 
 It all happened in Briones Regional Park with my second daughter in tow behind me. It only took me 35 years to learn how to hike.
 
-!(https://rbucks.com/wp-content/uploads/2017/11/30b87-1eceqk8b_yj3-oshgzps3pg.jpeg)
+!({static}/images/30b87-1eceqk8b_yj3-oshgzps3pg.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/11/5d035-1van61vku2xbysfmywgiiuw.jpeg)
+!({static}/images/5d035-1van61vku2xbysfmywgiiuw.jpeg)
 *One of about 100 hikes in the past two years. This one was on Norah’s first birthday.*
 
 I’ve now probably gone on 100 hikes all around the east bay. Short hikes, long hikes, some with my older daughter, some with my younger daughter, and always with (https://medium.com/@rbucks/the-ascent-of-blue-1da38dbe855b).

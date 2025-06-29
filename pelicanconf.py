@@ -35,15 +35,15 @@ SITEDESCRIPTION = 'Entrepreneur, writer, and builder'
 DISPLAY_SUMMARY = True
 DISPLAY_PAGES_ON_MENU = True
 
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+# Use relative URLs for development
+RELATIVE_URLS = True
 
 # Theme
 THEME = 'themes/graymill'
 
-# Article settings
-ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+# Article settings - preserve WordPress URL structure for SEO
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Page settings
 PAGE_URL = '{slug}/'

@@ -1,6 +1,7 @@
 Title: Read Write Play: Q3 2019
 Date: 2019-11-18 22:11
 Slug: read-write-play-q3-2019
+Tags: reading, writing, music, self-improvement, personal
 
 In just a couple of months I will have been tracking my RWP for two years. Not bad for a silly little trope that nobody (except me) cares about. I try to be consistent in what I do, though, and being conscious of the RWP is just as important to me as the RWP itself. 
 
@@ -38,7 +39,7 @@ I still needed a piano, of course, and looked all around for good uprights. I pl
 
 She agreed to trust me and I was able to find a family in Alamo who had the space and the desire for our piano. I sold it and with money to spare I bought the Clavinova. I'd like to say I miss my grandparents' piano, but I don't. I love the Clav, and since I can adjust the volume and play piano in the same room where my girls are drawing, I play a lot more. Like, a LOT more. This is all that would have mattered to my grandparents. They just want to know that music is being played. I know it. 
 
-- <figure>!(https://rbucks.com/wp-content/uploads/2019/11/75e3344b-d2e8-4b2a-8273-e971326eb94a.jpg?w=1024)- !(https://rbucks.com/wp-content/uploads/2019/11/a20c1926-f200-425c-8159-bf7fd7634aa9.jpg?w=1024)
+- <figure>!({static}/images/75e3344b-d2e8-4b2a-8273-e971326eb94a.jpg?w=1024)- !({static}/images/a20c1926-f200-425c-8159-bf7fd7634aa9.jpg?w=1024)
 
 *After and before.*
 </figure>

@@ -1,6 +1,7 @@
 Title: Being the other co-founder
 Date: 2019-03-22 21:01
 Slug: being-the-other-co-founder
+Tags: entrepreneurship, scripted, leadership, startups, reflection
 
 Reflecting back on Scripted, I think it stopped feeling like my own company pretty early on. I had the luster of a co-founder title but I really was an employee like everyone else. There were some extra freedoms, perhaps, but not real freedom. Not like I have it now.
 
@@ -10,7 +11,7 @@ I'm coming up on two full years since my Scripted days came to a close. Since th
 
 ---
 
-!(https://rbucks.com/wp-content/uploads/2019/03/munger.jpg)
+!({static}/images/munger.jpg)
 
 The co-founder or CEO / non-CEO-but-still-important pairing has many obvious examples:
 

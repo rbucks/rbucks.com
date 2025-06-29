@@ -1,6 +1,7 @@
 Title: Climate tech is my next big thing
 Date: 2022-11-26 09:12
 Slug: climate-tech-is-my-next-big-thing
+Tags: climate-tech, shovels, entrepreneurship, career, environment
 
 This has been a wild year. I guess I'll start from where I left off on that (https://rbucks.com/2022/02/20/how-i-wrote-my-childrens-book/) about a year ago.
 
@@ -8,7 +9,7 @@ Coming into 2022, I was doing really great. (https://mightysignal.com/blog/airno
 
 Then I (https://rbucks.com/2022/02/10/my-first-month-of-real-teaching/) and my routine completely changed. As soon as I finished prepping for one class, another one was around the corner. Spring semester this year I taught thirteen units in five sections across four classes. Two of the sections were 90-minute lectures, back-to-back. It was a lot!
 
-!(https://rbucks.com/wp-content/uploads/2022/05/image-1024x773.png)
+!({static}/images/image-1024x773.png)
 
 I figured since I was working from home that I could fit this all in: my startup obligations, family life, exercise, creativity, and yes, teaching. A whole shit-ton of teaching. 
 
@@ -64,4 +65,4 @@ In the coming years I will learn a lot about real estate and construction. I'll 
 
 I've known excess. I've known frugality. The ground in the middle is very fertile. 
 
-!(https://rbucks.com/wp-content/uploads/2022/11/b2b.jpg)
+!({static}/images/b2b.jpg)

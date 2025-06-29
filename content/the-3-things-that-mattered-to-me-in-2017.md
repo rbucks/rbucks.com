@@ -1,6 +1,7 @@
 Title: The 3 things that mattered to me in 2017
 Date: 2017-12-28 14:36
 Slug: the-3-things-that-mattered-to-me-in-2017
+Tags: personal, reflection, family, parenting, goals
 
 I can encapsulate my 2017 in three quick topics.
 
@@ -16,13 +17,13 @@ Fortunately it’s been nothing but up since January and the side benefit to all
 
 When I look back on 2017 I’ll remember the many hikes, smoothies, jogs to the park, and visits to the library that I did alone with Norah. Most dads never get this chance so I took full advantage of it.
 
-!(https://rbucks.com/wp-content/uploads/2017/12/9ab1a-1coacyech1j_zpvuiftap_w.jpeg)
+!({static}/images/9ab1a-1coacyech1j_zpvuiftap_w.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/12/ab14e-1ox89uabc99q9g74herbpvg.jpeg)
+!({static}/images/ab14e-1ox89uabc99q9g74herbpvg.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/12/5fee3-1jrqa36xqmbl_zd3vetjgtq.jpeg)
+!({static}/images/5fee3-1jrqa36xqmbl_zd3vetjgtq.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/12/c3f49-1m3j-bzs90xb7mz8pdp8p8q.jpeg)
+!({static}/images/c3f49-1m3j-bzs90xb7mz8pdp8p8q.jpeg)
 
 #### Tom Petty
 
@@ -40,7 +41,7 @@ And that’s what Tom Petty’s death did to me. It reminded me that I’m no lo
 
 I can’t disappear on long road trips anymore, but I still have Tom’s music.
 
-!(https://rbucks.com/wp-content/uploads/2017/12/2d51a-1xijcrjr2z5rz2vv64mgola.png)
+!({static}/images/2d51a-1xijcrjr2z5rz2vv64mgola.png)
 
 #### Politics
 

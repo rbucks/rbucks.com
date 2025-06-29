@@ -1,6 +1,7 @@
 Title: Hiring feels a lot different when it's your own money
 Date: 2017-11-01 13:08
 Slug: hiring-feels-a-lot-different-when-its-your-own-money
+Tags: entrepreneurship, hiring, bootstrapping, toofr, business-strategy
 
 I recently posted a (https://www.toofr.com/jobs) to help me with a bunch of tactical stuff for Toofr.
 

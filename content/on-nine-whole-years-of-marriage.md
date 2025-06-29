@@ -1,6 +1,7 @@
 Title: On nine whole years of marriage
 Date: 2019-06-12 22:16
 Slug: on-nine-whole-years-of-marriage
+Tags: marriage, family, personal, reflection, relationships
 
 *Note: my wife did not know I was going to write and publish this. *
 
@@ -34,5 +35,5 @@ So since she and I have been on a exercise kick the last few months, that's the 
 
 I am a lucky man. And she is lucky too :)
 
-!(https://rbucks.com/wp-content/uploads/2019/06/zjcu2huzrvghlrvtxmmdqq.jpg)
+!({static}/images/zjcu2huzrvghlrvtxmmdqq.jpg)
 *My wife and I on our driveway. Photo taken by our neighbor. Out of scene: lots of kids on bikes and scooters.*
