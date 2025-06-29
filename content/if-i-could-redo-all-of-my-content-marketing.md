@@ -1,6 +1,7 @@
 Title: If I could redo all of my content marketing
 Date: 2019-02-17 21:56
 Slug: if-i-could-redo-all-of-my-content-marketing
+Category: entrepreneurship
 Tags: marketing, entrepreneurship, business-strategy, content, advice
 
 If I could redo all of my content marketing, from every company I've ever worked on, I would keep this single, simple mantra in mind:

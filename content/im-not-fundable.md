@@ -1,6 +1,7 @@
 Title: I'm not fundable
 Date: 2019-02-01 14:42
 Slug: im-not-fundable
+Category: entrepreneurship
 Tags: entrepreneurship, fundraising, bootstrapping, startups, reflection
 
 Someone raised a good question when I presented to a group of new companies at 500 Startups recently:

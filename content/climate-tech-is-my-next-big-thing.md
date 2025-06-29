@@ -1,6 +1,7 @@
 Title: Climate tech is my next big thing
 Date: 2022-11-26 09:12
 Slug: climate-tech-is-my-next-big-thing
+Category: politics-environment
 Tags: climate-tech, shovels, entrepreneurship, career, environment
 
 This has been a wild year. I guess I'll start from where I left off on that (https://rbucks.com/2022/02/20/how-i-wrote-my-childrens-book/) about a year ago.

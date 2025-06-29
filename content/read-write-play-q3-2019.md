@@ -1,6 +1,7 @@
 Title: Read Write Play: Q3 2019
 Date: 2019-11-18 22:11
 Slug: read-write-play-q3-2019
+Category: personal
 Tags: reading, writing, music, self-improvement, personal
 
 In just a couple of months I will have been tracking my RWP for two years. Not bad for a silly little trope that nobody (except me) cares about. I try to be consistent in what I do, though, and being conscious of the RWP is just as important to me as the RWP itself. 

@@ -1,6 +1,7 @@
 Title: Thoughts on building a brand
 Date: 2024-12-25 09:06
 Slug: thoughts-on-building-a-brand
+Category: entrepreneurship
 Tags: entrepreneurship, branding, marketing, business-strategy, reflection
 
 Marketing is increasingly central to who I am and what I do as an entrepreneur. This is not what I expected. 

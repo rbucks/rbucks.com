@@ -1,6 +1,7 @@
 Title: My thyroid got cancer: one year later
 Date: 2018-02-22 22:45
 Slug: my-thyroid-got-cancer-one-year-later
+Category: health-fitness
 Tags: cancer, thyroid-cancer, health, personal, reflection
 
 *This is a follow-up to my first article, (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/).*

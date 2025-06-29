@@ -1,6 +1,7 @@
 Title: What my grad school experience meant to me
 Date: 2019-06-06 13:04
 Slug: what-my-grad-school-experience-meant-to-me
+Category: teaching-education
 Tags: education, reflection, personal, career, harvard
 
 I write this from Cambridge, MA. I took the red eye last night, flying in from SFO. There used to be a lot more flights out of OAK a decade ago when I did this trip several times a year. Now they are few and far between. 

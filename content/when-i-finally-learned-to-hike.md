@@ -1,6 +1,7 @@
 Title: Learning to hike
 Date: 2017-11-24 20:42
 Slug: when-i-finally-learned-to-hike
+Category: health-fitness
 Tags: hiking, fitness, personal, reflection, lifestyle
 
 !({static}/images/2b401-1ukfvhllbfjaefeqtqiufbq.jpeg)

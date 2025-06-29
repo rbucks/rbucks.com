@@ -1,6 +1,7 @@
 Title: Lifestyle over money
 Date: 2018-09-20 13:02
 Slug: lifestyle-over-money
+Category: personal
 Tags: lifestyle, career, personal, reflection, entrepreneurship
 
 I reconnected with a few college friends recently who I rarely see. They were overachievers — 3.95 GPAs at UC Berkeley (which is quite literally insane, especially in the poli sci and math departments they graduated from) — and went on to get great jobs and MBAs from Stanford and Harvard.

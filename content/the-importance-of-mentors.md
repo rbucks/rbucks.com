@@ -1,6 +1,7 @@
 Title: The importance of mentors
 Date: 2023-11-05 20:35
 Slug: the-importance-of-mentors
+Category: teaching-education
 Tags: mentoring, career, teaching, personal, advice
 
 "Are you mentoring anybody?" my old mentor asked me a few weeks ago.

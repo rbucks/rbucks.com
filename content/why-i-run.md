@@ -1,6 +1,7 @@
 Title: Why I run
 Date: 2022-01-02 20:47
 Slug: why-i-run
+Category: health-fitness
 Tags: running, fitness, personal, reflection, exercise
 
 I run because I need to. When I don't run, I don't feel great. I need the exercise, I need the exhaustion, but most importantly, I need the time alone. I've found that I don't love running with other people. I'll do it because it makes me better at running and introduces me to new routes and possibilities, but I'm happiest when I run alone. 

@@ -1,6 +1,7 @@
 Title: Above-average mediocrity
 Date: 2021-10-10 20:17
 Slug: above-average-mediocrity
+Category: personal
 Tags: personal, reflection, ambition, career, life-lessons
 
 *I started writing this a while ago and am publishing it now even though I don't feel this anymore. Nonetheless, I edited and finished it because I think the vibe is interesting and might be helpful to another fellow "bottom of the top 1%"-er. *

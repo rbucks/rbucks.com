@@ -1,6 +1,7 @@
 Title: The 3 things that mattered to me in 2017
 Date: 2017-12-28 14:36
 Slug: the-3-things-that-mattered-to-me-in-2017
+Category: personal
 Tags: personal, reflection, family, parenting, goals
 
 I can encapsulate my 2017 in three quick topics.

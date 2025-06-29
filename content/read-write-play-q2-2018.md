@@ -1,6 +1,7 @@
 Title: Read Write Play: Q2 2018
 Date: 2018-06-28 23:04
 Slug: read-write-play-q2-2018
+Category: personal
 Tags: reading, writing, music, self-improvement, personal
 
 Coming off an intense Q1, I reflected on knocking out my big accomplishment: writing a damn book and self-publishing it on Amazon. The book launched in the #1 spot in New Releases in small business on the Amazon spots where it stayed for a week! 

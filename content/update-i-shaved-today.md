@@ -1,6 +1,7 @@
 Title: Update: I shaved today
 Date: 2017-04-13 09:21
 Slug: update-i-shaved-today
+Category: personal
 Tags: personal, lifestyle, reflection, humor, self-improvement
 
 A little over two months ago I wrote that (https://medium.com/startup-grind/im-not-shaving-until-my-company-is-profitable-ce9661362658). A lot of people liked it, but not everyone did. I expected that. I decided that I would follow the thread of truth wherever it led, even around the murky bends that are difficult to write about.

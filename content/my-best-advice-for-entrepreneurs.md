@@ -1,6 +1,7 @@
 Title: My best advice for entrepreneurs
 Date: 2025-04-27 20:57
 Slug: my-best-advice-for-entrepreneurs
+Category: entrepreneurship
 Tags: entrepreneurship, shovels, business-strategy, advice, startups
 Summary: Reflecting on Shovels reaching $80K MRR and sharing my framework for evaluating business ideas - the most important factor in entrepreneurial success.
 

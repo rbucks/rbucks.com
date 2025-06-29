@@ -1,6 +1,7 @@
 Title: Parallel entrepreneur profile: John Zimmer, Lyft
 Date: 2017-08-14 11:06
 Slug: parallel-entrepreneur-john-zimmer-lyft
+Category: entrepreneurship
 Tags: john-zimmer, lyft, profiles, parallel-entrepreneurship, entrepreneurship
 
 John Zimmer studied hospitality management at Cornell. He graduated in 2006 and joined Lehman Brothers, a prestigious investment bank, in order to get a better finance background but found himself bored within the first year of a two-year analyst program.

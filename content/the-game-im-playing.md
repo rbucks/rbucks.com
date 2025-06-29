@@ -1,6 +1,7 @@
 Title: The game I'm playing
 Date: 2019-04-26 21:11
 Slug: the-game-im-playing
+Category: personal
 Tags: personal, goals, reflection, entrepreneurship, ambition
 
 Here's more mid-30s introspection about life and goals. These are things I've been thinking about as the people around me and I get older. 

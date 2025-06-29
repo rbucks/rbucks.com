@@ -1,6 +1,7 @@
 Title: Return of the nap
 Date: 2016-08-30 07:21
 Slug: its-the-return-of-the-nap
+Category: personal
 Tags: personal, lifestyle, reflection, family, vacation
 
 Last week I was on vacation. I go to Pinecrest every year and stay at the cabin my great grandpa built 80 years ago. It’s a special place where life quiets and slows down. It’s the only place where I can very easily turn off the internet.

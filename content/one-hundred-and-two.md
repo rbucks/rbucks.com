@@ -1,6 +1,7 @@
 Title: One-hundred-and-two
 Date: 2018-12-31 21:25
 Slug: one-hundred-and-two
+Category: personal
 Tags: personal, reflection, goals, fitness, achievement
 
 Here’s a very short story I wrote earlier this year that encapsulates a lot of what 2018 was for me. Some introspection, some awareness of aging, and growth all around me.

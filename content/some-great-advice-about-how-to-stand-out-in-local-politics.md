@@ -1,6 +1,7 @@
 Title: Some great advice about how to stand out in local politics
 Date: 2019-03-02 22:04
 Slug: some-great-advice-about-how-to-stand-out-in-local-politics
+Category: politics-environment
 Tags: politics, local-politics, advice, career, government
 
 I recently drove out to Sacramento to try to see some old friends and public officials I know. The folks on my list were Assemblymembers (https://a19.asmdc.org/),  (https://a16.asmdc.org/), and (https://a45.asmdc.org/). I tried to track down (https://twitter.com/jason_elliott), my friend from grad school who is now Governor Newsom's Chief Deputy Cabinet Secretary, but our timing was off, so I called up another grad school friend, (https://twitter.com/ZachNeumannCO), instead. 

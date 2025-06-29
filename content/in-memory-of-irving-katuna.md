@@ -1,6 +1,7 @@
 Title: In memory of Irving Katuna
 Date: 2021-05-08 12:17
 Slug: in-memory-of-irving-katuna
+Category: personal
 Tags: family, personal, reflection, memory, life-lessons
 
 *Edit: I've turned this blog post into a eulogy that I'll give at Rossmoor for my grandpa's funeral. He passed away early in the morning on Tuesday, April 27, 2021.*
