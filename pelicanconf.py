@@ -21,20 +21,25 @@ LINKS = (
     ('Twitter', 'https://twitter.com/rbucks'),
 )
 
-# Social widget
+# Social widget - Graymill theme format
 SOCIAL = (
-    ('LinkedIn', 'https://www.linkedin.com/in/rbuckley'),
-    ('Twitter', 'https://twitter.com/rbucks'),
-    ('Facebook', 'https://www.facebook.com/rbucks'),
+    ('linkedin', 'https://www.linkedin.com/in/rbuckley'),
+    ('twitter', 'https://twitter.com/rbucks'),
+    ('facebook', 'https://www.facebook.com/rbucks'),
 )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 8
+
+# Graymill theme specific settings
+SITEDESCRIPTION = 'Entrepreneur, writer, and builder'
+DISPLAY_SUMMARY = True
+DISPLAY_PAGES_ON_MENU = True
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# Theme - using default theme for now
-# THEME = 'themes/notmyidea'
+# Theme
+THEME = 'themes/graymill'
 
 # Article settings
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
