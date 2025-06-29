@@ -11,7 +11,7 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 # For GitHub Pages with custom domain
-SITEURL = 'https://www.rbucks.com'
+SITEURL = 'https://rbucks.com'
 # For GitHub Pages without custom domain, use:
 # SITEURL = 'https://rbucks.github.io/rbucks.com'
 
