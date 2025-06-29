@@ -1,6 +1,6 @@
 AUTHOR = 'Ryan Buckley'
 SITENAME = 'rbucks.com'
-SITEURL = 'https://rbucks.com'
+SITEURL = 'https://www.rbucks.com'
 
 PATH = 'content'
 
