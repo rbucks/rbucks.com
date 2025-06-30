@@ -208,3 +208,6 @@ __marimo__/
 
 # Pelican output directory (local development build)
 output/
+
+# Pelican production build (deployed via GitHub Actions)
+docs/
