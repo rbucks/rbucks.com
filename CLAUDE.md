@@ -93,6 +93,35 @@ git push origin main
 
 **Custom Domain**: Site uses `rbucks.com` domain configured via CNAME file generated during build.
 
+## Collaborative Writing Workflow
+
+**Notation System**: Use `<<Claude: action>>` format to leave editing notes for Claude to process.
+
+**Examples:**
+```markdown
+I used to believe venture capital was bad <<Claude: link to post about venture capital or funding>> but now I think differently.
+
+The history of venture capital is complex <<Claude: explain venture capital history in 3 sentences>>.
+
+I wrote about this before <<Claude: find post about entrepreneurship and funding>>.
+
+This reminds me of what happened with Scripted <<Claude: link to "being the other co-founder" post>>.
+```
+
+**Action Types:**
+- `<<Claude: link to post about [topic]>>` - Find and link to relevant post
+- `<<Claude: find post titled "[title]">>` - Link to specific post by title
+- `<<Claude: explain [topic] in X sentences>>` - Add explanatory content
+- `<<Claude: research [topic]>>` - Add factual information
+- `<<Claude: expand on [topic]>>` - Add more detail
+- `<<Claude: fact-check this>>` - Verify information
+
+**Processing Workflow:**
+1. You write with `<<Claude: action>>` notes in your draft
+2. Claude searches `/content/` directory for relevant posts by keywords, titles, categories, tags, and content similarity
+3. Claude replaces notes with actual Markdown links `[text](url)` or requested content
+4. You review changes before committing
+
 ## File Structure Context
 
 - `/content/`: Markdown blog posts with metadata headers
