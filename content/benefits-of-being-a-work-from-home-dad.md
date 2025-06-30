@@ -1,6 +1,8 @@
 Title: Benefits of being a work from home dad
 Date: 2018-06-27 06:00
 Slug: benefits-of-being-a-work-from-home-dad
+Category: Family
+Tags: parenting, work-from-home, family, entrepreneurship
 
 <div class="tiled-gallery__col">(https://rbucks.com/wp-content/uploads/2019/01/unadjustednonraw_thumb_4f4.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_4f4/)(https://rbucks.com/wp-content/uploads/2019/01/unadjustednonraw_thumb_4c5.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_4c5/)</div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col">(https://rbucks.com/wp-content/uploads/2019/01/unadjustednonraw_thumb_56b.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_56b/)</div><div class="tiled-gallery__col">(https://rbucks.com/wp-content/uploads/2019/01/unadjustednonraw_thumb_35f.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_35f/)</div><div class="tiled-gallery__col">(https://rbucks.com/wp-content/uploads/2019/01/unadjustednonraw_thumb_1e.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_1e/)</div></div></div></div>
 

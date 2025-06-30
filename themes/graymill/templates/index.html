@@ -17,7 +17,7 @@
 {% if articles %}
     <ol>
     {% block heading %}
-        <h3>Recent entries</h3>
+        <h3>Latest posts</h3>
     {% endblock %}
     {% for article in (articles_page.object_list if articles_page else articles) %}
         <hr>

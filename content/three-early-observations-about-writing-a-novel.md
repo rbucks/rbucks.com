@@ -1,6 +1,8 @@
 Title: Three early observations about writing a novel
 Date: 2020-08-23 20:38
 Slug: three-early-observations-about-writing-a-novel
+Category: Personal
+Tags: writing, creativity, reflection, expression
 
 I'll state the obvious first: it actually is as hard as you think. 
 

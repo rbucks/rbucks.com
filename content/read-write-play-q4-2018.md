@@ -1,6 +1,8 @@
 Title: Read Write Play: Q4 2018
 Date: 2018-12-31 21:14
 Slug: read-write-play-q4-2018
+Category: Personal
+Tags: reading, writing, music, politics
 
 Here's my most recent RWP. 
 

@@ -1,6 +1,8 @@
 Title: My greatest hits at Scripted
 Date: 2017-09-19 14:32
 Slug: my-greatest-hits-at-scripted
+Category: Business
+Tags: scripted, leadership, company-culture, entrepreneurship
 
 I’ve been thinking recently about what I did right during my time at (https://www.scripted.com) as a co-founder, COO, head of sales, and finally CEO. A few surprising things came to mind. Here they are.
 

@@ -45,6 +45,15 @@ make clean
 # Slug: post-slug
 # Category: category-name
 # Tags: tag1, tag2
+
+# Save as draft (won't be published)
+# Add Status: draft to metadata header:
+# Title: Post Title
+# Date: YYYY-MM-DD HH:MM
+# Slug: post-slug
+# Category: category-name
+# Tags: tag1, tag2
+# Status: draft
 ```
 
 **Deployment**:
@@ -121,6 +130,26 @@ This reminds me of what happened with Scripted <<Claude: link to "being the othe
 2. Claude searches `/content/` directory for relevant posts by keywords, titles, categories, tags, and content similarity
 3. Claude replaces notes with actual Markdown links `[text](url)` or requested content
 4. You review changes before committing
+
+## Draft Workflow
+
+**Saving Drafts**: Add `Status: draft` to the frontmatter to prevent posts from being published while you're working on them.
+
+**Draft Examples:**
+```markdown
+Title: My Unfinished Post  
+Date: 2025-06-30 14:30
+Slug: my-unfinished-post
+Category: Personal
+Tags: writing, draft
+Status: draft
+
+Content with <<Claude: action>> notes...
+```
+
+**Publishing Drafts**: Remove the `Status: draft` line when ready to publish.
+
+**Testing**: Run `make html` locally to verify draft posts are excluded from the build.
 
 ## File Structure Context
 

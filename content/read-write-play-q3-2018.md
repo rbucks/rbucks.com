@@ -1,6 +1,8 @@
 Title: Read Write Play: Q3 2018
 Date: 2018-09-29 23:09
 Slug: read-write-play-q3-2018
+Category: Personal
+Tags: reading, writing, music, saas
 
 This quarter I had a nice warm summer enjoying my entrepreneurship, my working from home, and my family. It was the first time in a long time that my wife and I got to spend a lot of time at home alone together. Both of my daughters are now at pre-school and oooh boy, what a treat that is. 
 

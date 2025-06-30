@@ -1,6 +1,8 @@
 Title: Read Write Play: Q1 2018
 Date: 2018-03-29 22:54
 Slug: read-write-play-q1-2018
+Category: Personal
+Tags: reading, writing, music, entrepreneurship
 
 #### Reading: Rich Dad Poor Dad
 

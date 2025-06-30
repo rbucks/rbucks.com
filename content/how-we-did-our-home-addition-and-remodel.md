@@ -1,6 +1,8 @@
 Title: How we did our home addition and remodel
 Date: 2021-11-14 19:47
 Slug: how-we-did-our-home-addition-and-remodel
+Category: Personal
+Tags: family, lifestyle, design, contra-costa-county
 
 *This was the last and final remodel. There were (https://rbucks.com/2022/05/30/a-summary-of-our-first-home-projects/).*
 

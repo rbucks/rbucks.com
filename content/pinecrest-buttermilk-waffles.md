@@ -1,6 +1,8 @@
 Title: Pinecrest buttermilk waffles
 Date: 2016-09-18 07:52
 Slug: pinecrest-buttermilk-waffles
+Category: Lifestyle
+Tags: recipes, cooking, family, food
 
 #### Here’s my family’s secret recipe for buttermilk waffles
 

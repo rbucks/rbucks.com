@@ -1,6 +1,8 @@
 Title: The case for decentralized workforces
 Date: 2020-01-16 06:12
 Slug: the-case-for-decentralized-workforces
+Category: Business
+Tags: business-strategy, technology, company-culture, entrepreneurship
 
 *Spoiler alert*!
 

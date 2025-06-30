@@ -1,6 +1,8 @@
 Title: The highs and lows of 3 months with no alcohol
 Date: 2016-12-04 21:59
 Slug: the-highs-and-lows-of-3-months-with-no-alcohol
+Category: Health
+Tags: sobriety, health, self-improvement, wellness
 
 #### TL;DR I highly recommend it
 

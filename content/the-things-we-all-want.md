@@ -1,6 +1,8 @@
 Title: The things we all want
 Date: 2019-07-06 07:08
 Slug: the-things-we-all-want
+Category: Politics
+Tags: politics, economics, society, middle-class
 
 Yesterday was July 4, and on this day for the last four decades my neighborhood has held a day-long celebration of community and country, in that particular order. I was reminded how much this neighborhood is cherished by an older woman I sat next to. Her son-in-law was raised on the street where we spoke, and his mom still owns that house. He raised his family across the street and helped his daughter buy and remodel the house right behind us. 
 

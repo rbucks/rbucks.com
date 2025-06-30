@@ -1,6 +1,8 @@
 Title: Welcome letter to my search marketing class
 Date: 2021-01-08 05:42
 Slug: welcome-letter-to-my-search-marketing-class
+Category: Personal
+Tags: teaching, marketing, education, personal
 
 I'm teaching my (https://rbucks.com/2020/10/24/im-now-an-adjunct/) in a couple of months. It's exciting. It's intimidating. It's an incredible amount of prep work, since it's completely online, so it's tiring too. However, I'm already feeling proud of this course despite being nowhere close to ready.
 

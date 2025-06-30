@@ -1,6 +1,8 @@
 Title: An exploration of deep exhaustion
 Date: 2023-04-08 20:59
 Slug: an-exploration-of-deep-exhaustion
+Category: Personal
+Tags: endurance-sports, cycling, fitness, exercise, reflection
 
 This month I plan to push my endurance to the outer limits. I rode my bicycle 142 miles in just under 12 hours a week ago. 
 

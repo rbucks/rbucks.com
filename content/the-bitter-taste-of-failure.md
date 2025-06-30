@@ -1,6 +1,8 @@
 Title: The bitter taste of failure
 Date: 2019-02-01 21:24
 Slug: the-bitter-taste-of-failure
+Category: Business
+Tags: entrepreneurship, scripted, startups, life-lessons
 
 (https://www.scripted.com), my first and largest business venture, was simultaneously a great success and a financial failure. 
 

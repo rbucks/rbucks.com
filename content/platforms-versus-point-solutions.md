@@ -1,6 +1,8 @@
 Title: Platforms versus point solutions
 Date: 2022-12-30 10:30
 Slug: platforms-versus-point-solutions
+Category: Business
+Tags: entrepreneurship, business-strategy, platforms, startups
 
 This winter break has been a big one for (https://www.shovels.ai). Despite having my kids at home, trekking out to Hawaii, and getting swept up in the Southwest chaos getting to and from Disneyland, I put a lot of deep thought into Shovels. This exercise brought out some gut-wrenching paranoia, deep frustration and confusion, and then a bit of euphoria coming out the other side.
 

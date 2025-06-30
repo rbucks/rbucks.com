@@ -1,6 +1,8 @@
 Title: The thing that won't go away
 Date: 2019-02-13 10:58
 Slug: the-thing-that-wont-go-away
+Category: Health
+Tags: thyroid-cancer, health, reflection, gratitude
 
 *This is my third article about thyroid cancer I was diagnosed with. The first two are *(https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)* and *(https://rbucks.com/2018/02/22/my-thyroid-got-cancer-one-year-later/)*.*
 

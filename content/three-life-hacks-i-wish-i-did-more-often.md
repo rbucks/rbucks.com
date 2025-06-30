@@ -1,6 +1,8 @@
 Title: Three "life hacks" I wish I did more often
 Date: 2017-04-28 20:57
 Slug: three-life-hacks-i-wish-i-did-more-often
+Category: Personal
+Tags: self-improvement, lifestyle, habits, advice
 
 This is an aspirational post. There’s a lot written on Medium about ways to live better, be more productive, and live a happier life. This is one of those posts too, but I’m no guru. I don’t always do what I’m about to write here. I just wish I did.
 

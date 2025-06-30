@@ -1,6 +1,8 @@
 Title: Building out my little empire
 Date: 2018-08-27 10:17
 Slug: building-out-my-little-empire
+Category: Business
+Tags: entrepreneurship, toofr, business-strategy, startups
 
 It’s been over a year since I left the comfort and security of a VC-backed paycheck. I haven’t missed it.
 

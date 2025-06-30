@@ -1,6 +1,8 @@
 Title: Some new data on the housing deficit
 Date: 2018-06-21 20:47
 Slug: some-new-data-on-the-housing-deficit
+Category: Politics
+Tags: housing, contra-costa-county, policy, local-politics
 
 All of our local issues stem our affordable housing problem. Public safety, public health, education, transportation, and even environment, core issue that we as Democrats care about, each have a substantial stake in the affordable housing crisis.
 

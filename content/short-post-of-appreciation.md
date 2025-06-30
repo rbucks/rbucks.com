@@ -1,6 +1,8 @@
 Title: Short post of appreciation
 Date: 2025-02-17 21:07
 Slug: short-post-of-appreciation
+Category: Family
+Tags: appreciation, parenting, family, reflection
 
 I'd like to think that I take nothing for granted, that I'm always present and appreciative and live life to the fullest. None of this is true, of course. I get caught up in what I'm doing or the exact opposite, caught up on my screens, oblivious to what I or anyone around me is doing. Either way, I get sucked into the vortex.
 

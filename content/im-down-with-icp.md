@@ -1,6 +1,8 @@
 Title: I'm down with ICP
 Date: 2024-07-05 08:24
 Slug: im-down-with-icp
+Category: Business
+Tags: shovels, startups, marketing, entrepreneurship
 
 I became a better entrepreneur in the last few months. I have never thought so hard about ideal customer profiles (ICP), had so many conversations with marketing experts, or written so much about this to my investors. 
 

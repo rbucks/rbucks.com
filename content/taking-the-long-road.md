@@ -1,6 +1,8 @@
 Title: Taking the long road
 Date: 2018-06-26 05:52
 Slug: taking-the-long-road
+Category: Personal
+Tags: running, life-lessons, perseverance, marathon
 
 !(https://rbucks.com/wp-content/uploads/2019/01/march-128_orig.jpg)
 *2003 Mardi Gras Marathon finisher*

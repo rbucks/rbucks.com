@@ -1,6 +1,8 @@
 Title: Business evaluation: Alumnify
 Date: 2022-12-29 21:03
 Slug: business-evaluation-alumnify
+Category: Business
+Tags: business evaluation, b2b data, saas, marketing
 
 I like B2B data businesses. I learned how to write web applications by building Toofr.com (now (https://www.findemails.com/) -- they kept my "oo" logo after I sold it). Toofr found email addresses for business contacts. I wrote a book, (https://rbucks.com/the-parallel-entrepreneur/), about my experience building, running, and selling Toofr while I kept a day job as co-founder of (https://rbucks.com/2016/05/20/the-scripted-origin-story-as-i-remember-it/).
 

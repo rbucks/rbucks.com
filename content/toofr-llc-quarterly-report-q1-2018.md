@@ -1,6 +1,8 @@
 Title: Toofr LLC quarterly report: Q1 2018
 Date: 2017-05-10 22:16
 Slug: toofr-llc-quarterly-report-q1-2018
+Category: Business
+Tags: toofr, entrepreneurship, business-strategy, saas
 
 If you've been following along, yes I took a few months off from writing these public board reports for Toofr. My last one was (https://www.linkedin.com/pulse/toofr-llc-monthly-report-dec-2017-ryan-buckley-1/) and then January turned to February turned to March and before I knew it I was wayyy behind on these.
 

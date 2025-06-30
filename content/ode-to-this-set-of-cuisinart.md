@@ -1,6 +1,8 @@
 Title: Ode to this set of Cuisinart
 Date: 2019-03-09 10:31
 Slug: ode-to-this-set-of-cuisinart
+Category: Personal
+Tags: cooking, memory, nostalgia, family
 
 To note the passage of time it’s easiest to point to a thing, like a grandfather clock or a door frame marked with heights and ages. Time moves. Things stay the same. Even though people are things, we move with time too. 
 

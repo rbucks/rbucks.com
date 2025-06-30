@@ -1,6 +1,8 @@
 Title: What investors care about
 Date: 2016-10-19 10:01
 Slug: what-investors-care-about
+Category: Business
+Tags: fundraising, startups, entrepreneurship, advice
 
 I wrote (https://rbucks.com/2016/10/11/the-simple-truth-about-fundraising/) about what entrepreneurs should do to help their venture-backed companies succeed. Here’s what entrepreneurs should know about the psyche of the people they’re taking money from.
 

@@ -1,6 +1,8 @@
 Title: Read Write Play: Q4 2017
 Date: 2017-11-27 09:27
 Slug: read-write-play-q4-2017
+Category: Personal
+Tags: reading, writing, music, self-improvement
 
 A few months ago I wrote (https://rbucks.com/2017/04/28/three-life-hacks-i-wish-i-did-more-often/) about three things I wish I did more often to be and feel better.
 

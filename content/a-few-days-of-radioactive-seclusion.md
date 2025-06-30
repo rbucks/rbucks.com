@@ -1,6 +1,8 @@
 Title: A few days of radioactive seclusion
 Date: 2019-09-19 12:53
 Slug: a-few-days-of-radioactive-seclusion
+Category: Health
+Tags: thyroid-cancer, cancer, health, family, writing
 
 *Part 1: (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)
 Part 2: (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)(https://rbucks.com/2018/02/22/my-thyroid-got-cancer-one-year-later/)

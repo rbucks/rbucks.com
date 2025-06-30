@@ -1,6 +1,8 @@
 Title: Another day, another BBQ
 Date: 2017-05-04 20:03
 Slug: another-day-another-bbq
+Category: Food
+Tags: grilling, cooking, food, lifestyle
 
 - !(https://rbucks.com/wp-content/uploads/2017/05/d58f3-1igdhihxcnfkq6t1m1-esqq.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/02/eaf38-16tobadmlxou5rgybbcbtka.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/05/35c47-1oflogggswtqrtt1bqa3t5q.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/05/28cab-1c8xysmxzm3dl7md9xyh8xq.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/01/f2f1c-1y4vw-w8d5an3wcvcfzoplg.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/05/d88c2-1njhcpvehfvn8zepomx7bpg.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/05/616b2-1qbvhuicj8g_7krqa1zgrbq.jpeg)- !(https://rbucks.com/wp-content/uploads/2017/02/05172-1bpa3gh_h91v0thavfreq7w.jpeg)
 

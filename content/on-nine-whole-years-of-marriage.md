@@ -1,6 +1,8 @@
 Title: On nine whole years of marriage
 Date: 2019-06-12 22:16
 Slug: on-nine-whole-years-of-marriage
+Category: Family
+Tags: marriage, relationships, gratitude, family
 
 *Note: my wife did not know I was going to write and publish this. *
 

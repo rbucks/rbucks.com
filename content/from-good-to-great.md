@@ -1,6 +1,8 @@
 Title: From good to great
 Date: 2018-06-11 12:35
 Slug: from-good-to-great
+Category: Business
+Tags: entrepreneurship, SaaS, business growth, parallel entrepreneurship
 
 #### An excerpt from *(https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V)*
 

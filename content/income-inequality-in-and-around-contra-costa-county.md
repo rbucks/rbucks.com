@@ -1,6 +1,8 @@
 Title: Income inequality in and around Contra Costa County
 Date: 2018-07-12 07:50
 Slug: income-inequality-in-and-around-contra-costa-county
+Category: Politics
+Tags: contra-costa-county, policy, economics, inequality
 
 Here's a look at income inequality in our area. I'm using data and charts provided by this (https://fred.stlouisfed.org/) at the St. Louis Fed. 
 

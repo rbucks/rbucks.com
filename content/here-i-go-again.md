@@ -1,6 +1,8 @@
 Title: Here I go again
 Date: 2019-03-22 21:34
 Slug: here-i-go-again
+Category: Health
+Tags: thyroid cancer, health, personal experience, cancer
 
 It was 3:55 in the afternoon when I got the call. The area code was local to where I live and I rarely got robodials or spam calls with that prefix so I picked up, even though I had a work call in 5 minutes. 
 

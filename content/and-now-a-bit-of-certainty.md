@@ -1,6 +1,8 @@
 Title: And now, a bit of certainty
 Date: 2019-04-27 21:33
 Slug: and-now-a-bit-of-certainty
+Category: Health
+Tags: thyroid-cancer, cancer, health, reflection
 
 If you're new to my cancer saga, here are parts (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/) and (https://rbucks.com/2018/02/22/my-thyroid-got-cancer-one-year-later/). Part three is coming along in a couple of sittings like (https://rbucks.com/2019/02/13/the-thing-that-wont-go-away/) (https://rbucks.com/2019/03/22/here-i-go-again/). It's the part where after I get diagnosed with papillary thyroid cancer, get it removed, and carry on with a bit of cloud hanging over my head, the cloud comes into focus. Now I know what's next. 
 

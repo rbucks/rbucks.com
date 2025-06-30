@@ -1,6 +1,8 @@
 Title: Origin story of my protagonist's wife
 Date: 2020-07-02 08:02
 Slug: origin-story-of-my-protagonists-wife
+Category: Personal
+Tags: writing, creativity, fiction, character-development
 
 Here's the result of another exercise. My protagonist's wife, Jo, will play a big role in the novel and I needed to figure out what she stands for.
 

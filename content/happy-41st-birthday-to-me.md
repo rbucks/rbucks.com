@@ -1,6 +1,8 @@
 Title: Happy 41st birthday to me
 Date: 2023-08-25 19:13
 Slug: happy-41st-birthday-to-me
+Category: Personal
+Tags: birthday, reflection, family, life lessons
 
 There's a million things I haven't done... and probably never will. That's okay. 
 

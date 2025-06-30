@@ -1,6 +1,8 @@
 Title: Toofr LLC monthly report: Sep 2017
 Date: 2017-10-09 21:59
 Slug: toofr-llc-monthly-report-sep-2017
+Category: Business
+Tags: toofr, entrepreneurship, business-strategy, saas
 
 Here we go. This is my first public “Toofr LLC Board Meeting” in the shape of a blog post. 
 

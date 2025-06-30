@@ -1,6 +1,8 @@
 Title: What is the Contra Costa County Board of Supervisors?
 Date: 2018-07-03 07:32
 Slug: what-is-the-contra-costa-county-board-of-supervisors
+Category: Politics
+Tags: local-politics, contra-costa-county, government, civic-engagement
 
 There are 58 counties in the State of California and every one of them has a Board Supervisors. But... why? What power does this board have and what does it do? Are county supervisors full-time positions? How do they relate to the city councils?
 

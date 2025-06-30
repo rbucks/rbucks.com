@@ -1,6 +1,8 @@
 Title: Toofr LLC monthly report: Nov 2017
 Date: 2017-12-13 22:08
 Slug: toofr-llc-monthly-report-nov-2017
+Category: Business
+Tags: toofr, entrepreneurship, saas, finance
 
 Welp, it was a mostly rough month last month but December is already pointing in a much better direction. I think Q4 in general has been a transition from big customers to smaller ones. Although I've lost MRR again, the total number of customers has held steady.
 

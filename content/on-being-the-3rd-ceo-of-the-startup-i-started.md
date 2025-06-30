@@ -1,6 +1,8 @@
 Title: On being the 3rd CEO of the startup I co-founded
 Date: 2017-02-09 10:35
 Slug: on-being-the-3rd-ceo-of-the-startup-i-started
+Category: Business
+Tags: entrepreneurship, leadership, startups, scripted
 
 Please allow me to re-introduce myself.
 

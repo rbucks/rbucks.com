@@ -1,6 +1,8 @@
 Title: The Descent of Blue
 Date: 2022-11-06 21:18
 Slug: the-descent-of-blue
+Category: Personal
+Tags: family, personal, reflection, gratitude
 
 <figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2022/09/IMG_0393-768x1024.jpeg)
 

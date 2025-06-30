@@ -1,6 +1,8 @@
 Title: The importance of electrification
 Date: 2021-08-26 14:55
 Slug: the-importance-of-electrification
+Category: Technology
+Tags: sustainability, environment, climate-tech, technology
 
 This is a long post. And to make my long post even longer, I begin with a preamble. 
 

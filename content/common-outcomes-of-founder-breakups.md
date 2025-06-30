@@ -1,6 +1,8 @@
 Title: Common outcomes of founder breakups
 Date: 2017-08-17 21:58
 Slug: common-outcomes-of-founder-breakups
+Category: Business
+Tags: startups, entrepreneurship, leadership, business-strategy
 
 I recently wrote about the prevalence of (https://www.enps.co/articles/why-founders-break-up) of companies.
 

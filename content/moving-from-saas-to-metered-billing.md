@@ -1,6 +1,8 @@
 Title: Moving from SaaS to metered billing
 Date: 2018-06-12 22:19
 Slug: moving-from-saas-to-metered-billing
+Category: Business
+Tags: saas, pricing, toofr, business-strategy
 
 I thought a lot about it. I even dreamt about it. Deep in my gut I knew the change would need to happen but I wasn't sure how or when. The thought would come and go and for the most part I ignored it.
 

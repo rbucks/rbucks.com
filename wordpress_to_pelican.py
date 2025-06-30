@@ -118,8 +118,9 @@ def parse_wordpress_sql(sql_file_path):
         content = f.read()
     
     # Find all INSERT statements for wp_posts
-    insert_pattern = r"INSERT INTO `wp_posts` \([^)]+\) VALUES \(([^;]+)\);"
-    matches = re.findall(insert_pattern, content, re.DOTALL)
+    # Note: Using lazy matching (.+?) instead of [^;]+ because post content may contain semicolons
+    insert_pattern = r"INSERT INTO `wp_posts` \([^)]+\) VALUES \((.+?)\);$"
+    matches = re.findall(insert_pattern, content, re.DOTALL | re.MULTILINE)
     
     for match in matches:
         # Split the values, being careful about commas inside quoted strings

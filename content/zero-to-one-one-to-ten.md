@@ -1,7 +1,7 @@
 Title: 0 to 1, 1 to 10
 Date: 2025-06-29
 Category: entrepreneurship
-Tags: 
+Status: draft
 
 
 About six years ago I announced on this very blog that I was done with venture capital <<Claude: link to i'm not fundable>>. Kaput. Over. I was going out on my own, bootstrapped, never to rely on another dollar of VC money. 
@@ -20,4 +20,6 @@ Coming off of MightySignal, <<Claude: try to link a relevant post of mine about 
 - It needed to be helpful to climate companies.
 - It needed to be a big idea. Like, really big.
 
-I could determine the first two points on my own, but how would I know if the idea was big enough? 2
+I could determine the first two points on my own, but how would I know if the idea was big enough? There's an obvious answer: get validation from VCs. I'll know it's big enough if I can raise money for it!
+
+For the pre-seed, which I raised when we had no revenue, I just got lucky. [Zach Coelius](https://www.linkedin.com/in/zachcoelius/) from [Coelius Capital](https://coelius.vc/) knew me (or really, just new *of* me)

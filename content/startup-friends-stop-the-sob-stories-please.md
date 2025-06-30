@@ -1,6 +1,8 @@
 Title: Startup friends: stop the sob stories, please
 Date: 2016-05-05 19:12
 Slug: startup-friends-stop-the-sob-stories-please
+Category: Business
+Tags: entrepreneurship, startups, opinion, authenticity
 
 I’m sorry, guys. This is a rant.
 

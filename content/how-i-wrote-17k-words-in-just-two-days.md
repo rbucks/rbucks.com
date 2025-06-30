@@ -1,6 +1,8 @@
 Title: I wrote 17K words in just two days
 Date: 2017-12-04 10:10
 Slug: how-i-wrote-17k-words-in-just-two-days
+Category: Personal
+Tags: writing, productivity, personal retreats, book writing
 
 I’m surprised that I want to write this. I’ve written more in the last two days than I’ve probably written in the last year. And yet here I am, sitting across from the wood-burning fire in my fancy room at the Fairmont Sonoma Mission Inn, itching to write more.
 

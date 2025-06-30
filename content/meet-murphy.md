@@ -1,6 +1,8 @@
 Title: Meet Murphy
 Date: 2022-12-24 07:19
 Slug: meet-murphy
+Category: Personal
+Tags: family, personal, pets, lifestyle
 
 I wrote only (https://rbucks.com/2017/06/19/the-ascent-of-blue/) (https://rbucks.com/2022/11/06/the-descent-of-blue/) here about Blue Boy, our first dog, a lovable chocolate Labrador who left us too soon. But if you had access to our photo album, you'd see that he's in nearly every video and every picture. Once you notice his round brown shape, the sound of his walk and shake, you can't miss him. Scrolling through the last seven years, he is everywhere.
 

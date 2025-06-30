@@ -1,6 +1,8 @@
 Title: The hiring paradox
 Date: 2017-07-19 05:46
 Slug: the-hiring-paradox
+Category: Business
+Tags: hiring, leadership, startups, business-strategy
 
 *Note: I originally published this on the *(https://www.enps.co/articles/the-hiring-paradox)* (a resource to send NPS surveys to your employees).*
 

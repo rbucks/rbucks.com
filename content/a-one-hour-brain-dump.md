@@ -1,6 +1,8 @@
 Title: A one-hour brain dump
 Date: 2020-09-27 21:31
 Slug: a-one-hour-brain-dump
+Category: Personal
+Tags: reflection, politics, music, community, writing
 
 It's almost 9:30pm on a Sunday night. I haven't posted here in about a month. Tonight, for the first time in a while, I feel like blogging. So I'm going to write for an hour, straight through with very minimal editing, and wrap up at about 10:30pm. 
 

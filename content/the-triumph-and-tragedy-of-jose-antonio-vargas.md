@@ -1,6 +1,8 @@
 Title: The triumph and tragedy of Jose Antonio Vargas
 Date: 2019-01-28 23:00
 Slug: the-triumph-and-tragedy-of-jose-antonio-vargas
+Category: Politics
+Tags: politics, immigration, america, opinion
 
 For the last many years, my childhood friend, Jose Antonio Vargas (we just called him “Jose”) has been challenging documented and undocumented Americans alike to define what it means to be American. 
 

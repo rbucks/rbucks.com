@@ -1,6 +1,8 @@
 Title: One-hundred-and-two
 Date: 2018-12-31 21:25
 Slug: one-hundred-and-two
+Category: Personal
+Tags: family, parenting, reflection, life-lessons
 
 Here’s a very short story I wrote earlier this year that encapsulates a lot of what 2018 was for me. Some introspection, some awareness of aging, and growth all around me.
 

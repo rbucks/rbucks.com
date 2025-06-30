@@ -1,6 +1,8 @@
 Title: What’s next for me
 Date: 2017-07-11 20:20
 Slug: whats-next-for-me
+Category: Business
+Tags: parallel-entrepreneurship, toofr, scripted, bootstrapping
 
 This is a really exciting time for me.
 

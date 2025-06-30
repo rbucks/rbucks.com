@@ -1,6 +1,8 @@
 Title: Read Write Play: Q1 2019
 Date: 2019-04-28 14:14
 Slug: read-write-play-q1-2019
+Category: Personal
+Tags: reading, writing, music, finance
 
 Another quarter, another RWP. I'm glad to report that I've been doing a LOT of reading, writing, and playing. 
 

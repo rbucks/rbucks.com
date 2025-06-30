@@ -1,6 +1,8 @@
 Title: My first commission seat in Contra Costa County
 Date: 2018-07-02 07:12
 Slug: my-first-commission-seat-in-contra-costa-county
+Category: Politics
+Tags: local-politics, contra-costa-county, commission, public-service
 
 My very first commission seat was on the Berkeley Youth Commission. I was appointed by Berkeley City Councilmember (https://www.cityofberkeley.info/council7/411.html) and went to a few meetings. I don't remember much about it. I think I thought it was a waste of time. This was probably 15 years ago. 
 

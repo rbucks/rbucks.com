@@ -1,6 +1,8 @@
 Title: Overcoming stage fright: Why mid-career professionals need startups
 Date: 2016-06-22 11:54
 Slug: overcoming-stage-fright-why-mid-career-professionals-need-startups
+Category: Business
+Tags: startups, career, hiring, entrepreneurship
 
 In my role at (https://www.scripted.com), I meet a lot of mid-career professionals in their 40s and 50s who feel like they’re stuck in boring positions that don’t challenge them anymore. Despite this, they’re hesitant to join startups like ours because they think we’re too risky. We’re at the wrong stage of growth for them and they have stage fright.
 

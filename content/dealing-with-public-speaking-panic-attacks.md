@@ -1,6 +1,8 @@
 Title: Dealing with public speaking panic attacks
 Date: 2019-09-18 12:48
 Slug: dealing-with-public-speaking-panic-attacks
+Category: Personal
+Tags: public speaking, anxiety, personal growth, teaching
 
 There are people who can talk and talk and talk. You know who I’m talking about. They have opinions on pretty much everything and can relay facts and anecdotes on any topic. And they like to share it all. 
 

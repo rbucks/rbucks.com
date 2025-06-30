@@ -1,6 +1,8 @@
 Title: My best advice for entrepreneurs
 Date: 2025-04-27 20:57
 Slug: my-best-advice-for-entrepreneurs
+Category: Business
+Tags: entrepreneurship, advice, startups, business-strategy
 
 Hey, I've been writing.
 

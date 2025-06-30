@@ -1,6 +1,8 @@
 Title: 53 days to revenue
 Date: 2018-01-04 12:46
 Slug: 53-days-to-first-revenue-for-inlistio
+Category: Business
+Tags: entrepreneurship, saas, startups, pricing, inlistio
 
 #### Launching and pricing experiments got my first customers
 

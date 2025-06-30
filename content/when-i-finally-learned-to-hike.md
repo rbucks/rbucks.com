@@ -1,6 +1,8 @@
 Title: Learning to hike
 Date: 2017-11-24 20:42
 Slug: when-i-finally-learned-to-hike
+Category: Personal
+Tags: hiking, parenting, family, fitness
 
 !(https://rbucks.com/wp-content/uploads/2017/11/2b401-1ukfvhllbfjaefeqtqiufbq.jpeg)
 *One of the many hiking trails*

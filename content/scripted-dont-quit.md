@@ -1,6 +1,8 @@
 Title: Scripted don’t quit
 Date: 2017-07-12 08:21
 Slug: scripted-dont-quit
+Category: Business
+Tags: entrepreneurship, scripted, startups, business-strategy
 
 #### Ten things I learned in 10 years of doing this
 

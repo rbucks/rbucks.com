@@ -1,6 +1,8 @@
 Title: What I’ve learned from reading childrens' stories
 Date: 2016-08-18 11:16
 Slug: what-ive-learned-from-reading-childrens-stories
+Category: Personal
+Tags: writing, parenting, content, creativity
 
 Lately, I’ve discovered that reading books to my daughter has taught me a lot about effective writing. A few takeaways are the importance of relating to readers, keeping language simple, and using predictable, repeating structures throughout articles.
 

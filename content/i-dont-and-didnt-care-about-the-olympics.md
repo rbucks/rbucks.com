@@ -1,6 +1,8 @@
 Title: I don’t and didn’t care about the Olympics
 Date: 2016-08-30 07:31
 Slug: i-dont-and-didnt-care-about-the-olympics
+Category: Personal
+Tags: opinion, sports, values, perspective
 
 #### Am I the only one?
 

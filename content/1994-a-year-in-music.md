@@ -1,6 +1,8 @@
 Title: 1994: A year in music
 Date: 2023-03-28 20:23
 Slug: 1994-a-year-in-music
+Category: Personal
+Tags: music, nostalgia, reflection, personal-growth
 
 I was twelve years old in 1994. I was in 7th grade and just started learning guitar. I played roller hockey after school, wore braces, held hands with my girlfriend, and competed with the other overachievers. 
 

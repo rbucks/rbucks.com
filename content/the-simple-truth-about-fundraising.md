@@ -1,6 +1,8 @@
 Title: The simple truth about fundraising
 Date: 2016-10-11 20:55
 Slug: the-simple-truth-about-fundraising
+Category: Business
+Tags: fundraising, startups, advice, finance
 
 Here are the only three things you need to do to succeed as a venture-backed company:
 

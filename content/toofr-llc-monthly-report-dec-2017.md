@@ -1,6 +1,8 @@
 Title: Toofr LLC monthly report: Dec 2017
 Date: 2018-01-28 22:10
 Slug: toofr-llc-monthly-report-dec-2017
+Category: Business
+Tags: toofr, entrepreneurship, saas, finance
 
 **December was (probably) my highest cash flow month ever! **
 

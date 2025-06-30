@@ -1,6 +1,8 @@
 Title: Building a family culture
 Date: 2019-06-16 12:34
 Slug: building-a-family-culture
+Category: Family
+Tags: parenting, family, company-culture, life-lessons
 
 Today is Father's Day, June 16, 2019. It's my fifth one as a dad and my thirty-sixth as a son. 
 

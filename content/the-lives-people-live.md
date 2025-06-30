@@ -1,6 +1,8 @@
 Title: The lives people live
 Date: 2022-04-27 08:35
 Slug: the-lives-people-live
+Category: Personal
+Tags: ambition, self-improvement, life-lessons, philosophy
 
 I met an old friend for lunch in Malibu. He had a decent exit from his marketplace startup and had become a leadership coach. When we compared notes, we discovered that we both felt an undercurrent of inadequacy. I've written (https://rbucks.com/2021/10/10/above-average-mediocrity/). 
 

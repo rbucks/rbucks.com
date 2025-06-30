@@ -1,6 +1,8 @@
 Title: Why founders break up
 Date: 2017-08-14 09:49
 Slug: why-founders-break-up
+Category: Business
+Tags: entrepreneurship, startups, leadership, company-culture
 
 I’ve been listening to a lot of podcasts recently and (http://www.npr.org/podcasts/510313/how-i-built-this) has been particularly interesting. Beyond the travails and comebacks, it’s been fascinating to see over the span of a dozen podcasts how many founding teams break up.
 

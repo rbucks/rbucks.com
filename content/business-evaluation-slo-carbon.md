@@ -1,6 +1,8 @@
 Title: Business evaluation: Slo Carbon
 Date: 2023-01-24 06:32
 Slug: business-evaluation-slo-carbon
+Category: Business
+Tags: business evaluation, climate tech, carbon credits, sustainability
 
 A little while ago, I made a website for (https://slo-carbon.typedream.app/). I picked the name because it was available. I didn't love it, but it was there. So I picked it.
 

@@ -1,6 +1,8 @@
 Title: It's been a long, long time
 Date: 2021-03-24 20:53
 Slug: its-been-a-long-long-time
+Category: Personal
+Tags: reflection, family, parenting, life-lessons
 
 A year or so before the pandemic, which would be about two years before today, I took singing lessons in the "piano room" at our house. We called it the piano room because it's where we put my grandmother's piano. This was a behemoth of a piano -- a beautiful black seven-foot long Baldwin parlor grand -- and it weighed a metric ton. It hardly fit, so a few years later, we swapped it for a Yamaha Clavinova. Now my piano has a volume control and stands against the wall. 
 

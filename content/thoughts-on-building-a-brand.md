@@ -1,6 +1,8 @@
 Title: Thoughts on building a brand
 Date: 2024-12-25 09:06
 Slug: thoughts-on-building-a-brand
+Category: Business
+Tags: branding, marketing, shovels, entrepreneurship
 
 Marketing is increasingly central to who I am and what I do as an entrepreneur. This is not what I expected. 
 

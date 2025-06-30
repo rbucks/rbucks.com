@@ -1,6 +1,8 @@
 Title: Is it okay to be a nice CEO?
 Date: 2023-01-04 08:43
 Slug: is-it-okay-to-be-a-nice-ceo
+Category: Business
+Tags: leadership, company-culture, entrepreneurship, business-strategy
 
 As I take the CEO helm again with (https://rbucks.com/2022/11/22/business-evaluation-shovels/), I've been thinking more about what kind of CEO I want to be. Am I some visionary leader with all of the answers? A hard-nosed drill sergeant making sure we stick to our deadlines? A coder? A product whiz? Or the Chief Sales Officer?
 

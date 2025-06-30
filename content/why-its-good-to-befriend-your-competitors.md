@@ -1,6 +1,8 @@
 Title: Why it's good to befriend your competitors
 Date: 2022-07-07 20:13
 Slug: why-its-good-to-befriend-your-competitors
+Category: Business
+Tags: entrepreneurship, business-strategy, networking, scripted
 
 Here's a bit of contrarian advice: Be nice to your competitors. In fact, befriend them, because you just might make a pile of money as a result.
 

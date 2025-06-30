@@ -1,6 +1,8 @@
 Title: My personal 2018 recap
 Date: 2019-02-06 21:04
 Slug: my-personal-2018-recap
+Category: Personal
+Tags: reflection, self-improvement, goals, reading
 
 !(https://rbucks.com/wp-content/uploads/2019/02/screen-shot-2019-02-06-at-8.53.41-pm.png)
 

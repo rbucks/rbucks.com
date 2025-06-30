@@ -1,6 +1,8 @@
 Title: A short essay on free will
 Date: 2024-06-11 19:20
 Slug: a-short-essay-on-free-will
+Category: Personal
+Tags: philosophy, free-will, reflection, writing
 
 My most pretentious title yet! 🥳
 

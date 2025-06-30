@@ -1,6 +1,8 @@
 Title: I'm now an adjunct!
 Date: 2020-10-24 21:17
 Slug: im-now-an-adjunct
+Category: Personal
+Tags: teaching, community-college, career, family
 
 Last October, a professor in the business department at (https://www.dvc.edu) (DVC) asked me if I would apply to teach part-time in a new digital marketing certificate program. 
 

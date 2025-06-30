@@ -1,6 +1,8 @@
 Title: The importance of having experience
 Date: 2018-07-11 07:46
 Slug: the-importance-of-having-experience
+Category: Politics
+Tags: politics, experience, leadership, career
 
 I just watched (https://youtu.be/bEM4ExoWBvY?t=111) of myself in a graduation video from 2008 at the Harvard Kennedy School. I was there with a few other guys in the dual Master's degree program. Most of the others were also attending Harvard Business School. There were four of us doing a joint degree with MIT Sloan (MBA program) but I was the only one interviewed.
 

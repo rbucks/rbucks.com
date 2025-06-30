@@ -1,6 +1,8 @@
 Title: Exercising the writing muscle
 Date: 2022-06-21 20:18
 Slug: exercising-the-writing-muscle
+Category: Personal
+Tags: writing, reading, music, reflection
 
 Okay, here we go. I'll write as many mostly unedited words as I can before I give up and turn on *Better Call Saul*. 
 

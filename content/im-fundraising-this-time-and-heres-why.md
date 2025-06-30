@@ -1,6 +1,8 @@
 Title: I'm fundraising this time -- and here's why
 Date: 2022-12-22 06:36
 Slug: im-fundraising-this-time-and-heres-why
+Category: Business
+Tags: shovels, fundraising, startups, climate-tech
 
 If you read this blog, I mean really parse through it and find my stuff from 2017 and 2018, you'd be surprised to know that I'm eagerly, enthusiastically, *passionately* fundraising for my startup this time around. 
 

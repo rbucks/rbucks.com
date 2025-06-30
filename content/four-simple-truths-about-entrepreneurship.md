@@ -1,6 +1,8 @@
 Title: Four simple truths about entrepreneurship
 Date: 2019-09-11 15:54
 Slug: four-simple-truths-about-entrepreneurship
+Category: Business
+Tags: entrepreneurship, public speaking, business advice, education
 
 I'm going to give a solo speech this week at (https://www.dvc.edu/). I'm the headliner of the event. It's going to be an hour and a half (!) and is part of a "Business Beyond the Classroom" series that the business department has been doing annually for three years. 
 

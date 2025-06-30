@@ -1,6 +1,8 @@
 Title: What Can I Say
 Date: 2018-06-12 18:27
 Slug: what-can-i-say
+Category: Personal
+Tags: personal, reflection, family, relationships
 
 I’m a straight white guy with no physical disabilities. That gives me a head start.
 

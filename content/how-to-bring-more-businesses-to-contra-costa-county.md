@@ -1,6 +1,8 @@
 Title: How to bring more businesses to Contra Costa County
 Date: 2019-07-04 06:32
 Slug: how-to-bring-more-businesses-to-contra-costa-county
+Category: Business
+Tags: local-politics, contra-costa-county, business-strategy, entrepreneurship
 
 I recently joined the Business Advisory Board in (https://www.dvc.edu/academics/departments/business-admin/index.html) department. I thought it sounded like not only a great way to volunteer, give back, and meet similarly-minded people in my community, but also I was simply impressed that DVC had this.
 

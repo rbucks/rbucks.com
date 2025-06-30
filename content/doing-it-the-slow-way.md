@@ -1,6 +1,8 @@
 Title: Doing it the slow way
 Date: 2024-06-11 17:40
 Slug: doing-it-the-slow-way
+Category: Business
+Tags: entrepreneurship, Shovels, bootstrapping, business strategy
 
 I have not written here in a few months. This break happens whenever I teach. My classes absorb what time I have left after Shovels. In the evening, when my family is in bed and the quiet house is my writing muse, I have emails to answer and papers to grade.
 

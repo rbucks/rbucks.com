@@ -1,6 +1,8 @@
 Title: Taking the CEO job at MightySignal
 Date: 2018-11-02 11:37
 Slug: mightysignals-new-leadership
+Category: Business
+Tags: mightysignal, leadership, business-transition, entrepreneurship
 
 Earlier this summer the Apple App Store celebrated its 10-year anniversary. Since it launched a decade ago, (https://www.statista.com/statistics/268251/number-of-apps-in-the-itunes-app-store-since-2008/) and the App Store now holds over 4 million of them to choose from.
 

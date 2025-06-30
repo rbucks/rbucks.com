@@ -1,6 +1,8 @@
 Title: My very expensive chair
 Date: 2016-03-23 08:01
 Slug: the-most-expensive-chair-possible
+Category: Personal
+Tags: design, lifestyle, personal, appreciation
 
 I don’t usually love expensive things. For this piece of furniture, though, I made a big, whopping exception.
 

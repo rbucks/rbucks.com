@@ -1,6 +1,8 @@
 Title: How I wrote my children's book
 Date: 2022-02-20 21:22
 Slug: how-i-wrote-my-childrens-book
+Category: Personal
+Tags: writing, creativity, family, entrepreneurship
 
 "Children's book author" is not something I aspired to put on my resume. It never crossed my mind. Not once. 
 

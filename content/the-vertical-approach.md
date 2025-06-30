@@ -1,6 +1,8 @@
 Title: The vertical approach
 Date: 2024-09-01 20:03
 Slug: the-vertical-approach
+Category: Business
+Tags: shovels, business-strategy, platforms, data
 
 I wrote about the difference between (https://rbucks.com/2022/12/30/platforms-versus-point-solutions/) a while ago. I explained why I would proactively try to make Shovels a platform. Point solutions are critical parts of the technology ecosystem, but they're not where the value goes. Value accrues to the platforms and I want Shovels to be a platform.
 

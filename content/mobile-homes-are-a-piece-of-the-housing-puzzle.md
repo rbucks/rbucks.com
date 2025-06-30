@@ -1,6 +1,8 @@
 Title: Mobile homes are a piece of the housing puzzle
 Date: 2023-02-20 06:58
 Slug: mobile-homes-are-a-piece-of-the-housing-puzzle
+Category: Politics
+Tags: policy, sustainability, opinion, local-politics
 
 *Note: this is my first blog post written with an assist from ChatGPT. It was fun! *
 

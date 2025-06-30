@@ -1,6 +1,8 @@
 Title: My $524,687 side hustle
 Date: 2017-07-24 09:41
 Slug: my-524687-side-business
+Category: Business
+Tags: entrepreneurship, side-business, toofr, parallel-entrepreneurship
 
 By the time I (https://medium.com/@rbucks/whats-next-for-me-a6418447d3d0), its lifetime Stripe revenue was in excess of $524,000 with monthly recurring revenue (MRR) (http://nathanlatka.com/thetop610/).
 

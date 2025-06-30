@@ -1,6 +1,8 @@
 Title: We saw through our bubble and we don't like it
 Date: 2016-11-10 21:48
 Slug: we-saw-through-our-bubble-and-we-dont-like-it
+Category: Politics
+Tags: politics, technology, entrepreneurship, opinion
 
 On election day, instead of looking out and seeing our own reflection, we caught a glimpse of the other side, and we did not like what we saw.
 

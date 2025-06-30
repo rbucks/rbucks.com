@@ -1,6 +1,8 @@
 Title: Don't vote your conscience
 Date: 2016-09-29 20:30
 Slug: voting-your-conscience-is-bullshit
+Category: Politics
+Tags: politics, opinion, voting, leadership
 
 !(https://rbucks.com/wp-content/uploads/2016/09/204cf-12zwm35k0zvgpfzcholhazg.jpeg)
 

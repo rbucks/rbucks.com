@@ -1,6 +1,8 @@
 Title: The view from 35
 Date: 2017-08-27 11:28
 Slug: the-view-from-35
+Category: Personal
+Tags: reflection, family, parenting, lifestyle
 
 !(https://rbucks.com/wp-content/uploads/2017/08/49317-12ekmq7syg8kxzp8yv0i2mq.jpeg)
 *Morning hike on day 1 of my 35th year.*

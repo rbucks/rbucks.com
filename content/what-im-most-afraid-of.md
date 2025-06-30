@@ -1,6 +1,8 @@
 Title: What I'm most afraid of
 Date: 2019-05-24 07:47
 Slug: what-im-most-afraid-of
+Category: Personal
+Tags: environment, climate-tech, sustainability, reflection
 
 I started writing this post at my most recent (https://rbucks.com/2018/08/17/about-the-contra-costa-county-sustainability-commission/) meeting which was aptly held on Earth Day. Since then I've been thinking more about this content, tossing it around in my head. The problems I described, just in the past month, have only gotten worse: historically high temperatures in the Arctic, increasing evidence of mass extinctions, and warnings of irreversible changes to crop seasons. 
 

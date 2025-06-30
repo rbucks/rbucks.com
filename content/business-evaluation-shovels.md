@@ -1,6 +1,8 @@
 Title: Business evaluation: Shovels
 Date: 2022-11-22 12:04
 Slug: business-evaluation-shovels
+Category: Business
+Tags: business evaluation, data platform, construction, shovels
 
 *TL;DR I'm now working on (https://www.shovels.ai)*. 
 

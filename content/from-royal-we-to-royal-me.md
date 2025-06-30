@@ -1,6 +1,8 @@
 Title: From royal ‘we’ to royal ‘me’
 Date: 2017-09-05 07:36
 Slug: from-royal-we-to-royal-me
+Category: Business
+Tags: entrepreneurship, transparency, solo founder, authenticity
 
 #### On being transparent that Toofr is just me
 

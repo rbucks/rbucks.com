@@ -1,6 +1,8 @@
 Title: Electric scooters have a public health externality
 Date: 2018-10-23 08:54
 Slug: electric-scooters-have-a-public-health-externality
+Category: Politics
+Tags: public health, policy, transportation, externalities
 
 It's too early to get real stats on this, but I would bet real money that the cities that have allowed electric scooters into their downtowns and commercial districts have a growing public health problem. I bet the number of emergency room visits has gone way up, and the public is footing the bill. 
 

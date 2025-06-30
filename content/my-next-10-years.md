@@ -1,6 +1,8 @@
 Title: My next 10 years
 Date: 2019-12-31 12:05
 Slug: my-next-10-years
+Category: Personal
+Tags: reflection, goals, decade-review, entrepreneurship
 
 I started writing this post back in July 2019. Since 2020 is almost up, I figured now would be a good time to finish it.
 

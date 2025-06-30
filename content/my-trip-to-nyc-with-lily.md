@@ -1,6 +1,8 @@
 Title: My trip to NYC with Lily
 Date: 2023-02-06 06:22
 Slug: my-trip-to-nyc-with-lily
+Category: Family
+Tags: parenting, travel, family, memories
 
 A long time from now, with any luck, I will be very old. I will look back on my experiences as a young father: in the delivery room, first steps, first words, first days of school, ice skating rinks, hot dogs, board games, bicycle rides, dinners, friends' houses... all of it.
 

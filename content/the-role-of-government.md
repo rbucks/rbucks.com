@@ -1,6 +1,8 @@
 Title: The role of government
 Date: 2018-06-25 05:49
 Slug: the-role-of-government
+Category: Politics
+Tags: government, policy, environment, economics
 
 I've been thinking more about how the role of government should be defined. I've always leaned toward the (https://nature.berkeley.edu/advising/majors/environmental-economics-and-policy) view of the role of government: to properly handle negative externalities. These are costs that the free market ignores and the results can be catastrophic.
 

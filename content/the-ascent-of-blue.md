@@ -1,6 +1,8 @@
 Title: The Ascent of Blue
 Date: 2017-06-19 07:32
 Slug: the-ascent-of-blue
+Category: Family
+Tags: family, pets, parenting, home
 
 #### Like many great love stories, this one begins on Craigslist
 

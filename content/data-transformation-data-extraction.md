@@ -1,6 +1,8 @@
 Title: Data transformation >> data extraction
 Date: 2023-05-26 13:51
 Slug: data-transformation-data-extraction
+Category: Technology
+Tags: data engineering, business strategy, etl, technology
 
 The ETL (Extract, Transform, Load) data framework has been around for a long time. Its roots formed in the early days of data warehousing in the 1970s and 1980s when solid-state drives (SSDs), which use a technology commonly known as flash memory, first hit the market. You might remember the computer hard drives that buzzed, clicked, and hummed when you loaded a program. That technology involved a rotating disk with an arm like a record player that read and wrote data to the disk. It was relatively slow and impossible to scale down. There'd be no "thumb drive" version of this technology.
 

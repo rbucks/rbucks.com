@@ -1,6 +1,8 @@
 Title: 3 things to know about HTML
 Date: 2019-02-01 21:19
 Slug: 3-things-to-know-about-html
+Category: Technology
+Tags: programming, web development, html, education
 
 Here's a little something I wrote about what I've learned about HTML, the language that drives the layout of the web.
 

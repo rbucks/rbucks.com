@@ -1,6 +1,8 @@
 Title: That night I snuck into the Oscars
 Date: 2016-02-28 07:21
 Slug: that-night-i-snuck-into-the-oscars
+Category: Personal
+Tags: adventure, hollywood, risk-taking, storytelling
 
 This happened in 2005. True story.
 

@@ -1,6 +1,8 @@
 Title: Little Don
 Date: 2016-07-27 05:46
 Slug: little-don
+Category: Politics
+Tags: politics, opinion, election, leadership
 
 *Here’s a speech I wish someone would have given at the 2016 DNC convention.*
 

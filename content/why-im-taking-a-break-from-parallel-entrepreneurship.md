@@ -1,6 +1,8 @@
 Title: Why I'm taking a break from parallel entrepreneurship
 Date: 2023-02-09 07:22
 Slug: why-im-taking-a-break-from-parallel-entrepreneurship
+Category: Business
+Tags: parallel-entrepreneurship, shovels, climate-tech, entrepreneurship
 
 When I described what I'm doing now to a good friend, he chuckled and said, "Guess you're going to have to write a new forward for your book!"
 

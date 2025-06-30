@@ -1,6 +1,8 @@
 Title: So this is 40
 Date: 2022-08-24 21:26
 Slug: so-this-is-40
+Category: Personal
+Tags: reflection, lifestyle, music, teaching
 
 I'll try to briefly recap the last day of my thirties. 
 

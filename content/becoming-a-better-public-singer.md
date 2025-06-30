@@ -1,6 +1,8 @@
 Title: Becoming a better public singer
 Date: 2019-10-17 10:36
 Slug: becoming-a-better-public-singer
+Category: Personal
+Tags: music, singing, performance, self-improvement
 
 Public speaking is for wimps. Try public singing. 
 

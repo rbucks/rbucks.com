@@ -1,6 +1,8 @@
 Title: A new routine
 Date: 2020-12-10 22:41
 Slug: a-new-routine
+Category: Personal
+Tags: lifestyle, daily-routine, fitness, family, reflection
 
 ## By Day
 

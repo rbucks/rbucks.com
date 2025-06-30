@@ -1,6 +1,8 @@
 Title: My vision for Medium
 Date: 2017-01-11 10:52
 Slug: my-vision-for-medium
+Category: Business
+Tags: business-strategy, content, platforms, marketplace
 
 Medium needs to make money and apparently they haven’t decided or aren’t ready to share the plan yet. Well, I have two bad ideas, one okay idea, and one good one that I’d like to share.
 
