@@ -1,8 +1,6 @@
 Title: No such thing
 Date: 2016-04-10 19:43
 Slug: no-such-thing
-Category: philosophy-reflection
-Tags: personal, reflection, philosophy, writing, life-lessons
 
 I never wanted to become a rock star.
 

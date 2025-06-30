@@ -1,8 +1,6 @@
 Title: My thyroid got cancer: one year later
 Date: 2018-02-22 22:45
 Slug: my-thyroid-got-cancer-one-year-later
-Category: health-fitness
-Tags: cancer, thyroid-cancer, health, personal, reflection
 
 *This is a follow-up to my first article, (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/).*
 
@@ -58,7 +56,7 @@ I love my neighborhood for many reasons, but the biggest one is my neighbors. On
 
 So of course in the days leading up to my ultrasound and MRI I gave him the play-by-play as our kids scooted around the cul de sac. He knows cancer better than anyone I know. He sees it every day, in every part of the body, and when I was first diagnosed he too told me that thyroid cancer is the best of them. He told me he would be working the morning of my MRI. When I left the trailer I texted him.
 
-!({static}/images/9c923-1eqwcpmepbrtrzwhmzpt8ya.png)
+!(https://rbucks.com/wp-content/uploads/2018/02/9c923-1eqwcpmepbrtrzwhmzpt8ya.png)
 
 That afternoon his two boys were out playing so I went out with my two girls, beer in hand. I could tell when he walked down the driveway that he didn’t want to tell me his read on my MRI.
 

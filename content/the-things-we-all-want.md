@@ -1,8 +1,6 @@
 Title: The things we all want
 Date: 2019-07-06 07:08
 Slug: the-things-we-all-want
-Category: philosophy-reflection
-Tags: personal, reflection, philosophy, life-lessons, goals
 
 Yesterday was July 4, and on this day for the last four decades my neighborhood has held a day-long celebration of community and country, in that particular order. I was reminded how much this neighborhood is cherished by an older woman I sat next to. Her son-in-law was raised on the street where we spoke, and his mom still owns that house. He raised his family across the street and helped his daughter buy and remodel the house right behind us. 
 
@@ -40,7 +38,7 @@ Childcare is expensive too. I didn't know it when I had kids, but for the first 
 
 So if you're really just getting by at $200K, and by that I mean your boxes are checked but you're without much cushion, imagine what it means to make less than that. Think about the sacrifices you make to live on $100K with a family here in California. Then look at this chart.
 
-!({static}/images/income.png)
+!(https://rbucks.com/wp-content/uploads/2019/07/income.png)
 *Most people don't make enough money to be middle class in California. Source: (https://statisticalatlas.com/state/California/Household-Income#figure/household-income-distribution)*
 
 It's crazy. About 9 million households in California make less than $100K. About 4 million make more than $100K. And $100K is not even breaking even if you really want to live the middle class American dream. It's not even close. You need to be in the $200K+ bracket, which is only 8.6% of the population. 

@@ -1,8 +1,6 @@
 Title: The importance of mentors
 Date: 2023-11-05 20:35
 Slug: the-importance-of-mentors
-Category: teaching-education
-Tags: mentoring, career, teaching, personal, advice
 
 "Are you mentoring anybody?" my old mentor asked me a few weeks ago.
 
@@ -34,7 +32,7 @@ Is it ever too late to get a mentor? I hope not. When I think across all of my p
 
 I miss that.
 
-<figure class="wp-block-image size-large">!({static}/images/DSCF0096_0046-1-1024x768.jpg)
+<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2023/10/DSCF0096_0046-1-1024x768.jpg)
 
-!({static}/images/AA0B9D9B-E6AF-4FD1-AFDE-9F9DDA1E5915_1_105_c-1.jpeg)
+!(https://rbucks.com/wp-content/uploads/2023/10/AA0B9D9B-E6AF-4FD1-AFDE-9F9DDA1E5915_1_105_c-1.jpeg)
 </figure>

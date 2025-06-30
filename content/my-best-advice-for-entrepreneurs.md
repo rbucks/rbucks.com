@@ -1,9 +1,6 @@
 Title: My best advice for entrepreneurs
 Date: 2025-04-27 20:57
 Slug: my-best-advice-for-entrepreneurs
-Category: entrepreneurship
-Tags: entrepreneurship, shovels, business-strategy, advice, startups
-Summary: Reflecting on Shovels reaching $80K MRR and sharing my framework for evaluating business ideas - the most important factor in entrepreneurial success.
 
 Hey, I've been writing.
 
@@ -45,19 +42,16 @@ A "business idea" takes an "idea" a few steps further. Let's explain this using 
 
 You should evaluate an idea by considering each of these attributes:
 
-| Criteria | Evaluation |
-| --- | --- |
-| Target market | Size |
-| Existing solution | Penetration |
-| Unmet need | Urgency |
-| Key benefits | Strength |
-| Defensibility | Technology |
+<table class="has-fixed-layout"><tbody><tr><td>**Criteria**</td><td>**Evaluation**</td></tr><tr><td>Target market</td><td>Size</td></tr><tr><td>Existing solution</td><td>Penetration</td></tr><tr><td>Unmet need</td><td>Urgency</td></tr><tr><td>Key benefits</td><td>Strength</td></tr><tr><td>Defensibility</td><td>Technology</td></tr></tbody></table>
 
 For each of the criteria, you want more of the evaluation. A good idea should be positive in every evaluation. 
 
 An efficient way to evaluate is to turn the table above into a sentence. For our light bulb, it would go like this:
 
+> <blockquote class="wp-block-quote">
 > For anyone dissatisfied with candles and kerosene lamps due to dimness, flicker, and inconvenience, I'm creating a light bulb that is bright, constant, portable, and electric, and is also difficult to manufacture.
+
+</blockquote>
 
 This one-liner also makes a great pitch! When you have a strong idea, your pitch is also strong. They always go together. 
 

@@ -1,8 +1,6 @@
 Title: A few things I learned from watching Einstein
 Date: 2023-08-02 06:43
 Slug: a-few-things-i-learned-from-watching-einstein
-Category: philosophy-reflection
-Tags: albert-einstein, profiles, philosophy, reflection, life-lessons
 
 A friend suggested that I watch the first season of (https://tv.apple.com/us/show/genius/umc.cmc.i2eqkysudwuus6l2h73zl9bz), which profiles Albert Einstein. I checked to see how many episodes there were and how long each one was, as I always do when somebody recommends a new series to me. 
 

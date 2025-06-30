@@ -1,8 +1,6 @@
 Title: In memory of Irving Katuna
 Date: 2021-05-08 12:17
 Slug: in-memory-of-irving-katuna
-Category: personal
-Tags: family, personal, reflection, memory, life-lessons
 
 *Edit: I've turned this blog post into a eulogy that I'll give at Rossmoor for my grandpa's funeral. He passed away early in the morning on Tuesday, April 27, 2021.*
 
@@ -26,4 +24,4 @@ Grandpa Irv was immensely proud of all of us. And we were proud of him too.
 
 Farewell, Grandpa Irv. We will miss you.
 
-!({static}/images/FE03D723-42E1-4AD3-8436-EC06E470E13E-1024x768.jpg)
+!(https://rbucks.com/wp-content/uploads/2021/04/FE03D723-42E1-4AD3-8436-EC06E470E13E-1024x768.jpg)

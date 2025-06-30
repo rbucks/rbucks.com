@@ -1,8 +1,6 @@
 Title: I don't use shampoo
 Date: 2019-03-03 22:00
 Slug: i-dont-use-shampoo
-Category: health-fitness
-Tags: personal, lifestyle, health, reflection, self-improvement
 
 Many years ago, I stopped putting weird liquid soap in my hair every time I showered. The decision point happened amidst a profound and literal "shower thought." I picked up a bottle of shampoo, looked at it, and thought, “Why am I doing this, again?” 
 

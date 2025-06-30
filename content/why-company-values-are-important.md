@@ -1,8 +1,6 @@
 Title: Why company values are important
 Date: 2015-07-08 21:43
 Slug: why-company-values-are-important
-Category: entrepreneurship
-Tags: entrepreneurship, scripted, leadership, business-strategy, company-culture
 
 At Scripted's last company-wide retreat in Santa Cruz, we finally presented something that’s been years in the making: Scripted’s company values.
 

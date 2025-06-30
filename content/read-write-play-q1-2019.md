@@ -1,8 +1,6 @@
 Title: Read Write Play: Q1 2019
 Date: 2019-04-28 14:14
 Slug: read-write-play-q1-2019
-Category: personal
-Tags: reading, writing, music, self-improvement, finance
 
 Another quarter, another RWP. I'm glad to report that I've been doing a LOT of reading, writing, and playing. 
 
@@ -83,9 +81,9 @@ I have been playing a lot of guitar and piano and I've started taking singing le
 
 At the same time, I've been preparing for the 10 year reunion of my grad school band, The Rolling Sloans. We're playing in Boston on Saturday night, June 8, and I've been preparing for this for months. I have a Spotify playlist of our set, printouts of the music, and have been playing along with the songs as frequently as I can. When my girls are playing in the court with my neighbors, I fire up Spotify, grab my acoustic guitar, and jam along with the tracks. It's the best way I can think of to practice. 
 
-- !({static}/images/screen-shot-2019-04-28-at-2.45.31-pm.png)
+- !(https://rbucks.com/wp-content/uploads/2019/04/screen-shot-2019-04-28-at-2.45.31-pm.png)
 *First half*
-- !({static}/images/screen-shot-2019-04-28-at-2.45.12-pm.png)
+- !(https://rbucks.com/wp-content/uploads/2019/04/screen-shot-2019-04-28-at-2.45.12-pm.png)
 *Second half*
 
 I'm going to sing a few, just like I did for our 3-hour set five years ago. This time we'll have between 1.5-2 hours to play and we're going to jam in as much music as possible. The songs I'm leading for are:

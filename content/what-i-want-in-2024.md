@@ -1,8 +1,6 @@
 Title: What I want in 2024
 Date: 2024-01-01 18:02
 Slug: what-i-want-in-2024
-Category: personal
-Tags: goals, shovels, teaching, fitness, reflection
 
 If I do this right, the way I *want* to do it and believe that I *can* do it, this will be a big year for me. Maybe the biggest. 
 

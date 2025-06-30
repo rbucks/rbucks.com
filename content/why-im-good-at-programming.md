@@ -1,8 +1,6 @@
 Title: Being good at computer programming
 Date: 2017-10-09 21:22
 Slug: why-im-good-at-programming
-Category: technology
-Tags: programming, technology, software-development, personal, reflection
 
 I’m not a “good” programmer but I am “good at” programming.
 

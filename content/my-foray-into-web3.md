@@ -1,8 +1,6 @@
 Title: My foray into web3
 Date: 2022-01-16 18:45
 Slug: my-foray-into-web3
-Category: technology
-Tags: web3, blockchain, crypto, technology, politics
 
 I'm writing this in web2. I own this domain (rbucks.com, although someday that might change) but I don't own the server hosting it. I don't have *absolute *control over the data that I'm saving to it. I can delete it (more accurately, I can request that the host delete it) but it's possible the host could refuse or comply but keep a backup copy that I don't know about. More concerning, the host of this blog, wordpress.com, could accidentally erase this post and everything else I've written and saved on here. Then it would be gone. I don't have a backup (*edit: I do now*). 
 
