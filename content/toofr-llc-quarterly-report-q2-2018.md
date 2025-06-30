@@ -6,7 +6,7 @@ Tags: toofr, entrepreneurship, business-strategy, saas
 
 I write this from the creek in my backyard where the mosquitos are celebrating this oddly cool summer morning in Walnut Creek by devouring my shins. I like to work down here anyway. It's a reminder that nothing is perfect and it'll also force me to type a bit faster.
 
-Q2 ended with a really huge change: (https://rbucks.com/2018/06/12/moving-from-saas-to-metered-billing/). It was scary as shit. It could have tanked my business. If I had investors I might not have gone through with it. In fact, if I had a team beyond myself that relied upon this income, I might not have done it. I would have convinced myself to "leave well enough alone." That would have been the wrong move, though. This change has worked wonders for my business. Every metric I care about shot upward in the 45 days since I made this change. I have no regrets.
+Q2 ended with a really huge change: [moving from SaaS to metered billing]({filename}moving-from-saas-to-metered-billing.md). It was scary as shit. It could have tanked my business. If I had investors I might not have gone through with it. In fact, if I had a team beyond myself that relied upon this income, I might not have done it. I would have convinced myself to "leave well enough alone." That would have been the wrong move, though. This change has worked wonders for my business. Every metric I care about shot upward in the 45 days since I made this change. I have no regrets.
 
 This report will cement my case for metered billing. Like working from a creek, it too is not perfect. There are bugs, but also like working from a creek, I'd take this over the traditional alternative.
 

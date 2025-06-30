@@ -14,7 +14,7 @@ Public speaking is one area where these forms of communication all converge. Tha
 
 In other words, let the speech do the talking. Spend all the time and energy on getting the speech right and the rest will fall into place. 
 
-Yesterday I (https://rbucks.com/2019/09/11/four-simple-truths-about-entrepreneurship/) at Diablo Valley College. I don’t claim that it held up to the ideal I just described. It’s long. It’s not very “tweet-able.” Parts of it are pretty dense. However, it did do a good job of telling stories, stopping to reiterate the notable points, and providing a few light moments to laugh at. 
+Yesterday I [gave a talk about entrepreneurship]({filename}four-simple-truths-about-entrepreneurship.md) at Diablo Valley College. I don’t claim that it held up to the ideal I just described. It’s long. It’s not very “tweet-able.” Parts of it are pretty dense. However, it did do a good job of telling stories, stopping to reiterate the notable points, and providing a few light moments to laugh at. 
 
 I got laughs. I got stares. I also got snores. But I got through it, and I think I for the most part got out of the speech’s way.
 

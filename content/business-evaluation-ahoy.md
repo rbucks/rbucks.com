@@ -6,7 +6,7 @@ Tags: business evaluation, web3, blockchain, politics
 
 *Edit: (https://ahoy.fund/) is now live so I've included links. *
 
-I'm still working on the web3 project I (https://rbucks.com/2022/01/16/my-foray-into-web3/). In November 2021 I wrote (https://github.com/DAOPAC/White-Paper) of a fundraising tool that I hoped could be used to influence votes on climate legislation. Rather than collecting signatures, this project would collect cash, real dollars, and release that cash conditionally on voting outcomes. It would function like a PAC but exist in broad daylight, meant to "put our money where our mouth is" and quite literally pay for votes. 
+I'm still working on the web3 project I ({filename}my-foray-into-web3.md). In November 2021 I wrote (https://github.com/DAOPAC/White-Paper) of a fundraising tool that I hoped could be used to influence votes on climate legislation. Rather than collecting signatures, this project would collect cash, real dollars, and release that cash conditionally on voting outcomes. It would function like a PAC but exist in broad daylight, meant to "put our money where our mouth is" and quite literally pay for votes. 
 
 The same approach could be used for election results. Candidate A could have a primary election fund and a general election fund. If they lose the primary, then the general election donations get refunded in full. A soaring balance in the general election fund could indicate momentum and maybe change voting behavior because people would want to back the person with the most to lose.
 
@@ -40,7 +40,7 @@ It gets more interesting when we consider the popular "matching grant" fundraisi
 
 ### The climate is changing and I hate it
 
-There was no wildfire season when I grew up in Mountain View, California. I've been going to (https://rbucks.com/2019/03/03/my-happy-place/) in the Sierra Nevada mountains my entire life. I used to spend the month of August up there with my grandparents. I never caught a whiff of a wildfire. Not once. 
+There was no wildfire season when I grew up in Mountain View, California. I've been going to ({filename}my-happy-place.md) in the Sierra Nevada mountains my entire life. I used to spend the month of August up there with my grandparents. I never caught a whiff of a wildfire. Not once. 
 
 We don't go to the cabin at Pinecrest Lake in August anymore. We can't plan our vacations around the uncertainty of being smoked out. It's happened the last two years in a row. Before that, ashes fell on the lake during the Ring Fire near Yosemite. I can't say it clearly enough: **This is not normal**. My grandpa wouldn't recognize it.  
 
@@ -83,7 +83,7 @@ Finally, and this is more sensitive because some of these barons are my friends,
 
 Put in perspective, my most successful MBA friend (probably the most successful for several years on either side of our graduating class) started his company in 2009, went public in 2017, and is worth *only* a couple/few hundred million dollars. 
 
-How does this make sense? It doesn't. It defies logic, but then again, who am I to say what's logical? I'm probably just jealous, as I've (https://rbucks.com/2021/10/10/above-average-mediocrity/). 
+How does this make sense? It doesn't. It defies logic, but then again, who am I to say what's logical? I'm probably just jealous, as I've ({filename}above-average-mediocrity.md). 
 
 Regardless, I'm quite certain none of this is great for crypto. We need more real-world, rising tide-style uses for blockchain where the winners don't stand on the backs of the losers. 
 

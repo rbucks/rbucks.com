@@ -30,7 +30,7 @@ Here we see another difference in definition:
 
 - Right: *keep your circle small*- Left: *all are welcome*
 
-I started writing this post from the expansive sun deck at my family’s cabin on the north shore of (https://rbucks.com/2019/03/03/my-happy-place/). It is beautiful. As night fell I'd hear crickets and the faint hum of a motorboat puttering along the south side of the lake. I'd watch as other cabin owners as lucky as me would turn on their lights, the glow reflecting off the lake like little fuzzy stars. 
+I started writing this post from the expansive sun deck at my family’s cabin on the north shore of [Pinecrest Lake]({filename}my-happy-place.md). It is beautiful. As night fell I'd hear crickets and the faint hum of a motorboat puttering along the south side of the lake. I'd watch as other cabin owners as lucky as me would turn on their lights, the glow reflecting off the lake like little fuzzy stars. 
 
 I say I'm lucky because I didn’t earn this cabin. I was born into it. My great grandpa got the lease, built the cabin, and handed it down two generations. I’m the third generation and with any more luck, my cousins and I will be the custodians of this magical piece of property someday too. 
 

@@ -30,7 +30,7 @@ For that alone, I give the man props, but I also respect his later work. The jaz
 
 ---
 
-For the last decade of my life, since I’ve been aware of the guy, there’s been a thread in my brain that feels like I missed out on being John Mayer. The other threads remind me that I don’t have his voice, the guitar chops, the poise on stage, the libido. I would be a terrible John Mayer, and if I could get into his head for a moment, I bet there’s a thread there that wishes he could just have a (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/) with a hot wife and a couple of guitars hanging on the wall (like I do). Screw the fame. Simplicity, anonymity, and peaceful easy feeling is priceless. I’m sure he has those moments.
+For the last decade of my life, since I’ve been aware of the guy, there’s been a thread in my brain that feels like I missed out on being John Mayer. The other threads remind me that I don’t have his voice, the guitar chops, the poise on stage, the libido. I would be a terrible John Mayer, and if I could get into his head for a moment, I bet there’s a thread there that wishes he could just have a [normal suburban life]({filename}an-ode-to-the-suburbs.md) with a hot wife and a couple of guitars hanging on the wall (like I do). Screw the fame. Simplicity, anonymity, and peaceful easy feeling is priceless. I’m sure he has those moments.
 
 It’s fun to think about, and I enjoyed my brief time in the spotlight with (https://twitter.com/stephmarco/status/475511293395603456). Plus, I’ll always be able to pick up my guitar and sing John Mayer tunes to Lily.
 

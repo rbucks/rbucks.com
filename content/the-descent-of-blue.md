@@ -10,7 +10,7 @@ Tags: family, personal, reflection, gratitude
 
 Everybody who met Blue said he was the best dog they'd ever met. Everybody was right, of course.
 
-In the years since (https://rbucks.com/2017/06/19/the-ascent-of-blue/), which I wrote about five years ago, Blue became his own establishment, a pillar of our little neighborhood, as recognizable as any street sign. 
+In the years since [The Ascent of Blue]({filename}the-ascent-of-blue.md), which I wrote about five years ago, Blue became his own establishment, a pillar of our little neighborhood, as recognizable as any street sign. 
 
 He was out all the time, accompanying us on walks, jogs, and bike rides through every nook and cranny of Saranap. And when he wasn't out and about, he was in front of our house, watching the cars roll up, hoping to see his favorite UPS driver so he could tour the truck and get another treat and pat on the head. 
 
@@ -71,7 +71,7 @@ The ear infections never went completely away, but the skin problems eventually 
 
 And then came the seizures. 
 
-He had his first one in June 2021. We were in the midst of a (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/) and living down the street in a rental house. Blue was sleeping in our girls' room, where they had bunk beds. Around midnight we heard a loud noise, a thump, and then more bumps and thrashing. My wife jolted out of bed and went to see what was happening in their room.
+He had his first one in June 2021. We were in the midst of a [home remodel]({filename}how-we-did-our-home-addition-and-remodel.md) and living down the street in a rental house. Blue was sleeping in our girls' room, where they had bunk beds. Around midnight we heard a loud noise, a thump, and then more bumps and thrashing. My wife jolted out of bed and went to see what was happening in their room.
 
 "Ryan! Something's wrong with Blue!" she said hurriedly. 
 

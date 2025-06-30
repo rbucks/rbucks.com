@@ -48,6 +48,6 @@ I'm slowly working through (http://ruthkazez.com/SwimWorkouts/ZeroTo1mile.html) 
 
 RWP is a reminder to myself to keep personal enrichment top of mind. This is probably what I'm most conscious of. I really want to keep this up and for several reasons it's harder than the other ones. RWP can be really daunting. I fall off for a bit and it's hard to get back on track. It's too much to chew on, so I'm doing what I mentioned earlier: breaking it into smaller bites. I'm focusing on finance right now for my reading. My old grad school band is playing at our 10-year reunion so my playing is focusing on the set list for that gig. I also want to start taking piano and voice lessons. 
 
-And writing, well, this is it. (http://rbucks.com) is now my forever blog. I want to turn (https://rbucks.com/2018/11/02/mightysignals-new-leadership/) into a truly premium brand and will work on doing my own premium content marketing too.
+And writing, well, this is it. (http://rbucks.com) is now my forever blog. I want to turn ({filename}mightysignals-new-leadership.md) into a truly premium brand and will work on doing my own premium content marketing too.
 
 We shall see how this goes.

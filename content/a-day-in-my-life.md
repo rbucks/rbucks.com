@@ -22,7 +22,7 @@ Our house is small and has squeaky floors so we hear all of it. 
 
 “Hi Norah, you can come in my room.” She struggles briefly with the doorknob and pulls it open. More patter of feet and some giggles. Then they both come back into our room and are lifted onto the bed. 
 
-This family cuddle lasts for only a few minutes before one of them, usually Norah, heads for the edge and with an emphatic “Woowoom,” (Translation: “Blue’s Room,”) and pitter patters to the living room we named after (https://rbucks.com/2017/06/19/the-ascent-of-blue/). 
+This family cuddle lasts for only a few minutes before one of them, usually Norah, heads for the edge and with an emphatic “Woowoom,” (Translation: “Blue’s Room,”) and pitter patters to the living room we named after [our dog Blue]({filename}the-ascent-of-blue.md). 
 
 The alternative scenario starts the same but ends poorly: competition for mom’s early morning attention spiraling into tears and me trying to coax the younger sister to Blue’s Room so the older one can get some mom time. 
 
@@ -44,7 +44,7 @@ My daughters right now are not-quite-two and not-quite-four years old. They go t
 
 These days I can clear the summit without losing my breath. I look forward to it. Cars driving up or down the hill honk or give the thumbs up in approval. I’ll often hear a “Way to go, Dad!” as the cars crank up the hill. I do it twice a week and supplement those runs with a weekend stroller jog to the playground. It’s great for me but just as importantly, the girls love it. They sing and jabber and point out cars and every once in a while we’ll cross the bridge just as a BART train passes below us. Sometimes they sit quietly, lost in thought and the potpourri serenity of mornings in this part of the Bay Area. The oaks and grasses are most pungent in the mornings. I love it. 
 
-I drop the girls off at school and jog the empty stroller back home, the front wheel skipping along without any weight in the seats. When I get home I hit (https://rbucks.com/2016/03/31/chin-up-everybody/), take a shower, and start my workday from home. 
+I drop the girls off at school and jog the empty stroller back home, the front wheel skipping along without any weight in the seats. When I get home I hit [the gym]({filename}chin-up-everybody.md), take a shower, and start my workday from home. 
 
 ### Worktime
 

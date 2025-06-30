@@ -4,7 +4,7 @@ Slug: how-i-could-be-republican
 Category: Politics
 Tags: politics, philosophy, conservatism, environment
 
-A year and a half ago I published a piece here describing why I'm a Democrat. It was a bit of a diatribe, really, and it railed against the California Republican Party's (https://cagop.my.salesforce.com/sfc/p/3i000000CsCG/a/3i000000CcJw/n51HS0ybBBUItXs68wA_ydonniApC3HK0BlfOmBXDLM). I titled it "(https://rbucks.com/2018/06/12/why-im-not-a-republican/)." 
+A year and a half ago I published a piece here describing why I'm a Democrat. It was a bit of a diatribe, really, and it railed against the California Republican Party's [platform](https://cagop.my.salesforce.com/sfc/p/3i000000CsCG/a/3i000000CcJw/n51HS0ybBBUItXs68wA_ydonniApC3HK0BlfOmBXDLM). I titled it "[Why I'm not a Republican]({filename}why-im-not-a-republican.md)." 
 
 A friend recently challenged me to take a different spin on this topic. Even if merely as an exercise, could I find the silver lining in the Republican party today? Or could I at least seek out the bits of wisdom that originally formed the party of Lincoln and describe how they fit with my current values? 
 
@@ -40,9 +40,9 @@ Thus, climate *change* should make conservatives bristle in their britches. True
 
 ## **Small is good**
 
-I'm not a big company entrepreneur. I like lean. (https://rbucks.com/2017/11/23/why-saas-is-a-solo-founders-dream/). I like efficient. I don't like bureaucracy. The fewer people I have to work with and manage, the better. 
+I'm not a big company entrepreneur. I like lean. I [prefer small teams]({filename}why-saas-is-a-solo-founders-dream.md). I like efficient. I don't like bureaucracy. The fewer people I have to work with and manage, the better. 
 
-Operationally, I like to break up and outsource products and services that aren't core to my business. I think the best metric to run my businesses on is (https://rbucks.com/2020/01/16/the-case-for-decentralized-workforces/). The higher that number, the better. I’d rather own a $5 million business with five remote employees than a $10 million business with twenty staffers in a fancy downtown office. It’s just how I’m wired. 
+Operationally, I like to break up and outsource products and services that aren't core to my business. I think the best metric to run my businesses on is [revenue per employee]({filename}the-case-for-decentralized-workforces.md). The higher that number, the better. I’d rather own a $5 million business with five remote employees than a $10 million business with twenty staffers in a fancy downtown office. It’s just how I’m wired. 
 
 Translated to a government context, this would mean I like privatization. Government should get out of "businesses" that are not core to its mission and capabilities. This could mean privatized energy distribution, social services, health care, and even prisons. I’m a student of environmental economics, though, and understand that capitalism maximizes profits, not social welfare. Thus, in certain markets, the goal posts should be modified. 
 

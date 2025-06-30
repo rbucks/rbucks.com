@@ -40,7 +40,7 @@ As I look at this, and since I’ve recently fallen back in love with the game j
 
 ### (Startup rule #1: Be the first mover)
 
-I’ve (https://rbucks.com/the-parallel-entrepreneur/) before. The faster you can get to market, establish your brand, get customer feedback, and cement yourself in position, the better your chances of surviving the rest of the game. 
+I’ve [written about this](https://rbucks.com/the-parallel-entrepreneur/) before. The faster you can get to market, establish your brand, get customer feedback, and cement yourself in position, the better your chances of surviving the rest of the game. 
 
 Google rewards seniority and it takes time for customers to familiarize themselves with a new brand. Controlling the center of the board means your brand becomes synonymous with the market (i.e. the brand has become a verb, like “to Uber”, or a noun, like “a Kleenex”). 
 

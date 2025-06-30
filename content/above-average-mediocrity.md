@@ -10,11 +10,11 @@ Tags: reflection, ambition, self-improvement, career, achievement
 
 ---
 
-I'm going to chip off a piece of the feeling I described in my previous posts, (https://rbucks.com/2021/03/24/its-been-a-long-long-time/) and (https://rbucks.com/2021/07/19/my-unannounced-and-inconsequential-break-from-social-media/), and dissect it a bit more, just for fun. 
+I'm going to chip off a piece of the feeling I described in my previous posts, ({filename}its-been-a-long-long-time.md) and ({filename}my-unannounced-and-inconsequential-break-from-social-media.md), and dissect it a bit more, just for fun. 
 
 ### Delusions of grandeur
 
-Oh, I had big plans, big ambitions. "Three million by 30," is what I used to tell myself in my mid-to-late 20s when my (https://rbucks.com/2019/02/01/the-bitter-taste-of-failure/) was starting up in San Francisco. I figured three million dollars at six percent interest (conservative investments) would yield $180,000 per year. I could retire with that annuity if I wanted to (but of course I wouldn't). 
+Oh, I had big plans, big ambitions. "Three million by 30," is what I used to tell myself in my mid-to-late 20s when my ({filename}the-bitter-taste-of-failure.md) was starting up in San Francisco. I figured three million dollars at six percent interest (conservative investments) would yield $180,000 per year. I could retire with that annuity if I wanted to (but of course I wouldn't). 
 
 I believed I was destined for greatness, that all I had to do was put one foot in front of the other and I'd walk my way, chest puffed and bent arms swinging, to the top of the heap. 
 
@@ -78,7 +78,7 @@ On the one hand, it's good. I'm ambitious. But on the other, it impacts my appre
 
 I know I'll regret not giving myself the opportunity to be a founder or super early employee of a unicorn (that's a company with a $1 billion valuation, for you non-tech people). Odds are not in my favor that it happens, and I'm okay with that, but I need to try. This is my next Harvard. 
 
-So, I'm preparing. (https://rbucks.com/2021/01/08/welcome-letter-to-my-search-marketing-class/) is one way of prepping myself. Taking classes on Solidity and anything else I find interesting is another. I also find that exercise does wonders for my energy and creativity, so I'm working out a lot and treating my body well. This process is taking time, but I'm enjoying it. 
+So, I'm preparing. ({filename}welcome-letter-to-my-search-marketing-class.md) is one way of prepping myself. Taking classes on Solidity and anything else I find interesting is another. I also find that exercise does wonders for my energy and creativity, so I'm working out a lot and treating my body well. This process is taking time, but I'm enjoying it. 
 
 When the next big break opportunity comes, I'll jump on it. 
 

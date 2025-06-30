@@ -4,7 +4,7 @@ Slug: the-thing-that-wont-go-away
 Category: Health
 Tags: thyroid-cancer, health, reflection, gratitude
 
-*This is my third article about thyroid cancer I was diagnosed with. The first two are *(https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)* and *(https://rbucks.com/2018/02/22/my-thyroid-got-cancer-one-year-later/)*.*
+*This is my third article about thyroid cancer I was diagnosed with. The first two are *[My thyroid got cancer]({filename}my-thyroid-got-cancer.md)* and *[My thyroid got cancer: one year later]({filename}my-thyroid-got-cancer-one-year-later.md)*.*
 
 ---
 
@@ -28,7 +28,7 @@ Why me? Why *not* me? I don't know. Nobody does.
 
 I was saddened to read about the *Top Chef* winner (https://www.cnn.com/2019/01/25/entertainment/fatima-ali-top-chef-dies/index.html) on January 25, 2019, from Ewing's sarcoma, a bone and soft tissue cancer. She was 29 years old and achieved incredible success in an extremely difficult field. Being a chef is crazy hard work, and breaking through before the age of 30 is basically impossible. She did it, and then she died. 
 
-Now *that's* not fair. My condition is nowhere near as serious. People don't usually die from (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/), so I have the data in my favor.  
+Now *that's* not fair. My condition is nowhere near as serious. People don't usually die from [papillary thyroid cancer]({filename}my-thyroid-got-cancer.md), so I have the data in my favor.  
 
 I don't know what it feels like to have a serious, terminal cancer. I can relate only slightly, because each time I get an email or a phone call from my doctor after one of my tests, I get a flash of anxiety that I'm going to be told that my cancer is really serious. A pit forms in my stomach and I tune in really close to any changes in tone or fluctuation on the other end of the phone. I keep preparing to hear the worst but it hasn't happened. It probably won't, but I can't help the reaction. I don't think I'll ever get used to receiving my test results. 
 

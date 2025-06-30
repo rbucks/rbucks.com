@@ -10,7 +10,7 @@ This is a long post. And to make my long post even longer, I begin with a preamb
 
 I visited my mom recently and spent a lot of time in her house. She entertained my kids and my wife talked for a while with my stepdad. I stumbled upon a pamphlet I recognized while rummaging through magazines on the side table by her couch. It was for an awards banquet at UC Berkeley in 2005. I was a recipient of the (https://awards.berkeley.edu/ucbf-award-archives), a special recognition for anyone doing interesting stuff with alumni. I had organized an alumni association for the College of Natural Resources, and that got the attention of the award committee. 
 
-I remember that night. I invited my parents, my (https://rbucks.com/2021/05/08/in-memory-of-irving-katuna/), and Lisa Bauer, my mentor from the Campus Recycling and Refuse Services office where I worked as a student. I was really happy and tickled to continue receiving awards from Cal. Plus, I knew it would look good on my (https://rbucks.com/2019/06/06/what-my-grad-school-experience-meant-to-me/) application. 
+I remember that night. I invited my parents, my [grandfather]({filename}in-memory-of-irving-katuna.md), and Lisa Bauer, my mentor from the Campus Recycling and Refuse Services office where I worked as a student. I was really happy and tickled to continue receiving awards from Cal. Plus, I knew it would look good on my [graduate school]({filename}what-my-grad-school-experience-meant-to-me.md) application. 
 
 Back at my mom's house, I read through my bio for the Young Bear Award and smiled. I handed to my wife and she read it. "You sure were into environmental stuff," she said. 
 
@@ -135,7 +135,7 @@ As for performance, my friend Wei-Tai had no qualms. The water heater can keep u
 
 I grew up using an electric stove, the kind with the metal coils that glowed orange as they heated. I had no problem with it. Boiling water took a while and the filaments were hard to clean, but it worked. My grandparents remodeled their kitchen and bought a different kind of electric stove. It had a glass top and glowed red from underneath. It was easier to clean but also took a while to boil water. 
 
-I got my first gas stove in college. I loved it. I liked seeing the flame, adjusting the burners, and feeling like I could control the heat better directly. Later, in grad school, I bought a small set of (https://rbucks.com/2019/03/09/ode-to-this-set-of-cuisinart/) to use on my gas stove in Cambridge. I use that same set of cookware today.
+I got my first gas stove in college. I loved it. I liked seeing the flame, adjusting the burners, and feeling like I could control the heat better directly. Later, in grad school, I bought a small set of [Cuisinart cookware]({filename}ode-to-this-set-of-cuisinart.md) to use on my gas stove in Cambridge. I use that same set of cookware today.
 
 I couldn't imagine swapping out my gas range for an electric one. This was a bridge too far. But then I read about induction cooktops and I changed my mind. Yes, our entire kitchen was going to be electric, too. 
 

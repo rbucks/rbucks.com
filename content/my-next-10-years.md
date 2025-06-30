@@ -16,13 +16,13 @@ Ten years from now I hope that’s what I’m into again. To get there, I have t
 
 I live in one of the most expensive areas in the country. I love Lamorinda (Lafayette, Walnut Creek, Moraga) but leaving here with two kids means I need a lot of money. About 12 years ago I decided not to pursue a career in environmental non-profits and instead have taken a decade-long detour through the private sector. I figured it’d be an education and also an opportunity to find financial freedom.
 
-My first bet on a huge windfall (https://rbucks.com/2019/02/01/the-bitter-taste-of-failure/), but I’ve been placing smaller bets over the last few years, and a few of them have paid off. My (https://rbucks.com/2018/11/02/mightysignals-new-leadership/) pays well, has some decent upside if it really works out, and is a lot of fun. I still have side projects, being the (https://rbucks.com/the-parallel-entrepreneur/chapter-1-what-is-parallel-entrepreneurship/) I've written about and all, and these require just a few hours a week to maintain. If I can keep growing my side income without putting more time into it (so I can keep doing a good job at MightySignal), then financial freedom will come. And once I have that, I can focus my attention elsewhere.
+My first bet on a huge windfall [didn't work out]({filename}the-bitter-taste-of-failure.md), but I’ve been placing smaller bets over the last few years, and a few of them have paid off. My [new CEO job at MightySignal]({filename}mightysignals-new-leadership.md) pays well, has some decent upside if it really works out, and is a lot of fun. I still have side projects, being the [parallel entrepreneur](https://rbucks.com/the-parallel-entrepreneur/chapter-1-what-is-parallel-entrepreneurship/) I've written about and all, and these require just a few hours a week to maintain. If I can keep growing my side income without putting more time into it (so I can keep doing a good job at MightySignal), then financial freedom will come. And once I have that, I can focus my attention elsewhere.
 
 There’s a lot that's been happening in the world today while I’ve had my head down, saving money and raising a family (very much in partnership with my wife, on both fronts.) I pay attention to the news. Sometimes I write and tweet about it, but most of the time I feel overwhelmed. What's a suburban dad like myself supposed to do to fix our climate chaos? What am I supposed to do about homelessness and the real estate crisis in California? 
 
-I don't really know, so I've been trying out a few different things. I joined a new regional environmental organization, the Contra Costa Climate Action Network, which is an umbrella group of sorts for all the eco groups in my area. We coordinate on actions, talk about the county general plan, and collectively try to figure out how "think globally, act locally" applies to us. I also got placed on the county (https://rbucks.com/2018/08/17/about-the-contra-costa-county-sustainability-commission/) which has provided even more insights into how Contra Costa operates. It's eye-opening and I could see myself running for my county supervisor office in a few years.  
+I don't really know, so I've been trying out a few different things. I joined a new regional environmental organization, the Contra Costa Climate Action Network, which is an umbrella group of sorts for all the eco groups in my area. We coordinate on actions, talk about the county general plan, and collectively try to figure out how "think globally, act locally" applies to us. I also got placed on the county [sustainability commission]({filename}about-the-contra-costa-county-sustainability-commission.md) which has provided even more insights into how Contra Costa operates. It's eye-opening and I could see myself running for my county supervisor office in a few years.  
 
-On the economic development side, I've very happily been active with (https://www.dvc.edu) this year. I (https://rbucks.com/2019/10/17/why-im-applying-to-be-an-instructor-at-dvc/) (as of this writing, still haven't heard back) and managed to be among the founding group of the (https://www.diablovalley.co). At its best, DVTI will help bring tech jobs into the county, thereby reducing commute times (and GHG emissions), *and *help local residents get access to higher paying tech jobs.
+On the economic development side, I've very happily been active with (https://www.dvc.edu) this year. I [applied to be an instructor at DVC]({filename}why-im-applying-to-be-an-instructor-at-dvc.md) (as of this writing, still haven't heard back) and managed to be among the founding group of the [Diablo Valley Tech Initiative](https://www.diablovalley.co). At its best, DVTI will help bring tech jobs into the county, thereby reducing commute times (and GHG emissions), *and *help local residents get access to higher paying tech jobs.
 
 Although my neighborhood is very homogenous (I'll just say it -- "white" -- the one knock I have on where I live), I believe there's opportunity to bring more diversity into the nicer neighborhoods like mine by giving the less-white neighborhoods in the Diablo Valley the access to education they need to get these jobs and the paychecks that come with them. DVC is the vector for that change, so I'm optimistic that the hours I've been putting into DVC are time well-spent. 
 
@@ -34,11 +34,11 @@ But for the most part, I've opted to solve my own problems first. Here's the yea
 
 ### 2011
 
-- Pivoted from (https://rbucks.com/2016/05/20/the-scripted-origin-story-as-i-remember-it/)- Launched (https://www.scripted.com)- Left Rapleaf to go back on Scripted full-time- Learned to scrape websites with Python- Raised $1M for Scripted from Crosslink Capital- Moved into our first Scripted office- Hired our first Scripted employees- Sentiment: *the world is my oyster*
+- Pivoted from [B2G Media to Scripted]({filename}the-scripted-origin-story-as-i-remember-it.md)- Launched [Scripted.com](https://www.scripted.com)- Left Rapleaf to go back on Scripted full-time- Learned to scrape websites with Python- Raised $1M for Scripted from Crosslink Capital- Moved into our first Scripted office- Hired our first Scripted employees- Sentiment: *the world is my oyster*
 
 ### 2012
 
-- Started (https://rbucks.com/2017/07/24/my-524687-side-business/) in PHP CodeIgniter- Started re-building (https://www.scripted.com)- Registered Toofr LLC and started consulting for Rapleaf- Sentiment: *programming is fun*
+- Started [Toofr, my side hustle]({filename}my-524687-side-business.md) in PHP CodeIgniter- Started re-building [Scripted.com](https://www.scripted.com)- Registered Toofr LLC and started consulting for Rapleaf- Sentiment: *programming is fun*
 
 ### 2013
 
@@ -50,23 +50,23 @@ But for the most part, I've opted to solve my own problems first. Here's the yea
 
 ### 2015
 
-- Second founder breakup at Scripted (2 down to 1)- Started to learn Ruby on Rails and re-wrote Toofr in Rails- Toofr paid me more than my Scripted salary- Bought a house and (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/)- Got (https://rbucks.com/2017/06/19/the-ascent-of-blue/) and a (https://rbucks.com/2017/01/02/buckleys-grilled-cowboy-rib-eyes/)- Stopped playing squash and road biking- Sentiment: *all grown up*
+- Second founder breakup at Scripted (2 down to 1)- Started to learn Ruby on Rails and re-wrote Toofr in Rails- Toofr paid me more than my Scripted salary- Bought a house and [moved to the suburbs]({filename}an-ode-to-the-suburbs.md)- Got [our dog Blue]({filename}the-ascent-of-blue.md) and a [Weber grill]({filename}buckleys-grilled-cowboy-rib-eyes.md)- Stopped playing squash and road biking- Sentiment: *all grown up*
 
 ### 2016
 
-- First round of (https://rbucks.com/2017/02/09/the-story-behind-our-layoffs/)- Second daughter born- Toofr began paying me more than Scripted- Became the (https://rbucks.com/2017/02/09/on-being-the-3rd-ceo-of-the-startup-i-started/)- Launched (https://www.thinbox.com)- Launched (https://www.enps.co)- Sentiment: *business can be unpredictable*
+- First round of [layoffs at Scripted]({filename}the-story-behind-our-layoffs.md)- Second daughter born- Toofr began paying me more than Scripted- Became the [third CEO of Scripted]({filename}on-being-the-3rd-ceo-of-the-startup-i-started.md)- Launched [Thinbox.com](https://www.thinbox.com)- Launched [eNPS.co](https://www.enps.co)- Sentiment: *business can be unpredictable*
 
 ### 2017
 
-- Found out I had (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)- Second round of (https://rbucks.com/2017/02/09/the-story-behind-our-layoffs/)- Sold Scripted to Xenon Partners- Bought my first car, a Hyundai Santa Fe- Launched (https://www.trackjobchanges.com)- Launched (https://www.voxloca.com)- Launched (https://www.glist.io)- Sentiment: *life can be unpredictable too so make and take as much money as you can*
+- Found out I had [thyroid cancer]({filename}my-thyroid-got-cancer.md)- Second round of [layoffs at Scripted]({filename}the-story-behind-our-layoffs.md)- Sold Scripted to Xenon Partners- Bought my first car, a Hyundai Santa Fe- Launched [TrackJobChanges.com](https://www.trackjobchanges.com)- Launched [VoxLoca.com](https://www.voxloca.com)- Launched [GList.io](https://www.glist.io)- Sentiment: *life can be unpredictable too so make and take as much money as you can*
 
 ### 2018
 
-- Published my first book, (https://rbucks.com/the-parallel-entrepreneur/)- Happily ran my portfolio of small businesses from home- Sold Toofr and paved our side yard- Got hired to be CEO of (https://mightysignal.com), a Xenon Partners portfolio company- Didn't launch anything(!)- Sentiment: *learn from the best to become one of the best*
+- Published my first book, [The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/)- Happily ran my portfolio of small businesses from home- Sold Toofr and paved our side yard- Got hired to be CEO of [MightySignal](https://mightysignal.com), a Xenon Partners portfolio company- Didn't launch anything(!)- Sentiment: *learn from the best to become one of the best*
 
 ### 2019
 
-- Took voice and piano lessons and began to enjoy performing music again- Started writing a novel- Paid off the Hyundai- Swallowed some (https://rbucks.com/2019/09/19/a-few-days-of-radioactive-seclusion/)- Turned my daughters into huge Beatles fans- Paid down the mortgage- Found a partner for my side projects- Remained CEO of MightySignal- Launched (https://www.mykidcolors.com)- Sentiment: *teamwork makes the dream work*
+- Took voice and piano lessons and began to enjoy performing music again- Started writing a novel- Paid off the Hyundai- Swallowed some [radioactive iodine]({filename}a-few-days-of-radioactive-seclusion.md)- Turned my daughters into huge Beatles fans- Paid down the mortgage- Found a partner for my side projects- Remained CEO of MightySignal- Launched [MyKidColors.com](https://www.mykidcolors.com)- Sentiment: *teamwork makes the dream work*
 
 ### 2020's
 

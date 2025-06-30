@@ -4,13 +4,13 @@ Slug: read-write-play-2020
 Category: Personal
 Tags: reflection, reading, writing, music
 
-In a normal year I would have posted my (https://rbucks.com/category/read-write-play/) every quarter, as I've done since launching this blog in its current form in 2018. However, this is no ordinary year and my reading, writing, and playing schedule got tossed about as one might expect amidst a global pandemic and prolonged school shutdowns. 
+In a normal year I would have posted my [quarterly Read Write Play posts](https://rbucks.com/category/read-write-play/) every quarter, as I've done since launching this blog in its current form in 2018. However, this is no ordinary year and my reading, writing, and playing schedule got tossed about as one might expect amidst a global pandemic and prolonged school shutdowns. 
 
 Thus, I didn't keep up with this blog nearly as much as I did in past years. However, there was plenty of writing. A ton of it, in fact. A healthy amount of reading, and yes, some playing too. This post, in annual form this time, recaps my 2020 "me-time" -- the hours of the day that don't revolve around family and work. 
 
 ## Read
 
-I didn't hit my reading groove until later in the year. I read all of these since August. Before that... I don't know! I guess I wasn't feeling it. I did (and still do) read the newspaper every day and some of The Economist on my Kindle most weeks. Since my wife subscribed us to the New Yorker (paper edition) that has become a welcome addition to my weekly routine. I try to read the whole thing on my (https://rbucks.com/2020/12/10/a-new-routine/). 
+I didn't hit my reading groove until later in the year. I read all of these since August. Before that... I don't know! I guess I wasn't feeling it. I did (and still do) read the newspaper every day and some of The Economist on my Kindle most weeks. Since my wife subscribed us to the New Yorker (paper edition) that has become a welcome addition to my weekly routine. I try to read the whole thing on my [Sundays]({filename}a-new-routine.md). 
 
 Here's a quick rundown on each of these books, why I read them, and what I thought.
 
@@ -32,7 +32,7 @@ Here's a quick rundown on each of these books, why I read them, and what I thoug
 
 (https://www.goodreads.com/book/show/44802148-becoming-a-digital-marketer)
 
-- Since I'm teaching a search marketing (https://rbucks.com/2020/10/24/im-now-an-adjunct/) this spring, I figured I should start reading some search marketing books. If I liked one well enough, I might assign it. This one didn't fit the bill. It was mostly trite, and the good parts they offered were few and far between. If they'd peppered in more case studies and anecdotes I would have enjoyed it. Instead, I made it about halfway through.  It just wasn't that good. 
+- Since I'm teaching a search marketing [class at DVC]({filename}im-now-an-adjunct.md) this spring, I figured I should start reading some search marketing books. If I liked one well enough, I might assign it. This one didn't fit the bill. It was mostly trite, and the good parts they offered were few and far between. If they'd peppered in more case studies and anecdotes I would have enjoyed it. Instead, I made it about halfway through.  It just wasn't that good. 
 
 (https://www.goodreads.com/book/show/29639736-everything-we-keep)
 
@@ -57,11 +57,11 @@ However, I did make huge progress on my book. I'm up to over 70,000 words now. A
 ![The Japanese Sandman book cover]({static}/images/TJS-cover-639x1024.png)
 *Just looking at this cover makes me want to finish writing the damn book. *
 
-My top post of 2020 wasn't even written in 2020. I published (https://rbucks.com/2019/11/28/how-chess-and-entrepreneurship-are-the-same/) about a year ago and for some reason it started to pop in traffic this past summer. Nothing else I wrote this year even comes close. So it goes. 
+My top post of 2020 wasn't even written in 2020. I published [How chess and entrepreneurship are the same]({filename}how-chess-and-entrepreneurship-are-the-same.md) about a year ago and for some reason it started to pop in traffic this past summer. Nothing else I wrote this year even comes close. So it goes. 
 
 I also blogged on MightySignal. My top post on my company blog was (https://mightysignal.com/blog/data-products-vs-data-solutions). I do feel good about this one. It was a labor love and I felt like I had something important to say. For the next person redoing their B2B website, I think this will be a useful post and I'm glad it's on the Internet for anyone to see. 
 
-As I (https://rbucks.com/2019/02/17/if-i-could-redo-all-of-my-content-marketing/), content marketing and social media marketing are about giving. The best posts I've written are also the best gifts. This year I've come to appreciate other writers, particularly (https://alexdanco.com/) and (https://investoramnesia.com/). These two guys produce tremendous value every week and they give it away for free. I'm sure they feel good about it. I'm sure there's value in the followerships they're gathering and the personal brands they're builidng, but when they click "Publish," there's no immediate "ca-ching" sound. It's a long game they're playing. My game is likely much longer. 
+As I [wrote before]({filename}if-i-could-redo-all-of-my-content-marketing.md), content marketing and social media marketing are about giving. The best posts I've written are also the best gifts. This year I've come to appreciate other writers, particularly (https://alexdanco.com/) and (https://investoramnesia.com/). These two guys produce tremendous value every week and they give it away for free. I'm sure they feel good about it. I'm sure there's value in the followerships they're gathering and the personal brands they're builidng, but when they click "Publish," there's no immediate "ca-ching" sound. It's a long game they're playing. My game is likely much longer. 
 
 ## Playing
 
@@ -69,7 +69,7 @@ In May of this year I did something unusual. I tweeted a video of myself playing
 
 *Don't let the sun go down on me*
 
-It's not the first time (https://rbucks.com/2019/10/17/becoming-a-better-public-singer/). It is the first time I've done it while playing piano, though, and that's a milestone for me. Although the pandemic canceled my singing lessons, I continued to play, working on Christmas carols throughout the summer and getting decent at "Jingle Bells", "Rudolph the Red-Nosed Reindeer," and "I'll Be Home For Christmas." 
+It's not the first time [I've performed publicly]({filename}becoming-a-better-public-singer.md). It is the first time I've done it while playing piano, though, and that's a milestone for me. Although the pandemic canceled my singing lessons, I continued to play, working on Christmas carols throughout the summer and getting decent at "Jingle Bells", "Rudolph the Red-Nosed Reindeer," and "I'll Be Home For Christmas." 
 
 The last one, "I'll Be Home For Christmas," is my favorite. The voicings and flourishes that Dan Coates, the arranger, added are exactly what I need to take my playing to the next level. Where my Elton John playing has me doing octaves on my left hand, this Christmas Carol book has introduced me to the magic of the dominant seventh on my left hand, giving everything a more complex, jazzy feel. I love it. I'm not singing as much but I play piano just about every day. 
 

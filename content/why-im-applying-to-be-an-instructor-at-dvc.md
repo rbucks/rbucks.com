@@ -22,7 +22,7 @@ That’s my thesis, but it’s a long way from getting proven out. The next step
 
 To Whom It May Concern:
 
-A little over one year ago I reached out to Professor Charlie Shi about my interest in speaking with DVC students about entrepreneurship. We met in his office and then over lunch. I brought with me a copy of my recent book, *(https://rbucks.com/the-parallel-entrepreneur/)*, and we talked about the decade I’ve spent as a founder, CEO, and General Manager within a private equity firm.
+A little over one year ago I reached out to Professor Charlie Shi about my interest in speaking with DVC students about entrepreneurship. We met in his office and then over lunch. I brought with me a copy of my recent book, *[The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/)*, and we talked about the decade I’ve spent as a founder, CEO, and General Manager within a private equity firm.
 
 He invited me to speak in one class, and then another, and then he introduced me to other professors at DVC who also invited me to speak, and then Charlie invited me to join the Business Administration Department Advisory Board. From there I became involved with the (https://www.linkedin.com/groups/13662966/) led by Professor Jim Blair. Delightfully, one opportunity has led to another, and I’m very pleased that this sequence of events has led here, to my application to be an adjunct instructor at the college. 
 
@@ -48,7 +48,7 @@ Importantly, I also know exactly what my peers and I look for in marketing hires
 
 **Ability to teach**
 
-Many Business Administration professors at DVC have seen me speak. I was honored to be invited to keynote the first (https://rbucks.com/2019/09/11/four-simple-truths-about-entrepreneurship/) this year, where I spoke about my experience getting into a top college and grad schools, and the things I’ve learned about entrepreneurship since then. 
+Many Business Administration professors at DVC have seen me speak. I was honored to be invited to keynote the first [entrepreneur lecture series]({filename}four-simple-truths-about-entrepreneurship.md) this year, where I spoke about my experience getting into a top college and grad schools, and the things I’ve learned about entrepreneurship since then. 
 
 I really enjoy speaking and teaching, and I put time into making sure my content is accessible and interesting. This is a skill I would also like to improve, and that is what draws me to this instructor opportunity. 
 

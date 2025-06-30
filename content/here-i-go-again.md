@@ -10,13 +10,13 @@ It was a receptionist from my endocrinologist's office. My heart sank a bit. I h
 
 "Mr. Buckley, I'm calling to inform you that your biopsy did come back positive with papillary thyroid cancer. Dr. B would like to see you to discuss next steps in person."
 
-Despite her busy schedule, we managed to schedule an appointment for the next day. At 3:59 I ended that call and dialed into my next one, a weekly performance review for my day job as (https://rbucks.com/2018/11/02/mightysignals-new-leadership/). I powered through it, unwilling to reschedule so I could take a beat and reflect. After 45 minutes I was done, my last call of the day was over, and I could take a few minutes to mull the news over. 
+Despite her busy schedule, we managed to schedule an appointment for the next day. At 3:59 I ended that call and dialed into my next one, a weekly performance review for my day job as ({filename}mightysignals-new-leadership.md). I powered through it, unwilling to reschedule so I could take a beat and reflect. After 45 minutes I was done, my last call of the day was over, and I could take a few minutes to mull the news over. 
 
-The thing about this cancer is not whether or not it will kill me -- chances are it will not -- it's the time and money that it's taking away. It doesn't (https://rbucks.com/2019/02/13/the-thing-that-wont-go-away/) that much anymore, so the psychological effects for me at least seem very minimal. It's an annoyance, a gnat flying around while I keep slapping air.  I want it to go away but I'm learning to live with it instead.
+The thing about this cancer is not whether or not it will kill me -- chances are it will not -- it's the time and money that it's taking away. It doesn't ({filename}the-thing-that-wont-go-away.md) that much anymore, so the psychological effects for me at least seem very minimal. It's an annoyance, a gnat flying around while I keep slapping air.  I want it to go away but I'm learning to live with it instead.
 
 ---
 
-The following day was busy. I jogged my girls to preschool. The air was crisp and cool, having rained the night before. These mornings are my favorite times to run. Everything smells so good. The crisp, moist air combined with hints of oak, bay, and grasses is one of the many things I love about (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/). I slept fine the night before and woke up itching to jog. 
+The following day was busy. I jogged my girls to preschool. The air was crisp and cool, having rained the night before. These mornings are my favorite times to run. Everything smells so good. The crisp, moist air combined with hints of oak, bay, and grasses is one of the many things I love about ({filename}an-ode-to-the-suburbs.md). I slept fine the night before and woke up itching to jog. 
 
 I knocked out the roundtrip with just enough time to shower and get in the car to make it into San Francisco for an 11am meeting. After lunch I had another meeting, and after that I went back to Walnut Creek to see my endocrinologist and discuss the biopsy results in person. On the way I prepared by thinking through the worst thing she could say and how I'd react to it. The worst case wasn't terrible; given that this is papillary thyroid cancer it won't get too extreme unless there's some other indicator that something else is wrong. I figured that was very unlikely. 
 

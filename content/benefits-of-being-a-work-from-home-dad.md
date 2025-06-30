@@ -4,13 +4,13 @@ Slug: benefits-of-being-a-work-from-home-dad
 Category: Family
 Tags: parenting, work-from-home, family, entrepreneurship
 
-<div class="tiled-gallery__col">(/images/2019/01/unadjustednonraw_thumb_4f4.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_4f4/)(/images/2019/01/unadjustednonraw_thumb_4c5.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_4c5/)</div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col">(/images/2019/01/unadjustednonraw_thumb_56b.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_56b/)</div><div class="tiled-gallery__col">(/images/2019/01/unadjustednonraw_thumb_35f.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_35f/)</div><div class="tiled-gallery__col">(/images/2019/01/unadjustednonraw_thumb_1e.jpg)](https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/unadjustednonraw_thumb_1e/)</div></div></div></div>
+![Work from home dad photos]({static}/images/unadjustednonraw_thumb_4f4.jpg)
 
 For the last couple of years I've been working from home, generating my own income with my own companies on my own timeline. It's been a wonderful change of pace from the stress and surprises of startup life.
 
 On one hand the timing of needing to sell my venture-backed business really sucked. On the other hand it was perfect.
 
-The sucky part was I got (https://themighty.com/2018/01/my-papillary-thyroid-cancer-story/) just two months after my second daughter was born. Two months *before* my second daughter was born the outside CEO we hired for (https://www.scripted.com/) resigned and the board gave me the job on the implicit assumption that we would have to sell or shut down the business. At the time we had about 15 employees, so another implicit assumption was that I'd have to lead our (https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53).
+The sucky part was I got [thyroid cancer](https://themighty.com/2018/01/my-papillary-thyroid-cancer-story/) just two months after my second daughter was born. Two months *before* my second daughter was born the outside CEO we hired for [Scripted](https://www.scripted.com/) resigned and the board gave me the job on the implicit assumption that we would have to sell or shut down the business. At the time we had about 15 employees, so another implicit assumption was that I'd have to lead our [layoffs](https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53).
 
 I ended up scheduling my thyroidectomy around this layoff date. Four days after we let nine more Scripted employees go, I was in the hospital, losing my thyroid and the papillary cancer with it.
 

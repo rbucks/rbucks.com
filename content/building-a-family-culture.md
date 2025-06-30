@@ -6,15 +6,15 @@ Tags: parenting, family, company-culture, life-lessons
 
 Today is Father's Day, June 16, 2019. It's my fifth one as a dad and my thirty-sixth as a son. 
 
-Last night my girls, exhausted from a day playing in the cul-de-sac and then romping all around UC Berkeley with our neighbors, went to sleep blissfully early. My wife and I watched an hour-long episode in the living room, something we rarely do in the evening. This morning we all slept in (meaning we got out of bed after 7am) and I made waffles. Then the five of us (including (https://rbucks.com/2017/06/19/the-ascent-of-blue/)) went on a long jog / bicycle ride around the neighborhood. 
+Last night my girls, exhausted from a day playing in the cul-de-sac and then romping all around UC Berkeley with our neighbors, went to sleep blissfully early. My wife and I watched an hour-long episode in the living room, something we rarely do in the evening. This morning we all slept in (meaning we got out of bed after 7am) and I made waffles. Then the five of us (including ({filename}the-ascent-of-blue.md)) went on a long jog / bicycle ride around the neighborhood. 
 
 After that, the cul-de-sac sprang back to life and I was able to continue learning to play Kathy's Song, my new favorite Paul Simon tune. It's in the easy part of my range and has some beautiful fingerpicking. I want to add it to my "Oh, you play guitar? Play something!" repertoire. 
 
-With progress made on that tune, and my kids entertained by (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/) we've found ourselves in, I took the time to finish up this blog post. This is one I've been thinking about for a while and started writing last year. It's about similarities between office culture and family culture. 
+With progress made on that tune, and my kids entertained by ({filename}an-ode-to-the-suburbs.md) we've found ourselves in, I took the time to finish up this blog post. This is one I've been thinking about for a while and started writing last year. It's about similarities between office culture and family culture. 
 
 ---
 
-I’ve spent most of the last two years at home with my family during the hours when I used to be at an office. It’s been rewarding on (https://rbucks.com/2018/06/27/benefits-of-being-a-work-from-home-dad/) and it has given me a perspective on something I haven’t considered before: my family’s culture. 
+I’ve spent most of the last two years at home with my family during the hours when I used to be at an office. It’s been rewarding on ({filename}benefits-of-being-a-work-from-home-dad.md) and it has given me a perspective on something I haven’t considered before: my family’s culture. 
 
 Families have cultures just like companies have cultures. A tangible way to think about it are the cultural norms. 
 
@@ -22,7 +22,7 @@ In an office these are pretty standard:
 
 - Are distractions allowed in meetings?- Do meetings start and end on time? - How are conflicts resolved?- Is it okay to be emotional?- How promptly are requests handled?
 
-I’ve (https://rbucks.com/2017/09/19/my-greatest-hits-at-scripted/) a lot about company culture. One of my side projects, (https://www.enps.co), is a way to measure it. Now that I'm in an office again, although(https://rbucks.com/2019/08/07/back-to-the-office-and-back-again/), I'm conscious of the cultural norms that I'm creating. I'm trying to be deliberate about it, even the "do as I say, not as I do" norms that I wish I could avoid. Resistance is futile, though. The norm setting is unavoidable. 
+I’ve ({filename}my-greatest-hits-at-scripted.md) a lot about company culture. One of my side projects, (https://www.enps.co), is a way to measure it. Now that I'm in an office again, although({filename}back-to-the-office-and-back-again.md), I'm conscious of the cultural norms that I'm creating. I'm trying to be deliberate about it, even the "do as I say, not as I do" norms that I wish I could avoid. Resistance is futile, though. The norm setting is unavoidable. 
 
 Culture is always set by the CEO. Every one of the bullet points above stem directly from how the CEO conducts himself. 
 

@@ -14,14 +14,14 @@ One of the first ideas that I went down the rabbit hole on is (https://rbucks.no
 
 ## The Problem
 
-This much I know: residential energy consumption is (https://rbucks.com/2021/08/26/the-importance-of-electrification/). Gates, Doerr, and every actual scientist of academic merit who has looked at the numbers agree. We don't need to use so much gas at home. In fact, we don't *need *to use *any*. We want to cook at home like we're Bobby Flay but it's just not necessary.
+This much I know: residential energy consumption is [a major climate issue]({filename}the-importance-of-electrification.md). Gates, Doerr, and every actual scientist of academic merit who has looked at the numbers agree. We don't need to use so much gas at home. In fact, we don't *need *to use *any*. We want to cook at home like we're Bobby Flay but it's just not necessary.
 
 ![Professional cooking on gas range]({static}/images/image.png)
 *(Nobody needs to cook like this)*
 
 As I've described elsewhere on this blog, I'm no climate saint. After our remodel, we kept three gas appliances: our gas clothes drier (which we'll swap for a heat pump drier when it poops out), our gas fireplace (which I love but use only in the winter) and our gas grill (which I use for maybe 45 mins a week, tops). We got rid of the major gas guzzlers: the air furnace, the water heater, and the cooktop range. As a result, we use about 100 therms less per month in the winter than before, a reduction of about 2.5 tons of CO2 per year. Just in our little house. *(Note: we pay ~$50 per year extra for 100% renewable electricity.)*
 
-But enough about me. The problem is not everyone is making this change and we need everyone to do it. People opt not to go gas-free because even though the electric appliances are better ((https://rbucks.com/2021/08/26/the-importance-of-electrification/)) they are also significantly more expensive. Higher price means lower adoption. So we have to do something about the price.
+But enough about me. The problem is not everyone is making this change and we need everyone to do it. People opt not to go gas-free because even though the electric appliances are better ([as I've written before]({filename}the-importance-of-electrification.md)) they are also significantly more expensive. Higher price means lower adoption. So we have to do something about the price.
 
 ## The Solution
 

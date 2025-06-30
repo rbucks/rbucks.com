@@ -6,13 +6,13 @@ Tags: goals, shovels, fitness, teaching
 
 If I do this right, the way I *want* to do it and believe that I *can* do it, this will be a big year for me. Maybe the biggest. 
 
-As I shared a couple of blog posts ago, (https://rbucks.com/2023/08/25/happy-41st-birthday-to-me/). Age is only a number, but it has become a symbol on a map. It's the sign post on the road, a ticking clock. Turning 41 in 2023 meant a lot to me. It meant roots, friendships, patterns, and routines. It meant kids that are getting older and more independent. It meant a marriage that lasted many times longer than the one between my mom and dad.
+As I shared a couple of blog posts ago, [I turned 41]({filename}happy-41st-birthday-to-me.md). Age is only a number, but it has become a symbol on a map. It's the sign post on the road, a ticking clock. Turning 41 in 2023 meant a lot to me. It meant roots, friendships, patterns, and routines. It meant kids that are getting older and more independent. It meant a marriage that lasted many times longer than the one between my mom and dad.
 
-I wanted financial stability when my kids were young and we had a (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/) and then (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/). Now it's different. I feel like I can dream big again. This past year set the stage. This next year is when I go for it.
+I wanted financial stability when my kids were young and we had a [mortgage on our house]({filename}an-ode-to-the-suburbs.md) and then [a major remodel]({filename}how-we-did-our-home-addition-and-remodel.md). Now it's different. I feel like I can dream big again. This past year set the stage. This next year is when I go for it.
 
 ## Shovels to find product-market fit
 
-For me, this is going to be the year of (https://rbucks.com/2022/11/22/business-evaluation-shovels/). I've already gone all-in on this idea. I've raised $1.3M to date, and likely will raise another $200K more before hitting the upper limit on how much dilution we can take in this round. 
+For me, this is going to be the year of [Shovels]({filename}business-evaluation-shovels.md). I've already gone all-in on this idea. I've raised $1.3M to date, and likely will raise another $200K more before hitting the upper limit on how much dilution we can take in this round. 
 
 While the fundraising is important because we need it, the goal is to build a big business. Big to me, right now, is $10M ARR (annual recurring revenue). That's the target, and I'm willing to fight tooth and nail to get there.
 
@@ -38,7 +38,7 @@ I'm living these lessons as I teach them, and for me this has become something o
 
 ## Friendships to matter
 
-A couple of weeks before I turned 40, I took a group of guys up to (https://rbucks.com/2019/03/03/my-happy-place/). We hiked, we swam, we grilled, and we played Cards Against Humanity. It was awesome.
+A couple of weeks before I turned 40, I took a group of guys up to [Pinecrest]({filename}my-happy-place.md). We hiked, we swam, we grilled, and we played Cards Against Humanity. It was awesome.
 
 I remember vividly one moment at the end of the weekend. Only two guys remained, and since I was their ride home, they helped me put the cabin back together. We were sweeping the front deck when my career came up, and I lamented that I wasn't sure exactly what I was going to do next. I had some ideas but I was uncertain which one to pick. I told them I really wanted to be a climate tech CEO.
 
@@ -48,7 +48,7 @@ I'm making more friends as a result of the work I'm doing on Shovels and at DVC.
 
 ## Fitness to keep improving
 
-I'm in the best shape of my life. It's true. I credit a combination of my daily core routine, training for some (https://rbucks.com/2023/04/08/an-exploration-of-deep-exhaustion/), and doing a triathlon which really was about forcing myself to swim laps. Now a typical workout week for me looks like this:
+I'm in the best shape of my life. It's true. I credit a combination of my daily core routine, training for some [endurance races]({filename}an-exploration-of-deep-exhaustion.md), and doing a triathlon which really was about forcing myself to swim laps. Now a typical workout week for me looks like this:
 
 - 5 mornings of 10 minute core. Mondays I do a 5 minute straight arm blank. Tuesday through Friday I do 4 minutes on my elbows. The rest of the workout is various crunches, stretches, squats, and 40 pushups. 
 

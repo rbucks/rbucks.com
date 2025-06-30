@@ -4,7 +4,7 @@ Slug: why-are-some-communities-in-contra-costa-county-unincorporated
 Category: Politics
 Tags: local-politics, contra-costa-county, government, community
 
-When we first bought our little (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/) out here in Contra Costa County, I'd never heard of "unincorporated" communities. Our city address was Walnut Creek and I just assumed that we were Walnut Creek residents. As it turns out, we are not!
+When we first bought our little [house in the suburbs]({filename}an-ode-to-the-suburbs.md) out here in Contra Costa County, I'd never heard of "unincorporated" communities. Our city address was Walnut Creek and I just assumed that we were Walnut Creek residents. As it turns out, we are not!
 
 Case in point: In 2019, some of my neighbors asked the county to consider changing the mailing addresses to Lafayette in the parts of Saranap covered by the Lafayette School District. After years of meetings and one successful appeal, the change was granted. And just like that, my mailing address works as both Walnut Creek, CA and Lafayette, CA. And yet we technically "belong" to neither city.
 

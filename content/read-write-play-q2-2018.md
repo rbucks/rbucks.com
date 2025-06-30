@@ -10,7 +10,7 @@ So that was on my mind for my reading and writing this quarter.
 
 #### Read: The Originals
 
-I read this book soon after (https://rbucks.com/the-parallel-entrepreneur/). I chose it because it seemed like the more professional, mainstream, "official" version of my own book. I'd never read Adam Grant before but this title was getting a lot of airtime on podcasts and on Twitter. I bought it and dove in. 
+I read this book soon after [writing my own book on parallel entrepreneurship](https://rbucks.com/the-parallel-entrepreneur/). I chose it because it seemed like the more professional, mainstream, "official" version of my own book. I'd never read Adam Grant before but this title was getting a lot of airtime on podcasts and on Twitter. I bought it and dove in. 
 
 As expected, this was the perfect book selection. Several of the themes in *The Parallel Entrepreneur* were confirmed by Grant. 
 
@@ -32,7 +32,7 @@ It's not just quality, it's quantity. It takes a lot of iterations to have a tru
 
 #### Write: I wrote about writing
 
-In (https://rbucks.com/2017/12/04/how-i-wrote-17k-words-in-just-two-days/), I wrote about my book-writing process. I took a really relaxing 3-day, 2-night writing retreat in Sonoma and knocked out about half of my book. I prepared for this trip with a thorough outline, an open calendar, and a lot of motivation. I'd never done something like this before and I was committed.
+In [my post about writing 17k words in two days]({filename}how-i-wrote-17k-words-in-just-two-days.md), I wrote about my book-writing process. I took a really relaxing 3-day, 2-night writing retreat in Sonoma and knocked out about half of my book. I prepared for this trip with a thorough outline, an open calendar, and a lot of motivation. I'd never done something like this before and I was committed.
 
 Here's me crossing the 30,000-word mark that I was shooting for. That's a last-call Old Fashioned in my hand. It was about 11pm on my last night of the retreat. I started with 13,000 words in the document. 
 

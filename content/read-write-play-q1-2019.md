@@ -8,7 +8,7 @@ Another quarter, another RWP. I'm glad to report that I've been doing a LOT of r
 
 ## Read: 3 books on Finance
 
-This quarter I managed to read three books as part of my self-improvement curriculum. In (https://rbucks.com/2019/02/06/my-personal-2018-recap/), I mentioned how I wanted to focus my media consumption on specific topics. Rather than trying to read and keep up on everything, I'd put blinders up and focus on one (fairly broad) topic. I decided to make finance and accounting the inaugural subject matter, and I initially set out to read two books. However long it took to read two books on finance would be the length of my "class." I ended up reading three. 
+This quarter I managed to read three books as part of my self-improvement curriculum. In ({filename}my-personal-2018-recap.md), I mentioned how I wanted to focus my media consumption on specific topics. Rather than trying to read and keep up on everything, I'd put blinders up and focus on one (fairly broad) topic. I decided to make finance and accounting the inaugural subject matter, and I initially set out to read two books. However long it took to read two books on finance would be the length of my "class." I ended up reading three. 
 
 ### (https://www.amazon.com/dp/B0018QQQKS) by Nial Ferguson
 
@@ -73,7 +73,7 @@ This quarter I am going to read 3 books about design and do something I've been 
 
 I have a book in mind that I intend to write, but I haven't started writing it yet. There's an outline but that's it. 
 
-Instead, my writing in Q1 was dominated mostly by some good and bad news I got regarding my papillary thyroid cancer. I think it's summarized pretty well in my most (https://rbucks.com/2019/04/27/and-now-a-bit-of-certainty/). 
+Instead, my writing in Q1 was dominated mostly by some good and bad news I got regarding my papillary thyroid cancer. I think it's summarized pretty well in my most ({filename}and-now-a-bit-of-certainty.md). 
 
 The news is mostly good, and I am mostly fine. Writing about it is therapeutic and sharing it kind of sets it off to sea. I share because if I write and don't share then I feel like it's still stuck with me. By publishing it, I can push it into the world and out of my head, away from my psyche. So that's why I write and publish these stories. 
 

@@ -10,13 +10,13 @@ I’m going to evaluate a business that I’ve already started working on. Perha
 
 To back up a bit, I’ve been looking for a good idea for a while. I was obliged to stick with MightySignal for a year after Airnow acquired it. I set a timer in July 2021 thinking it would be easy to figure my path out in the following year. 
 
-But COVID dragged on, I continued (https://rbucks.com/2020/10/24/im-now-an-adjunct/), and life simply just kept moving. The year was up before I knew it. I wrote (https://rbucks.com/2022/06/22/business-evaluation-clime/) in June 2022, just four months ago. In it, I said I’m a “general manager in search of an idea” and that I wanted my next idea to be a “B2B climate tech solution that solves an enormous problem.” 
+But COVID dragged on, I continued ({filename}im-now-an-adjunct.md), and life simply just kept moving. The year was up before I knew it. I wrote ({filename}business-evaluation-clime.md) in June 2022, just four months ago. In it, I said I’m a “general manager in search of an idea” and that I wanted my next idea to be a “B2B climate tech solution that solves an enormous problem.” 
 
 The idea was elusive, to say the least. I crawled through the thousands of posts on (https://workonclimate.org/), social media-stalked my contacts launching  their own climate tech companies, and went deep on at least three co-founder opportunities. I came close to joining an electric vehicle manufacturer (micro-mobility, like golf carts), a carbon-free steel technology, and a programmatic interface for carbon accounting. 
 
 None of them worked out. Either I fell out of love with the idea, the CEO/co-founder I was courting chose someone else, or momentum waned and sputtered out. 
 
-And then, out of the ether, I started thinking about home construction and contractors. My wife and I did (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/) and it went really well. Our neighbors had the opposite experience. I felt bad for them, angry at the guys they hired, and wondered what the difference was between the contractor we hired and the one they went with. I started to look around and idea began to materialize. 
+And then, out of the ether, I started thinking about home construction and contractors. My wife and I did ({filename}how-we-did-our-home-addition-and-remodel.md) and it went really well. Our neighbors had the opposite experience. I felt bad for them, angry at the guys they hired, and wondered what the difference was between the contractor we hired and the one they went with. I started to look around and idea began to materialize. 
 
 There’s public data about building permits and the inspections that are required for a permit to be signed off. There’s a ton of this data, in fact, but it’s hard to get. Despite being public, there’s no standardized, simple interface to interact with it. There are a dozen different softwares among the jurisdictions that post the data online. Many simply don’t have it on the Internet. 
 
@@ -24,7 +24,7 @@ A little antenna went up in the back of my head. This is why there’s no single
 
 For a month or so, I did nothing. I told my neighbors about it and they nodded in appreciation of my excitement if not for the brilliance of the idea itself, and then as has happened for my preceding forty years, life just rolled along. 
 
-A change happened in mid-August when I brought a group of friends (https://rbucks.com/2019/03/03/my-happy-place/) for a weekend. It was a short trip, just one night for most of the group. Two close friends stuck around while I put the cabin back together and as I swept the deck they gave me a very consequential pep talk.
+A change happened in mid-August when I brought a group of friends ({filename}my-happy-place.md) for a weekend. It was a short trip, just one night for most of the group. Two close friends stuck around while I put the cabin back together and as I swept the deck they gave me a very consequential pep talk.
 
 I don’t remember exactly what was said, but I remember what I took away from it:
 
@@ -42,7 +42,7 @@ Then I reached out to a contact at (https://www.teamworthy.com/) who I’d known
 
 I scheduled a meeting with my Teamworthy guy. He told me that to be competitive with their process I needed a co-founder. Fortunately, I had the perfect person in mind. 
 
-I met Luka for the first time in February 2020 when I organized a (https://rbucks.com/2018/11/02/mightysignals-new-leadership/) retreat in Las Vegas. We rented out the “Real World Suite” at the Gold Spike in Downtown Las Vegas so everyone could stay in the same place and get more opportunity to connect (in retrospect this only worked because we were all guys). 
+I met Luka for the first time in February 2020 when I organized a ({filename}mightysignals-new-leadership.md) retreat in Las Vegas. We rented out the “Real World Suite” at the Gold Spike in Downtown Las Vegas so everyone could stay in the same place and get more opportunity to connect (in retrospect this only worked because we were all guys). 
 
 Luka arrived last due to a harrowing sequence of flight delays. He ended up traveling nearly 24 hours from Slovenia to Las Vegas. I felt terrible for him but he was chirpy as ever, just glad to be there, and went immediately to sleep. 
 

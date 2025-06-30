@@ -4,7 +4,7 @@ Slug: the-lives-people-live
 Category: Personal
 Tags: ambition, self-improvement, life-lessons, philosophy
 
-I met an old friend for lunch in Malibu. He had a decent exit from his marketplace startup and had become a leadership coach. When we compared notes, we discovered that we both felt an undercurrent of inadequacy. I've written (https://rbucks.com/2021/10/10/above-average-mediocrity/). 
+I met an old friend for lunch in Malibu. He had a decent exit from his marketplace startup and had become a leadership coach. When we compared notes, we discovered that we both felt an undercurrent of inadequacy. I've written about [above average mediocrity]({filename}above-average-mediocrity.md). 
 
 We each had friends become far richer and more famous and influential than us. We didn’t want to care, but we did. A vicious cycle ensued: feeling bothered about being bothered made us feel even more bothered. 
 

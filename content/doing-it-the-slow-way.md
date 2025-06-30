@@ -8,7 +8,7 @@ I have not written here in a few months. This break happens whenever I teach. My
 
 The sun rises and sets over and over again… and I don’t write. Ho hum.
 
-I just read my last post, (https://rbucks.com/2024/01/01/what-i-want-in-2024/). Some things are going well. Shovels is good but we haven't found product-market fit yet. My fitness is great. My friendships are strong. Teaching was hard; I got tired at the end of the semester. I stopped playing chess; just couldn't fit it in. 
+I just read my last post, [What I want in 2024]({filename}what-i-want-in-2024.md). Some things are going well. Shovels is good but we haven't found product-market fit yet. My fitness is great. My friendships are strong. Teaching was hard; I got tired at the end of the semester. I stopped playing chess; just couldn't fit it in. 
 
 But it is summer now and the days are longer. I’m not teaching live classes and I’ve adjusted my fall semester schedule to have more time to work on Shovels. I felt comfortable enough to hire another Shovels employee.
 

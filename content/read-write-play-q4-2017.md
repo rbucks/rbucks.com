@@ -4,7 +4,7 @@ Slug: read-write-play-q4-2017
 Category: Personal
 Tags: reading, writing, music, self-improvement
 
-A few months ago I wrote (https://rbucks.com/2017/04/28/three-life-hacks-i-wish-i-did-more-often/) about three things I wish I did more often to be and feel better.
+A few months ago I wrote [three life hacks I wish I did more often]({filename}three-life-hacks-i-wish-i-did-more-often.md) about three things I wish I did more often to be and feel better.
 
 One of the things on my list was another list of three things. For personal enrichment, I want to always have something that I’m reading, something that I’m writing, and something that I’m learning to play on guitar or piano.
 
@@ -22,7 +22,7 @@ My friends back in my UC Berkeley days always spoke highly of this book and I pr
 
 #### Writing: The Parallel Entrepreneur
 
-I’m about halfway through a book on parallel entrepreneurship, in which I dissect the tactics and rationale behind running multiple businesses at once. I’ve already (https://rbucks.com/2017/10/27/parallel-entrepreneurship-defined/) on Medium and this book is where I’m compiling my favorite thoughts. Here’s an early book cover draft.
+I’m about halfway through a book on parallel entrepreneurship, in which I dissect the tactics and rationale behind running multiple businesses at once. I’ve already [parallel entrepreneurship defined]({filename}parallel-entrepreneurship-defined.md) on Medium and this book is where I’m compiling my favorite thoughts. Here’s an early book cover draft.
 
 ![Parallel Entrepreneur book cover]({static}/images/a1201-1fpaei1pd8jo4r4ivtwfyzg.png)
 

@@ -6,7 +6,7 @@ Tags: teaching, community-college, career, family
 
 Last October, a professor in the business department at (https://www.dvc.edu) (DVC) asked me if I would apply to teach part-time in a new digital marketing certificate program. 
 
-It was an easy decision; (https://rbucks.com/2019/10/17/why-im-applying-to-be-an-instructor-at-dvc/). 
+It was an easy decision; ({filename}why-im-applying-to-be-an-instructor-at-dvc.md). 
 
 I'd been volunteering at DVC since late 2018, speaking in classes and helping with pitch competitions. I met faculty and staff and got involved officially as an advisor to the business department and I also joined the newly-formed (https://www.dvti.org). I was enamored with DVC. I liked everything about it. 
 
@@ -14,9 +14,9 @@ My history with this community college goes back further than 2018, actually. Mu
 
 I wouldn't see DVC in the broad daylight until I was in my mid-30s and living just over the hill from campus. One of my neighbors, a teenager, was performing in a community theater and his parents invited us to go with them. My daughter Lily was into dressing up and singing Disney songs at the time, so I knew she'd love to see some "real princesses" on stage. We parked in the same lot where my grandpa would pull up in his white Toyota pickup. We walked up the stairs to the same auditorium where he used to perform. We sat in the same seats. 
 
-It was deja vu, lifetimes apart. Here I was, all grown up with a daughter in hand, another napping at home, in the same place where I watched my grandpa perform decades earlier. He was (https://rbucks.com/2016/09/24/remembering-meredith/), a victim of old age, and I couldn't help but think of him as the teens and pre-teens on stage acted out scenes from Peter Pan. Indeed, life moves in circles.  
+It was deja vu, lifetimes apart. Here I was, all grown up with a daughter in hand, another napping at home, in the same place where I watched my grandpa perform decades earlier. He was ({filename}remembering-meredith.md), a victim of old age, and I couldn't help but think of him as the teens and pre-teens on stage acted out scenes from Peter Pan. Indeed, life moves in circles.  
 
-I would get to know DVC much better, largely thanks to Professor Charlie Shi, who responded to a cold introduction of myself and the book I'd (https://rbucks.com/the-parallel-entrepreneur/). I detailed the rest in my (https://rbucks.com/2019/10/17/why-im-applying-to-be-an-instructor-at-dvc/) about this position, so I'll fast-forward to this latest news. 
+I would get to know DVC much better, largely thanks to Professor Charlie Shi, who responded to a cold introduction of myself and the book I'd (https://rbucks.com/the-parallel-entrepreneur/). I detailed the rest in my ({filename}why-im-applying-to-be-an-instructor-at-dvc.md) about this position, so I'll fast-forward to this latest news. 
 
 Yes, I got the job! It took a while for DVC to move on my application, but they verified my transcripts, spoke to my references, and interviewed me in May amidst the pandemic shutdowns. I learned a couple of weeks later that I was going to be permitted to teach, but also that nothing would be official until I was assigned a class. The summer passed and I learned just this month that I will be teaching (https://www.dvc.edu/academics/departments/business-admin/digital-marketing.html) (BUSMK-264) for two months between March and May 2021. I'm stoked! 
 

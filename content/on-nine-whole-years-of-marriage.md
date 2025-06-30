@@ -14,11 +14,11 @@ Most importantly, she loves me. I've never doubted it, never felt otherwise, nev
 
 Like I said, I am a lucky man. 
 
-I forgive myself for that oversight, as most men tend to do, because I think I'm a pretty good husband. If I may say so myself. I cook, I clean, I wash dishes and put them away, I do laundry (when she lets me) and I take the kids to school 99.9% of the time (she picks them up). Until just recently I was home every day because I worked from home (I'll describe my first temporary office in Walnut Creek for summer interns in (https://rbucks.com/2019/08/07/back-to-the-office-and-back-again/)). 
+I forgive myself for that oversight, as most men tend to do, because I think I'm a pretty good husband. If I may say so myself. I cook, I clean, I wash dishes and put them away, I do laundry (when she lets me) and I take the kids to school 99.9% of the time (she picks them up). Until just recently I was home every day because I worked from home (I'll describe my first temporary office in Walnut Creek for summer interns in ({filename}back-to-the-office-and-back-again.md)). 
 
 From what I can tell, the things most married couples argue over relate to conflicts between work and family time. I'm no saint, but I think I do a pretty good job of managing that balance. Even with my new office situation, I'm home by 5:30pm and I still take the kids to school. 
 
-On the improvement side, I work (or at least am on my computer) more than half the evenings in a given week, including weekends. Despite (https://rbucks.com/2017/04/28/three-life-hacks-i-wish-i-did-more-often/) it, I'm definitely on my phone too much. I could be more proactive about planning meals, family activities, and time alone with just my wife. I'm aware, and writing this down helps me remind myself that it's important to translate awareness into action.
+On the improvement side, I work (or at least am on my computer) more than half the evenings in a given week, including weekends. Despite ({filename}three-life-hacks-i-wish-i-did-more-often.md) it, I'm definitely on my phone too much. I could be more proactive about planning meals, family activities, and time alone with just my wife. I'm aware, and writing this down helps me remind myself that it's important to translate awareness into action.
 
 Okay, okay. 
 

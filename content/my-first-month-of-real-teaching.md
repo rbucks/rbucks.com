@@ -11,7 +11,7 @@ I leave Diablo Valley College each Tuesday and Thursday exhausted but on the equ
 
 I'm three weeks in with thirteen more to go until the end of the semester. I've learned a few things, but before I go into that, let me provide some context. 
 
-I described (https://rbucks.com/2019/10/17/why-im-applying-to-be-an-instructor-at-dvc/) in a previous post. I still believe all of it. My heart is 100% still in this. I love the community college atmosphere, the type of students I teach, and the subject itself. My first two semesters were, like so many educators, a shallow pit of Zoom office hours and online quizzes. It was fine but not particularly rewarding. I did all that work upfront and merely shepherded the course along as the weeks went by. I didn't feel like I was teaching. I was just the facilitator. 
+I described [my motivation for teaching]({filename}why-im-applying-to-be-an-instructor-at-dvc.md) in a previous post. I still believe all of it. My heart is 100% still in this. I love the community college atmosphere, the type of students I teach, and the subject itself. My first two semesters were, like so many educators, a shallow pit of Zoom office hours and online quizzes. It was fine but not particularly rewarding. I did all that work upfront and merely shepherded the course along as the weeks went by. I didn't feel like I was teaching. I was just the facilitator. 
 
 When the Business Administration Department asked me to teach the only two in-person sections of Introduction to Business, a course that every business student needs to take, I eagerly accepted. This would be my moment! I could finally don my elbow-patched tweed blazer, smoke my pipe, and wax poetical before a chalkboard in front of enamored students. 
 
@@ -53,7 +53,7 @@ My preparation thus far has been sufficient. I'm sure I could do more, but I'm g
 
 ## Teaching live takes stamina
 
-Teaching is a workout. I get the same high as an eight-mile run, but here it's all in my head. The feeling also reminds me of playing with the (https://rbucks.com/2019/10/17/becoming-a-better-public-singer/) after a really good show. I'd still be pumped up on adrenaline, glad that's over but happy with how the performance went. I get that buzz every Tuesday and Thursday after two back-to-back lectures.
+Teaching is a workout. I get the same high as an eight-mile run, but here it's all in my head. The feeling also reminds me of playing with the [Rolling Sloans band]({filename}becoming-a-better-public-singer.md) after a really good show. I'd still be pumped up on adrenaline, glad that's over but happy with how the performance went. I get that buzz every Tuesday and Thursday after two back-to-back lectures.
 
 I'm not sure what about it is so tiring. I do feel like I'm performing. I'm very deliberately shoving my introversions aside and my mind is running in overdrive, especially when I'm going off the cuff on one of my business news tangents. But like these workouts I've been doing recently, I've learned to love the exhaustion. I tell myself during my physical workouts that this is where muscle is born. It hurts because I'm giving birth to strength. Lecturing on a subject like microeconomics, international trade, or a new business framework is like that. I'm giving birth to knowledge. It's supposed to feel hard. 
 
@@ -61,6 +61,6 @@ I also appreciate that it's getting easier. Like training to do a five minute st
 
 ## Conclusion
 
-I've always been told I'd make a good teacher. I've always agreed. I'm grateful to have the chance to explore this now. I'm glad that Diablo Valley College is a close drive (or, more commonly now, a bike ride) away. I'm glad I got a (https://rbucks.com/2019/06/06/what-my-grad-school-experience-meant-to-me/) -- without it, I would not have been hired. 
+I've always been told I'd make a good teacher. I've always agreed. I'm grateful to have the chance to explore this now. I'm glad that Diablo Valley College is a close drive (or, more commonly now, a bike ride) away. I'm glad I got a [graduate degree]({filename}what-my-grad-school-experience-meant-to-me.md) -- without it, I would not have been hired. 
 
 This whole experience has been a major positive in my life and I expect it will only get better.

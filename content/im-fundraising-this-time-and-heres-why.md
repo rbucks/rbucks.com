@@ -6,7 +6,7 @@ Tags: shovels, fundraising, startups, climate-tech
 
 If you read this blog, I mean really parse through it and find my stuff from 2017 and 2018, you'd be surprised to know that I'm eagerly, enthusiastically, *passionately* fundraising for my startup this time around. 
 
-Yes, me, the guy who wrote (https://rbucks.com/2017/06/30/dont-make-a-mountain-of-a-sand-hill/). I wrote that. I'm not ashamed. As Jay-Z would say, "It's just what I was feelin' at the time..."
+Yes, me, the guy who wrote ({filename}dont-make-a-mountain-of-a-sand-hill.md). I wrote that. I'm not ashamed. As Jay-Z would say, "It's just what I was feelin' at the time..."
 
 And this time is different. I'm working on different things, thinking different thoughts, seeking different outcomes. This time I'm not interested in a side hustle that I can grow to ten or twenty thousand dollars a month with very little work. I've been there, and it's great, but it's not what I want now. 
 
@@ -14,7 +14,7 @@ This time I want big, and to get big, I need capital.
 
 ## The case for capital
 
-My new startup, (https://rbucks.com/2022/11/22/business-evaluation-shovels/), is not a small project. It's a monstrosity. It's far too much work for me, or me with a co-founder, or even me with a team of 20 engineers. Shovels, at scale, is a lot of people doing a lot of different things. That's what I love about this idea.  
+My new startup, ({filename}business-evaluation-shovels.md), is not a small project. It's a monstrosity. It's far too much work for me, or me with a co-founder, or even me with a team of 20 engineers. Shovels, at scale, is a lot of people doing a lot of different things. That's what I love about this idea.  
 
 When it takes money to make money, you have a case for capital. This is the purpose of financing. You need to spend money now to make money later. You deploy money upfront, in a strategic manner, to produce more later. The expectation, of course, is that you make more money than you originally deployed. 
 
@@ -22,7 +22,7 @@ In startups, we talk about seeds. This is a good analogy. You by seeds at a stor
 
 I didn't need capital for my personal projects. I could build the seed myself, plant it, water it, and grow it. I didn't need to borrow anyone's money or sell any equity. Even when I was surreptitiously offered it, I turned it down. But those were small ideas with small outcomes. I know this now because I've exited my side projects.
 
-I told myself that what I (https://rbucks.com/2022/11/26/climate-tech-is-my-next-big-thing/) would have three ideal attributes:
+I told myself that what I ({filename}climate-tech-is-my-next-big-thing.md) would have three ideal attributes:
 
 - **Be big**: have a chance to be very large in scope, having real impact in the world
 
@@ -30,7 +30,7 @@ I told myself that what I (https://rbucks.com/2022/11/26/climate-tech-is-my-next
 
 - **Be local**: have an impact on my local community or somehow be involved in it
 
-I explored a (https://rbucks.com/2022/11/26/climate-tech-is-my-next-big-thing/). I talked to a lot of people. I worked for free. But none of them quite fit. An idea might tick two of the boxes and the missing third one would continue to bother me. 
+I explored a ({filename}climate-tech-is-my-next-big-thing.md). I talked to a lot of people. I worked for free. But none of them quite fit. An idea might tick two of the boxes and the missing third one would continue to bother me. 
 
 Finally, I hit upon Shovels.
 

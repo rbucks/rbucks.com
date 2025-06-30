@@ -4,7 +4,7 @@ Slug: a-summary-of-our-first-home-projects
 Category: Personal
 Tags: home-improvement, family, lifestyle, diy
 
-*This is a prequel to the longer post about our (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/).*
+*This is a prequel to the longer post about our ({filename}how-we-did-our-home-addition-and-remodel.md).*
 
 Look, our house wasn't *that *bad. Friends and family would come to visit and more or less say the same things:
 
@@ -16,7 +16,7 @@ Look, our house wasn't *that *bad. Friends and family would come to visit and mo
 
 This, of course, was true. When our kids were fed and happy and we had nothing else on our minds, there was indeed a nice vibe in our 1500 square feet of 1951's finest pock-marked walls and squeaky floors. But at six in the morning when we tried to sneak past the kids' rooms without waking them up; when the outlet by the dining table just stopped working; when you could hear the mice in the walls at night... we were reminded that the house was old. Well-loved and lived-in, for sure, but damn old. 
 
-I met our house for the first time late in 2015. We were deep in our housing hunt at this point, having already made offers on three other places, narrowly missing a $1.3 million offer by just $5,000. My (https://rbucks.com/2016/09/24/remembering-meredith/) was getting sick and we knew the end was near. It just happened to also be our house-hunting time, and for a few months we considered buying his house near Acalanes High School from my family. 
+I met our house for the first time late in 2015. We were deep in our housing hunt at this point, having already made offers on three other places, narrowly missing a $1.3 million offer by just $5,000. My ({filename}remembering-meredith.md) was getting sick and we knew the end was near. It just happened to also be our house-hunting time, and for a few months we considered buying his house near Acalanes High School from my family. 
 
 On October 18, 2015, I went with my friend Eric to see two houses in Lafayette and visit my grandpa at his outpatient clinic. The first house we saw was on Upper Happy Valley, a very well-to-do street in a well-to-do neighborhood. I didn't like it. It was at the top of our budget and the road it was on was too narrow and the cars drove by too fast. I couldn't imagine teaching my daughter to ride her bike there. I shook my head as we left. I was *not *going to live there. 
 
@@ -177,4 +177,4 @@ It was 1500 square feet, and we used all of it. These were good times.
 ![Family enjoying the home]({static}/images/2021/07/6FD43CBD-7BF2-4B50-964A-5F536097DE9E-1024x1024.jpg)
 </figure>
 
-(https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/).
+({filename}how-we-did-our-home-addition-and-remodel.md).

@@ -10,7 +10,7 @@ But then, one night, I wrote a poem.
 
 ![Remember children's book cover]({static}/images/Remember-ebook-cover-1024x1024.jpg)
 
-It was November 29, 2021. A Monday. We had just wrapped up a long holiday week. My wife's family visited us for several days, culminating in a large family Thanksgiving dinner with my parents joining the party. We hosted everyone, putting to use every inch of our (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/).
+It was November 29, 2021. A Monday. We had just wrapped up a long holiday week. My wife's family visited us for several days, culminating in a large family Thanksgiving dinner with my parents joining the party. We hosted everyone, putting to use every inch of our [newly remodeled home]({filename}how-we-did-our-home-addition-and-remodel.md).
 
 They all left on Friday, we took a breather on Saturday, and on Sunday we did it again with my dad's side of the family. I called it the "Buckley Holiday Dinner" on my calendar. I roasted a four-bone prime rib complete with hand-grated horseradish sauce and big pot of mashed potatoes. It was fun to show off the place and eat too much one more time. 
 
@@ -50,7 +50,7 @@ This partnership continued for the next three months. I revised the poem. A word
 
 *Bingo*, I thought. *There's another page! *It's in the final version. 
 
-<p>In December, I reconnected with the (https://dtperfect.com/) I used for *(https://rbucks.com/the-parallel-entrepreneur/)*. She told me she would be busy after January, so I started a new email thread with her and Jolene. Together, they made sure that the art would be in the right format and resolution for the 8.5 inch square book layout. By the end of January, Jolene was done with the poem spreads and we spent a few days with the cover. I made sure Jolene was paid in full and worked the final steps with the book designer. 
+<p>In December, I reconnected with the [book designer](https://dtperfect.com/) I used for *[The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/)*. She told me she would be busy after January, so I started a new email thread with her and Jolene. Together, they made sure that the art would be in the right format and resolution for the 8.5 inch square book layout. By the end of January, Jolene was done with the poem spreads and we spent a few days with the cover. I made sure Jolene was paid in full and worked the final steps with the book designer. 
 
 All of a sudden, I was done. I received the final set of files on February 10, 2022. I published my book on Kindle Direct Publishing (ebook, paperback) and IngramSpark (hardcover) the same day. 
 

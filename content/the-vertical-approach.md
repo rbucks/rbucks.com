@@ -4,7 +4,7 @@ Slug: the-vertical-approach
 Category: Business
 Tags: shovels, business-strategy, platforms, data
 
-I wrote about the difference between (https://rbucks.com/2022/12/30/platforms-versus-point-solutions/) a while ago. I explained why I would proactively try to make Shovels a platform. Point solutions are critical parts of the technology ecosystem, but they're not where the value goes. Value accrues to the platforms and I want Shovels to be a platform.
+I wrote about the difference between [platforms versus point solutions]({filename}platforms-versus-point-solutions.md) a while ago. I explained why I would proactively try to make Shovels a platform. Point solutions are critical parts of the technology ecosystem, but they're not where the value goes. Value accrues to the platforms and I want Shovels to be a platform.
 
 That's all fine and good and even a bit obvious. It gets more interesting when I ask the question that I've asked myself so many times before: *what if it can be both*? 
 

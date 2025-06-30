@@ -6,7 +6,7 @@ Tags: local-politics, contra-costa-county, government, civic-engagement
 
 There are 58 counties in the State of California and every one of them has a Board Supervisors. But... why? What power does this board have and what does it do? Are county supervisors full-time positions? How do they relate to the city councils?
 
-These are the questions my neighbors peppered me with one sunny day in our front yard shortly after I'd (https://rbucks.com/2018/07/02/my-first-commission-seat-in-contra-costa-county/) to the Contra Costa County Sustainability Commission. I told them what I knew:
+These are the questions my neighbors peppered me with one sunny day in our front yard shortly after I'd [been appointed]({filename}my-first-commission-seat-in-contra-costa-county.md) to the Contra Costa County Sustainability Commission. I told them what I knew:
 
 - Yes, supervisors are full-time positions and each supervisor has a couple of offices and a few full-time staffers.- They approve a lot of major zoning and development proposals. Supervisors also sit on a lot of other boards and commissions that control everything from municipal district boundaries to school budgets.- I didn't know how they relate to city councils. 
 

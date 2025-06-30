@@ -62,7 +62,7 @@ We then walked through Wall Street and headed back to the subway and then uptown
 
 ![Walking through Wall Street]({static}/images/2023/02/17F76BE0-8AFA-4944-8788-F7244FA1252A_1_105_c-225x300.jpeg)
 
-We loved the Empire State Building. I thought the touristy elements were thoughtfully laid out and interesting. I couldn't believe the building was already 90 years old. It went up the same year my great-grandpa built our cabin at (https://rbucks.com/2019/03/03/my-happy-place/).
+We loved the Empire State Building. I thought the touristy elements were thoughtfully laid out and interesting. I couldn't believe the building was already 90 years old. It went up the same year my great-grandpa built our cabin at ({filename}my-happy-place.md).
 
 ![Empire State Building exterior]({static}/images/2023/02/ED93C4E6-4019-49A6-B0BA-44268F678A42_1_105_c-225x300.jpeg) ![Empire State Building lobby]({static}/images/2023/02/F5F7A1A6-7F70-42FF-8654-A511E28C8EA9_1_105_c-300x225.jpeg) ![Empire State Building view]({static}/images/2023/02/A51CD678-67C2-4683-AF29-1CB48FC67458_1_105_c-225x300.jpeg) ![Empire State Building observation deck]({static}/images/2023/02/072525A3-1986-4E6F-A887-E3022C483C91_1_105_c-225x300.jpeg) ![View from Empire State Building]({static}/images/2023/02/3079B15A-30CB-4D4B-92B7-DB02378C6A0E_1_105_c-300x225.jpeg) ![Manhattan skyline view]({static}/images/2023/02/AE2ED6E1-6D91-4672-9BA3-922D37B4811B_1_105_c-300x225.jpeg) ![NYC panoramic view]({static}/images/2023/02/IMG_0885-300x225.jpeg)
 
@@ -84,7 +84,7 @@ I was anxious to get back to the hotel, and she was too. We cheated and took the
 
 ![Hamilton theater]({static}/images/2023/02/2D74CB91-253A-4961-B450-B700263BE5C5_1_105_c-300x225.jpeg) ![Getting ready for Hamilton]({static}/images/2023/02/BFB5BCFF-7BFC-4797-864E-6D21D201DEBA_1_105_c-300x225.jpeg)
 
-The show was fantastic, of course. I booked reservations at Del Frisco, a fancy steakhouse nearby, for dinner. It was great, but I've learned over and over again that I can grill better cuts of ribeyes with (https://rbucks.com/2017/01/02/buckleys-grilled-cowboy-rib-eyes/). Still, a date with Lily is a date with Lily, and I was very happy to be there.
+The show was fantastic, of course. I booked reservations at Del Frisco, a fancy steakhouse nearby, for dinner. It was great, but I've learned over and over again that I can grill better cuts of ribeyes with ({filename}buckleys-grilled-cowboy-rib-eyes.md). Still, a date with Lily is a date with Lily, and I was very happy to be there.
 
 ![Del Frisco steakhouse dinner]({static}/images/2023/02/24286D27-35F4-4468-9645-770493070785_1_105_c-225x300.jpeg) ![Fancy dinner with Lily]({static}/images/2023/02/A90E4069-DED0-47B1-A485-4D9ECF75C67B_1_105_c-300x225.jpeg) ![Father-daughter dinner date]({static}/images/2023/02/2ADF69D4-64B0-43C5-8967-49FCD668168D_1_105_c-225x300.jpeg)
 

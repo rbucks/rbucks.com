@@ -4,11 +4,11 @@ Slug: climate-tech-is-my-next-big-thing
 Category: Business
 Tags: entrepreneurship, climate-tech, business-strategy, startups
 
-This has been a wild year. I guess I'll start from where I left off on that (https://rbucks.com/2022/02/20/how-i-wrote-my-childrens-book/) about a year ago.
+This has been a wild year. I guess I'll start from where I left off on that [children's book post]({filename}how-i-wrote-my-childrens-book.md) about a year ago.
 
-Coming into 2022, I was doing really great. (https://mightysignal.com/blog/airnow-acquires-mightysignal) and was enjoying the process of moving into our (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/). I'd spend my evenings in the cottage (which wasn't described at all in that long blog post -- an accidental oversight) working on a (https://rbucks.com/2022/01/16/my-foray-into-web3/) and listening to loud music (thank you, (https://www.sonos.com/en-us/products/wireless-home-theater).) I was really happy.
+Coming into 2022, I was doing really great. [MightySignal was acquired](https://mightysignal.com/blog/airnow-acquires-mightysignal) and was enjoying the process of moving into our [remodeled house]({filename}how-we-did-our-home-addition-and-remodel.md). I'd spend my evenings in the cottage (which wasn't described at all in that long blog post -- an accidental oversight) working on a [web3 project]({filename}my-foray-into-web3.md) and listening to loud music (thank you, (https://www.sonos.com/en-us/products/wireless-home-theater).) I was really happy.
 
-Then I (https://rbucks.com/2022/02/10/my-first-month-of-real-teaching/) and my routine completely changed. As soon as I finished prepping for one class, another one was around the corner. Spring semester this year I taught thirteen units in five sections across four classes. Two of the sections were 90-minute lectures, back-to-back. It was a lot!
+Then I [started teaching]({filename}my-first-month-of-real-teaching.md) and my routine completely changed. As soon as I finished prepping for one class, another one was around the corner. Spring semester this year I taught thirteen units in five sections across four classes. Two of the sections were 90-minute lectures, back-to-back. It was a lot!
 
 ![Teaching schedule screenshot]({static}/images/image-1024x773.png)
 
@@ -56,9 +56,9 @@ But it's competitive, and being ten years out of the professional environmental 
 
 I thinking seriously about a couple of ideas. One was around financing residential decarbonization using carbon offsets. I wanted to find a way to use the market value of the future unused CO2 to subsidize carbon-free renovations. It seemed like there should be a way to do this, but the pathway is far from clear. Nobody has figure it out yet, but (https://www.wattcarbon.com/) seems to be the closest. My revenue model would be an arbitrage between what the company pays to homeowners for their carbon credits and what the credits sell for in the market. 
 
-My other idea was to quantify how green a home is. This would be a pure software play, or possibly with some hardware if partners don't cooperate. This company would ingest indoor temperature and air quality, thermostat and water heater usage, smart device usage, and any other home-related data streams we can access. Besides analyzing this data to give tips for living greener, it would be a database of households' "home stacks," or the specific appliances that they use. The revenue model would be freemium -- free to use with some paid upgrades on the consumer side and possibly some paid advertising on the business side. This is a variant of the (https://rbucks.com/2022/06/22/business-evaluation-clime/) I evaluated previously.
+My other idea was to quantify how green a home is. This would be a pure software play, or possibly with some hardware if partners don't cooperate. This company would ingest indoor temperature and air quality, thermostat and water heater usage, smart device usage, and any other home-related data streams we can access. Besides analyzing this data to give tips for living greener, it would be a database of households' "home stacks," or the specific appliances that they use. The revenue model would be freemium -- free to use with some paid upgrades on the consumer side and possibly some paid advertising on the business side. This is a variant of the [Clime idea]({filename}business-evaluation-clime.md) I evaluated previously.
 
-The possibilities are endless, and I'm relieved to have finally settled on one idea, (https://rbucks.com/2022/11/22/business-evaluation-shovels/), which is not purely a climate business but one that fills a critical gap in the climate data puzzle. 
+The possibilities are endless, and I'm relieved to have finally settled on one idea, [Shovels]({filename}business-evaluation-shovels.md), which is not purely a climate business but one that fills a critical gap in the climate data puzzle. 
 
 Now the way I describe what I do and why I chose to work on Shovels is that I found the intersection, after a lot of hard work, between B2B data and climate technology. Shovels is both and it's exciting and hard and... perfect for me. 
 

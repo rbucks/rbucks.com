@@ -4,7 +4,7 @@ Slug: is-it-okay-to-be-a-nice-ceo
 Category: Business
 Tags: leadership, company-culture, entrepreneurship, business-strategy
 
-As I take the CEO helm again with (https://rbucks.com/2022/11/22/business-evaluation-shovels/), I've been thinking more about what kind of CEO I want to be. Am I some visionary leader with all of the answers? A hard-nosed drill sergeant making sure we stick to our deadlines? A coder? A product whiz? Or the Chief Sales Officer?
+As I take the CEO helm again with ({filename}business-evaluation-shovels.md), I've been thinking more about what kind of CEO I want to be. Am I some visionary leader with all of the answers? A hard-nosed drill sergeant making sure we stick to our deadlines? A coder? A product whiz? Or the Chief Sales Officer?
 
 I simply plan to be thoughtful and nice. Thoughtful makes sense. I should be thinking two or three steps ahead. Besides managing cash, the most obvious job of the CEO is to have a plan. Being thoughtful requires... thought. I think best when I write, so I've been blogging a lot more since I started Shovels. Being thoughtful makes it easier to talk to my team, potential customers, and investors. If I'm thoughtful enough, I'll have already thought of all the answers when I'm asked smart questions. 
 
@@ -23,7 +23,7 @@ Here are the good and bad points about being a nice CEO:
 
 #### The Bad
 
-- Nice CEOs usually struggle with hard personnel decisions like layoffs. They are prone to make these tough calls too late in the game. ((https://rbucks.com/2017/02/09/the-story-behind-our-layoffs/).)
+- Nice CEOs usually struggle with hard personnel decisions like layoffs. They are prone to make these tough calls too late in the game. (({filename}the-story-behind-our-layoffs.md).)
 - Nice CEOs may be unwilling to move aggressively against competition. They may be unwilling to be the bad guy in order to win a market, so they're vulnerable to being undercut by CEOs willing to take the low road.
 - Similarly, nice CEOs can have difficulty negotiating on behalf of the company on vendor agreements, term sheets, and salaries. 
 - Nice CEOs tend to over-promote and over-pay their employees. They also are more prone to give in to requests for additional perks.
@@ -31,7 +31,7 @@ Here are the good and bad points about being a nice CEO:
 
 ### The Analysis
 
-I still favor the "nice CEO" model, but I'm biased. I can't be any other way. Since being (https://rbucks.com/2018/11/02/mightysignals-new-leadership/) for a company that I didn't start, I've been thinking a bit more about this question. Am I actually too nice? What does that even mean? Really, all that I or anyone else should be worried about is results. It's the data that truly tells the story.
+I still favor the "nice CEO" model, but I'm biased. I can't be any other way. Since being ({filename}mightysignals-new-leadership.md) for a company that I didn't start, I've been thinking a bit more about this question. Am I actually too nice? What does that even mean? Really, all that I or anyone else should be worried about is results. It's the data that truly tells the story.
 
 The problem with trying to be analytical about this is "niceness" is impossible to quantify. So I took it upon myself to look at the performance of 20 public companies and the Glassdoor reviews of the CEOs in the lifetime-ago pre-pandemic era.
 

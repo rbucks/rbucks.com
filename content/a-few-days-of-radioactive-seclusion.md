@@ -4,11 +4,11 @@ Slug: a-few-days-of-radioactive-seclusion
 Category: Health
 Tags: thyroid-cancer, cancer, health, family, writing
 
-*Part 1: (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)
-Part 2: (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/)(https://rbucks.com/2018/02/22/my-thyroid-got-cancer-one-year-later/)
-Part 3: (https://rbucks.com/2019/02/13/the-thing-that-wont-go-away/)
-Part 4: (https://rbucks.com/2019/03/22/here-i-go-again/)
-Part 5: (https://rbucks.com/2019/04/27/and-now-a-bit-of-certainty/)*
+*Part 1: [My thyroid got cancer]({filename}my-thyroid-got-cancer.md)
+Part 2: [My thyroid got cancer: one year later]({filename}my-thyroid-got-cancer-one-year-later.md)
+Part 3: [The thing that won't go away]({filename}the-thing-that-wont-go-away.md)
+Part 4: [Here I go again]({filename}here-i-go-again.md)
+Part 5: [And now, a bit of certainty]({filename}and-now-a-bit-of-certainty.md)*
 
 ---
 
@@ -43,7 +43,7 @@ I could tell as soon as the radiologist walked in that there were no surprises. 
 
 Instead of just one lymph node with cancer, I had two, and for the second time this doctor told me this was not a huge deal. "If I can see it, I can kill it," he repeated. I liked this guy. 
 
-He told me come back a few hours later for the real deal, after which I would need to follow some precise rules to keep my fellow humans safe while in seclusion up at my (https://rbucks.com/2019/03/03/my-happy-place/).  
+He told me come back a few hours later for the real deal, after which I would need to follow some precise rules to keep my fellow humans safe while in seclusion up at my [happy place]({filename}my-happy-place.md).  
 
 It was still pretty early when I headed back home. My wife had already taken my girls to school. I'd already done the grocery shopping I needed for five days at the cabin. So, I went home and waited. 
 
@@ -53,7 +53,7 @@ The pill, the very radioactive one, didn't taste like anything. I read on Reddit
 
 "The dumps have dirty bomb detectors," my radiologist explained. "They'll detect radioactivity on that beer bottle or Coke can and trace it back to me and you. Then we'll both be in trouble." 
 
-(https://rbucks.com/2017/06/19/the-ascent-of-blue/) was in my car, patiently waiting for me. Since I was not supposed to spend more than 2 hours in close quarters with anybody, even pets, I drove him about 40 minutes to Dublin, where I met my dad. Blue would drive up to the mountains with him and I would go the rest of the way alone with my radioactive isotopes. 
+[Blue]({filename}the-ascent-of-blue.md) was in my car, patiently waiting for me. Since I was not supposed to spend more than 2 hours in close quarters with anybody, even pets, I drove him about 40 minutes to Dublin, where I met my dad. Blue would drive up to the mountains with him and I would go the rest of the way alone with my radioactive isotopes. 
 
 I stopped in Oakdale because I was hungry. There was a taco truck outside a fruit stand, so I quickly confirmed with the cook that they don't use sea salt and ordered a carnitas burrito, no sour cream, no cheese. I had to stay on my low-iodine diet for two more days. That burrito was awesome. Since I ate it all and was careful not to put my mouth anywhere on the foil, I threw the packaging away. 
 
@@ -98,7 +98,7 @@ We talked for most of the hike up the hill, which is a bit unusual for us becaus
 
 Lunch is familiar ground for us. For the last ten years or so, our visiting routine was for him to meet me for lunch every month or so. He travels and I pay, a trade I'm happy to make. When I worked in San Francisco, my dad would catch the BART in Fremont, take it into the city, and meet me at the Scripted office. I remember him coming for lunch at each of the offices we had back then. We'd go to a restaurant and catch up about the normal things you catch up on: work, health, relationships. Since I don't talk to my half-sister very often, I'd hear about her through my dad. 
 
-After my wife and I moved to the (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/) and I was able to work from home, he would drive to our house and since my kids don't have pre-school on Fridays, he'd get to visit with them too. I'd usually have take-out delivered or order sandwiches and we'd inevitably wind up (https://rbucks.com/2017/07/11/whats-next-for-me/) where he loves to throw rocks for (https://rbucks.com/2017/06/19/the-ascent-of-blue/) as much as I do. It's funny how little things like that,  the satisfaction of throwing rocks in a creek, demonstrate to me that I like this guy and yes, he's my dad. 
+After my wife and I moved to the [suburbs]({filename}an-ode-to-the-suburbs.md) and I was able to work from home, he would drive to our house and since my kids don't have pre-school on Fridays, he'd get to visit with them too. I'd usually have take-out delivered or order sandwiches and we'd inevitably wind up [at the creek]({filename}whats-next-for-me.md) where he loves to throw rocks for [Blue]({filename}the-ascent-of-blue.md) as much as I do. It's funny how little things like that,  the satisfaction of throwing rocks in a creek, demonstrate to me that I like this guy and yes, he's my dad. 
 
 We don't talk on the phone or email much. He sends me articles from the San Jose Mercury News that I'll always read and usually comment on. And then roughly every four weeks I'll get a text from him to set up a lunch. I really enjoy this routine and the rest of my family appreciates it too. I thought about all of this on the days my dad and I shared up there. 
 

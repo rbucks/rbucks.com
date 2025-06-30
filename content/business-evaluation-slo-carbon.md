@@ -6,7 +6,7 @@ Tags: business evaluation, climate tech, carbon credits, sustainability
 
 A little while ago, I made a website for (https://slo-carbon.typedream.app/). I picked the name because it was available. I didn't love it, but it was there. So I picked it.
 
-The problem this hypothetical company tries to solve is also described in a different (https://rbucks.com/2022/06/22/business-evaluation-clime/) for Clime. The "green premium" for carbon-free appliances is too damn high. It needs to come down, so I thought maybe there's a way to do that with carbon credits (carbon misspelled is cabrón, which is kinda funny).
+The problem this hypothetical company tries to solve is also described in a different ({filename}business-evaluation-clime.md) for Clime. The "green premium" for carbon-free appliances is too damn high. It needs to come down, so I thought maybe there's a way to do that with carbon credits (carbon misspelled is cabrón, which is kinda funny).
 
 Cabron credits (I did that on purpose) are kinda funny, too. They represent the idea that carbon intentionally *not* emitted is worth something. That *something* ranges from $3 to nearly $3,000 per ton. If there was a way to subsidize using less gas with the environmental benefits of using less gas, then... boom. That could be big.
 
@@ -16,7 +16,7 @@ That's what Slo Carbon is about and worth diving into.
 
 ## The Problem
 
-Like I've said before, residential gas consumption is (https://rbucks.com/2021/08/26/the-importance-of-electrification/). It needs to come down. Here are the books that validate the last two sentences.
+Like I've said before, residential gas consumption is ({filename}the-importance-of-electrification.md). It needs to come down. Here are the books that validate the last two sentences.
 
 - (https://www.amazon.com/dp/B0962VSKW2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by John Doerr
 - (https://www.gatesnotes.com/Energy/My-new-climate-book-is-finally-here) by Bill Gates
@@ -24,7 +24,7 @@ Like I've said before, residential gas consumption is (https://rbucks.com/2021/0
 
 These books show that 25% of our greenhouse gases come from residential energy usage. The math is pretty simple, and the result is easy to remember. Twenty-five percent of the stuff causing or at least contributing to the climate upheaval we've all been feeling is due to residential energy consumption. That's a big enough lever to focus on.
 
-Homes need to decarbonize. The company I'm (https://rbucks.com/2022/11/22/business-evaluation-shovels/), (https://www.shovels.ai), came to fruition out of that premise. As I wrote, the decarbonization need got me looking into building permits and contractors, and the messiness of that data led me to the business behind Shovels. 
+Homes need to decarbonize. The company I'm ({filename}business-evaluation-shovels.md), (https://www.shovels.ai), came to fruition out of that premise. As I wrote, the decarbonization need got me looking into building permits and contractors, and the messiness of that data led me to the business behind Shovels. 
 
 Slo Carbon asks a different question: Can we use the stream of future CO2 *not* emitted to create a security that can be sold to subsidize the purchase of an electric appliance? In perhaps a more confusing way to ask the same question, Can we use carbon offsets to offset the cost of decarbonization?
 
@@ -70,7 +70,7 @@ Let's put some numbers down to illustrate this and make it clearer. Using my own
 
 Each therm is 12 pounds of CO2, so I'm saving 4,392 pounds or about 2.2 tons of CO2 per year. That sounds like a lot! The problem is that the normal carbon market values each ton between $3 and $100. That's likely the long-term stable price. There are some initiatives where companies are willing to pay far more, but I wouldn't count on long-term rates over $1,000. The price spread is due to many factors, among them the reputation of the seller, the carbon exchange it's listed on, and government or private certification of the offset. 
 
-We spent at least $20,000 extra (https://rbucks.com/2021/08/26/the-importance-of-electrification/) our house. We're a bit of an extreme case, though. Our HVAC heat pump system is fancy. If the typical green premium is half that, and the savings are roughly equivalent, then it still requires 50 years to pay back. Like I said, the most we could offer is 20 years, the appliance's lifespan. Two tons per year at $100 per ton would give $4,000. That's not nothing, but it may not cover the total green premium.
+We spent at least $20,000 extra ({filename}the-importance-of-electrification.md) our house. We're a bit of an extreme case, though. Our HVAC heat pump system is fancy. If the typical green premium is half that, and the savings are roughly equivalent, then it still requires 50 years to pay back. Like I said, the most we could offer is 20 years, the appliance's lifespan. Two tons per year at $100 per ton would give $4,000. That's not nothing, but it may not cover the total green premium.
 
 And then there's still Slo Carbon's cut. We'd need to eat into homeowner payment; Slo Carbon needs to make money! 
 
@@ -86,7 +86,7 @@ I looked. These offsets don't exist, perhaps for good reasons. I'll list a few o
 The net of it is this: The validity of the offset is a major obstacle. 
 
 ## Conclusion
-I wanted this company idea to pencil out. I met a lot of great people while I explored this idea and every nook and cranny of the offset market. Many of these folks are now friends and rooting for my success with (https://rbucks.com/2022/11/22/business-evaluation-shovels/). I'm glad I spent so much time looking into Slo Carbon. 
+I wanted this company idea to pencil out. I met a lot of great people while I explored this idea and every nook and cranny of the offset market. Many of these folks are now friends and rooting for my success with ({filename}business-evaluation-shovels.md). I'm glad I spent so much time looking into Slo Carbon. 
 
 Unfortunately, the idea is just not tenable. It's fraught with legal and financial risk. I couldn't see how this company makes money, grows, and becomes a big deal worth spending a large chunk of my 40s on. So I bagged it. 
 

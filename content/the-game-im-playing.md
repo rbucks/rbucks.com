@@ -22,7 +22,7 @@ I'd love to have $20M in my bank account. I would not love what it (most likely)
 
 #### Be a founder of a public company. 
 
-Too much work. I looked into this, tried it on for size, worked really hard for about five years, and came up short. Sadly, the window I had to start a company that might go public (https://rbucks.com/2019/02/01/im-not-fundable/) on my poor little fingers. We raised $16M and did all the things that venture-backed companies in early stages do to try to make it, (https://rbucks.com/2017/07/12/scripted-dont-quit/).
+Too much work. I looked into this, tried it on for size, worked really hard for about five years, and came up short. Sadly, the window I had to start a company that might go public ({filename}im-not-fundable.md) on my poor little fingers. We raised $16M and did all the things that venture-backed companies in early stages do to try to make it, ({filename}scripted-dont-quit.md).
 
 I've seen other friends have much more success, and while I tip my hat to each and every one of them, I also recognize the sacrifices they made to get there. It's a lot of work, stress, and time. This is a lifestyle I don't want right now. It's not my game. 
 
@@ -46,7 +46,7 @@ So no, I don't want to have the most expensive things. I don't want the biggest 
 
 ### Game #3: Have the most impact. (Answer: Maybe.)
 
-At one point in my life, this was definitely a goal. I really wanted to dedicate myself to environmental sustainability. I was going to be an activist, a networker, mover-and-shaker, someone who could influence policy at the highest levels. This was the person I was in high school and college. It's the person who spoke at his college graduation, got some University-wide and national awards, and ultimately got accepted to the (https://rbucks.com/2019/06/06/what-my-grad-school-experience-meant-to-me/). 
+At one point in my life, this was definitely a goal. I really wanted to dedicate myself to environmental sustainability. I was going to be an activist, a networker, mover-and-shaker, someone who could influence policy at the highest levels. This was the person I was in high school and college. It's the person who spoke at his college graduation, got some University-wide and national awards, and ultimately got accepted to the ({filename}what-my-grad-school-experience-meant-to-me.md). 
 
 That guy is still here, but he's... chillin'. He got older, fell in love, started a family, and fell into the world of technology and startups and the fascinating leadership, management, and other intellectual challenges surrounding them. This is where I'm at now. I'm immersed in the challenge of building and running startups. It checks all of my boxes:
 
@@ -68,7 +68,7 @@ The single bachelors I know are not the most happy people I know. They struggle 
 
 Happiness takes time to enroot. During that time, I believe, you have to be relatively still. You can't keep moving all the time, forming new relationships with people and places. You need to settle down long enough for the happiness to grow, and the longer you stay still, the deeper those roots grow. 
 
-I'm three years into my (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/) and still can't believe my luck. We have incredible neighbors. A wonderful community of like-minded people who are friendly and interesting and easy to talk to. I've happened upon a group of dads in my neighborhood whom I'll host (https://rbucks.com/2017/08/27/the-view-from-35/) and see much more frequently out on the street. This is a neighborhood where people run into each other in front of their houses *all the time*. It's amazing. And these relationships take time to develop. 
+I'm three years into my ({filename}an-ode-to-the-suburbs.md) and still can't believe my luck. We have incredible neighbors. A wonderful community of like-minded people who are friendly and interesting and easy to talk to. I've happened upon a group of dads in my neighborhood whom I'll host ({filename}the-view-from-35.md) and see much more frequently out on the street. This is a neighborhood where people run into each other in front of their houses *all the time*. It's amazing. And these relationships take time to develop. 
 
 I've found that it takes several random meetings like this to make a new friend. The first time I see a new face in the neighborhood, I'm pretty quick to say hi. We exchange the normal pleasantries and pretty quickly move along. I'm usually walking or jogging my kids when this happens. The next time, the conversation lasts longer. If they have a kid, then our kids will play. I learn more about them, more connections are made. The third time I see them, we're basically friends. There's familiarity and a genuine interest in catching up on the last conversation.
 
@@ -96,7 +96,7 @@ I think the answer is pretty clear. I want to keep the baseline the same and add
 
 The two could go hand-in-hand. I've often thought that I would be a very good millionnaire. When I think about having tons of disposable income, I don't think about private jets and oil paintings. I think about writing a huge check to UC Berkeley. I think about hearing about or witnessing a tragedy in my community and having the means to address it. I would love nothing more than to find out a community organization that does important work is shy $25,000 of their financing goal and tap the director on the shoulder and tell them I have it covered. That's what I would do if I had the money. I'd totally be that guy. 
 
-But that windfall would come only because I set myself up for luck and I got lucky. I'm not going to earn that kind of money by force of sheer will. It's not my game. So if I don't make millions on a windfall, I'll have to make an impact in other ways. Maybe I'll come up with an amazing idea for a product that people or businesses will pay for that actually makes the world a better place. Maybe I'll invent a better compost bin, a new way to (https://rbucks.com/2019/05/24/what-im-most-afraid-of/), a website that somehow reduces global warming. 
+But that windfall would come only because I set myself up for luck and I got lucky. I'm not going to earn that kind of money by force of sheer will. It's not my game. So if I don't make millions on a windfall, I'll have to make an impact in other ways. Maybe I'll come up with an amazing idea for a product that people or businesses will pay for that actually makes the world a better place. Maybe I'll invent a better compost bin, a new way to ({filename}what-im-most-afraid-of.md), a website that somehow reduces global warming. 
 
 If I had that idea, I'd be building it right now. Alas, I don't. So I will keep playing the game I'm playing until the game I want to play comes into view: Comfort, flexibility, *and* impact. 
 

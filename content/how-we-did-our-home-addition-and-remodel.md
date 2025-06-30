@@ -4,7 +4,7 @@ Slug: how-we-did-our-home-addition-and-remodel
 Category: Personal
 Tags: family, lifestyle, design, contra-costa-county
 
-*This was the last and final remodel. There were (https://rbucks.com/2022/05/30/a-summary-of-our-first-home-projects/).*
+*This was the last and final remodel. There were [earlier projects]({filename}a-summary-of-our-first-home-projects.md).*
 
 ![Home exterior before renovation]({static}/images/C5FB5CD9-B94D-4CFE-9E63-692A4C340247-2715103369-1636573446963.jpg)
 
@@ -114,7 +114,7 @@ This took far longer than we expected.
 
 ## The county
 
-We live in (https://rbucks.com/2018/07/03/what-does-it-mean-to-be-unincorporated/) Walnut Creek. It's a weird designation which basically means we don't belong to any particular city. For all the normal things you might need, like police services and building permits, we just go directly to the county. No city hall or special city rules. We call 9-1-1, and we get the county sheriff. We want to build something, and we go straight to Martinez, the capitol of Contra Costa County. 
+We live in [unincorporated]({filename}what-does-it-mean-to-be-unincorporated.md) Walnut Creek. It's a weird designation which basically means we don't belong to any particular city. For all the normal things you might need, like police services and building permits, we just go directly to the county. No city hall or special city rules. We call 9-1-1, and we get the county sheriff. We want to build something, and we go straight to Martinez, the capitol of Contra Costa County. 
 
 I will not mince words: the permitting process was a PAIN. You would think the county would be incentivized to push us through this process and collect on the higher property taxes. I get that it needs to be done right, but the delays here were unreal. Maybe it was COVID, maybe it was the holiday season. Who knows? 
 
@@ -252,7 +252,7 @@ Here are a few bullet points about kitchen remodels that I learned:
 
 ![Kitchen pantry with open shelving]({static}/images/IMG_2735-1024x768.jpeg)
 
-- Stacked ovens are the way to go. Our lower oven is a standard convection and our upper is a "speed oven" which basically is a combination toaster oven microwave. This setup will come in handy on Thanksgiving. - Induction cooktops are amazing. (https://rbucks.com/2021/08/26/the-importance-of-electrification/).- Our kitchen is big. I mean BIG. Byron approved, though. He said in most houses, even fancy ones, the kitchens are too small and the master bedrooms are too big. He said we got it right.- We tiled to the ceiling and didn't put any cabinet uppers where traditionally they'd go above the cooktop. It's a nice clean look, but we had the luxury of not needing the additional storage.- We put two speakers in the ceiling and connected them to a Sonos amp so we can ask Alexa to play music there or select it from our Spotify app. Wired speakers in the kitchen are awesome.- We got Brizo SmartTouch faucets. I didn't care when my wife brought this up, figuring I didn't have to use it if I didn't want to. Now I can't imagine life without it. It's nice to be able to turn the sink on and off by touching the back of my hand to it when they're dirty or full. - We added an insta-hot faucet. I love to have water on tap that's hot enough to brew tea or coffee on the fly. I also use it to clean stubborn greasy dishes. 
+- Stacked ovens are the way to go. Our lower oven is a standard convection and our upper is a "speed oven" which basically is a combination toaster oven microwave. This setup will come in handy on Thanksgiving. - Induction cooktops are amazing. [I've written about electrification before]({filename}the-importance-of-electrification.md).- Our kitchen is big. I mean BIG. Byron approved, though. He said in most houses, even fancy ones, the kitchens are too small and the master bedrooms are too big. He said we got it right.- We tiled to the ceiling and didn't put any cabinet uppers where traditionally they'd go above the cooktop. It's a nice clean look, but we had the luxury of not needing the additional storage.- We put two speakers in the ceiling and connected them to a Sonos amp so we can ask Alexa to play music there or select it from our Spotify app. Wired speakers in the kitchen are awesome.- We got Brizo SmartTouch faucets. I didn't care when my wife brought this up, figuring I didn't have to use it if I didn't want to. Now I can't imagine life without it. It's nice to be able to turn the sink on and off by touching the back of my hand to it when they're dirty or full. - We added an insta-hot faucet. I love to have water on tap that's hot enough to brew tea or coffee on the fly. I also use it to clean stubborn greasy dishes. 
 
 ![Induction cooktop on kitchen island]({static}/images/IMG_2733-768x1024.jpeg)
 

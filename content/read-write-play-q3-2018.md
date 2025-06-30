@@ -18,13 +18,13 @@ I will definitely read more of her stuff. She deserves all the fandom and accola
 
 #### Write: On metered billing
 
-I took my company, (https://www.findemails.com), and dramatically (https://rbucks.com/2018/06/12/moving-from-saas-to-metered-billing/) it is billed. Rather than charging a higher flat fee regardless of usage, I dropped everyone down to the same $9/mo plan and billed for usage. I knew this would drop my monthly recurring revenue (MRR) but I thought it would improve my other metrics. I might get more customers, fewer cancellations, and therefore earn back the lost MRR and then some over time. 
+I took my company, [Toofr](https://www.findemails.com), and dramatically [changed how]({filename}moving-from-saas-to-metered-billing.md) it is billed. Rather than charging a higher flat fee regardless of usage, I dropped everyone down to the same $9/mo plan and billed for usage. I knew this would drop my monthly recurring revenue (MRR) but I thought it would improve my other metrics. I might get more customers, fewer cancellations, and therefore earn back the lost MRR and then some over time. 
 
 Initial responses were promising. I'll have to write something again about it next month to see what really happens! 
 
 #### Play: Some Mozart
 
-When my (https://rbucks.com/2016/09/24/remembering-meredith/) I had a chance to rummage through the extensive collection of piano music he and my grandma accumulated over the 50 years they lived in their house. They had boxes and boxes of it and I only had a few minutes to look through them before I had to leave. We were picking up the piano that my dad inherited and bringing it the house we had recently purchased in Walnut Creek. The piano movers were almost ready to leave. 
+When my [grandfather passed away]({filename}remembering-meredith.md) I had a chance to rummage through the extensive collection of piano music he and my grandma accumulated over the 50 years they lived in their house. They had boxes and boxes of it and I only had a few minutes to look through them before I had to leave. We were picking up the piano that my dad inherited and bringing it the house we had recently purchased in Walnut Creek. The piano movers were almost ready to leave. 
 
 I picked up some old jazz standards that my grandma used to play and some very well-worn classical music, written up with decades-old notes from years of piano lessons and hours of practicing. This collection sits atop the piano today and one of my favorite picks from the pile is this collection of easy to play Mozart pieces. 
 

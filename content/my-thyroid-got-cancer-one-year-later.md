@@ -4,7 +4,7 @@ Slug: my-thyroid-got-cancer-one-year-later
 Category: Personal
 Tags: health, cancer, thyroid-cancer, recovery
 
-*This is a follow-up to my first article, (https://rbucks.com/2017/06/24/my-thyroid-got-cancer/).*
+*This is a follow-up to my first article, ({filename}my-thyroid-got-cancer.md).*
 
 The ultrasounds are soothing. The whir of the machine, the doctor’s thoughtful grunts as she probes my neck, the crackle of the paper on the examination table. It is very familiar to me now. I relax into it and close my eyes.
 

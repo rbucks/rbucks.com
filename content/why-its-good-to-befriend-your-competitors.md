@@ -62,7 +62,7 @@ This ending wasn't so happy, but the relationships I built with our competitors 
 
 ## Toofr: Made friends and got offers
 
-Toofr.com was my very first web app. I built it first in CodeIgniter (PHP) and then switched to Rails (Ruby) and there it has stayed ever since. It started as simply a reason to learn how to program for the web. It evolved into a source of passive income and then I basically (https://rbucks.com/the-parallel-entrepreneur/). All because I wanted to learn how to code. 
+Toofr.com was my very first web app. I built it first in CodeIgniter (PHP) and then switched to Rails (Ruby) and there it has stayed ever since. It started as simply a reason to learn how to program for the web. It evolved into a source of passive income and then I basically [wrote a book about it](https://rbucks.com/the-parallel-entrepreneur/). All because I wanted to learn how to code. 
 
 Toofr is an email-finding app. Punch in a person's name and what company they work at and it will try really hard to get the right email address for them. For sales and marketing people it's gold. Toofr wasn't the first to do this but it was *one of* the first. That early start helped drive organic customers and spur the competition. Most similar apps that came online afterward knew about Toofr.
 

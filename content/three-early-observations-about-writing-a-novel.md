@@ -6,7 +6,7 @@ Tags: writing, creativity, reflection, expression
 
 I'll state the obvious first: it actually is as hard as you think. 
 
-When I (https://rbucks.com/2019/09/19/a-few-days-of-radioactive-seclusion/) around around this time last year, I told myself not to overthink it. I was going to write a novel, simple as that. I wasn't going to agonize over plot lines and details. I wasn't going to do any reader panels. I wasn't writing for fame, after all, but rather to try something new. Prior to diving into this project I hadn't done *any* creative writing. None. In a long time, at least a decade. 
+When I ({filename}a-few-days-of-radioactive-seclusion.md) around around this time last year, I told myself not to overthink it. I was going to write a novel, simple as that. I wasn't going to agonize over plot lines and details. I wasn't going to do any reader panels. I wasn't writing for fame, after all, but rather to try something new. Prior to diving into this project I hadn't done *any* creative writing. None. In a long time, at least a decade. 
 
 I had the spark of an idea. I'd been thinking about it a lot. I knew the premise: *Man gets sick and is certain to die. Man hears about a faraway adventure hospice and decides to go, leaving his family behind. Man regrets. Man dies. *
 
@@ -52,6 +52,6 @@ I can manufacture it in some ways by basing a character on someone I know, much 
 
 I'm 72,000 words into what should be an 80,000-word novel. The last 10 percent has been the hardest. I'm stuck on the ending. I thought I had it, but now I'm not so sure, and I'm aware that if I deviate too far, I'll either end up having to rewrite a good portion before this ending or extend the novel out another 20-30,000 words. Neither outcome is appealing. 
 
-So this is what I think about when I go to bed, when I swim laps, and when I'm mindlessly throwing the ball from my (https://rbucks.com/2017/06/19/the-ascent-of-blue/). Because ultimately that's what writing a novel is. It's getting absorbed in it, thinking about it, and knocking out some of the thousand hours it takes to write a book that will get consumed 200x faster. 
+So this is what I think about when I go to bed, when I swim laps, and when I'm mindlessly throwing the ball from my ({filename}the-ascent-of-blue.md). Because ultimately that's what writing a novel is. It's getting absorbed in it, thinking about it, and knocking out some of the thousand hours it takes to write a book that will get consumed 200x faster. 
 
 That's the glory in writing a novel. "It's the journey, not the destination" has never felt more true.

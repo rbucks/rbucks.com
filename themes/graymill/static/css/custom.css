@@ -108,7 +108,8 @@ maincontent > ol {
 }
 
 mainarticle ul {
-    list-style: square inside;
+    list-style: disc outside;
+    padding-left: 1.5em;
 }
 
 mainarticle ul li p {
@@ -156,7 +157,8 @@ code {
 }
 
 ul {
-   list-style: square inside;
+   list-style: disc outside;
+   padding-left: 1.5em;
 }
 
 .social-icons-a {

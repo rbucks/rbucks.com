@@ -26,7 +26,7 @@ Finally, I've been reading (https://www.eastbaytimes.com/). I signed up for the 
 
 I must have written about 30,000 words in Q4 2019. Most of that work went into the novel I'm writing. 
 
- It's really exciting and has been a really fun project. I'm calling it The Jupiter Society. I've written it mainly in two sittings. The first was during my (https://rbucks.com/2019/09/19/a-few-days-of-radioactive-seclusion/). The second was a couple of days in early December, back at the Sonoma Fairmont Mission Inn, where I wrote (https://rbucks.com/the-parallel-entrepreneur/). That first retreat, back in December 2017, I was able to write about (https://rbucks.com/2017/12/04/how-i-wrote-17k-words-in-just-two-days/). This time I beat that, clocking in about 18,000 over the same amount of time.
+ It's really exciting and has been a really fun project. I'm calling it The Jupiter Society. I've written it mainly in two sittings. The first was during my ({filename}a-few-days-of-radioactive-seclusion.md). The second was a couple of days in early December, back at the Sonoma Fairmont Mission Inn, where I wrote (https://rbucks.com/the-parallel-entrepreneur/). That first retreat, back in December 2017, I was able to write about ({filename}how-i-wrote-17k-words-in-just-two-days.md). This time I beat that, clocking in about 18,000 over the same amount of time.
 
 It's hard to describe how good it feels to sit and write for two days straight. It's such a treat, and I'm grateful my wife lets me do it (it was essentially her holiday gift to me) given the obligations I have at home. When I'm able to do nothing but write, I feel fulfilled, content, happy, and productive. I get some of that in my normal career and the entrepreneurial stuff I do that pays the bills, but there's something different about writing. I can't quite put my finger on what it is. Maybe it's authenticity? I feel like I'm most myself when I write words, rather than emails and code, which is most of my professional writing.  
 
@@ -42,4 +42,4 @@ I'm playing, but I'm playing the same stuff I played all year. I've got "Don't L
 
 I'm playing a lot more Beatles music because my daughters demand it and it's fun. Right now "Lady Madonna" is my go-to Beatles song. It's fun to play both fast and slow, drawing out chorus line, "Friiiiday niiiight arrives without a suuuuitcase." You could almost imagine Bing Crosby singing it. 
 
-As I put in my stated (https://rbucks.com/2019/12/31/my-next-10-years/), I want to be as comfortable on piano as I am on guitar. It's already starting to happen and I'm very, very pleased about that. Every quarter I'm getting noticeably better at playing *and* singing.
+As I put in my stated ({filename}my-next-10-years.md), I want to be as comfortable on piano as I am on guitar. It's already starting to happen and I'm very, very pleased about that. Every quarter I'm getting noticeably better at playing *and* singing.

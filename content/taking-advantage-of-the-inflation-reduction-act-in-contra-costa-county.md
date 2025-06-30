@@ -12,7 +12,7 @@ There's a lot to chew on around this topic. To summarize the three massive spend
 - $280 billion in the CHIPS and Science Act
 - $390 billion for clean energy in the Inflation Reduction Act (IRA)
 
-This all amounts to "industrial policy," long considered the third rail in national politics for market meddling. But here we are, post-pandemic, with billions of money itching to be spent on green infrastructure. It's precisely the boon my fellow climate tech entrepreneurs have been waiting for. I want Contra Costa County, the (https://rbucks.com/2018/07/03/what-is-the-contra-costa-county-board-of-supervisors/) where I live, to take advantage of this. I want a green economy to grow and flourish in Contra Costa County. The question is: How do we take advantage of this windfall? 
+This all amounts to "industrial policy," long considered the third rail in national politics for market meddling. But here we are, post-pandemic, with billions of money itching to be spent on green infrastructure. It's precisely the boon my fellow climate tech entrepreneurs have been waiting for. I want Contra Costa County, the [county where I serve on commissions]({filename}what-is-the-contra-costa-county-board-of-supervisors.md) where I live, to take advantage of this. I want a green economy to grow and flourish in Contra Costa County. The question is: How do we take advantage of this windfall? 
 
 The funds for climate come from the IRA and the IIJA. We'll start with the IIJA. 
 
@@ -59,4 +59,4 @@ The media calls this a once-in-a-generation event. Unlike the similarly-describe
 
 This is the case for organizing a Green Economy Conference in Contra Costa County. We need our representatives to see this window of opportunity, a critical period when economic incentives strongly align with environmental needs. A boom in green economic output could transform this county, producing the change I've been working towards through the (https://www.dvti.org).
 
-I can continue to leverage my connection to Diablo Valley College, which will play a key role in connecting workforce development initiatives to the green economy. I'll also bring in the connections and perspective I've gained recently from my work on (https://rbucks.com/2022/11/22/business-evaluation-shovels/). This will be fun!
+I can continue to leverage my connection to Diablo Valley College, which will play a key role in connecting workforce development initiatives to the green economy. I'll also bring in the connections and perspective I've gained recently from my work on [Shovels]({filename}business-evaluation-shovels.md). This will be fun!

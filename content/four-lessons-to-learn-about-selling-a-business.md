@@ -6,7 +6,7 @@ Tags: entrepreneurship, acquisition, business lessons, Toofr
 
 For entrepreneurs, especially the bootstrapped variety, the moment of exit is a mix of nostalgia and jubilation. You can't help but wonder what might have been if you'd only held on, but you also experience that wondrous relief of having a windfall of hundreds of thousands (or, more rarely, millions) of dollars suddenly hit your bank account. 
 
-Sometimes (https://rbucks.com/2019/02/01/the-bitter-taste-of-failure/), but you usually know it's coming well in advance. You're already piloting the plane, the engines are already on fire, you're already losing altitude fast, and the control tower (a.k.a. your board) tells you to figure it out your damn self. You've given your passengers (a.k.a. employees) all of your parachutes and although it was uncomfortable and awkward, you pushed them off the plane before impact (a.k.a. laid them off.) Now it's just you and your co-pilot (a.k.a. co-founder) and maybe a flight attendant or two (a.k.a. senior staff) still with you as the forest canopy starts scraping the bottom of your plane. And (https://rbucks.com/2017/07/12/scripted-dont-quit/).
+Sometimes [businesses fail]({filename}the-bitter-taste-of-failure.md), but you usually know it's coming well in advance. You're already piloting the plane, the engines are already on fire, you're already losing altitude fast, and the control tower (a.k.a. your board) tells you to figure it out your damn self. You've given your passengers (a.k.a. employees) all of your parachutes and although it was uncomfortable and awkward, you pushed them off the plane before impact (a.k.a. laid them off.) Now it's just you and your co-pilot (a.k.a. co-founder) and maybe a flight attendant or two (a.k.a. senior staff) still with you as the forest canopy starts scraping the bottom of your plane. And [sometimes you don't quit]({filename}scripted-dont-quit.md).
 
 But I'm not talking about those kinds of exits. Here's a different kind, one I didn't even know existed. 
 
@@ -14,7 +14,7 @@ But I'm not talking about those kinds of exits. Here's a different kind, one I d
 
 I wasn't planning to sell my email finding business, but when (https://www.xenon.io) asked me to head up (https://www.mightysignal.com) in October 2018, I couldn't help exploring the option. 
 
-I interviewed Jonathan Siegel, Xenon's founder, in my book, (https://rbucks.com/the-parallel-entrepreneur/), so he knew about my penchant for side projects. He'd also offered to purchase this company in 2016, which was how we first met. That initial connection led to (https://rbucks.com/2017/07/11/whats-next-for-me/) in 2017. Nearly two years later, I was back in conversations with him about MightySignal, another acquisition he was making.
+I interviewed Jonathan Siegel, Xenon's founder, in my book, [The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/), so he knew about my penchant for side projects. He'd also offered to purchase this company in 2016, which was how we first met. That initial connection led to [our first meeting]({filename}whats-next-for-me.md) in 2017. Nearly two years later, I was back in conversations with him about MightySignal, another acquisition he was making.
 
 Jonathan and I were in my car in San Francisco after a long day doing technical diligence on MightySignal when he offered me the CEO job. "What about my email business?" I asked. "I assume you don't want me to keep running it." 
 
@@ -26,7 +26,7 @@ Within a few days I'd opened up a diligence process with three potential acquire
 
 ---
 
-When I started having these conversations a year ago, the business was not in pristine condition. There was high revenue concentration; one customer made up between 50 and 70% of revenue monthly revenue, depending on how much usage I billed for. I also discovered that my (https://rbucks.com/2018/06/12/moving-from-saas-to-metered-billing/) was a mistake: while it worked fine for me, acquirers were confused by the lower subscription fees. That was an unintended side effect of the billing change. Finally, to cap things off, revenue was flat. 
+When I started having these conversations a year ago, the business was not in pristine condition. There was high revenue concentration; one customer made up between 50 and 70% of revenue monthly revenue, depending on how much usage I billed for. I also discovered that my [switch to metered billing]({filename}moving-from-saas-to-metered-billing.md) was a mistake: while it worked fine for me, acquirers were confused by the lower subscription fees. That was an unintended side effect of the billing change. Finally, to cap things off, revenue was flat. 
 
 This all added up to a low multiple. I was expecting to land on a valuation somewhere between 1-2X annual revenue, and since Jonathan agreed to that range, I made that same ask upfront to my acquirers. The acquirer I went with offered the valuation I wanted with a few caveats:
 
@@ -52,7 +52,7 @@ Acquirers of business-to-business (B2B) software-as-a-service (SaaS) businesses 
 
 - **The business has high (> 80%) gross margins (net profit divided by revenue). **This was true for my business. Like a typical online software product, my server and data costs were less than 20% of revenues. 
 
-- **The business is growing every month (> 2% month-over-month growth). **At this point in its revenue trajectory ((https://rbucks.com/2018/07/31/toofr-llc-quarterly-report-q2-2018/)), my business's new revenue acquisition (new subscriptions) was entirely offset by its churn (cancellations). When the new revenue ($1-2K per month) equals the churn ($1-2K per month) then growth stalls. Sometimes it might drop if a big customer leaves. Unfortunately, this was the case with my business at the time of sale. 
+- **The business is growing every month (> 2% month-over-month growth). **At this point in its revenue trajectory ([as I documented]({filename}toofr-llc-quarterly-report-q2-2018.md)), my business's new revenue acquisition (new subscriptions) was entirely offset by its churn (cancellations). When the new revenue ($1-2K per month) equals the churn ($1-2K per month) then growth stalls. Sometimes it might drop if a big customer leaves. Unfortunately, this was the case with my business at the time of sale. 
 
 - **The business has a lot of customers which distribute the revenue impact of any single churn**. As stated, at the time of sale, I had one customer that made up a majority of revenue. This is not a healthy situation, and if I had more time to prepare to sell, I would have worked harder to get at least one more major customer like the one we ended up calling out in the deal terms. 
 
@@ -96,7 +96,7 @@ It led me to the next lesson of this blog post: you can't know what's going on i
 
 ## Lesson 3: Don't assume that your counterparts are normal.
 
-While all this crap was happening, I was gearing up for my (hopefully) (https://rbucks.com/2019/09/19/a-few-days-of-radioactive-seclusion/). Unless they were regular readers of this blog, they couldn't have known that, and I don't mention this for pity points. It's just a fact. 
+While all this crap was happening, I was gearing up for my (hopefully) [final cancer treatment]({filename}a-few-days-of-radioactive-seclusion.md). Unless they were regular readers of this blog, they couldn't have known that, and I don't mention this for pity points. It's just a fact. 
 
 Conversely, I don't know what was going on with them. Maybe they also had cancer. Maybe a loved one was sick or their marriages were falling apart. Maybe something else was causing financial distress. I don't know. I can't know. And that's my point. You can't assume that your opposition has it all together, that everything's fine, and they'll make decisions as if they're in a perfect world kind of scenario. Chances are that's not the case. 
 

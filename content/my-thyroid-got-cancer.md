@@ -6,7 +6,7 @@ Tags: health, cancer, thyroid-cancer, life-lessons
 
 My thyroid got cancer some time ago. The doctors can’t say when because there was no way to determine a growth rate. It might have been thirty years ago when my throat was X-rayed during a bout with really bad (https://www.babycenter.com/0_croup-in-toddlers_11421.bc), but nobody knows.
 
-On January 29, 2017, a (https://www.caredash.com/doctors/kara-riley-paull-md-walnut-creek-ca) at Kaiser in Walnut Creek removed my cancerous thyroid. For those of you following me professionally, this was four days after Scripted’s final layoff, when we went from (https://rbucks.com/2017/02/09/the-story-behind-our-layoffs/). For those of you who know me personally, this was also two months after my second daughter was born.
+On January 29, 2017, a (https://www.caredash.com/doctors/kara-riley-paull-md-walnut-creek-ca) at Kaiser in Walnut Creek removed my cancerous thyroid. For those of you following me professionally, this was four days after Scripted’s final layoff, when we went from ({filename}the-story-behind-our-layoffs.md). For those of you who know me personally, this was also two months after my second daughter was born.
 
 When people notice the scar on my neck, I tell them that my thyroid got cancer, that I had it removed, and that I’m okay now. My prognosis was and still is very good. The cancer my thyroid got, (https://en.wikipedia.org/wiki/Papillary_thyroid_cancer), is probably the least scary of them all. It’s still cancer though, and cancer sucks.
 
@@ -24,11 +24,11 @@ The first part of the physical was routine. There were no problems with my blood
 
 I left that appointment disappointed and anxious to google what the heck a thyroid nodule is. I confirmed what the doctor told me: they are common, almost always benign, and therefore nothing to worry about.
 
-A few days later, the woman who ran the ultrasound machine told me the same thing. I remember also talking to her about my new daughter, how crazy it is to have two kids, and how happy we are that we left San Francisco and (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/). After a few minutes she let out a small sigh and told me that the nodule is solid (not a great sign) and 2.4 cm wide (also not great) but again said that it’s probably nothing. Most people develop solid thyroid nodules at some point in their life. A biopsy was required though and she described the fine needle aspiration procedure they’d do to see if my thyroid had cancer.
+A few days later, the woman who ran the ultrasound machine told me the same thing. I remember also talking to her about my new daughter, how crazy it is to have two kids, and how happy we are that we left San Francisco and ({filename}an-ode-to-the-suburbs.md). After a few minutes she let out a small sigh and told me that the nodule is solid (not a great sign) and 2.4 cm wide (also not great) but again said that it’s probably nothing. Most people develop solid thyroid nodules at some point in their life. A biopsy was required though and she described the fine needle aspiration procedure they’d do to see if my thyroid had cancer.
 
 ---
 
-It was raining when I drove to the sprawling Kaiser facility in Martinez that houses the endocrinology department. (https://rbucks.com/2017/06/19/the-ascent-of-blue/) stayed in the back seat of the Camry, fogging up the windows as I scurried across the parking lot to the main entrance. Walking through the facility I saw a lot more signs about cancer and patients who looked more infirm than at the local Kaiser hospital in Walnut Creek. It was clear that this facility was for more specialized, serious problems.
+It was raining when I drove to the sprawling Kaiser facility in Martinez that houses the endocrinology department. ({filename}the-ascent-of-blue.md) stayed in the back seat of the Camry, fogging up the windows as I scurried across the parking lot to the main entrance. Walking through the facility I saw a lot more signs about cancer and patients who looked more infirm than at the local Kaiser hospital in Walnut Creek. It was clear that this facility was for more specialized, serious problems.
 
 I met my endocrinologist and had another round of casual introductions. I normally dislike small talk, but I was getting good at it. It helped calm my nerves, too. This doctor was also very friendly and told me how rare it is for these biopsies to turn up cancer, especially since I had no hypo- or hyperthyroid symptoms.
 

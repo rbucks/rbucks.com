@@ -24,7 +24,7 @@ My youngest is now four years old. She's sassy, strong, and increasingly indepen
 
 Indeed, it's been a long, long time since I've changed a diaper. I'm grateful for that, and also sad. 
 
-I sold our BOB jogging stroller last weekend. I can't count how many miles I pushed that thing. It would be in the hundreds. We went all over the northern flats and hills of San Francisco, along Crissy Field and up into the Presidio. My runs got longer when we (https://rbucks.com/2016/03/22/an-ode-to-the-suburbs/). I jogged that stroller to preschool, daycare, and elementary school. Countless trips to Noah's Bagels with plain reduced fat smears stuffed into the pockets on our way home. 
+I sold our BOB jogging stroller last weekend. I can't count how many miles I pushed that thing. It would be in the hundreds. We went all over the northern flats and hills of San Francisco, along Crissy Field and up into the Presidio. My runs got longer when we [moved to the suburbs]({filename}an-ode-to-the-suburbs.md). I jogged that stroller to preschool, daycare, and elementary school. Countless trips to Noah's Bagels with plain reduced fat smears stuffed into the pockets on our way home. 
 
 I'm now a dad without a stroller. It took six years, but it happened fast. 
 

@@ -8,7 +8,7 @@ Tags: recipes, cooking, family, food
 
 Dear internet, here is a treat.
 
-Once upon a time, a long, long, time ago, a relative of mine brought a waffle iron up to (https://rbucks.com/2019/03/03/my-happy-place/) of the lake in Pinecrest, California. Not knowing what else to make with it, another relative of mine (my grandmother, I’m told), modified a buttermilk waffle recipe and posted it on the inside of a cabinet.
+Once upon a time, a long, long, time ago, a relative of mine brought a waffle iron up to ({filename}my-happy-place.md) of the lake in Pinecrest, California. Not knowing what else to make with it, another relative of mine (my grandmother, I’m told), modified a buttermilk waffle recipe and posted it on the inside of a cabinet.
 
 Every year for 34 years I’ve enjoyed these waffles. It’s the hallmark of my summer. I write now, dear internet, to share this goodness with you.
 

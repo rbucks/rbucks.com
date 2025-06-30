@@ -6,7 +6,7 @@ Tags: reflection, lifestyle, music, teaching
 
 I'll try to briefly recap the last day of my thirties. 
 
-I woke up a bit groggy, which is not at all unusual because my wife hops out of bed at 5:30 am every morning to work "East Coast hours" because her boss, the CEO, lives and works in Connecticut. She lets (https://rbucks.com/2017/06/19/the-ascent-of-blue/) out of the living room (aka "Blue's Room") where he's fenced in so we don't hear him romping around on the hardwood floors all night and he diligently jumps onto our bed to help me wake up. 
+I woke up a bit groggy, which is not at all unusual because my wife hops out of bed at 5:30 am every morning to work "East Coast hours" because her boss, the CEO, lives and works in Connecticut. She lets [Blue]({filename}the-ascent-of-blue.md) out of the living room (aka "Blue's Room") where he's fenced in so we don't hear him romping around on the hardwood floors all night and he diligently jumps onto our bed to help me wake up. 
 
 At this point, I look over at the clock and it's always within five minutes of 5:45 am. Today was no exception.
 
@@ -44,7 +44,7 @@ My friend showed up just as I finished prepping the sandwiches, at 12:30 pm. Min
 
 For the following two hours, we played music. He did most of the lead vocals and I played more electric guitar than I expected I'd play. It just sounded so good. I was happy with the harmonies I added and again loved the fact that he plays harmonica so well. It's such a wonderful addition to the mix of sounds. 
 
-At 3:00 pm, he headed home to Novato, and I turned my attention to the many parts of the basketball backboard that I purchased online to replace the one that our contractors damaged during the (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/). After a bunch of trial and error, I figured out that the best way to attach the backboard to the original pole mount was to take part of the pole mount apart. With some WD-40 and a couple of pliers, I was able to detach it, making the assembly process a lot easier. 
+At 3:00 pm, he headed home to Novato, and I turned my attention to the many parts of the basketball backboard that I purchased online to replace the one that our contractors damaged during the [home addition and remodel]({filename}how-we-did-our-home-addition-and-remodel.md). After a bunch of trial and error, I figured out that the best way to attach the backboard to the original pole mount was to take part of the pole mount apart. With some WD-40 and a couple of pliers, I was able to detach it, making the assembly process a lot easier. 
 
 Another thing I've noticed, as I've approached 40, is my confidence in figuring out these silly handy projects has increased dramatically. I know to expect things not to match up perfectly, for the instructions to be wrong or a part to be missing. I embrace that part of the challenge. 
 

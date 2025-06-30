@@ -10,7 +10,7 @@ I look at a picture of myself from ten years ago and think, yep, that was ten ye
 
 I see it in this three-piece set of stainless steel Cuisinart too. The age, the passage of time imprinted all over it. The patina like wrinkles forming on an aging face. 
 
-I love this Cuisinart. I try not to love material things, but I can't help it. I love (https://rbucks.com/2016/03/23/the-most-expensive-chair-possible/), I love the piano I inherited from my grandparents (generously via my dad), I love my house and backyard too, I suppose. But this Cuisinart, which cost about $100 when I bought it 10 years ago and is essentially worthless now, has a particularly valuable place in my heart. 
+I love this Cuisinart. I try not to love material things, but I can't help it. I love ({filename}the-most-expensive-chair-possible.md), I love the piano I inherited from my grandparents (generously via my dad), I love my house and backyard too, I suppose. But this Cuisinart, which cost about $100 when I bought it 10 years ago and is essentially worthless now, has a particularly valuable place in my heart. 
 
 ---
 

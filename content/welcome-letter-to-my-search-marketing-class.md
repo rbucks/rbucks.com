@@ -4,7 +4,7 @@ Slug: welcome-letter-to-my-search-marketing-class
 Category: Personal
 Tags: teaching, marketing, education, personal
 
-I'm teaching my (https://rbucks.com/2020/10/24/im-now-an-adjunct/) in a couple of months. It's exciting. It's intimidating. It's an incredible amount of prep work, since it's completely online, so it's tiring too. However, I'm already feeling proud of this course despite being nowhere close to ready.
+I'm teaching my ({filename}im-now-an-adjunct.md) in a couple of months. It's exciting. It's intimidating. It's an incredible amount of prep work, since it's completely online, so it's tiring too. However, I'm already feeling proud of this course despite being nowhere close to ready.
 
 The online course I took at DVC about teaching an online course (how's that for meta?) emphasized how important it is to be authentic and let your personality through. In the online format, you almost have to go overboard with it. They say it helps students connect not only with you, the professor, but also with the course material. 
 

@@ -14,17 +14,17 @@ I already had the small PA speaker we used to use for Scripted panels. It packed
 
 Total cost was about $400. Benefit was priceless. ROI was infinite. 
 
-This was the second time I organized one of these backyard concerts. The first was back in May, prior to the show I did with the Rolling Sloans for my 10th (https://rbucks.com/2019/06/06/what-my-grad-school-experience-meant-to-me/). I wanted to practice singing in front of an audience, so my neighbor and I did an all-acoustic set. No mics, although I did play my electric guitar through an amp and used a couple of effects pedals. My neighbors loved it, but the kids reacted the best. They were amazed, somewhat in awe, and it seemed to relax everyone. We had maybe a dozen kids and literally there was not a single meltdown. Everyone stayed late.
+This was the second time I organized one of these backyard concerts. The first was back in May, prior to the show I did with the Rolling Sloans for my 10th [graduate school reunion]({filename}what-my-grad-school-experience-meant-to-me.md). I wanted to practice singing in front of an audience, so my neighbor and I did an all-acoustic set. No mics, although I did play my electric guitar through an amp and used a couple of effects pedals. My neighbors loved it, but the kids reacted the best. They were amazed, somewhat in awe, and it seemed to relax everyone. We had maybe a dozen kids and literally there was not a single meltdown. Everyone stayed late.
 
 This time we were louder and although the kids did love it, I can’t say there were no tears. The first event must have been a miraculous fluke of nature. The feedback, still, was overwhelmingly positive. They said we sounded great. My wife, who would not be subtle about critiquing the performance, said it sounded like this is something I normally do. She said if she walked in and didn’t know me, she’d hear the music and singing and think, “That’s nice. He must do this a lot.” That’s all I was hoping for. 
 
-I wrote recently (https://rbucks.com/2019/09/18/dealing-with-public-speaking-panic-attacks/). Here’s a summary of what I’ve learned in the last year about public singing. 
+I wrote recently about [dealing with public speaking panic attacks]({filename}dealing-with-public-speaking-panic-attacks.md). Here’s a summary of what I’ve learned in the last year about public singing. 
 
 ![Backyard concert setup]({static}/images/img_6035.jpg)
 
 **It takes repetition**
 
-I started taking voice and piano lessons (https://rbucks.com/2019/04/28/read-write-play-q1-2019/), about ten months ago now. We’d meet every other week and spend about 45 minutes, half on piano and half on voice. As my Rolling Sloans concert got closer, we focused mainly on voice. 
+I started taking voice and piano lessons [last year]({filename}read-write-play-q1-2019.md), about ten months ago now. We’d meet every other week and spend about 45 minutes, half on piano and half on voice. As my Rolling Sloans concert got closer, we focused mainly on voice. 
 
 I remember being nervous at our first lesson. I wasn’t used to singing in front of anyone, not even my wife. But the thing is, I love music, and I want to be able to perform. I want to have a repertoire I can bust out whenever the moment calls for it. I told my teacher that’s my goal: to have a set of songs I can sing any time, two drinks deep or stone cold sober. 
 

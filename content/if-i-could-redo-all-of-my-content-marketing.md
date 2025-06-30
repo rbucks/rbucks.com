@@ -8,7 +8,7 @@ If I could redo all of my content marketing, from every company I've ever worked
 
 > The content you publish should feel like you're giving a gift.
 
-I certainly don't feel that about everything I've published. Perhaps the closest I've gotten to that is the (https://rbucks.com/the-parallel-entrepreneur/). I spent a lot of time on it and put a lot of planning into it. Outlines, research, conversations with people. That's probably what it takes to feel like I'm really *giving* something valuable.
+I certainly don't feel that about everything I've published. Perhaps the closest I've gotten to that is the [Parallel Entrepreneur book](https://rbucks.com/the-parallel-entrepreneur/). I spent a lot of time on it and put a lot of planning into it. Outlines, research, conversations with people. That's probably what it takes to feel like I'm really *giving* something valuable.
 
 This is certainly aspirational. I don't expect to achieve this bar every time I click publish but I should be aware of when I don't reach that threshold. It's a good marker to go after. 
 
