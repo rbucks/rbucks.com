@@ -24,7 +24,7 @@ LINKS = (
 DEFAULT_PAGINATION = 8
 
 # Graymill theme specific settings
-SITEDESCRIPTION = 'I like building things.'
+SITEDESCRIPTION = 'I like writing and building things.'
 DISPLAY_SUMMARY = True
 DISPLAY_PAGES_ON_MENU = True
 
