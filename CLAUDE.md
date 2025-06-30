@@ -157,3 +157,14 @@ Content with <<Claude: action>> notes...
 - `/themes/graymill/`: Custom theme with templates and styles  
 - `/docs/`: Auto-generated output directory (do not edit manually)
 - Root config files control build process and deployment
+
+## GitHub Actions
+
+**Deployment Workflow**:
+- The publishing GitHub Actions flow automates the entire site deployment process
+- Triggered automatically on push to the main branch
+- Builds the site using production configuration
+- Generates static files and deploys to GitHub Pages
+- Ensures consistent and reproducible site builds
+- Handles custom domain configuration
+- Automatically applies production-level optimizations
