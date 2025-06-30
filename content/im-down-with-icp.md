@@ -74,7 +74,7 @@ The challenge, as you might have guessed, is that the "what" is different for ea
 
 For example, I know that climate tech companies (the who) want an API for building permits (the what). I also know that construction tech companies (the who) want a contractor directory (the what). Many profiles want more than one thing.
 
-!(https://rbucks.com/wp-content/uploads/2024/07/Matrix1-1024x645.jpg)
+![ICP matrix showing what vs who dimensions]({static}/images/Matrix1-1024x645.jpg)
 
 Shovels can provide a lot of things to a lot of profiles. So, are we "an API for building permits and a contractor directory for climate tech and construction companies"?
 
@@ -100,7 +100,7 @@ If I look at each of our profiles through this lens then it gets a lot easier to
 
 We can rank our profiles across these priorities as low, medium, or high. Here's a start.
 
-!(https://rbucks.com/wp-content/uploads/2024/07/Matrix2-1024x645.jpg)
+![ICP prioritization matrix with rankings]({static}/images/Matrix2-1024x645.jpg)
 
 It gets us closer, but you can see there's not an *obvious *winner. We have a few options to sort this out further. We could weight the priorities on top. I'm assuming that they're worth the same; they probably aren't. We could add more priorities and more profiles. Maybe I need to be more specific (e.g. "climate tech companies who work with heat pumps"). 
 

@@ -88,8 +88,8 @@ There’s always a way to start small, offer discounts, and hustle your product 
 
 You may not make Horowitz money at the end of the journey but you’ll at least make something and completely control your own destiny. That benefit is priceless.
 
-(https://rbucks.com/wp-content/uploads/2017/06/0bc58-111ypy_7jhkxehvv2tw9xbw.jpeg)](http://eepurl.com/bBbrFX)
+(/images/2017/06/0bc58-111ypy_7jhkxehvv2tw9xbw.jpeg)](http://eepurl.com/bBbrFX)
 
-(https://rbucks.com/wp-content/uploads/2017/06/afe68-1tpitwqg_k1az7qw3qxjycg.jpeg)](http://startupgrind.com/conference)
+(/images/2017/06/afe68-1tpitwqg_k1az7qw3qxjycg.jpeg)](http://startupgrind.com/conference)
 
-(https://rbucks.com/wp-content/uploads/2017/06/a43e2-1zarcdgageurwl6erukhacq.jpeg)](http://startupgrind.com/chapters)
+(/images/2017/06/a43e2-1zarcdgageurwl6erukhacq.jpeg)](http://startupgrind.com/chapters)

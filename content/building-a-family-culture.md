@@ -64,5 +64,5 @@ Even though I'm writing this on my computer while my kids are riding around in t
 
 One Father's Day many years from now, I hope my kids will read this blog post and agree. 
 
-!(https://rbucks.com/wp-content/uploads/2019/06/img_8363.jpg?w=1024)
+![Smooching Lily on Father's Day]({static}/images/img_8363.jpg)
 *Smooching Lily on this Father's Day as our neighbor looks on. *

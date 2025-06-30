@@ -20,7 +20,7 @@ This time we were louder and although the kids did love it, I can’t say there 
 
 I wrote recently (https://rbucks.com/2019/09/18/dealing-with-public-speaking-panic-attacks/). Here’s a summary of what I’ve learned in the last year about public singing. 
 
-!(https://rbucks.com/wp-content/uploads/2019/10/img_6035.jpg?w=1024)
+![Backyard concert setup]({static}/images/img_6035.jpg)
 
 **It takes repetition**
 

@@ -63,7 +63,7 @@ Here's the list of the (https://www.ceotodaymagazine.com/2019/12/the-fortune-100
 - Satya Nadella (97% rating) – Microsoft
 - Samuel Allen (96% rating) – Deere
 
-!(https://rbucks.com/wp-content/uploads/2023/01/2019-Stock-Return-vs.-2019-Glassdoor-Rating-1-1.png)
+![2019 Stock Return vs Glassdoor Rating]({static}/images/2023/01/2019-Stock-Return-vs.-2019-Glassdoor-Rating-1-1.png)
 
 Doing some unsophisticated statistics, I find a slightly positive correlation between Glassdoor rating and stock returns. The average 2019 return among the highly-rated (my proxy for "nice") Glassdoor CEOs is 54%. The average for poorly rated ("mean") CEOs is 31%. The Pearson correlation between the Glassdoor Rating and the 2019 stock return is 0.19.
 

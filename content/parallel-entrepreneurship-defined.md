@@ -4,7 +4,7 @@ Slug: parallel-entrepreneurship-defined
 Category: Business
 Tags: parallel-entrepreneurship, entrepreneurship, startups, toofr
 
-!(https://rbucks.com/wp-content/uploads/2017/10/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)
+![Parallel entrepreneurship concept]({static}/images/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)
 
 Here’s the concept.
 

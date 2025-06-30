@@ -16,7 +16,7 @@ The morning of the day that we picked up the keys to our house I drove out to th
 
 The breeder and her family greeted us, friendly as could be, and she showed me the two remaining male chocolate labs in the litter. She brought them out of the cage in her living room and let me hold them. They both were tiny pups, but one was noticeably bigger than the other. I figured larger size at this point meant more milk and better health, so I chose the bigger guy. I remember looking at his pudgy nose, wondering why it was so flat and if there was something wrong with it. The breeder didn’t say anything so I didn’t either. His nose turned out fine, of course. Here’s a picture of that day.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/5a4fb-1s4wym6hh9fkmocvp7f9jrg.jpeg)
+![My baby boy and my baby girl]({static}/images/2017/06/5a4fb-1s4wym6hh9fkmocvp7f9jrg.jpeg)
 
 *My baby boy and my baby girl.*
 
@@ -32,39 +32,39 @@ When I arrived the breeder told me that she was secretly hoping I’d never show
 
 I thanked and paid the breeder, picked up the vaccination and AKC paperwork, and made two stops on the way home. The first was to Petco to pick up Blue’s dog food and his first chew toys, where he got many compliments as we explored the aisles in my shopping cart. The next stop was to Ace to get a heater for the house, on urgent text message request from my wife.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/35831-1z4teedqyumj7pyvsmoaiqg.jpeg)
+![Blue, master of the house]({static}/images/2017/06/35831-1z4teedqyumj7pyvsmoaiqg.jpeg)
 
 *Blue, master of the house.*
 
 The sun was setting when I finally got home and was greeted by my frazzled, cold wife and runny-nosed daughter. She had already made plans to stay at a hotel that night, leaving Blue Boy at home with me. I put on some music and found the setting I messed up on that blasted thermostat while Blue Boy watched in confused amusement. The house was warm again and I was home alone with my dog. In that moment I was relieved and happy.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/37095-1fdw3ldootscekn9mlbhedw.jpeg)
+![Our first night together. He fell asleep to Beatles music]({static}/images/2017/06/37095-1fdw3ldootscekn9mlbhedw.jpeg)
 
 *Our first night together. He fell asleep to Beatles music.*
 
-!(https://rbucks.com/wp-content/uploads/2017/06/ee296-10zg998uzwrd5p7erwlmvaw.jpeg)
+![Lily greeting her new furry bro the next morning]({static}/images/2017/06/ee296-10zg998uzwrd5p7erwlmvaw.jpeg)
 
 *Lily greeting her new furry bro the next morning. Lots of runny noses that winter.*
 
 The following months would be challenging. We needed a new deck in the backyard and new windows throughout the house. My wife was contracting for her employer back then and my daughter was at home with her full-time. I commuted to San Francisco and had a lot going on at Scripted as we continued to deal with typical startup challenges. I couldn’t help with the puppy, leaving my wife with what must have felt like two kids as workers came in and out and Blue whined and yelped with excitement. Mix in a cold and rainy winter with a smattering of my evening work events, and you wind up with a few text messages like this.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/63358-1alz5o1o6nppif1meyxjavq.png)
+![Text message about puppy challenges]({static}/images/2017/06/63358-1alz5o1o6nppif1meyxjavq.png)
 
 Having a puppy and a toddler at the same time is hard. Our timing was off, but I didn’t know any better. We should have waited until she was older so her toys wouldn’t look so much like puppy toys. He chewed more plastic baby gifts than I can count, including her first potty, her first swing, and one of our two grey couch pillows. Even (https://medium.com/@rbucks/the-most-expensive-chair-possible-b958ee4d7ebe) ottoman has puppy teeth marks on it. He also liked to tear up his own beds.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/603c1-1sswkwyimgxrzn-11kfkdqw.png)
+![Blue with destroyed bed]({static}/images/2017/06/603c1-1sswkwyimgxrzn-11kfkdqw.png)
 
 It wasn’t all bad news, though. He and Lily became fast friends.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/5360f-1bgzhbdpasu1_v10s8t6drg.jpeg)
+![Blue and Lily becoming friends]({static}/images/2017/06/5360f-1bgzhbdpasu1_v10s8t6drg.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/06/92376-1rw0fji64zjr7dumgq7u5za.jpeg)
+![Blue and Lily playing together]({static}/images/2017/06/92376-1rw0fji64zjr7dumgq7u5za.jpeg)
 
 They bonded and as they both grew they figured out how to play well together. She forgave him when his puppy energy knocked her over, and no one could get her to laugh more than Blue Boy.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/be697-1ext0ajfrgg12hcxvem5aqw.png)
+![Blue and Lily bonding]({static}/images/2017/06/be697-1ext0ajfrgg12hcxvem5aqw.png)
 
-!(https://rbucks.com/wp-content/uploads/2017/06/08c13-1wjzcc36p-1_pl_hx5w4daa.png)
+![Blue and Lily together]({static}/images/2017/06/08c13-1wjzcc36p-1_pl_hx5w4daa.png)
 
 Still, I admit to getting annoyed with him when I’d give something to Lily and he would bolt over, ears perked, expecting something too. If we brought a bunch of Lily’s toys out, he’d start playing with whatever she wasn’t playing with. And by playing, I really mean chewing. We’d have to limit the number of toys out and pick them up as soon as she was done playing with them. It was more work for us, and when my wife became pregnant again, that extra work became increasingly difficult.
 
@@ -76,7 +76,7 @@ The only sounds he makes are whines and “Hey, what about me?” cries when we�
 
 As we’ve grown to know him, I think he has also grown to know and love us. In the mornings before my older daughter wakes up he lays down by her door and waits for her. It’s really sweet.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/67c1d-1qptdt2nzwkq578z9kpxisa.jpeg)
+![Blue waiting for Lily to wake up]({static}/images/2017/06/67c1d-1qptdt2nzwkq578z9kpxisa.jpeg)
 
 *Blue waiting for Lily to wake up.*
 
@@ -84,7 +84,7 @@ I take him running anywhere. We go to parks, into the hills, and to Peet’s to 
 
 On summer evenings when the kids are in bed, he and I will sit out on the lounge chairs on our back deck and watch evening turn to dusk. The only lab I’ve known as well as Blue was my grandpa’s yellow lab, Bowie, but she wasn’t the lap dog that Blue is. He’ll put his huge head down on my lap and close his eyes, letting my hands brush across his forehead and velvety ears. Those quiet times are my favorite moments with Blue.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/7d045-1jev8rp3x_det3yfsajxvyw.jpeg)
+![Beauty and the Beast]({static}/images/2017/06/7d045-1jev8rp3x_det3yfsajxvyw.jpeg)
 
 *Beauty and the Beast*
 
@@ -96,6 +96,6 @@ I read somewhere that the bond between humans and dogs has been evolving for mil
 
 You’re my boy, Blue.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/ad58a-1kdfzvuhwh10kkryxsz7rjq.jpeg)
+![You're my boy, Blue]({static}/images/2017/06/ad58a-1kdfzvuhwh10kkryxsz7rjq.jpeg)
 
 *You’re my boy, Blue.*

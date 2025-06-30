@@ -14,7 +14,7 @@ Founded in 2015 by (https://www.linkedin.com/in/shanewey/) and (https://www.link
 
 The most popular MightySignal product is its (https://mightysignal.com/web-portal). The web portal allows customers to see SDK installs and uninstall timelines and seamlessly sort and filter by app store ranking and ranking changes. MightySignal data is also ingestible by API, a Salesforce integration, data feeds and downloads. Customers including Adobe, Zendesk, Mixpanel, and Amplitude use this information to target and score sales and marketing leads.
 
-!(https://rbucks.com/wp-content/uploads/2018/11/ef297-1aebyxcfm5vzhg_cklswzng.png)
+![MightySignal web portal]({static}/images/ef297-1aebyxcfm5vzhg_cklswzng.png)
 *The MightySignal Explore Web Portal*
 
 MightySignal’s team built a thriving business with revenues doubling in the last year. As a result, a new set of operators has joined the team to focus on continuing the rapid trajectory. (https://www.linkedin.com/in/rbuckley/), previously founder and CEO of Scripted, has joined MightySignal as General Manager. Most recently Ryan led (https://www.findemails.com) and (https://www.trackjobchanges.com), two popular B2B prospecting services which MightySignal is planning to acquire.

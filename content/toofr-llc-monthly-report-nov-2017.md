@@ -20,7 +20,7 @@ If you've been reading these for the last three months then you've been able to 
 
 Ever the optimist, I see early signs of the clouds parting this month already, but man, it's a fierce battle even for referral traffic.
 
-!(https://rbucks.com/wp-content/uploads/2019/01/0-9.jpeg)
+![Monthly traffic chart]({static}/images/0-9.jpeg)
 
 ## Organic traffic update
 

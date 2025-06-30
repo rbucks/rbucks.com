@@ -10,7 +10,7 @@ Coming into 2022, I was doing really great. (https://mightysignal.com/blog/airno
 
 Then I (https://rbucks.com/2022/02/10/my-first-month-of-real-teaching/) and my routine completely changed. As soon as I finished prepping for one class, another one was around the corner. Spring semester this year I taught thirteen units in five sections across four classes. Two of the sections were 90-minute lectures, back-to-back. It was a lot!
 
-!(https://rbucks.com/wp-content/uploads/2022/05/image-1024x773.png)
+![Teaching schedule screenshot]({static}/images/image-1024x773.png)
 
 I figured since I was working from home that I could fit this all in: my startup obligations, family life, exercise, creativity, and yes, teaching. A whole shit-ton of teaching. 
 
@@ -66,4 +66,4 @@ In the coming years I will learn a lot about real estate and construction. I'll 
 
 I've known excess. I've known frugality. The ground in the middle is very fertile. 
 
-!(https://rbucks.com/wp-content/uploads/2022/11/b2b.jpg)
+![B2B data and climate tech intersection diagram]({static}/images/b2b.jpg)

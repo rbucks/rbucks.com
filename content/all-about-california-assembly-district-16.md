@@ -8,7 +8,7 @@ My Assembly district cuts across two counties, Contra Costa to the north and Ala
 
 I mean really, take a look. 
 
-!(https://rbucks.com/wp-content/uploads/2019/01/screen-shot-2018-06-29-at-10-14-04-am_orig.png)
+![California Assembly District 16 map]({static}/images/screen-shot-2018-06-29-at-10-14-04-am_orig.png)
 
 It's an odd shape primarily due to the thousands of acres of open space on and around Mount Diablo. 
 
@@ -20,7 +20,7 @@ Far from being anything like a bathroom stall, our district is beautiful. I know
 
 When I'm not hiking I'll venture over to (https://www.shopblackhawkplaza.com/). I appreciate any shopping center with a playground connected to a restaurant and we love that Beep's Burgers is right next to a play structure with outdoor seating. With so many kids here and new families drawn in for our top-rated schools, it's not surprising that there would be so many family-friendly community features: parks, splash pads, daycares, and shopping centers with playgrounds. 
 
-!(https://rbucks.com/wp-content/uploads/2019/01/beeps2_orig.jpg)
+![Beep's Burgers at Blackhawk Plaza]({static}/images/beeps2_orig.jpg)
 *Source: https://www.shopblackhawkplaza.com/*
 
 Demographically, Assembly District 16 is mostly white. In fact, there are twice as many whites in this district as every other ethnic group combined. There is no majority party here, but Democrats enjoy a plurality of registered voters with 41% while 28% are Republicans and 26% expressed no party preference. This large independent voter group explains why our district is the most Democratic seat held by Republican (https://en.wikipedia.org/wiki/California%27s_16th_State_Assembly_district#District_profile). There are about 300,000 total registered voters here. 

@@ -22,4 +22,4 @@ I became a husband at 27, a dad at 32, a homeowner at 33, and a teacher at 38. I
 
 It's been a year since I last (https://rbucks.com/2022/08/24/so-this-is-40/). My life hasn't changed that much since I turned 40. I (https://rbucks.com/2022/11/22/business-evaluation-shovels/). I'm teaching some new classes. I learned some new guitar songs. But I'm still the same person doing the same things. And that is good. 
 
-!(https://rbucks.com/wp-content/uploads/2023/08/IMG_4616.heic-768x1024.jpeg)
+![Birthday reflection]({static}/images/IMG_4616.heic-768x1024.jpeg)

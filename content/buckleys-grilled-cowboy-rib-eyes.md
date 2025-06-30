@@ -4,7 +4,10 @@ Slug: buckleys-grilled-cowboy-rib-eyes
 Category: Food
 Tags: recipes, grilling, cooking, lifestyle
 
-- !(https://rbucks.com/wp-content/uploads/2017/01/a728c-1hiag9lulzmwfvtxuz7qwqg.jpeg?w=400)- !(https://rbucks.com/wp-content/uploads/2017/01/f2f1c-1y4vw-w8d5an3wcvcfzoplg.jpeg?w=399)- !(https://rbucks.com/wp-content/uploads/2017/05/a6fef-16alve8xi7ilntwepjysmtq.jpeg?w=400)- !(https://rbucks.com/wp-content/uploads/2017/01/b1020-1lgbesqsx5vu6icdd8uo4dg.jpeg?w=400)
+![Grilled cowboy rib eye steak 1]({static}/images/a728c-1hiag9lulzmwfvtxuz7qwqg.jpeg)
+![Grilled cowboy rib eye steak 2]({static}/images/f2f1c-1y4vw-w8d5an3wcvcfzoplg.jpeg)
+![Grilled cowboy rib eye steak 3]({static}/images/a6fef-16alve8xi7ilntwepjysmtq.jpeg)
+![Grilled cowboy rib eye steak 4]({static}/images/b1020-1lgbesqsx5vu6icdd8uo4dg.jpeg)
 
 Here’s the recipe.
 

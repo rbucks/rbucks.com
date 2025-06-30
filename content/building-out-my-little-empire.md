@@ -20,7 +20,7 @@ FindEmails (formerly known as Toofr — I’ll get to this change in a bit) 
 
 It looks something like this:
 
-!(https://rbucks.com/wp-content/uploads/2018/08/a0a9c-1opili_xb9_frbxvmqwyajq.png)
+![Decreasing returns to personal utility from selling]({static}/images/2018/08/a0a9c-1opili_xb9_frbxvmqwyajq.png)
 *Decreasing returns to personal utility from selling*
 
 In other words, selling alone is not a great motivator for me. Someone else may find additional reward in using money as a barometer for success, or maybe it’s an additional desire for status, materialism, or even philanthropy (hey, I’d like to put my name on a building at UC Berkeley someday too). If that happens for me, great, I’ll take it, but it’s not what’s driving me to earn. I’d love to pay off my mortgage with a single check. That’s certainly a factor in my growth discipline right now but I’ve been surprised at how that factor has become secondary to the intellectual curiosity I have around growing (or running, in my book parlance) and selling. That asymptote explains why.

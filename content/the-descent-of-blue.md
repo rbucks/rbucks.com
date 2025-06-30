@@ -4,10 +4,9 @@ Slug: the-descent-of-blue
 Category: Personal
 Tags: family, personal, reflection, gratitude
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2022/09/IMG_0393-768x1024.jpeg)
+![Blue as a puppy]({static}/images/IMG_0393-768x1024.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2022/09/IMG_3519-1024x768.jpeg)
-</figure>
+![Blue as an adult dog outdoors]({static}/images/IMG_3519-1024x768.jpeg)
 
 Everybody who met Blue said he was the best dog they'd ever met. Everybody was right, of course.
 
@@ -23,14 +22,13 @@ In fact, the only time he was leashed was when I'd sneak a free ride, letting hi
 
 Yes, I was that guy running with his 100-pound chocolate lab through downtown Lafayette and Walnut Creek and everywhere else with no leash. People would either stare at me or not care at all. A few smiled and nodded in respect. They knew this was a special dog. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2022/09/9E91E7D9-503C-434B-8B56-5BEE67461437-1024x768.jpg)
+![Blue sitting on deck]({static}/images/9E91E7D9-503C-434B-8B56-5BEE67461437-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2022/09/9A81B62F-8DDA-4311-82ED-A750F0CD17F9-1024x768.jpg)
+![Blue running in yard]({static}/images/9A81B62F-8DDA-4311-82ED-A750F0CD17F9-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2022/09/91FAC59F-A825-4740-9BE0-8C95B086D0DD-768x1024.jpg)
+![Blue portrait]({static}/images/91FAC59F-A825-4740-9BE0-8C95B086D0DD-768x1024.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2022/09/5492C3AA-BFD2-43EA-B5AA-E1DA8BEBB78E-1024x770.jpg)
-</figure>
+![Blue on hiking trail]({static}/images/5492C3AA-BFD2-43EA-B5AA-E1DA8BEBB78E-1024x770.jpg)
 
 The mark of any great partner, I suppose, is trust. Other dogs can be good, kind-hearted animals that love their people with every fur in their coats. But you wouldn't trust them on a busy street, or in a room full of elderly people, or with a hot steak resting on the counter. 
 
@@ -48,7 +46,7 @@ I started to jog long distances a few months before the start of the pandemic. M
 
 Over the course of the following year, as the pandemic rolled on, Blue fell further and further behind us during our jogs. It was subtle at first. I blamed his feet or maybe something he ate that morning. As the allergies gave him ear, eye, and skin infections around his face, he looked older, and I thought maybe his knees or hips were giving out. 
 
-!(https://rbucks.com/wp-content/uploads/2022/10/C5DC0A23-B975-4A3D-A4F2-9DC23715B86D-768x1024.jpg)
+![Blue with itchy, inflamed eyes]({static}/images/C5DC0A23-B975-4A3D-A4F2-9DC23715B86D-768x1024.jpg)
 **Blue with his itchy eyes.**
 
 In retrospect, I think it was his paws. He'd spend a lot of time licking the webbing between his toes, and they would get really red. It wasn't comfortable for him to jog, so I eventually stopped inviting him. 
@@ -69,7 +67,7 @@ The vet bills piled up, and I gambled on one final treatment, a visit to the ani
 
 The ear infections never went completely away, but the skin problems eventually subsided. For that, I was relieved. Blue lived the last couple of years of his life in relative comfort with his skin. The ears would get stinky but not puffy as they did before. It was a smell we just had to get used to.
 
-!(https://rbucks.com/wp-content/uploads/2022/10/IMG_3525-1024x768.jpeg)
+![Blue resting, looking tired]({static}/images/IMG_3525-1024x768.jpeg)
 
 And then came the seizures. 
 
@@ -87,10 +85,9 @@ I coaxed him out of the house, relieved that whatever had gripped him was wearin
 
 She explained that it can be caused by anything and that medicines can help. She said he was probably fine to go back home but that we should try to see a vet soon. It's impossible to know when the next seizure will hit. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2022/10/8CEBC19E-9499-4612-A161-03DAB6BF46BF-1-768x1024.jpg)
+![Blue lying down after seizure]({static}/images/8CEBC19E-9499-4612-A161-03DAB6BF46BF-1-768x1024.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2022/10/518775C5-DBB2-4C9A-801A-D4FD56AE7C71-3-1024x768.jpg)
-</figure>
+![Blue outdoors during recovery]({static}/images/518775C5-DBB2-4C9A-801A-D4FD56AE7C71-3-1024x768.jpg)
 
 I made Blue sleep outside that night, a pattern that we would get used to with his nighttime seizures. He'd usually get amped up after his seizure, making it hard for all of us to go back to sleep. We had to tune out his whining to be let back in. That part was as hard as the seizure itself. 
 
@@ -116,7 +113,7 @@ The vet told me the worst-case news. The X-Ray didn't show anything wrong with h
 
 We came home to have a think.
 
-!(https://rbucks.com/wp-content/uploads/2022/11/0423DBA4-1B1F-4B0E-B26C-565F978BF287_1_105_c-1024x769.jpeg)
+![Blue with injured leg, limping]({static}/images/0423DBA4-1B1F-4B0E-B26C-565F978BF287_1_105_c-1024x769.jpeg)
 
 This was hard. I saw the writing on the wall, but I didn't want to read what it said. I could acknowledge what it meant, but I didn't want to understand it, digest it, or plan for it. 
 
@@ -150,4 +147,4 @@ They loved him. We all did.
 
 You're my boy, Blue
 
-!(https://rbucks.com/wp-content/uploads/2022/10/4C66BDB8-BF1F-45BB-9B6E-ACDD5CF98685-768x1024.jpg)
+![Blue's final portrait - peaceful expression]({static}/images/4C66BDB8-BF1F-45BB-9B6E-ACDD5CF98685-768x1024.jpg)

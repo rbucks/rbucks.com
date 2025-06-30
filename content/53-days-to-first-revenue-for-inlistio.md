@@ -92,4 +92,4 @@ As a result, none of our most recent customers signed up for the bottom tier pla
 
 The churns will come eventually, but it’s starting to look like this can be a nice little business.
 
-!(https://rbucks.com/wp-content/uploads/2018/01/a290b-1godcvh3jlbbnnj6vkdvpwq.png)
+![Inlistio revenue growth chart]({static}/images/2018/01/a290b-1godcvh3jlbbnnj6vkdvpwq.png)

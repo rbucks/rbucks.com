@@ -24,5 +24,5 @@ Or 48 years in Tim Ferriss workweeks.
 
 10,000 hours! Can you dig it?
 
-!(https://rbucks.com/wp-content/uploads/2016/05/fc084-1z3acrxdee0wkowrf2na2-g.jpeg)
+![The finished product]({static}/images/fc084-1z3acrxdee0wkowrf2na2-g.jpeg)
 *The finished product*

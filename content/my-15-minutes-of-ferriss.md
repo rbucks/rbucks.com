@@ -52,7 +52,7 @@ The (http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-
 
 The only email from Tim that I could find was the one where he told me my post was published. In true Ferriss fashion, he writes succinctly and has a link in his signature about why his emails are so short. It took about six months from the night we met and I pitched him to get my piece published.
 
-!(https://rbucks.com/wp-content/uploads/2016/03/3d26b-1gutdc_ymg12a4iibhluzzg.png)
+![Email from Tim Ferriss about blog post]({static}/images/2016/03/3d26b-1gutdc_ymg12a4iibhluzzg.png)
 *He definitely takes his blog posts seriously!*
 
 #### Conclusion

@@ -6,7 +6,7 @@ Tags: entrepreneurship, transparency, solo founder, authenticity
 
 #### On being transparent that Toofr is just me
 
-!(https://rbucks.com/wp-content/uploads/2017/09/88285-1ojcidih-be4am421fx1kfa.jpeg)
+![Solo entrepreneur]({static}/images/88285-1ojcidih-be4am421fx1kfa.jpeg)
 
 When I first started Toofr, even though I was the only person working on it, I’d refer to myself in the plural.
 

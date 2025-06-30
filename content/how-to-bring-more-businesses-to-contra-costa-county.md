@@ -32,9 +32,10 @@ As far as the types of businesses here, we're a product of the Bay Area:
 
 This result is a bit surprising. The names you see on the sides of buildings when driving around this area are mainly finance and real estate companies. There's a little bit of industrial and a lot of hospitals and elderly care. I wouldn't have guessed that IT & Software would be so dominant, but given our geography and how most people around here make enough money to afford a house, it makes sense. 
 
-- !(https://rbucks.com/wp-content/uploads/2019/07/categories.png)
+![Business categories chart showing tech dominance]({static}/images/categories.png)
 *We're also dominated by tech*
-- !(https://rbucks.com/wp-content/uploads/2019/07/cities.png)
+
+![Cities chart showing Walnut Creek and San Ramon as commercial centers]({static}/images/cities.png)
 *Our commercial centers are Walnut Creek and San Ramon*
 
 Our largest companies are a bit surprising, though. Each of these are making between $500M-1B a year:

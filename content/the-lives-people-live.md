@@ -134,4 +134,4 @@ Of course there is. My 6 steps are not a hierarchy, each level up being better t
 
 I'm still working my way through this thinking, finding my bits of impact and influence along the way, and, of course, trying to have some fun. 
 
-!(https://rbucks.com/wp-content/uploads/2022/11/actualization-1024x860.png)
+![Self-actualization levels diagram]({static}/images/actualization-1024x860.png)

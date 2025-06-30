@@ -16,7 +16,7 @@ So here’s my first in what I hope will be at least a quarterly update on what 
 
 #### Reading: A People’s History of the United States
 
-!(https://rbucks.com/wp-content/uploads/2017/11/58c36-1twfjhd5jxntfvmaw7hy2xq.png)
+![People's History book cover]({static}/images/58c36-1twfjhd5jxntfvmaw7hy2xq.png)
 
 My friends back in my UC Berkeley days always spoke highly of this book and I probably read a chapter in one of my freshman year classes. I’ve re-discovered an interest in history and read a biography of Charlemagne after watching a show about the dark ages on the History Channel’s Vault app. I figured it was finally time to tackle this one.
 
@@ -24,10 +24,10 @@ My friends back in my UC Berkeley days always spoke highly of this book and I pr
 
 I’m about halfway through a book on parallel entrepreneurship, in which I dissect the tactics and rationale behind running multiple businesses at once. I’ve already (https://rbucks.com/2017/10/27/parallel-entrepreneurship-defined/) on Medium and this book is where I’m compiling my favorite thoughts. Here’s an early book cover draft.
 
-!(https://rbucks.com/wp-content/uploads/2017/11/a1201-1fpaei1pd8jo4r4ivtwfyzg.png)
+![Parallel Entrepreneur book cover]({static}/images/a1201-1fpaei1pd8jo4r4ivtwfyzg.png)
 
 #### Playing: How Far I’ll Go from the Moana soundtrack, Bennie and the Jets by Elton John
 
-!(https://rbucks.com/wp-content/uploads/2017/11/06097-1pzqfb_myj_jp78gpevcpma.jpeg)
+![Piano with sheet music]({static}/images/06097-1pzqfb_myj_jp78gpevcpma.jpeg)
 
 I inherited my grandma’s piano a couple of years ago and I’m very pleased to be slowly learning how to play. To make it fun I’ve been learning my favorite pop tunes, and to make it easier to practice when the kids are running around, I’m learning their favorite songs. My daughter Lily is obsessed with the Moana soundtrack so I’m learning to play it on piano. Win-win.

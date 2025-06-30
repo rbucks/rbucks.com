@@ -18,13 +18,16 @@ That's not the deep exhaustion I'm referring to. This type of exhaustion sits in
 
 From the start of my 142-mile loop, it took about 40 miles and a bit over two hours for me to ride from my house in Lafayette to the estuary on the eastern side of the Dumbarton Bridge. That's when I got my first taste of tiredness. I stopped there and stretched. I filled my water bottles at a little trailhead visitor center structure. I took this picture there. 
 
-!(https://rbucks.com/wp-content/uploads/2023/04/IMG_4207-1024x768.jpeg)
+![Rest stop at Dumbarton Bridge estuary during 142-mile ride]({static}/images/IMG_4207-1024x768.jpeg)
 
 I was still feeling good. I stretched my legs, felt a twinge of cramp coming on but shook it off. I hopped back on and kept going. At 50 miles, I took a picture at the peak of the bridge span. I took my last picture as I entered Martinez from the north ninety miles later. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2023/04/IMG_4208-1024x768.jpeg)
+<figure class="wp-block-image size-large">
 
-!(https://rbucks.com/wp-content/uploads/2023/04/IMG_4216-1024x768.jpeg)
+![Peak of bridge span at 50 miles]({static}/images/IMG_4208-1024x768.jpeg)
+
+![Entering Martinez from the north at 90 miles]({static}/images/IMG_4216-1024x768.jpeg)
+
 </figure>
 
 I planned to circle the bay and cross five of the seven bridges (I couldn't fit San Mateo in and the Bay Bridge has no bike lane on the western span.) From the Dumbarton Bridge, I headed north up the western shore, through San Mateo, Redwood City, Belmont, and into SFO. The stretch along the airport is a drain. It's long and windy. Eventually, I crossed the freeway and hit another windy stretch opposite Candlestick Point, near the Cow Palace. This is the threshold between South San Francisco and SF proper. The Bayview / Hunter's Point district is not my favorite part of the city. I push up and then down the hills and onto the Chase Center and Oracle Park. I followed the Embarcadero around to the Golden Gate Bridge. This is about 85 miles from home. I cross into Sausalito, and a quick twenty miles later, I'm on the Richmond Bridge span. This is my third bridge with a wide, protected bicycle lane. I got a little lost (Garmin fail) between the Richmond Bridge and the Carquinez Bridge (the fourth), but I finally found it about 125 miles into the ride. Fifteen miles later, I hit the fifth bridge. Mission accomplished! 

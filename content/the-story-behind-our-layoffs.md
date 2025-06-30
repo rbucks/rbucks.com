@@ -18,7 +18,7 @@ The implications could be dire. It could stamp out our revenue, it could grind n
 
 All those things *could* happen, but *none *of them could happen too. I was banking on the latter as I brought this up a few times with a couple of people in the months after I took over as CEO. We kept postponing the decision. Like the 14-person layoff a year earlier, it was hard to stomach. It was a leap of faith. You don’t know how bad it’s going to hurt until you land.
 
-!(https://rbucks.com/wp-content/uploads/2017/02/7a094-1qsqrty-cmknfyrkk4gokcw.png)
+![Last days at Scripted office]({static}/images/7a094-1qsqrty-cmknfyrkk4gokcw.png)
 *The last days at the Scripted office*
 
 #### In February 2016 we dropped from 33 to 19 employees

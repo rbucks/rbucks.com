@@ -88,7 +88,7 @@ I knew at some point the bleeding would have to stop. Eventually, I would churn 
 
 I also still have a fair amount of one-off (including marketplace) transactions to cheer me up, so cash is still livable.
 
-!(https://rbucks.com/wp-content/uploads/2019/01/0.png)
+![Cash flow chart]({static}/images/2019/01/0.png)
 
 A little case study for those still reading: that January-February drop came from a customer who was accumulating a lot of overage charges. Each overage charge is accompanied by an email receipt, and this one user kept racking them up. I'd been in communication with them at several points to update their credit card, which they promptly did, and I just let it ride. Eventually new management came in and cleaned up their account, pushing them over onto a cheaper plan. That was the big drop. So the point of this case, and the lesson I took away, is to not treat those customers like real revenue. I should have asterisked about $5K/mo as "risky" or "likely to churn" and that would have pegged my MRR lower. That lower MRR might have changed my perspective on marketing activities.
 

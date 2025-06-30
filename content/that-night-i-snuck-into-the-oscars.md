@@ -24,7 +24,7 @@ I put on my best black suit and tie, combed back my hair, and, completely sober,
 
 I had no plan, but I knew there would be heavy security and I wasn’t sure how close I could get to wherever I was going. I just knew I wanted to find the epicenter, badly.
 
-!(https://rbucks.com/wp-content/uploads/2016/02/f3afd-1waoezxvi7kkj3-vwk1wksg.jpeg)
+![Scene of the crime - Hollywood & Highland]({static}/images/2016/02/f3afd-1waoezxvi7kkj3-vwk1wksg.jpeg)
 *Scene of the crime. Photo by Loyalty Traveler.*
 
 On the backside of the Hollywood & Highland outdoor shopping center where the Kodak calls home, there’s a huge fancy Renaissance hotel. I figured I would start here rather than going straight for the red carpet where every other tourist schmuck was probably also thinking they could sneak in. Security would be thicker on the street side.
@@ -75,7 +75,7 @@ I wish I could have given her a high five, but that would have blown my cover.
 
 I made it. In just 30 minutes since I left my apartment, I made it much further than I expected, especially given the amount of security and preparations I’d witnessed all week. But I was there, in my cheap dress shoes and black suit I got in high school, standing on the red carpet, surrounded by… nobodies.
 
-!(https://rbucks.com/wp-content/uploads/2016/02/45951-10o7yc_sabijjxqpmkbwvnq.jpeg)
+![Red carpet scene (not my photo)]({static}/images/2016/02/45951-10o7yc_sabijjxqpmkbwvnq.jpeg)
 *I did not meet her on the Red Carpet. Photo by Lester Cohen, WireImage.*
 
 I didn’t recognize a single person. That was my first disappointment. I’m on the red carpet, on Oscar night, and there’s not a single celebrity in sight. Just throngs of nicely-dressed people packing into limos and smiling.
@@ -90,7 +90,7 @@ Together we continued up a series of escalators, winding up on a floor at Hollyw
 
 Eventually we came into an entry area, a large outdoor foyer. I saw big security guys talking into ear pieces. Definitely not the same crew that worked the carpet. I walked on, deliberately, hoping that my group would let me blend in. No one ever approached me. I was a stowaway on their boat, and they got me into what I found out later was the Governors’ Ball.
 
-!(https://rbucks.com/wp-content/uploads/2016/02/6fc3e-1x54epy4cu80xu4u7x91k5w.jpeg)
+![Clint Eastwood and Diane Sawyer interview]({static}/images/2016/02/6fc3e-1x54epy4cu80xu4u7x91k5w.jpeg)
 *Big night for these two! Photo by Life.com.*
 
 The first celebrity I saw was Clint Eastwood, sitting on a stool next to Diane Sawyer as she interviewed him on camera. He won trophies for Best Director and Best Picture that night. Then I saw all the cameras. They were everywhere! I again found a crowd and tried to look normal. I remember gathering around the Sawyer interview and sensing a very tall man to my right. I looked up. It was Tim Robbins. That’s one big check on my bucket list: I stood next to Andy Dufrane.
@@ -101,7 +101,7 @@ I caught Clint when he was alone for a moment. I approached and as his body guar
 
 A group had surrounded Chris Rock, and it looked like he was shaking hands, working the line, so I got right in there. When it was my turn, I said, “I saw your brother do a standup gig on Sunset. He was good.” Chris nodded and said thanks. That was it.
 
-!(https://rbucks.com/wp-content/uploads/2016/02/e5f06-1217mygl5tuvwcsymtbatbq.jpeg)
+![Governors Ball scene]({static}/images/2016/02/e5f06-1217mygl5tuvwcsymtbatbq.jpeg)
 *It was a scene like this. Photo by Getty Images.*
 
 I didn’t take any pictures (this was before the iPhone) but before I left, I did make one phone call.

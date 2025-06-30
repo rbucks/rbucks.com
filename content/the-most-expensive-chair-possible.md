@@ -6,7 +6,7 @@ Tags: design, lifestyle, personal, appreciation
 
 I don’t usually love expensive things. For this piece of furniture, though, I made a big, whopping exception.
 
-!(https://rbucks.com/wp-content/uploads/2016/03/10e40-1r3svmkllnh55ty3fv3mslw.jpeg)
+![My Eames lounge chair and ottoman]({static}/images/10e40-1r3svmkllnh55ty3fv3mslw.jpeg)
 *My Eames*
 
 It’s my (http://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman.html), and I just goddamn love it. It’s one of the things I looked forward to about owning a house. The justification was easy: when you spend your life savings on owning property in the Bay Area, what’s another few grand for a chair no one actually needs?
@@ -19,4 +19,4 @@ Can I actually justify spending this much on a chair? Can anyone? Ultimately, th
 
 And, of course, Lily likes it too.
 
-!(https://rbucks.com/wp-content/uploads/2016/03/3b004-127jxaqa_tqnodmk-a2dohw.jpeg)
+![Lily enjoying the Eames chair]({static}/images/3b004-127jxaqa_tqnodmk-a2dohw.jpeg)

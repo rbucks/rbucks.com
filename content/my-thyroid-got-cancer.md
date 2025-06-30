@@ -38,7 +38,7 @@ I went to a nearby shopping center and found a Round Table Pizza with a pizza an
 
 A couple of days later, on my BART commute home, standing with one hand in a stirrup and the other thumbing through my iPhone, I got this message from the endocrinologist. If you want to know what it’s like to be told there’s cancer in your body, here you go.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/04b3e-1xpjujtiiznowuy-lhcgfuw.png)
+![Kaiser message about cancer diagnosis]({static}/images/04b3e-1xpjujtiiznowuy-lhcgfuw.png)
 *The moment I found out my thyroid had cancer*
 
 I wonder how common it is these days to receive shocking news while completely surrounded by strangers. I couldn’t gasp, break down, or ask for a hug from someone. Instead I swallowed the news, hard, and switched over to mobile Safari to google this new term that I would get to know very well: papillary thyroid cancer.
@@ -77,5 +77,5 @@ I got some bad news that day on BART, but it could have been much worse. It coul
 
 For that I’m very grateful.
 
-!(https://rbucks.com/wp-content/uploads/2017/06/dc28c-1zxi4hk2sbxlnkfxqctydmw@2x.jpeg)
+![Daughter pushing me on hammock]({static}/images/dc28c-1zxi4hk2sbxlnkfxqctydmw@2x.jpeg)
 *My daughter pushing me on the hammock in our backyard as I finished this essay.*

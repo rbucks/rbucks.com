@@ -12,7 +12,7 @@ In the summer of 2004, I needed a change in my life. I spent the majority of my 
 
 In a lot of ways, organizing the environmental community at UC Berkeley was my first real entrepreneurial endeavor. It even had a business plan, in the form of a proposal that I pitched to Chancellor Berdahl in his office in California Hall. I wasn’t trying to be an entrepreneur, but I was, and I loved it.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/909f8-1xit88hkwq1fs6ad9xdn3wq.png)
+![Me and Chancellor Berdahl, graduation 2004]({static}/images/2016/05/909f8-1xit88hkwq1fs6ad9xdn3wq.png)
 *Me and Chancellor Berdahl, graduation 2004*
 
 I took a job right after graduation with the non-profit (http://www.ase.org/) and helped them open a new office in Sacramento. They had just received a large grant to build new energy efficiency programs on campuses throughout California. I was to be the organizer. A perfect job for a guy like me, and I was excited about it… until I wasn’t. Something wasn’t right, and I knew it but I couldn’t figure out what exactly the problem was, and therefore had no idea how to fix it. I stumbled along until I realized that all along I was battling with a severe case of denial: I really just wanted to get into the private sector.
@@ -29,7 +29,7 @@ We played with a bunch of ideas in the ensuing months, but nothing really stuck.
 
 Lo and behold, it worked!
 
-!(https://rbucks.com/wp-content/uploads/2016/05/a34fe-1bpejwjf3x1tnwl74ojveyq.png)
+![Harvard acceptance letter - I'M IN!]({static}/images/2016/05/a34fe-1bpejwjf3x1tnwl74ojveyq.png)
 *I’M IN!*
 
 In March 2006 I was accepted to the (https://www.hks.harvard.edu/) of Government’s class of 2008. After making another big decision to ditch my legal ambitions for the more specific route of public policy (both could ultimately lead to public office, I figured), I went all-in and it worked. The ace up my sleeve? A glowing recommendation from the chancellor of UC Berkeley. I figured not too many applicants would have that. Not even at Harvard.
@@ -48,7 +48,7 @@ I was excited to be building a company and didn’t think twice about the money.
 
 We launched Scripped in January 2008. I remember sitting in class and checking our little admin site and watching the count of users climb up.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/8b955-1fhaf8fudfyi0gk0xsfzp8w.png)
+![One of Sunil's very first mockups]({static}/images/2016/05/8b955-1fhaf8fudfyi0gk0xsfzp8w.png)
 *One of Sunil’s very first mockups.*
 
 Seeing people randomly appear and start using your creation is a magical feeling. Even though the numbers were small, even though we had no idea how it would ever make money, we were ecstatic. This part of the story alone made the whole $10,000 buy-in and countless hours up to this point worth it. I had no idea — NO IDEA — that 10 years later I would still be working on it.
@@ -61,7 +61,7 @@ In the earliest days of Scripped, we were damn scrappy. We had no money, and wha
 
 Despite lacking in perhaps the most fundamental area for a technology company (a web developer!), we were a really strong team.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/4b49c-1q-y4g2vjxepzq40lt4dcrg.png)
+![At Zak's place in Long Beach, probably summer 2007]({static}/images/2016/05/4b49c-1q-y4g2vjxepzq40lt4dcrg.png)
 *At Zak’s place in Long Beach, probably summer 2007.*
 
 ---
@@ -72,14 +72,14 @@ If you think you’re the only one with an idea, stop right there. You’re not.
 
 A quick note on this Zhura merger: something like this will never happen to me again. Eric MacDonald, the CEO/founder of Zhura, our biggest competitor, the company we would stalk online, talk about incessantly, and take joy in knowing that we were causing them to spend way more marketing cash and effort than we were, became our savior. Not only did he give us the keys to his screenwriting software kingdom, but he also invested in our future. Since his own company was winding down, he could have pulled us down with him. Instead, he gave us a life boat. He became a great friend and mentor, teaching me a lesson I won’t forget: be kind to your competition; you never know when you’ll need them.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/9de80-1ji0lnkgxz3r_trztapdfua.png)
+![Two titans of online screenwriting merged]({static}/images/2016/05/9de80-1ji0lnkgxz3r_trztapdfua.png)
 *Two titans of online screenwriting! Merged!*
 
 About a year later, Eric, who we brought onto the Board of Directors of Scripped, would play another critical role. We were desperately low on cash, direction, and morale. I was working full-time at a local marketing tech company called Rapleaf (Sunil had previously held a full-time job, too). Zak was no longer focusing on Scripped, and instead was laying the bricks that would eventually lead to his graduation from Harvard Dental School (yes, one talented screenwriter, web designer, and Harvard-educated dentist, that Zak Freer turned out to be!) We had been toying with an idea for months around ghostwriting marketing copy for businesses: social media, blog posts, you-name-it. This was April 2011, about a year after this merger, and suddenly it all came to a head.
 
 Once again, something happened at my day job and I decided to make a move. I had just joined the sales team when Rapleaf (http://www.wsj.com/articles/SB10001424052702304410504575560243259416072) and suddenly we couldn’t sell a thing. I wasn’t making any commission, but I still needed the meager salary and was becoming a decent ping-pong player at work, and also learning to program in Python, so I stuck with it. In April the management approached us with a new compensation plan and I took that opportunity to peel off and strike out on Scripted. Eric MacDonald and one of my business school classmates pledged some more cash to cushion the transition. I took the pay cut but was much happier to be full-time again with my friend Sunil and a shiny new object in front of us: Scripted.com.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/f53e1-1aiogp3axx9ab4wc_y59zbg.png)
+![Zak's first Scripted logo]({static}/images/2016/05/f53e1-1aiogp3axx9ab4wc_y59zbg.png)
 *Zak’s first Scripted logo.*
 
 ---
@@ -88,12 +88,12 @@ A quick sidebar. How did we get the domain Scripted.com, you ask? Let me tell yo
 
 I was tired of people asking me, “How’s Scripted going?” and having to correct them: “Good! And it’s Scripped, not Scripted.” So one fine day, I looked up the owner of Scripted on the WHOIS service and wrote him an email.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/d79e6-1brfxj1-3ealt-ppugulaig.png)
+![Email to domain owner - I didn't think I'd hear from him]({static}/images/2016/05/d79e6-1brfxj1-3ealt-ppugulaig.png)
 *I didn’t think I’d hear from him.*
 
 And then I got this reply. We were supposed to chat by phone but it never happened.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/78a8a-1i8bs9bqe80voaqdqq2i1uw.png)
+![Reply from domain owner - And then I did]({static}/images/2016/05/78a8a-1i8bs9bqe80voaqdqq2i1uw.png)
 *And then I did.*
 
 I sent his nephew a postcard and a Boston Red Sox baseball cap for good measure. A week or so later I got the domain authorization code to transfer it and it was ours. We’ve been the proud owners of Scripted.com since 2008, and officially redirected it to our writing marketplace in late 2011.
@@ -116,4 +116,4 @@ I think it was Steve Jobs who said that it takes at least seven years to build a
 
 Is Scripted a meaningful company? It depends on who you ask. It’s meaningful to me.
 
-!(https://rbucks.com/wp-content/uploads/2016/05/dd9d4-1xned__ysyg0jrxj4v76lig.jpeg)
+![Scripted team photo]({static}/images/2016/05/dd9d4-1xned__ysyg0jrxj4v76lig.jpeg)

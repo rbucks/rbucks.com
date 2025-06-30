@@ -4,7 +4,7 @@ Slug: voting-your-conscience-is-bullshit
 Category: Politics
 Tags: politics, opinion, voting, leadership
 
-!(https://rbucks.com/wp-content/uploads/2016/09/204cf-12zwm35k0zvgpfzcholhazg.jpeg)
+![Political opinion illustration]({static}/images/204cf-12zwm35k0zvgpfzcholhazg.jpeg)
 
 The essence of my argument is this: **don’t expect too much of your public officials**.
 
@@ -36,5 +36,5 @@ And that is why I am writing this. To save you from frustration for the rest of 
 
 As we know all too well in this election, reality TV is an oxymoron. Or maybe just a moron. I dunno, you tell me.
 
-!(https://rbucks.com/wp-content/uploads/2016/09/0a4ed-1rxl06l5pqy-iz6oqkdsgrq.jpeg)
+![Trump's expressive debate moments]({static}/images/0a4ed-1rxl06l5pqy-iz6oqkdsgrq.jpeg)
 *(http://www.dailymail.co.uk/news/article-3237833/It-s-face-don-t-need-hear-words-know-Donald-saying-Trump-s-expressive-debate-moments.html)*

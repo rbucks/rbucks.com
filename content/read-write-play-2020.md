@@ -54,7 +54,7 @@ So I adapted. And sacrificed. Apparently writing blog posts fell to the wayside.
 
 However, I did make huge progress on my book. I'm up to over 70,000 words now. About half was written in 2019 (the latter half) and the rest was written in spring and summer 2020. I'm stuck on the ending but I have an idea and I'm one writing retreat away from capping this sucker off. It'll feel really good when it's done. I already have a book cover. 
 
-!(https://rbucks.com/wp-content/uploads/2020/12/TJS-cover-639x1024.png)
+![The Japanese Sandman book cover]({static}/images/TJS-cover-639x1024.png)
 *Just looking at this cover makes me want to finish writing the damn book. *
 
 My top post of 2020 wasn't even written in 2020. I published (https://rbucks.com/2019/11/28/how-chess-and-entrepreneurship-are-the-same/) about a year ago and for some reason it started to pop in traffic this past summer. Nothing else I wrote this year even comes close. So it goes. 

@@ -10,7 +10,7 @@ Sounds funny, churn and burn, but together they can make or break your business.
 
 We measure churn as the number of cancellations this month divided by the number of active subscribers at the end of last month.
 
-!(https://rbucks.com/wp-content/uploads/2017/01/2dd3f-13cfltfrr-kbhq-ly3iubka.jpeg)
+![Churn formula diagram]({static}/images/2dd3f-13cfltfrr-kbhq-ly3iubka.jpeg)
 
 Without putting something out on the internet that I’ll regret later, I’ll just say ours is above 10%. It should be below 10%. It needs to be below 10%. To get it below 10%, we need fewer subscribers to cancel (the numerator, above). To do that, we need to do… something. Figuring out what that *something *is has been a major challenge. Here’s a study on it.
 
@@ -51,7 +51,7 @@ Even if this was a good idea, I simply don’t have the bandwidth to do it every
 
 Here’s where a histogram can help.
 
-!(https://rbucks.com/wp-content/uploads/2017/01/95eda-1fhxkvwpwzxbhbks3-pwujg.png)
+![Trial cancellation histogram]({static}/images/95eda-1fhxkvwpwzxbhbks3-pwujg.png)
 
 Scripted offers everyone a 30-day free trial, so the trial cancellations show above in the first four bars. These guys never paid for a membership; they took the free trial and bounced.
 
@@ -61,7 +61,7 @@ The other clear spikes are the week before and the week after the trial conversi
 
 Here’s my takeaway.
 
-!(https://rbucks.com/wp-content/uploads/2017/01/59d90-19fjlmsf8v2ecvnzn4888za.png)
+![Conversion window diagram]({static}/images/59d90-19fjlmsf8v2ecvnzn4888za.png)
 
 I have a window of a couple of weeks to save the people who don’t cancel in the first week.
 
@@ -75,13 +75,13 @@ I bucket the churn problem in two categories: trials and customers. The approach
 
 If we get a bit more granular and look at what point *in the monthly subscription cycle *they cancel, we see a pretty even distribution.
 
-!(https://rbucks.com/wp-content/uploads/2017/01/70720-1pedkv72xvn4gjlag0547nq.png)
+![Monthly subscription cycle histogram]({static}/images/70720-1pedkv72xvn4gjlag0547nq.png)
 
 Unfortunately there’s not a lot to play with here. Clearly there’s an “Oh shit” group in the 0 to 7 bucket that cancels as soon as the renewal gets charged. Otherwise, it looks like if someone wants to cancel, they’ll do it at whatever point in the month the decision is made. So I can’t really use the renewal cycle to prioritize churn.
 
 In fact, the answer here requires a different data set. Account activity (or lack there of, really) is a pretty good predictor of churn. Guess what? Here’s another histogram!
 
-!(https://rbucks.com/wp-content/uploads/2017/01/0249b-1rzggxogd1eyyoduygdfqoa.png)
+![Account activity histogram]({static}/images/0249b-1rzggxogd1eyyoduygdfqoa.png)
 
 The -1 here means they never ordered a job. So here’s a an easy takeaway:
 

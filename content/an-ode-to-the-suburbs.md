@@ -20,7 +20,7 @@ It never varied. For those who moved out of the city the reasons don’t need to
 **Parking**. Wow, I can’t tell you how nice it is to pull into a driveway. Family can park near our house without circling for the elusive Marina parking spot. I feel better about asking my mom to come visit us, and we see her and my dad a lot more these days as a result.- 
 **Ownership**. There’s also something deeply satisfying about owning a home and the land beneath it. It’s beyond the equity. There’s a pride of ownership that I didn’t expect. When the toilet is acting up I want to fix it, the way a painter might look at a flaw in his painting and need to grab a brush. I enjoy pulling up thistles in our huge backyard and spot painting our walls. As a renter I would just get pissed off that no one was fixing it.
 
-!(https://rbucks.com/wp-content/uploads/2016/03/3d25b-1lgkwf3r3ble0pw77yfkntg.jpeg)
+![Backyard thistle patch being removed]({static}/images/3d25b-1lgkwf3r3ble0pw77yfkntg.jpeg)
 *See ya never, nasty thistle patch!*
 
 - 
@@ -36,18 +36,18 @@ https://youtu.be/t6aE30_GbF8
 - 
 **Peaceful easy feeling**. We all miss Glenn Frey, don’t we? When I cruise home, this tune randomly jumps into my head. It tells me I’m relaxed, ready to see my daughter, wife and puppy when I get home.
 
-!(https://rbucks.com/wp-content/uploads/2016/03/d0b41-1ype9cd-h1d7ammvb5hr26a.jpeg)
+![Pathway to and from home]({static}/images/d0b41-1ype9cd-h1d7ammvb5hr26a.jpeg)
 *The pathway to and from home.*
 
 - 
 **Neighbors**. The last thing I have to mention is a little bit about the community we’ve found ourselves in. In our apartment building we got to the know the apartment managers (we outlasted three of them) and just a few of our building-mates. For some reason it was hard make real friends even though we lived just feet apart. Here’s a picture from the day we got the keys to our house.
 
-!(https://rbucks.com/wp-content/uploads/2016/03/96bb8-14lqysmpkfpbdwdkh0jlv9q.png)
+![Lily and her neighborhood friends getting house keys]({static}/images/96bb8-14lqysmpkfpbdwdkh0jlv9q.png)
 *Lily (middle) and her amigas.*
 
 All of those kids live on our cul-de-sac, and I hope Lily gets to catch the bus to school and go swimming and have sleepovers with them and all of those things you get to do when you’re growing up. She’s very happy with her neighborhood friends, and it makes us happy too. It’s a whole other dimension to moving to the suburbs that I didn’t anticipate. My neighbors aren’t going to change every six months; instead we get to enjoy these people for years!
 
-!(https://rbucks.com/wp-content/uploads/2016/03/ef788-1uxpszuech8c9lewlw_vgqq.png)
+![Kids playing games in the neighborhood]({static}/images/ef788-1uxpszuech8c9lewlw_vgqq.png)
 *Let the games begin!*
 
 It’s slower out here and the air smells good. I like it.

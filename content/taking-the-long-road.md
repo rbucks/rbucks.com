@@ -4,7 +4,7 @@ Slug: taking-the-long-road
 Category: Personal
 Tags: running, life-lessons, perseverance, marathon
 
-!(https://rbucks.com/wp-content/uploads/2019/01/march-128_orig.jpg)
+![2003 Mardi Gras Marathon finisher]({static}/images/march-128_orig.jpg)
 *2003 Mardi Gras Marathon finisher*
 
 I ran my first marathon in college. It was my junior year and I decided to take a brief respite from alcohol (I would (https://medium.com/@rbucks/the-highs-and-lows-of-3-months-with-no-alcohol-1edebe724036) about fifteen years later) and train for a marathon. There was no impetus behind it. I just wanted to do it for me and I decided to do it alone.

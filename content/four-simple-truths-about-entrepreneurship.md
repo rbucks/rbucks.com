@@ -42,7 +42,7 @@ So I want to start by going into this part of my story a bit because it all ties
 
 The first organization I ever started from scratch was a group of guys (we were all dudes) who picked up trash on Wednesdays after high school. It was a volunteer campus cleanup crew. I don't quite remember what triggered this project, but I do remember that the janitors gave us our own rolling trash can. 
 
-!(https://rbucks.com/wp-content/uploads/2019/09/mtp.jpg?w=666)
+![Mission: Trash Pickup trash can]({static}/images/2019/09/mtp.jpg)
 *I found the old "Mission: Trash Pickup" trash can at my high school years after I graduated*
 
 They loved us, and some of the teachers did too. I managed to leverage this notoriety as the trash pickup guy to become head of the environmental club and then, somewhat miraculously, Senior Class President. As class president, I had access to the display case in the quad. I filled it trash and told people to stop littering. I also was responsible for organizing prom. Instead of having it at a lame expensive hotel, I chose the Exploratorium, a science museum. 

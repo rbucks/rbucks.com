@@ -14,7 +14,7 @@ The leverage you get comes from the long handles. Keeping the load near the fulc
 
 I once needed to move a 450 pound boulder about 20 feet up a slight grade from the street to my front yard. I ended up watching a bunch of YouTube videos with grizzly-haired men talking about how ancient Egyptians built the pyramids. They relied on leverage and the efficiency of rolling and dragging rather than lifting and carrying. I got this boulder into my wheelbarrow, built a ramp to get it up the curb, and plopped that sucker onto its final resting place without herniating a disc. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2022/11/IMG_3856-1024x768.jpeg)
+<figure class="wp-block-image size-large">![Boulder moved with wheelbarrow]({static}/images/2022/11/IMG_3856-1024x768.jpeg)
 </figure>
 
 I have repaired this wheelbarrow many times. I've replaced and tightened many screws. I even had to buy a new wheel, a solid rubber variety that won't be susceptible to nails and rocks. It just keeps on giving.
@@ -25,4 +25,4 @@ Sometimes engineering is so perfect, so elegant, that it appears boring. I'm gra
 
 Thank you, wheelbarrow.  
 
-!(https://rbucks.com/wp-content/uploads/2022/11/IMG_3854-1-768x1024.jpeg)
+![Faithful wheelbarrow]({static}/images/2022/11/IMG_3854-1-768x1024.jpeg)

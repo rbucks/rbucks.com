@@ -8,7 +8,7 @@ Tags: writing, creativity, family, entrepreneurship
 
 But then, one night, I wrote a poem. 
 
-!(https://rbucks.com/wp-content/uploads/2022/02/Remember-ebook-cover-1024x1024.jpg)
+![Remember children's book cover]({static}/images/Remember-ebook-cover-1024x1024.jpg)
 
 It was November 29, 2021. A Monday. We had just wrapped up a long holiday week. My wife's family visited us for several days, culminating in a large family Thanksgiving dinner with my parents joining the party. We hosted everyone, putting to use every inch of our (https://rbucks.com/2021/11/14/how-we-did-our-home-addition-and-remodel/).
 
@@ -30,7 +30,7 @@ The following morning, during a lull in my work schedule, I decided to find an i
 
 *My comment is still there:*
 
-!(https://rbucks.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-20-at-8.46.41-PM-1024x630.png)
+![Reddit comment screenshot]({static}/images/Screen-Shot-2022-02-20-at-8.46.41-PM-1024x630.png)
 
 I thought it was funny that OP (that's the gender-neutral Internet slang for "original poster" -- the person who started the thread) said they don't draw people but would do it if I didn't mind them being strange. For a kid's book, I figured strange was good. Strange was special, unique, and memorable. I didn't want anything too polished, and I really liked the art in OP's portfolio, so I left that comment. 
 
@@ -38,13 +38,11 @@ I must have caught (https://www.jreneart.com/) because she wrote back a few minu
 
 On Thursday, this is what she sent. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-20-at-8.54.33-PM-1024x801.png)
+![Child's perspective of father playing piano]({static}/images/Screen-Shot-2022-02-20-at-8.54.33-PM-1024x801.png)
 *I remember you were so good at playing piano when I was growing up*
 
-!(https://rbucks.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-20-at-8.54.01-PM-1024x802.png)
+![Father's perspective learning piano]({static}/images/Screen-Shot-2022-02-20-at-8.54.01-PM-1024x802.png)
 *I was only learning for the first time*
-
-</figure>
 
 I loved it! Plus I was amazed: How did the Internet let me do this? Some random person I just met on Reddit was helping me turn this poem into a children's book. Having spent my entire career online, this shouldn't be a shock to me, but I'm glad it doesn't get old. I'm just grateful that I found Jolene and she turned out to be the perfect illustrator for my book. 
 

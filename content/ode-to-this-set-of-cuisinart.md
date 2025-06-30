@@ -28,5 +28,9 @@ Before I knew it, I had a daughter in the same San Francisco apartment with me a
 
 I'm so happy it did. I'll never get rid of them. 
 
-- <figure>!(https://rbucks.com/wp-content/uploads/2019/03/img_8009.jpg?w=768)- !(https://rbucks.com/wp-content/uploads/2019/03/img_8012.jpg?w=1024)- !(https://rbucks.com/wp-content/uploads/2019/03/img_8013.jpg?w=1024)- !(https://rbucks.com/wp-content/uploads/2019/03/img_8007.jpg?w=1024)
+<figure>
+![Cuisinart cookware]({static}/images/img_8009.jpg)
+![Cuisinart cookware]({static}/images/img_8012.jpg)
+![Cuisinart cookware]({static}/images/img_8013.jpg)
+![Cuisinart cookware]({static}/images/img_8007.jpg)
 </figure>

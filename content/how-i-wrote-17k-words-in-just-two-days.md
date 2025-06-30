@@ -26,7 +26,7 @@ Meaning, if you can do one side hustle, why can’t you do three?
 
 I found a terrific designer in Napa to put some book cover ideas together for me. Here’s my favorite one.
 
-!(https://rbucks.com/wp-content/uploads/2017/12/9006b-1wixihktb2-jkfzda9ftmtq.png)
+![My first book cover design]({static}/images/9006b-1wixihktb2-jkfzda9ftmtq.png)
 *My first book :)*
 
 Finally, for #3, I’ve also begun talking to my local representatives and leaders of the county Democratic Party about getting connected and laying the groundwork for my (https://medium.com/@rbucks/open-the-gate-11bf4afa6cf3). I’m not as far along on this front yet but I still have a few months before next April.
@@ -53,7 +53,7 @@ At about 7:45am I had my running gear on and headed out into the crisp Sonoma ai
 
 It was a local joint. The young guy behind the register was the son of the owner and he welcomed every guest with a “Hey Gus” or a “Morning Dan, the usual for ya?” I sat at the counter and ordered my usual, an omelette and coffee, and listened to the guys around me banter about seed trucks and tax breaks and the terrible Sonoma fire.
 
-!(https://rbucks.com/wp-content/uploads/2017/12/d22f7-1w0t3nn4kwgtnlxbbkyhazg.jpeg)
+![Creekside Cafe sign in Sonoma]({static}/images/d22f7-1w0t3nn4kwgtnlxbbkyhazg.jpeg)
 *A perfect sign on the wall of the Creekside Cafe in Sonoma, CA, around the corner from the Fairmont where I stayed.*
 
 Back at the hotel I showered, put on some nice clothes (I always dress up for my personal retreats,) went down to the lobby and dove in, starting on page 1 and going through the book bit by bit, filling in more gaps, writing new sections, moving text around. I pulled in writing I’ve already published on Medium and found drafts of writing I did in Evernote but never published. I discovered that my interest in this project actually goes back two years. The timestamps on the Evernote drafts of topics I’d also outlined in my Google Docs manuscript shocked me.
@@ -84,7 +84,7 @@ At 10:50pm they did last call at the bar. I ordered a Manhattan and by the time 
 
 I cheers’d my screen and took a picture.
 
-!(https://rbucks.com/wp-content/uploads/2017/12/f1b51-1r6kq9ymy8_kogwoh68ompg.jpeg)
+![Celebrating 30,000 words with a Manhattan]({static}/images/f1b51-1r6kq9ymy8_kogwoh68ompg.jpeg)
 
 #### Day 2: Retreat from the retreat
 

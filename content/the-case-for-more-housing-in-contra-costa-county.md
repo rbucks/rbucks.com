@@ -12,13 +12,13 @@ If you've tried to buy a house here recently then you know what it's like. You g
 
 Predictably, as these prices are increasing, the rate of home ownership has fallen from 72% in 2009 to 64% in 2016.
 
-!(https://rbucks.com/wp-content/uploads/2019/01/fredgraph-6_orig.png)
+![Contra Costa County median home price chart]({static}/images/2019/01/fredgraph-6_orig.png)
 
-!(https://rbucks.com/wp-content/uploads/2019/01/fredgraph-7_orig.png)
+![Contra Costa County homeownership rate chart]({static}/images/2019/01/fredgraph-7_orig.png)
 
 Not everyone gets a high paid tech or medical job. These are competitive too, so a lot of couples decide to rent rather than buy and wait for the market to cool down. That trend is clear in this chart above. What's less clear is what we can do to fix it. New housing permits have been steadily rising since 2008 but we need to do more.  
 
-!(https://rbucks.com/wp-content/uploads/2019/01/fredgraph-8_orig.png)
+![New housing permits in Contra Costa County]({static}/images/2019/01/fredgraph-8_orig.png)
 
 This statistic from the (http://mercurynews.ca.newsmemory.com/publink.php?shareid=25ac99f0a) should raise an alarm:
 

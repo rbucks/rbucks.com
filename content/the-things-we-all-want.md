@@ -40,7 +40,7 @@ Childcare is expensive too. I didn't know it when I had kids, but for the first 
 
 So if you're really just getting by at $200K, and by that I mean your boxes are checked but you're without much cushion, imagine what it means to make less than that. Think about the sacrifices you make to live on $100K with a family here in California. Then look at this chart.
 
-!(https://rbucks.com/wp-content/uploads/2019/07/income.png)
+![California household income distribution]({static}/images/2019/07/income.png)
 *Most people don't make enough money to be middle class in California. Source: (https://statisticalatlas.com/state/California/Household-Income#figure/household-income-distribution)*
 
 It's crazy. About 9 million households in California make less than $100K. About 4 million make more than $100K. And $100K is not even breaking even if you really want to live the middle class American dream. It's not even close. You need to be in the $200K+ bracket, which is only 8.6% of the population. 

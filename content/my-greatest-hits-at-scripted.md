@@ -12,11 +12,11 @@ Let me take a step back and explain this bit of Scripted lore.
 
 My grandma makes wonderful short sleeve button-down shirts for the men in my family. The catch: the fabric cannot be boring. She won’t bother making a shirt with the kind of pattern you can find at Nordstroms. The fabrics are loud, vibrant, and very… unique.
 
-!(https://rbucks.com/wp-content/uploads/2017/09/b1dc6-1qxgu8bgjnfns_u0qxwj50a.png)
+![Grandma shirt with bicycle pattern]({static}/images/2017/09/b1dc6-1qxgu8bgjnfns_u0qxwj50a.png)
 
-!(https://rbucks.com/wp-content/uploads/2017/09/e8ff1-1cxeosznbypv7tecxo5x-0w.png)
+![Grandma shirt with fish pattern]({static}/images/2017/09/e8ff1-1cxeosznbypv7tecxo5x-0w.png)
 
-!(https://rbucks.com/wp-content/uploads/2017/09/74fd4-1p8-yfcbdwxykwprvxlgesw.png)
+![Grandma shirt with robot pattern]({static}/images/2017/09/74fd4-1p8-yfcbdwxykwprvxlgesw.png)
 *Some grandma shirts seen in the wild.*
 
 So when people at Scripted started to have two-year anniversaries I asked, What’s the most special gift I can offer? My answer was the gift of grandma.
@@ -69,7 +69,7 @@ First you might overhear a question like, “Hey are you going to toast?” Or, 
 
 Then the ice would break, someone would stand up, and the evening’s toasts would begin. Some would be funny, some would be serious, but all would be heartfelt and authentic. It was the perfect accompaniment to good food, drinks, and friends. It also helped us get to know each other better.
 
-!(https://rbucks.com/wp-content/uploads/2017/09/1781c-1ikeewjncjupn1jgxu2a4jw.jpeg)
+![Team dinner before toasts]({static}/images/2017/09/1781c-1ikeewjncjupn1jgxu2a4jw.jpeg)
 *The calm before the toast.*
 
 I don’t know for sure when or actually even if I created this tradition. I do know that it’s something I always wanted to do. It’s my favorite part of weddings and it’s a skill I personally want to hone. I always thought that if I ran a company I would build toasting into its culture.
@@ -86,9 +86,9 @@ It began as the sales team’s weekly happy hour at a spot chosen by our VP of S
 
 Not only is he kind, difficult to understand, and hilarious, but his chicken wings are incredible.
 
-!(https://rbucks.com/wp-content/uploads/2017/09/cb7ce-1jewjrenxqmj76fwq5fetaq.jpeg)
+![Ted from Ted's Sports Bar]({static}/images/2017/09/cb7ce-1jewjrenxqmj76fwq5fetaq.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/09/aff1c-1-dhs32ekmq7159-yzbofvw.jpeg)
+![Ted's famous chicken wings]({static}/images/2017/09/aff1c-1-dhs32ekmq7159-yzbofvw.jpeg)
 *Ted and me. Ted’s wings.*
 
 So we decided to open it up to the whole company and I suggested Scripted pay for everyone’s *first* drink. For many years the weekly tradition continued and I was happy that people honored the system. Our tabs were never outrageous but I think Ted didn’t add up every drink, so we gave him big tips to make up for it.
@@ -101,7 +101,7 @@ At the back of the bar there are a bunch of dollar bills stapled to the wall. We
 
 I still go see Ted when I’m in the area, though. He’s not your typical San Francisco entrepreneur, but he built a great company.
 
-!(https://rbucks.com/wp-content/uploads/2017/09/834bb-1dmrjohdoa3nr_xw_me-giw.png)
+![Scripted dollar bill on Ted's wall]({static}/images/2017/09/834bb-1dmrjohdoa3nr_xw_me-giw.png)
 *Scripted was here.*
 
 ### I chose a great commercial real estate broker

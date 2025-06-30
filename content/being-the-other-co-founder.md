@@ -12,7 +12,7 @@ I'm coming up on two full years since my Scripted days came to a close. Since th
 
 ---
 
-!(https://rbucks.com/wp-content/uploads/2019/03/munger.jpg)
+![Charlie Munger]({static}/images/munger.jpg)
 
 The co-founder or CEO / non-CEO-but-still-important pairing has many obvious examples:
 

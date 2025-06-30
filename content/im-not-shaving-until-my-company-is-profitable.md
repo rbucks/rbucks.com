@@ -14,9 +14,9 @@ We basically lit a (https://www.redfin.com/OR/Eugene/2222-Jeppesen-Acres-Rd-9740
 
 ***For two years.***
 
-!(https://rbucks.com/wp-content/uploads/2017/02/3245b-1ub2p1zphtl4p6iydcyk1dw.jpeg)
+![Money burning start of month]({static}/images/3245b-1ub2p1zphtl4p6iydcyk1dw.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2017/02/48be7-10gxiqjq3sz5insktudgc6a.jpeg)
+![Money burning end of month]({static}/images/48be7-10gxiqjq3sz5insktudgc6a.jpeg)
 *This is what it’s like to run a startup: start of the month -> end of the month.*
 
 Let that one sink in. About $8M dollars lost while we struggled to find product market fit and hired a lot of expensive managers, agencies, and consultants.
@@ -31,7 +31,7 @@ I spent the better part of this week perusing through three years of board prese
 
 By the way, here’s what losing $18M over five years looks like.
 
-!(https://rbucks.com/wp-content/uploads/2017/02/dd843-1so7ctnlnnioglek3ugnsla.png)
+![Monthly losses chart]({static}/images/dd843-1so7ctnlnnioglek3ugnsla.png)
 
 These blue bars are monthly losses, and they grew with our fundraising milestones. That’s by design, of course. You raise money in order to invest in activities that are not profitable in the short-term. It’s the leverage you use to expand faster than your competitors. This is the weapon that Lyft and Uber are using against each other: unprofitable growth. The hope is that you can course correct your expenses later when the revenue machine is humming. Then you quickly make all those losses back.
 
@@ -41,7 +41,7 @@ For a short period, revenue did improve after we raised money.
 
 *Here’s that chart.*
 
-!(https://rbucks.com/wp-content/uploads/2017/02/9e897-12qa6jf2a2wiqta3afi75zg.png)
+![Revenue growth chart]({static}/images/9e897-12qa6jf2a2wiqta3afi75zg.png)
 
 The problem appears when you overlay the net income and revenue charts. Losses grow when revenue grows. We have to keep spending more money in order to keep making more money. In fact, for every new dollar we got, we had to spend *more *than a dollar to get it. In other words, our unit economics were negative. This is bad, and it almost killed us.
 
@@ -49,4 +49,4 @@ Fortunately, we made some hard choices recently and are a-l-m-o-s-t profitable. 
 
 **Until then, I ain’t shavin.’**
 
-!(https://rbucks.com/wp-content/uploads/2017/02/d26d1-1a7gnje6cbmz2xnrfprw61g.png)
+![Beard growth pledge]({static}/images/d26d1-1a7gnje6cbmz2xnrfprw61g.png)

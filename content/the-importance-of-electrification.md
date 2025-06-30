@@ -52,7 +52,7 @@ I admit that I didn't think about this one at all when my wife and I launched ou
 
 So, how do you efficiently heat air without burning fossil fuels? You purchase a magical device called heat pump.
 
-!(https://rbucks.com/wp-content/uploads/2021/08/21543E1A-E01D-4D49-BC40-4F484D0DC004_1_105_c.jpeg)
+![Fujitsu heat pump unit installed outside home]({static}/images/21543E1A-E01D-4D49-BC40-4F484D0DC004_1_105_c.jpeg)
 **Our Fujitsu heat pump**
 
 A heat pump is a refrigerator in reverse. It uses the thermodynamic properties of refrigerant to capture heat and transfer it somewhere else. It can heat your home when the outside temperature is very cold, even below freezing, by dropping the temperature of the refrigerant fluid far enough below the ambient temperature to create a heat differential. The energy from that difference in heat warms your house. It's magic.  
@@ -81,13 +81,25 @@ Furthermore, with a typical (https://www.fujitsugeneral.com/us/residential/what-
 
 I got the quote a week later and we needed to pay $20,000 extra for the system we talked about. I don't know how much of that was my desire for five zones or the complexity of wiring the system upstairs where there's no attic or crawl space, but I didn't protest. I wanted the better system that would use less energy and no fossil fuels. Since it was still early in our renovation process I could stomach the difference. It would have been much harder to do towards the end. We agreed to the extra cost. 
 
-- <figure>!(https://rbucks.com/wp-content/uploads/2021/08/7831CE9C-611F-49C3-B4DA-9FB108C57D35_1_105_c.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/08/0423F149-8F57-4B7F-AD82-BB23F403F8BF_1_105_c.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/08/62203C98-E703-4913-95D8-AD60C440FBA9_1_105_c-1.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/08/D2CBE16F-0A2C-4017-B2D1-56C7D43566DC_1_105_c-1.jpeg)
-</figure>
+![Wall-mounted heat pump air handler in bedroom]({static}/images/7831CE9C-611F-49C3-B4DA-9FB108C57D35_1_105_c.jpeg)
+
+![Heat pump air handler in living area]({static}/images/0423F149-8F57-4B7F-AD82-BB23F403F8BF_1_105_c.jpeg)
+
+![Heat pump air handler installation detail]({static}/images/62203C98-E703-4913-95D8-AD60C440FBA9_1_105_c-1.jpeg)
+
+![Heat pump air handler remote control unit]({static}/images/D2CBE16F-0A2C-4017-B2D1-56C7D43566DC_1_105_c-1.jpeg)
 
 Lest you think that having a heat pump means putting one of these appendages up on the wall, rest assured that standard ducting works too. We have these upstairs because there's no attic or subfloor to run ducts. The only solution was the wall-mounted air handler which, by the way, is super quiet and works great. After a while you don't even see it. The rest of the vents look like this.
 
-- <figure>!(https://rbucks.com/wp-content/uploads/2021/09/08DC5D9B-A9BD-4281-BA9E-344447909271_1_105_c.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/09/58EEC1EC-18D3-422D-8C59-A796FCF5D0EF_1_105_c.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/09/11A6D22D-661A-492F-9DE5-D4DBDDC24306_1_105_c.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/09/86FEC856-C0FE-43D6-AEB2-7FC8AC382BE2_1_105_c.jpeg)- !(https://rbucks.com/wp-content/uploads/2021/09/1DB8B9F7-1B2C-47F4-9C8D-43177485C7F3_1_105_c.jpeg)
-</figure>
+![Ceiling vent for heat pump system]({static}/images/08DC5D9B-A9BD-4281-BA9E-344447909271_1_105_c.jpeg)
+
+![Floor vent for heat pump system]({static}/images/58EEC1EC-18D3-422D-8C59-A796FCF5D0EF_1_105_c.jpeg)
+
+![Wall vent for heat pump system]({static}/images/11A6D22D-661A-492F-9DE5-D4DBDDC24306_1_105_c.jpeg)
+
+![Return air vent for heat pump]({static}/images/86FEC856-C0FE-43D6-AEB2-7FC8AC382BE2_1_105_c.jpeg)
+
+![Ceiling air handler unit for heat pump]({static}/images/1DB8B9F7-1B2C-47F4-9C8D-43177485C7F3_1_105_c.jpeg)
 
 They're all very low-profile, normal vents and the ceiling air handler is especially slick. It's actually the equivalent of the boxy thing we have upstairs but we couldn't use it there because of the slant in the ceiling. The sleeker square air handler only works on flat ceilings. 
 
@@ -105,16 +117,15 @@ Our system does two great things: it uses no gas, and it heats and cools with pr
 
 Heating water with a heat pump is a much easier proposition. We originally had a typical gas-fired 80-gallon water heater and after some quick research, I found a (https://www.homedepot.com/p/Rheem-Performance-Platinum-80-Gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE80T10H45U0/312741506) that I liked at Home Depot and had it delivered. 
 
-- <figure>!(https://rbucks.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-24-at-9.26.15-PM-1024x468.png)
+![Traditional gas water heater specifications]({static}/images/Screen-Shot-2021-08-24-at-9.26.15-PM-1024x468.png)
 *Traditional gas*
-- !(https://rbucks.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-24-at-9.27.09-PM-1024x514.png)
-*Heat pump*
 
-</figure>
+![Heat pump water heater specifications]({static}/images/Screen-Shot-2021-08-24-at-9.27.09-PM-1024x514.png)
+*Heat pump*
 
 The cost difference here was about $1,300. However, the energy efficiency saves several hundred dollars per year, paying this extra cost off in just 3-4 years. Since the lifespan is at least 10 years, this one's a no-brainer.
 
-!(https://rbucks.com/wp-content/uploads/2021/08/92FF03F5-A42A-4545-A0D1-F4FE457E32B9_1_105_c.jpeg)
+![Heat pump water heater installed in garage]({static}/images/92FF03F5-A42A-4545-A0D1-F4FE457E32B9_1_105_c.jpeg)
 
 Because the water heater system only runs in one direction (transfer heat from the air to the water), the appliance constantly exhausts cool air. Therefore, in the summer months our water heater will cool down the garage. We didn't put any AC vents to the garage so this will be a really nice perk when it's 100 degrees outside. I don't like hot, stuffy garages.  
 

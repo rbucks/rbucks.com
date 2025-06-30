@@ -6,12 +6,11 @@ Tags: family, lifestyle, design, contra-costa-county
 
 *This was the last and final remodel. There were (https://rbucks.com/2022/05/30/a-summary-of-our-first-home-projects/).*
 
-<figure class="wp-block-image size-full">!(https://rbucks.com/wp-content/uploads/2021/10/C5FB5CD9-B94D-4CFE-9E63-692A4C340247-2715103369-1636573446963.jpg)
+![Home exterior before renovation]({static}/images/C5FB5CD9-B94D-4CFE-9E63-692A4C340247-2715103369-1636573446963.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2702.jpeg)
-</figure>
+![Home exterior after renovation]({static}/images/IMG_2702.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-15-at-8.32.59-AM.png)
+![Home addition floor plan overview]({static}/images/Screen-Shot-2021-11-15-at-8.32.59-AM.png)
 
 Between March and September 2021 we more than doubled the size of our house here in Contra Costa County, going from 1,500 square feet to just over 3,900. It took more than a year to go from our first drawings to the finished product, with permits and construction each taking about six months. 
 
@@ -41,28 +40,25 @@ I remember that she arrived at our first meeting with a small ruler, a pencil, a
 
 We never bothered to interview anyone else. I wanted Jill to figure this out for us. These are some of the first sketches of the downstairs addition layout after our meetings in late June 2020.
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.00.13-PM-763x1024.png)
+![Early design sketch - kitchen layout]({static}/images/Screen-Shot-2021-10-13-at-9.00.13-PM-763x1024.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.00.22-PM-962x1024.png)
+![Early design sketch - floor plan option]({static}/images/Screen-Shot-2021-10-13-at-9.00.22-PM-962x1024.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.00.34-PM-1024x795.png)
+![Early design sketch - room layouts]({static}/images/Screen-Shot-2021-10-13-at-9.00.34-PM-1024x795.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.01.47-PM-1024x774.png)
-</figure>
+![Early design sketch - final concept]({static}/images/Screen-Shot-2021-10-13-at-9.01.47-PM-1024x774.png)
 
 We received this clean set of drawings just a couple of weeks later. The left is the downstairs and the right is the upstairs. With tiny modifications, this would be the final layout of our new house. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.09.50-PM-740x1024.png)
+![Final floor plan - downstairs]({static}/images/Screen-Shot-2021-10-13-at-9.09.50-PM-740x1024.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.10.05-PM-851x1024.png)
-</figure>
+![Final floor plan - upstairs]({static}/images/Screen-Shot-2021-10-13-at-9.10.05-PM-851x1024.png)
 
 Later, she modified the drawings to show which walls are new (dark filled) and which are existing (no fill).
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.13.12-PM-736x1024.png)
+![Floor plan showing new vs existing walls - downstairs]({static}/images/Screen-Shot-2021-10-13-at-9.13.12-PM-736x1024.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.13.23-PM-780x1024.png)
-</figure>
+![Floor plan showing new vs existing walls - upstairs]({static}/images/Screen-Shot-2021-10-13-at-9.13.23-PM-780x1024.png)
 
 This was my first foray into architecture and it continued to amaze and surprise me because my mind doesn't work like this. I'm artistic with sound but not with shapes. Witnessing the work of a professional, an artist, really, was very satisfying. Jill seemed to be able to picture our house and walk through it in her mind. 
 
@@ -72,18 +68,17 @@ As with nearly everything home-related before and after this big project, I most
 
 Finally, we settled on the completed plans. I loved seeing these elevation drawings, which Jill also drew by hand. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.25.10-PM-1024x706.png)
+![House elevation drawing - front view]({static}/images/Screen-Shot-2021-10-13-at-9.25.10-PM-1024x706.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.25.21-PM-1024x767.png)
-</figure>
+![House elevation drawing - side view]({static}/images/Screen-Shot-2021-10-13-at-9.25.21-PM-1024x767.png)
 
 The final, complete plans included a site survey, electrical drawings, engineering drawings, Title 24 (energy efficiency stuff), and roof drawings. It looked very impressive. 
 
 I still can't believe Jill *drew* this. It looks like a computer drawing. It's unbelievable.
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.27.48-PM-1024x759.png)
+![Complete architectural plan - roof and electrical]({static}/images/Screen-Shot-2021-10-13-at-9.27.48-PM-1024x759.png)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-13-at-9.28.44-PM-1024x757.png)
+![Site survey and landscaping plan]({static}/images/Screen-Shot-2021-10-13-at-9.28.44-PM-1024x757.png)
 
 So there it is. The final final. Jill dropped off our completed plans at the county sanitary department for initial approval on September 14. They approved on September 24 and we were off to the building department to begin their much, much longer process. 
 
@@ -127,12 +122,12 @@ All I do know is this timeline was crazy.
 
 - September 14, 2020: Dropped off the building plans at sanitation department- September 24, 2020: Began working with an arborist on required tree removal plans- September 25, 2020: Picked up approved building plans at sanitation department- October 9, 2020: Planning department entered us into the online ePermit system- October 20, 2020: Received the arborist report- October 26, 2020: County told us that the building permit approval process will pause until we get the tree permits (!!!!)- November 6, 2020: Assigned to a tree permit person- ..... crickets ......- December 22, 2020: ePermit updated with tree permit requirement- December 29, 2020: Reached out to tree permit guy's boss
 
-!(https://rbucks.com/wp-content/uploads/2021/10/2021-10-21_22-15-55-1024x521.png)
+![Desperate email about permit delays]({static}/images/2021-10-21_22-15-55-1024x521.png)
 **I was getting desperate*.*
 
 - January 5, 2021: Notice sent out to neighbors about our building and tree removal plans- January 19, 2021: Public comment period ended- January 28, 2020: Received the tree permit- ..... crickets ......- March 5, 2021: BUILDING PERMIT ISSUED!
 
-!(https://rbucks.com/wp-content/uploads/2021/10/2021-10-21_21-42-59-1024x656.png)
+![Building permit approval notification]({static}/images/2021-10-21_21-42-59-1024x656.png)
 **Rejoice!**
 
 We discovered, to our dismay, that even despite bypassing city regulations, permits are not cheap.
@@ -159,26 +154,25 @@ YES! I asked her for the lease and we locked it in. We'd live four doors down fr
 
 Here's a glimpse of what we saw between March and September 2021. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/2E9DBFDD-41DF-4B19-A2F9-022B07D39239-1024x768.jpg)
+![Construction progress - initial demolition]({static}/images/2E9DBFDD-41DF-4B19-A2F9-022B07D39239-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/E37B989D-F9E8-4C2F-A50F-3306D1FD3B11-1024x768.jpg)
+![Construction progress - foundation work]({static}/images/E37B989D-F9E8-4C2F-A50F-3306D1FD3B11-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/7ED84332-51D5-4AC8-B5FE-B87C2EA0ADF9-1024x768.jpg)
+![Construction progress - framing begins]({static}/images/7ED84332-51D5-4AC8-B5FE-B87C2EA0ADF9-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/4A752F15-700A-43BE-95F3-6D82B48C5CF3-1024x768.jpg)
+![Construction progress - walls going up]({static}/images/4A752F15-700A-43BE-95F3-6D82B48C5CF3-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/83541C41-F4F4-4BD5-83FD-75B2A220A4EB-1024x768.jpg)
+![Construction progress - roof installation]({static}/images/83541C41-F4F4-4BD5-83FD-75B2A220A4EB-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/8010A595-3B04-4890-8153-9CC98A77AEFA-1024x768.jpg)
+![Construction progress - exterior walls]({static}/images/8010A595-3B04-4890-8153-9CC98A77AEFA-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/EBB11D60-84E1-4BFF-9ED5-BB573AD6824F-1024x768.jpg)
+![Construction progress - siding installation]({static}/images/EBB11D60-84E1-4BFF-9ED5-BB573AD6824F-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/95171FA1-216A-47CF-BD35-9B5663DFBF4A-1024x768.jpg)
+![Construction progress - interior framing]({static}/images/95171FA1-216A-47CF-BD35-9B5663DFBF4A-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/756DC508-8B5A-4013-BF28-1BD86248219F-1024x768.jpg)
+![Construction progress - drywall and paint]({static}/images/756DC508-8B5A-4013-BF28-1BD86248219F-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/67096FE5-2416-4F10-B93B-59067CA13625_1_105_c.jpeg)
-</figure>
+![Construction progress - final details]({static}/images/67096FE5-2416-4F10-B93B-59067CA13625_1_105_c.jpeg)
 
 ## The expansion
 
@@ -192,20 +186,19 @@ We eventually managed, though, and the foundation crew was able to set up the wo
 
 The final step, which was not part of the original contract (scope creep... again), was to wrap our deck around from the new extension to the new door in our new kitchen. The crew figured out that since they leveled off the house, raising it up to six inches in some places, the old deck framing was too low. They decided to completely strip the old deck and start over. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/93034F05-3741-4979-8B66-CEB1F1D5BC61-1024x768.jpg)
+![Addition construction - tree removal and site prep]({static}/images/93034F05-3741-4979-8B66-CEB1F1D5BC61-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/3F83A3B2-A42F-42CD-B6CE-46567964F997-1024x768.jpg)
+![Addition construction - foundation digging]({static}/images/3F83A3B2-A42F-42CD-B6CE-46567964F997-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/DD6E7092-2C54-4E3A-8DBA-89CA56A3D14E-1024x768.jpg)
+![Addition construction - concrete footings]({static}/images/DD6E7092-2C54-4E3A-8DBA-89CA56A3D14E-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/1FE85E17-65C2-4D7F-9344-21BEF33E58DD-1024x768.jpg)
+![Addition construction - floor joists installation]({static}/images/1FE85E17-65C2-4D7F-9344-21BEF33E58DD-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/B86105A4-B575-4C2D-A08C-47A4FACF7BBA-1024x768.jpg)
+![Addition construction - subfloor and framing]({static}/images/B86105A4-B575-4C2D-A08C-47A4FACF7BBA-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/1C385849-0BC7-4A8D-8B59-1B013F57BA8B-1024x768.jpg)
+![Addition construction - wall framing complete]({static}/images/1C385849-0BC7-4A8D-8B59-1B013F57BA8B-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/C16CA147-ECE0-4209-8B17-EAE76513B63B-1024x768.jpg)
-</figure>
+![Addition construction - deck installation]({static}/images/C16CA147-ECE0-4209-8B17-EAE76513B63B-1024x768.jpg)
 
 ## The upstairs
 
@@ -227,28 +220,27 @@ Another thing we got right about the TV room is getting all the cables routed th
 
 I just love this room. I'm sitting here now as I type this.
 
-!(https://rbucks.com/wp-content/uploads/2021/10/122EE469-84BE-4E5D-8806-8C392D07AC5D_1_105_c.jpeg)
+![Completed upstairs TV room with sectional couch]({static}/images/122EE469-84BE-4E5D-8806-8C392D07AC5D_1_105_c.jpeg)
 
 Here's the progression of how the upstairs came to be. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/A4920905-E194-48AB-BCF6-A08D840B8A17-1024x768.jpg)
+![Upstairs construction - initial framing]({static}/images/A4920905-E194-48AB-BCF6-A08D840B8A17-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/D54F7C5E-FE1C-41B1-AA2F-A0BE1499B7A5-1024x768.jpg)
+![Upstairs construction - room dividers installed]({static}/images/D54F7C5E-FE1C-41B1-AA2F-A0BE1499B7A5-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/6B861D0C-F4D7-43C4-8B07-5C61852183CF-1024x768.jpg)
+![Upstairs construction - drywall and finishing]({static}/images/6B861D0C-F4D7-43C4-8B07-5C61852183CF-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/97FFCD6F-46AE-4220-AB04-E844D1D7ADCA_1_105_c.jpeg)
-</figure>
+![Upstairs construction - painted and ready]({static}/images/97FFCD6F-46AE-4220-AB04-E844D1D7ADCA_1_105_c.jpeg)
 
 ## The Saranap kitchen
 
 The kitchen was my wife's domain. So many decisions. So. Many. Decisions. 
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2683-1-1024x768.jpeg)
+![Completed kitchen - wide view showing island and cabinets]({static}/images/IMG_2683-1-1024x768.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/B9975CE2-0F1F-497F-9261-49D2ED50662B_1_105_c.jpeg)
+![Kitchen island with quartzite countertops]({static}/images/B9975CE2-0F1F-497F-9261-49D2ED50662B_1_105_c.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/A1163E0E-1E1D-40B5-913E-1F4BD288AD22-1024x768.jpg)
+![Kitchen backsplash tile installation]({static}/images/A1163E0E-1E1D-40B5-913E-1F4BD288AD22-1024x768.jpg)
 
 We knew we wanted it to be big, and we knew it made sense to have it basically take over the entirety of the old garage. We wanted a massive island, a prep sink in addition to the main sink, and we needed a pantry. My wife was also certain that we should add a "powder room" -- basically a bathroom dedicated to our downstairs guests. 
 
@@ -258,58 +250,53 @@ Here are a few bullet points about kitchen remodels that I learned:
 
 - Cabinet boxes and drawers are constructed before the doors. The doors are a specialty service ordered to spec based on the box dimensions. We used Igor, one of Byron's guys, for the boxes and (https://www.dutchmandoors.com/) for the doors. - It really helps to have a 3D rendering. We commissioned one on Upwork for about $2,500 and ended up changing the design as a result. (https://accounts.chiefarchitect.com/3DV/view?share=531072004235004). - There are a million types of countertop and you can't really go wrong (unless you pick marble, which stains easily). I'm really glad we landed on quartzite (Victoria Falls, to be exact) after almost going with a Cambria quartz. - The pantry is clutch. It's just so nice to have all the dry food stored on open shelves instead of having to rummage through low cabinets to find that can of beans. 
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2735-1024x768.jpeg)
+![Kitchen pantry with open shelving]({static}/images/IMG_2735-1024x768.jpeg)
 
 - Stacked ovens are the way to go. Our lower oven is a standard convection and our upper is a "speed oven" which basically is a combination toaster oven microwave. This setup will come in handy on Thanksgiving. - Induction cooktops are amazing. (https://rbucks.com/2021/08/26/the-importance-of-electrification/).- Our kitchen is big. I mean BIG. Byron approved, though. He said in most houses, even fancy ones, the kitchens are too small and the master bedrooms are too big. He said we got it right.- We tiled to the ceiling and didn't put any cabinet uppers where traditionally they'd go above the cooktop. It's a nice clean look, but we had the luxury of not needing the additional storage.- We put two speakers in the ceiling and connected them to a Sonos amp so we can ask Alexa to play music there or select it from our Spotify app. Wired speakers in the kitchen are awesome.- We got Brizo SmartTouch faucets. I didn't care when my wife brought this up, figuring I didn't have to use it if I didn't want to. Now I can't imagine life without it. It's nice to be able to turn the sink on and off by touching the back of my hand to it when they're dirty or full. - We added an insta-hot faucet. I love to have water on tap that's hot enough to brew tea or coffee on the fly. I also use it to clean stubborn greasy dishes. 
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2733-768x1024.jpeg)
+![Induction cooktop on kitchen island]({static}/images/IMG_2733-768x1024.jpeg)
 
 - We got this Franke sink with a tray that has two levels. This feature works because the sides are square. Seems like a subtle, shrug-worthy feature but it's actually quite nice to have the raised sink tray for prepping vegetables and the lower one for washing out bowls. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2731-768x1024.jpeg)
+![Kitchen sink with dual-level tray system]({static}/images/IMG_2731-768x1024.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2730-768x1024.jpeg)
-</figure>
+![Kitchen sink tray detail - raised and lowered levels]({static}/images/IMG_2730-768x1024.jpeg)
 
 - We splurged on panel-ready Sub-Zero side-by-side refrigerator freezer. That's the cabinet to the right in the picture below. It's not at all necessary but I'm glad we stretched the budget and did it. Super clean look. - We also wanted an "appliance garage" for the coffee maker and toaster. This essentially means putting a 4-plug jack in the back of a cabinet. We put that to the left of the Sub-Zero with a little decorative space between them. We could have put an upper cabinet here but we opted not to.
 
-!(https://rbucks.com/wp-content/uploads/2021/10/BA824B4F-2618-44E2-B0CA-099FC114C1D1_1_105_c.jpeg)
+![Sub-Zero panel-ready refrigerator in kitchen cabinets]({static}/images/BA824B4F-2618-44E2-B0CA-099FC114C1D1_1_105_c.jpeg)
 
 - I also got my booze cabinet. Here we have a dual-zone beverage refrigerator (properly chilled red wine is divine), wine rack, and hard liquor sliding drawer.  - The smaller drawers are holding junk mail and coloring materials for the kiddos for now. The way we use this area will evolve over time.
 
-!(https://rbucks.com/wp-content/uploads/2021/10/B425E066-6F33-4BEE-B05B-9E0CEA87FB7D_1_105_c.jpeg)
+![Beverage center with wine storage and refrigerator]({static}/images/B425E066-6F33-4BEE-B05B-9E0CEA87FB7D_1_105_c.jpeg)
 
 - Finally, I really wanted drawer inserts. These are all Rev-A-Shelf pre-fabricated inserts that we cut down to size to fit into our drawers. It really makes a difference in look and feel and they're each just around $50 each.  
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/E02EE31D-061B-4366-A612-04CBFC2D525F_1_105_c.jpeg)
+![Kitchen drawer organizer - utensil insert]({static}/images/E02EE31D-061B-4366-A612-04CBFC2D525F_1_105_c.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/95370B38-2F2D-4798-BB01-7E0081B37368_1_105_c.jpeg)
+![Kitchen drawer organizer - cutlery tray]({static}/images/95370B38-2F2D-4798-BB01-7E0081B37368_1_105_c.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/42BF1D90-412D-40E1-888C-9790CE8F978F_1_105_c.jpeg)
+![Kitchen drawer organizer - spice rack insert]({static}/images/42BF1D90-412D-40E1-888C-9790CE8F978F_1_105_c.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/B63D8BE5-9ACE-4721-BDEC-2F25FFF21260_1_105_c.jpeg)
+![Kitchen drawer organizer - dish storage]({static}/images/B63D8BE5-9ACE-4721-BDEC-2F25FFF21260_1_105_c.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2674-1024x768.jpeg)
-</figure>
+![Kitchen cabinet hardware and organization]({static}/images/IMG_2674-1024x768.jpeg)
 
 The kitchen is gorgeous. There's no other way to describe it. It's a show-stopper when people walk into our house. It's welcoming, functional, clean, and BIG. It's where we eat breakfast, where I read the newspaper, and catch up with my wife halfway through the day. I love it. There's nothing I would change. 
 
 Finally, here are a few before-and-after shots of the kitchen construction. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/1B27EB04-2C20-4D9D-A69C-352D25F2847E-1024x768.jpg)
+![Kitchen construction - before renovation]({static}/images/1B27EB04-2C20-4D9D-A69C-352D25F2847E-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/807AE40C-7091-4BBE-83AB-59E37CD87799-1024x768.jpg)
-</figure>
+![Kitchen construction - after renovation]({static}/images/807AE40C-7091-4BBE-83AB-59E37CD87799-1024x768.jpg)
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/8A6F424E-4E56-4814-B0DA-7D4A9BBE3BE8-768x1024.jpg)
+![Kitchen framing and electrical work in progress]({static}/images/8A6F424E-4E56-4814-B0DA-7D4A9BBE3BE8-768x1024.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/8477330D-3C20-47AE-BA40-D7D0AFDEAC40-1-1024x768.jpg)
-</figure>
+![Kitchen during construction - walls and fixtures]({static}/images/8477330D-3C20-47AE-BA40-D7D0AFDEAC40-1-1024x768.jpg)
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/AE10A99C-1619-4B9B-9002-553548C17726-1024x768.jpg)
+![Kitchen cabinet installation in progress]({static}/images/AE10A99C-1619-4B9B-9002-553548C17726-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/10/F5229C54-FE23-4644-8567-1E909B46E751-1024x768.jpg)
-</figure>
+![Kitchen nearing completion - final touches]({static}/images/F5229C54-FE23-4644-8567-1E909B46E751-1024x768.jpg)
 
 Emily Henderson called hers the "Portland kitchen." So we'll call this one the "Saranap." 
 
@@ -317,18 +304,17 @@ Emily Henderson called hers the "Portland kitchen." So we'll call this one the "
 
 This is the room that my wife is probably most proud of. Even prouder than the kitchen, which is saying a lot. 
 
-!(https://rbucks.com/wp-content/uploads/2021/11/93BF4907-5129-4B08-9D7E-A215700FF10E-768x1024.jpg)
+![Master bedroom with vaulted ceiling and sitting area]({static}/images/93BF4907-5129-4B08-9D7E-A215700FF10E-768x1024.jpg)
 
 I love this room too because, if you'll recall from the beginning of this novella, having a real grownup bedroom was the main thrust of this whole endeavor. We didn't remodel the whole house to get a nice kitchen. We did it for the bedroom. 
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/11/545AA2B4-F407-464F-BAA7-46D6A273B85E-1024x768.jpg)
+![Master bedroom - bed and seating area view]({static}/images/545AA2B4-F407-464F-BAA7-46D6A273B85E-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2682-1024x768.jpeg)
-</figure>
+![Master bedroom - opposite angle showing windows]({static}/images/IMG_2682-1024x768.jpeg)
 
 Before I go on, you have to understand that our bedroom before was small. It could fit a king bed and a dresser and that's it. There was a big window but no fan, and we had a closet with two sliding doors. We stepped out onto a squeaky hallway that inevitably woke our daughters up when we were just trying to sneak into the kitchen to brew a quiet cup of coffee. So having a big bedroom with a sitting area, our own bathroom with a carpeted walk-in closet, and an enclosed toilet room so it doesn't monopolize the bathroom is... amazing. 
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2738-1024x768.jpeg)
+![Master bathroom vanity with custom cabinetry]({static}/images/IMG_2738-1024x768.jpeg)
 
 Our vanity was custom-built by the same guy who did our kitchen. The wood was stained by the same guy who painted our kitchen cabinets. The vanity countertop is also the same quartzite that we used in the kitchen. It helps to have the same guys knock out all the upgrades in all the rooms! 
 
@@ -336,20 +322,19 @@ Rather than dual sinks, we opted for one. We just don't brush our teeth at exact
 
 The shower is tiled top-to-bottom with more Heath. There's not a lot to say about it. It's beautiful, of course, and we knew it would be because we love Heath. It's big but not absurdly big. I don't know why some houses have showers bigger than the master closet. Or two shower heads, for that matter. (Do most couples take showers together all the time? Are we the odd ones out?) The glass door finishes the look so we can always see that lovely tile.  
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2736-768x1024.jpeg)
+![Master bathroom shower with Heath tile]({static}/images/IMG_2736-768x1024.jpeg)
 
 We carpeted the walk-in closet and added two sets of built-in drawers. The top drawer is slightly shorter than the rest. Igor did a beautiful job with these too. It's a treat to have solid, custom built-ins like this. 
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2740-1-768x1024.jpeg)
+![Master closet with built-in drawers and organization]({static}/images/IMG_2740-1-768x1024.jpeg)
 
 The closet is simple, just 6' by 10'. It's big enough for us both to stand in there but with the drawers and clothes in the way, we wouldn't both get dressed at the same time. It's plenty for one, though. Since neither of us have a ton of clothes, and our bulky jackets are in the new coat closet by the entrance, it's been totally fine. 
 
 ## The wide hallway
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2689-1024x768.jpeg)
+![Wide hallway in master suite addition]({static}/images/IMG_2689-1024x768.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/613164F1-D66A-4E2D-AC83-F297159954B4-768x1024.jpg)
-</figure>
+![Hallway showing spacious 6-foot width]({static}/images/613164F1-D66A-4E2D-AC83-F297159954B4-768x1024.jpg)
 
 The hallways in our addition are about six feet wide. It's a subtle touch on paper, but it's a luxurious vibe to walk through them. It's the horizontal equivalent of a high ceiling. If you have the space, I definitely recommend it. It feels really, really nice. 
 
@@ -361,10 +346,9 @@ The shape of the garage is odd along the perimeter because of our creek setback 
 
 One thing I was adamant about, and very glad we included, was a utility sink. Our last garage had one and I used it all the time. Painting supplies, shoes with dog poop, and anything else gross got washed in it. I definitely did not want to use our kitchen sinks for that mess, so the garage utility sink got brought into the fold. I bought the floating cast iron sink on Wayfair and it has held up well so far.
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2744-1024x768.jpeg)
+![Finished garage with utility sink and organization]({static}/images/IMG_2744-1024x768.jpeg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2745-1-1024x768.jpeg)
-</figure>
+![Garage utility sink and storage setup]({static}/images/IMG_2745-1-1024x768.jpeg)
 
 ## A few more thoughts about construction
 
@@ -376,12 +360,10 @@ I remember taking these pictures below, eager with anticipation, scared at how u
 
 The guys that do this must get great satisfaction in seeing a building go up. I hope they do.  
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/2650CB1E-A0C9-4903-9E5A-5B1A27C39DBE-1024x768.jpg)
+![Construction in progress - unfinished framing]({static}/images/2650CB1E-A0C9-4903-9E5A-5B1A27C39DBE-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2675-1024x768.jpeg)
-</figure>
+![Same view completed - finished interior]({static}/images/IMG_2675-1024x768.jpeg)
 
-<figure class="wp-block-image size-large">!(https://rbucks.com/wp-content/uploads/2021/10/C612D2D5-429B-46DF-B96D-79AC2BA8C365-1024x768.jpg)
+![Before - construction site view]({static}/images/C612D2D5-429B-46DF-B96D-79AC2BA8C365-1024x768.jpg)
 
-!(https://rbucks.com/wp-content/uploads/2021/11/IMG_2676-1024x768.jpeg)
-</figure>
+![After - completed home interior]({static}/images/IMG_2676-1024x768.jpeg)
