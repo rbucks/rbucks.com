@@ -3,6 +3,7 @@ Date: 2015-07-08 21:43
 Slug: why-company-values-are-important
 Category: Business
 Tags: company-culture, leadership, hiring, values
+Summary: How Scripted's seven company values became our decision-making framework for hiring, spending, product launches, and solving complex problems.
 
 At Scripted's last company-wide retreat in Santa Cruz, we finally presented something that’s been years in the making: Scripted’s company values.
 

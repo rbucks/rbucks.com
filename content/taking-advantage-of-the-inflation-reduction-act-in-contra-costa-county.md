@@ -3,6 +3,7 @@ Date: 2023-01-03 12:00
 Slug: taking-advantage-of-the-inflation-reduction-act-in-contra-costa-county
 Category: Politics
 Tags: inflation-reduction-act, contra-costa-county, green-economy, policy
+Summary: How Contra Costa County can leverage $1.4 billion in federal infrastructure funds to build a green economy through manufacturing and services.
 
 After the success of (https://www.dvti.org/conference) conference, for which I chaired and did the bulk of the organizing, I was approached by a friend in the local sustainability community. She asked me if I'd like to help organize a conference focusing on green tech in Contra Costa County. I enthusiastically said yes!
 

@@ -3,6 +3,7 @@ Date: 2019-04-26 21:11
 Slug: the-game-im-playing
 Category: Personal
 Tags: reflection, goals, ambition, life-lessons
+Summary: Mid-30s introspection on life games: rejecting wealth and possessions for comfort, flexibility, and eventual social impact through entrepreneurship.
 
 Here's more mid-30s introspection about life and goals. These are things I've been thinking about as the people around me and I get older. 
 

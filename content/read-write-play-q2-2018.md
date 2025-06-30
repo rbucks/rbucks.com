@@ -3,6 +3,7 @@ Date: 2018-06-28 23:04
 Slug: read-write-play-q2-2018
 Category: Personal
 Tags: reading, writing, music, creativity
+Summary: Q2 2018 review: reading Adam Grant's 'The Originals' after publishing my book, writing retreat insights, and mastering Smashing Pumpkins' 'Mayonaise'.
 
 Coming off an intense Q1, I reflected on knocking out my big accomplishment: writing a damn book and self-publishing it on Amazon. The book launched in the #1 spot in New Releases in small business on the Amazon spots where it stayed for a week! 
 

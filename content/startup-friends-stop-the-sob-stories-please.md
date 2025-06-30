@@ -3,6 +3,7 @@ Date: 2016-05-05 19:12
 Slug: startup-friends-stop-the-sob-stories-please
 Category: Business
 Tags: entrepreneurship, startups, opinion, authenticity
+Summary: Rant against founder victim mentality: startup life is privileged, not tragic. Show humility, recognize opportunity, and stop the self-pity stories.
 
 I’m sorry, guys. This is a rant.
 

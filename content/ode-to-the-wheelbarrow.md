@@ -3,6 +3,7 @@ Date: 2022-03-10 20:49
 Slug: ode-to-the-wheelbarrow
 Category: Personal
 Tags: appreciation, reflection, design, gratitude
+Summary: A thoughtful appreciation of the wheelbarrow's elegant engineering, combining ancient wheel and lever technologies for modern utility.
 
 The wheelbarrow cleverly combines two ancient technologies, the wheel and the lever, into a very useful device. Elegant and efficient, it's a beauty to behold.
 

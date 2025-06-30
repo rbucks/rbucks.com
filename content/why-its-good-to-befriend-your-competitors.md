@@ -3,6 +3,7 @@ Date: 2022-07-07 20:13
 Slug: why-its-good-to-befriend-your-competitors
 Category: Business
 Tags: entrepreneurship, business-strategy, networking, scripted
+Summary: Why befriending competitors pays off: real examples from Scripped, Scripted, Toofr, and MightySignal that led to mergers, investments, and exits.
 
 Here's a bit of contrarian advice: Be nice to your competitors. In fact, befriend them, because you just might make a pile of money as a result.
 

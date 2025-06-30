@@ -3,6 +3,7 @@ Date: 2018-10-13 08:51
 Slug: the-great-2018-assembly-district-16-debate
 Category: Politics
 Tags: politics, local-politics, debate, assembly-district-16
+Summary: Analysis of the 2018 Assembly District 16 debate between Catherine Baker and Rebecca Bauer-Kahan, evaluating their positions and performance.
 
 I watched [the debate video](https://www.youtube.com/watch?v=HLMshB9zH6c) and came away very impressed by both the candidates and the moderators. The questions were direct, specific, and the candidates responded appropriately. Unlike most of our national debates, it was refreshing to watch this and actually learn something. 
 

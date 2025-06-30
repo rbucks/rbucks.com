@@ -3,6 +3,7 @@ Date: 2018-03-29 22:54
 Slug: read-write-play-q1-2018
 Category: Personal
 Tags: reading, writing, music, entrepreneurship
+Summary: First quarter recap covering Rich Dad Poor Dad insights, completing The Parallel Entrepreneur book, and playing The Girl From Ipanema.
 
 #### Reading: Rich Dad Poor Dad
 

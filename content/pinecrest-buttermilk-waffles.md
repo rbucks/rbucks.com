@@ -3,6 +3,7 @@ Date: 2016-09-18 07:52
 Slug: pinecrest-buttermilk-waffles
 Category: Lifestyle
 Tags: recipes, cooking, family, food
+Summary: A cherished family buttermilk waffle recipe from Pinecrest Lake, passed down through generations and perfected over decades.
 
 #### Here’s my family’s secret recipe for buttermilk waffles
 

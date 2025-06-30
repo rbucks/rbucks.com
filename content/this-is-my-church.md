@@ -3,6 +3,7 @@ Date: 2019-01-31 21:15
 Slug: this-is-my-church
 Category: Personal
 Tags: philosophy, exercise, family, reflection
+Summary: Morning jogs with my daughter and dog as spiritual practice: meditation, community connection, and philosophical reflections on life and God.
 
 I passed two priests in front of the Catholic church on Mt. Diablo Boulevard in Walnut Creek on Christmas morning. Christmas was on Sunday this year and they were greeting their people as they entered for morning mass. 
 

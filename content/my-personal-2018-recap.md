@@ -3,6 +3,7 @@ Date: 2019-02-06 21:04
 Slug: my-personal-2018-recap
 Category: Personal
 Tags: reflection, self-improvement, goals, reading
+Summary: Implementing new habits for 2019: no late-night work, concentrated learning, less coffee, swimming, and commitment to Read Write Play routine.
 
 ![Goodreads reading goal completion for 2018]({static}/images/screen-shot-2019-02-06-at-8.53.41-pm.png)
 

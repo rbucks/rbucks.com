@@ -3,6 +3,7 @@ Date: 2017-10-09 21:22
 Slug: why-im-good-at-programming
 Category: Technology
 Tags: programming, software-development, self-improvement, toofr
+Summary: How confidence and problem-solving skills matter more than perfect code when building successful tech products and overcoming programming challenges.
 
 I’m not a “good” programmer but I am “good at” programming.
 

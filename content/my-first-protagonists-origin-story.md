@@ -3,6 +3,7 @@ Date: 2020-06-30 09:29
 Slug: my-first-protagonists-origin-story
 Category: Personal
 Tags: writing, creativity, expression, personal
+Summary: Origin story for my novel's protagonist: seven-year-old Ben's Air Jordan disappointment when parents lose income, shaping his adult drive for control.
 
 In case you weren't aware, about a year ago I started writing a novel. It's bound to be a tragedy. In the end, my protagonist will die a lonely death. Readers will know this upfront; the opening scene is his terminal cancer diagnosis. 
 

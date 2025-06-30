@@ -3,6 +3,7 @@ Date: 2017-11-13 22:04
 Slug: toofr-llc-monthly-report-oct-2017
 Category: Business
 Tags: toofr, entrepreneurship, business-strategy, saas
+Summary: October 2017 Toofr report: navigating MRR loss, growing referral traffic, hiring first content manager, and maintaining focus on customer growth.
 
 This month saw a net MRR loss but I have reasons to be optimistic. I'm including some charts that I didn't show last time in addition to updating the same charts from last month.
 

@@ -3,6 +3,7 @@ Date: 2018-12-31 21:25
 Slug: one-hundred-and-two
 Category: Personal
 Tags: family, parenting, reflection, life-lessons
+Summary: A tender bedtime conversation between a father and his three-year-old daughter about aging, mortality, and the precious moments we share.
 
 Here’s a very short story I wrote earlier this year that encapsulates a lot of what 2018 was for me. Some introspection, some awareness of aging, and growth all around me.
 

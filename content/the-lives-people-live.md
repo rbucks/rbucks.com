@@ -3,6 +3,7 @@ Date: 2022-04-27 08:35
 Slug: the-lives-people-live
 Category: Personal
 Tags: ambition, self-improvement, life-lessons, philosophy
+Summary: Exploring six levels of life ambition from simple living to having fun, featuring celebrities like Dave Grohl, Obama, and analyzing self-actualization.
 
 I met an old friend for lunch in Malibu. He had a decent exit from his marketplace startup and had become a leadership coach. When we compared notes, we discovered that we both felt an undercurrent of inadequacy. I've written about [above average mediocrity]({filename}above-average-mediocrity.md). 
 

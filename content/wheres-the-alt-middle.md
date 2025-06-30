@@ -3,6 +3,7 @@ Date: 2018-08-26 08:35
 Slug: wheres-the-alt-middle
 Category: Politics
 Tags: politics, local-politics, opinion, policy
+Summary: Frustrated by partisan politics, I'm looking for the 'alt-middle' - candidates willing to break party lines and take positions on housing and policy.
 
 It's election time now and all of the groups I follow are in full partisan campaign mode. The campaign rhetoric and arguments are tiring and the same.
 

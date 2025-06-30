@@ -3,6 +3,7 @@ Date: 2021-01-08 05:42
 Slug: welcome-letter-to-my-search-marketing-class
 Category: Personal
 Tags: teaching, marketing, education, personal
+Summary: A personal welcome letter to my DVC search marketing students, sharing my entrepreneurial background and passion for data-driven marketing.
 
 I'm teaching my ({filename}im-now-an-adjunct.md) in a couple of months. It's exciting. It's intimidating. It's an incredible amount of prep work, since it's completely online, so it's tiring too. However, I'm already feeling proud of this course despite being nowhere close to ready.
 

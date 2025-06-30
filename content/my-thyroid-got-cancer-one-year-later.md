@@ -3,6 +3,7 @@ Date: 2018-02-22 22:45
 Slug: my-thyroid-got-cancer-one-year-later
 Category: Personal
 Tags: health, cancer, thyroid-cancer, recovery
+Summary: One year cancer follow-up: ultrasounds, MRI scares, neighbor radiologist insights, and learning to control feelings amid ongoing medical uncertainty.
 
 *This is a follow-up to my first article, ({filename}my-thyroid-got-cancer.md).*
 

@@ -3,6 +3,7 @@ Date: 2016-11-10 21:48
 Slug: we-saw-through-our-bubble-and-we-dont-like-it
 Category: Politics
 Tags: politics, technology, entrepreneurship, opinion
+Summary: How Trump's election revealed the tech industry's bubble and three ways to bridge the economic divide: marketplaces, education, and expansion.
 
 On election day, instead of looking out and seeing our own reflection, we caught a glimpse of the other side, and we did not like what we saw.
 

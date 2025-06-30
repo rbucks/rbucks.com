@@ -3,6 +3,7 @@ Date: 2019-03-09 10:31
 Slug: ode-to-this-set-of-cuisinart
 Category: Personal
 Tags: cooking, memory, nostalgia, family
+Summary: A sentimental tribute to a 10-year-old Cuisinart cookware set that has witnessed a journey from grad school to parenthood.
 
 To note the passage of time it’s easiest to point to a thing, like a grandfather clock or a door frame marked with heights and ages. Time moves. Things stay the same. Even though people are things, we move with time too. 
 

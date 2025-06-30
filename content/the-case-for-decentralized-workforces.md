@@ -3,6 +3,7 @@ Date: 2020-01-16 06:12
 Slug: the-case-for-decentralized-workforces
 Category: Business
 Tags: business-strategy, technology, company-culture, entrepreneurship
+Summary: Comprehensive guide to remote work tools and benefits: from communication platforms to financial savings, why distributed teams outperform offices.
 
 *Spoiler alert*!
 

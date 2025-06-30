@@ -3,6 +3,7 @@ Date: 2020-03-28 06:52
 Slug: personal-perceptible-practical
 Category: Personal
 Tags: framework, problem-solving, communication, environment
+Summary: Susan Solomon's framework for solving complex problems: make solutions personal, perceptible, and practical - applied to coronavirus and climate.
 
 Some time ago I learned about Susan Solomon, the atmospheric chemist who discovered that chlorofluorocarbons (a.k.a. CFCs) caused the huge hole in the ozone layer. Remember all that noise about this from the 90s? It went away because of Dr. Solomon. She received her PhD from UC Berkeley and she is currently still teaching and still doing atmospheric research at MIT. 
 

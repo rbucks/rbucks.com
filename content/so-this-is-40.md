@@ -3,6 +3,7 @@ Date: 2022-08-24 21:26
 Slug: so-this-is-40
 Category: Personal
 Tags: reflection, lifestyle, music, teaching
+Summary: A detailed account of my last day in my thirties - morning routine, teaching at DVC, music practice, and reflections on turning 40.
 
 I'll try to briefly recap the last day of my thirties. 
 

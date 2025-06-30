@@ -3,6 +3,7 @@ Date: 2018-12-31 21:14
 Slug: read-write-play-q4-2018
 Category: Personal
 Tags: reading, writing, music, politics
+Summary: Q4 2018 Read Write Play covering Hillbilly Elegy insights, website evolution from VoteBuckley to rbucks.com, and Beatles piano discoveries.
 
 Here's my most recent RWP. 
 

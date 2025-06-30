@@ -3,6 +3,7 @@ Date: 2017-04-13 09:21
 Slug: update-i-shaved-today
 Category: Business
 Tags: scripted, entrepreneurship, business-strategy, reflection
+Summary: The founder of Scripted shaves his beard after achieving near profitability, reflecting on the discipline needed to save a struggling startup.
 
 A little over two months ago I wrote that (https://medium.com/startup-grind/im-not-shaving-until-my-company-is-profitable-ce9661362658). A lot of people liked it, but not everyone did. I expected that. I decided that I would follow the thread of truth wherever it led, even around the murky bends that are difficult to write about.
 

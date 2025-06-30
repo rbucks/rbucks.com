@@ -3,6 +3,7 @@ Date: 2021-07-19 11:08
 Slug: my-unannounced-and-inconsequential-break-from-social-media
 Category: Personal
 Tags: reflection, social media, comparison, contentment
+Summary: A four-month break from social media leads to insights about jealousy, contentment, and finding happiness in the 98th percentile of success.
 
 I took about four months off of regularly reading and somewhat regularly posting to social media. I took Facebook off my phone entirely and removed all Facebook email notifications a while ago. LinkedIn followed. Then Twitter. With each step away from the incessant drone of snippets and soundbites my overall well-being improved. It felt like exercising: hard at first, then easier, and totally worth it. 
 

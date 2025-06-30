@@ -3,6 +3,7 @@ Date: 2020-10-25 08:49
 Slug: on-community
 Category: Politics
 Tags: community, immigration, philosophy, privilege
+Summary: Examining political differences between 'protect what's mine' vs 'share what's ours' through the lens of privilege, community, and immigration policy.
 
 This post has been in draft form for a long time. On this Sunday morning, I'm reminded that I have a natural park in my backyard, a resort-like setting, and a 16-inch 2019 MacBook Pro to warm my lap as I type. What could be better than to spoil this moment by writing about politics? 
 

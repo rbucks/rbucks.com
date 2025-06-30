@@ -3,6 +3,7 @@ Date: 2018-08-01 08:18
 Slug: the-case-for-more-housing-in-contra-costa-county
 Category: Politics
 Tags: housing, contra-costa-county, economics, policy
+Summary: An economic analysis of Bay Area housing scarcity, rising prices, and the urgent need for high-density housing near transportation.
 
 ​There's a very simple lesson in economics: scarcity drives price. Take a good that most people need, like food, water, or even flashlights, and if there's a run on that good causing a shortage, price will shoot up.
 

@@ -3,6 +3,7 @@ Date: 2019-02-01 21:24
 Slug: the-bitter-taste-of-failure
 Category: Business
 Tags: entrepreneurship, scripted, startups, life-lessons
+Summary: How Scripted succeeded as a business but failed financially for investors, and the painful lessons learned about startup risk and money.
 
 (https://www.scripted.com), my first and largest business venture, was simultaneously a great success and a financial failure. 
 

@@ -3,6 +3,7 @@ Date: 2019-03-02 22:04
 Slug: some-great-advice-about-how-to-stand-out-in-local-politics
 Category: Politics
 Tags: local-politics, advice, leadership, government
+Summary: Key insights from Sacramento visits: standing out in politics is simple - just follow through on commitments and support existing officials' agendas.
 
 I recently drove out to Sacramento to try to see some old friends and public officials I know. The folks on my list were Assemblymembers (https://a19.asmdc.org/),  (https://a16.asmdc.org/), and (https://a45.asmdc.org/). I tried to track down (https://twitter.com/jason_elliott), my friend from grad school who is now Governor Newsom's Chief Deputy Cabinet Secretary, but our timing was off, so I called up another grad school friend, (https://twitter.com/ZachNeumannCO), instead. 
 

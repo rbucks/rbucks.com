@@ -3,6 +3,7 @@ Date: 2018-01-28 22:10
 Slug: toofr-llc-monthly-report-dec-2017
 Category: Business
 Tags: toofr, entrepreneurship, saas, finance
+Summary: December 2017 Toofr report: highest cash flow month ever, doubling customer base from 74 to 155, while traffic slowed in winter months.
 
 **December was (probably) my highest cash flow month ever! **
 

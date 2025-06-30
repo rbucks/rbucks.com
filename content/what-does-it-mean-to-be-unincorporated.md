@@ -3,6 +3,7 @@ Date: 2018-07-03 07:41
 Slug: what-does-it-mean-to-be-unincorporated
 Category: Politics
 Tags: local-politics, contra-costa-county, government, community
+Summary: Learning what it means to live in unincorporated Saranap - outside city limits but still getting services, with different political and permitting rules.
 
 I spent the last ten years doing startups. Startups are all about forming new businesses, launching, *incorporating*. It wasn't until after we bought our house in Saranap, a neighborhood tucked between Walnut Creek and Lafayette in the East Bay, that I learned my new home was *un*incorporated.
 

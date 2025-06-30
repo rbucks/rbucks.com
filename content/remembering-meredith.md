@@ -3,6 +3,7 @@ Date: 2016-09-24 21:37
 Slug: remembering-meredith
 Category: Personal
 Tags: family, memory, gratitude, reflection
+Summary: A grandson remembers his grandfather Meredith through dreams, shared breakfasts, and the lasting impact of unconditional love.
 
 My grandpa Meredith passed away a year ago.
 

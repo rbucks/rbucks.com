@@ -3,6 +3,7 @@ Date: 2016-02-28 07:21
 Slug: that-night-i-snuck-into-the-oscars
 Category: Personal
 Tags: adventure, hollywood, risk-taking, storytelling
+Summary: A true story of sneaking into the 2005 Oscars ceremony and Governors' Ball, meeting celebrities through confidence and creative problem-solving.
 
 This happened in 2005. True story.
 

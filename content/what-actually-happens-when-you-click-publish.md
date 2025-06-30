@@ -3,6 +3,7 @@ Date: 2019-02-17 22:00
 Slug: what-actually-happens-when-you-click-publish
 Category: Technology
 Tags: technology, programming, content, writing
+Summary: A deep dive into internet history and the technical infrastructure that makes publishing content online possible for modern writers.
 
 I’ve wondered this myself. Where exactly does my content go when I click the publish button? And how does the internet work? Here’s my attempt to answer these fundamental questions.
 

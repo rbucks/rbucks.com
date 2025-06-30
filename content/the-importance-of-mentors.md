@@ -3,6 +3,7 @@ Date: 2023-11-05 20:35
 Slug: the-importance-of-mentors
 Category: Personal
 Tags: mentoring, career, relationships, reflection
+Summary: Reflecting on my college mentor Lisa Bauer and missing that unique relationship - someone older and wiser who opens doors and advocates for you.
 
 "Are you mentoring anybody?" my old mentor asked me a few weeks ago.
 

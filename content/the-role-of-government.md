@@ -3,6 +3,7 @@ Date: 2018-06-25 05:49
 Slug: the-role-of-government
 Category: Politics
 Tags: government, policy, environment, economics
+Summary: Government's primary role: handling negative externalities like pollution when free markets fail to account for costs to public goods and commons.
 
 I've been thinking more about how the role of government should be defined. I've always leaned toward the (https://nature.berkeley.edu/advising/majors/environmental-economics-and-policy) view of the role of government: to properly handle negative externalities. These are costs that the free market ignores and the results can be catastrophic.
 

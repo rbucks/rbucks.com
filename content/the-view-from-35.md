@@ -3,6 +3,7 @@ Date: 2017-08-27 11:28
 Slug: the-view-from-35
 Category: Personal
 Tags: reflection, family, parenting, lifestyle
+Summary: Contrasting my melancholy 25th birthday with a fulfilling 35th: family, community, and finding happiness in the American suburban dream.
 
 ![Morning hike view]({static}/images/49317-12ekmq7syg8kxzp8yv0i2mq.jpeg)
 *Morning hike on day 1 of my 35th year.*

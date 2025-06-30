@@ -3,6 +3,7 @@ Date: 2023-02-06 06:22
 Slug: my-trip-to-nyc-with-lily
 Category: Family
 Tags: parenting, travel, family, memories
+Summary: A magical father-daughter trip to New York City with my 8-year-old, exploring landmarks, shows, and creating unforgettable memories together.
 
 A long time from now, with any luck, I will be very old. I will look back on my experiences as a young father: in the delivery room, first steps, first words, first days of school, ice skating rinks, hot dogs, board games, bicycle rides, dinners, friends' houses... all of it.
 

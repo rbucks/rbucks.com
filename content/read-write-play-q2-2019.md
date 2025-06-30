@@ -3,6 +3,7 @@ Date: 2019-08-07 13:02
 Slug: read-write-play-q2-2019
 Category: Personal
 Tags: reading, writing, music, design
+Summary: Q2 2019 review: struggling with design curriculum, writing seven posts including marriage reflections, and mastering vocals for reunion band performance.
 
 This quarter there was not a tremendous amount of reading or writing. But playing was good. Very good. Here's the usual summary of last quarter's progress. 
 

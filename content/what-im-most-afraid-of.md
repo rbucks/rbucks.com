@@ -3,6 +3,7 @@ Date: 2019-05-24 07:47
 Slug: what-im-most-afraid-of
 Category: Personal
 Tags: environment, climate-tech, sustainability, reflection
+Summary: My deepest environmental fears - from the end of recycling to water inefficiency to cheap energy - and what future generations will think of us.
 
 I started writing this post at my most recent [Sustainability Commission]({filename}about-the-contra-costa-county-sustainability-commission.md) meeting which was aptly held on Earth Day. Since then I've been thinking more about this content, tossing it around in my head. The problems I described, just in the past month, have only gotten worse: historically high temperatures in the Arctic, increasing evidence of mass extinctions, and warnings of irreversible changes to crop seasons. 
 

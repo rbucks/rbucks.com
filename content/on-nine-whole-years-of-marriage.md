@@ -3,6 +3,7 @@ Date: 2019-06-12 22:16
 Slug: on-nine-whole-years-of-marriage
 Category: Family
 Tags: marriage, relationships, gratitude, family
+Summary: Celebrating nine years of marriage by reflecting on what makes relationships work: ease, communication, and growing stronger together.
 
 *Note: my wife did not know I was going to write and publish this. *
 

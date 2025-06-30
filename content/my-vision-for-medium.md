@@ -3,6 +3,7 @@ Date: 2017-01-11 10:52
 Slug: my-vision-for-medium
 Category: Business
 Tags: business-strategy, content, platforms, marketplace
+Summary: Medium should become a writer marketplace, charging publishers for hosting and connecting businesses with quality content creators and licensing.
 
 Medium needs to make money and apparently they haven’t decided or aren’t ready to share the plan yet. Well, I have two bad ideas, one okay idea, and one good one that I’d like to share.
 

@@ -3,6 +3,7 @@ Date: 2018-06-21 20:47
 Slug: some-new-data-on-the-housing-deficit
 Category: Politics
 Tags: housing, contra-costa-county, policy, local-politics
+Summary: California housing crisis data reveals 98% of areas have deficits. Contra Costa County affluent areas meet market rate but fail affordable housing goals.
 
 All of our local issues stem our affordable housing problem. Public safety, public health, education, transportation, and even environment, core issue that we as Democrats care about, each have a substantial stake in the affordable housing crisis.
 

@@ -3,6 +3,7 @@ Date: 2020-01-16 08:26
 Slug: read-write-play-q4-2019
 Category: Personal
 Tags: reading, writing, music, environment
+Summary: Exploring tree literature, novel writing breakthroughs, and family musical growth in Q4 2019's Read Write Play quarterly roundup.
 
 Last quarter I maintained a good mix of all three hobbies. My writing was the big focus, though, although you wouldn't notice it from my blog activity. I'll get to that. 
 

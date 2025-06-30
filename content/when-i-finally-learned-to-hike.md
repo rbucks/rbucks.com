@@ -3,6 +3,7 @@ Date: 2017-11-24 20:42
 Slug: when-i-finally-learned-to-hike
 Category: Personal
 Tags: hiking, parenting, family, fitness
+Summary: From disliking hiking for 35 years to embracing it through 100 East Bay trails with my daughter: discovering the joy of the journey, not the destination.
 
 ![One of the many hiking trails]({static}/images/2b401-1ukfvhllbfjaefeqtqiufbq.jpeg)
 *One of the many hiking trails*

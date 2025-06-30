@@ -3,6 +3,7 @@ Date: 2019-11-18 22:11
 Slug: read-write-play-q3-2019
 Category: Personal
 Tags: reading, writing, music, family
+Summary: Q3 2019 quarterly review: reading The Overstory, writing a novel and giving a major speech, and transitioning from grand piano to digital Clavinova.
 
 In just a couple of months I will have been tracking my RWP for two years. Not bad for a silly little trope that nobody (except me) cares about. I try to be consistent in what I do, though, and being conscious of the RWP is just as important to me as the RWP itself. 
 

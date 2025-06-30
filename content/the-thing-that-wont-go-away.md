@@ -3,6 +3,7 @@ Date: 2019-02-13 10:58
 Slug: the-thing-that-wont-go-away
 Category: Health
 Tags: thyroid-cancer, health, reflection, gratitude
+Summary: Third installment on my thyroid cancer journey, dealing with ongoing monitoring, medical uncertainty, and finding perspective through others' experiences.
 
 *This is my third article about thyroid cancer I was diagnosed with. The first two are *[My thyroid got cancer]({filename}my-thyroid-got-cancer.md)* and *[My thyroid got cancer: one year later]({filename}my-thyroid-got-cancer-one-year-later.md)*.*
 

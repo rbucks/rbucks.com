@@ -3,6 +3,7 @@ Date: 2024-09-29 11:04
 Slug: the-process
 Category: Business
 Tags: fundraising, leadership, shovels, entrepreneurship
+Summary: My messy but organized fundraising process: evolving strategy, transparent team communication, and learning through real-time Discord documentation.
 
 I started fundraising again for Shovels. Not because I need to -- because I want to. The process of fundraising and being fully transparent with my team throughout has revealed to me that this process, my process, is the way that I do most things. Seeing it reflected back to me in our #investors Discord channel has got me thinking more about my process.
 

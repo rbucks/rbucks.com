@@ -3,6 +3,7 @@ Date: 2023-06-20 05:56
 Slug: why-are-some-communities-in-contra-costa-county-unincorporated
 Category: Politics
 Tags: local-politics, contra-costa-county, government, community
+Summary: Exploring unincorporated Saranap: the benefits of avoiding city politics, why annexation is costly, and how LAFCO governs municipal formation.
 
 When we first bought our little [house in the suburbs]({filename}an-ode-to-the-suburbs.md) out here in Contra Costa County, I'd never heard of "unincorporated" communities. Our city address was Walnut Creek and I just assumed that we were Walnut Creek residents. As it turns out, we are not!
 

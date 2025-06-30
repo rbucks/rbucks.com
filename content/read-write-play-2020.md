@@ -3,6 +3,7 @@ Date: 2020-12-31 22:48
 Slug: read-write-play-2020
 Category: Personal
 Tags: reflection, reading, writing, music
+Summary: 2020's pandemic-disrupted Read Write Play recap: novel progress, Stephen King lessons, reduced blogging, and Beatles-Bach piano connections.
 
 In a normal year I would have posted my [quarterly Read Write Play posts](https://rbucks.com/category/read-write-play/) every quarter, as I've done since launching this blog in its current form in 2018. However, this is no ordinary year and my reading, writing, and playing schedule got tossed about as one might expect amidst a global pandemic and prolonged school shutdowns. 
 

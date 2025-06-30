@@ -3,6 +3,7 @@ Date: 2017-12-28 14:36
 Slug: the-3-things-that-mattered-to-me-in-2017
 Category: Personal
 Tags: reflection, fatherhood, music, year-end
+Summary: A year-end reflection on becoming a father again, losing Tom Petty, and taking first steps toward local political involvement.
 
 I can encapsulate my 2017 in three quick topics.
 

@@ -3,6 +3,7 @@ Date: 2022-11-06 21:18
 Slug: the-descent-of-blue
 Category: Personal
 Tags: family, personal, reflection, gratitude
+Summary: A heartbreaking tribute to Blue, our beloved chocolate lab, chronicling his decline from perfect companion to final goodbye under the oak tree.
 
 ![Blue as a puppy]({static}/images/IMG_0393-768x1024.jpeg)
 

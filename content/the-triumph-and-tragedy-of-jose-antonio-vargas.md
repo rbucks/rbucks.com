@@ -3,6 +3,7 @@ Date: 2019-01-28 23:00
 Slug: the-triumph-and-tragedy-of-jose-antonio-vargas
 Category: Politics
 Tags: politics, immigration, america, opinion
+Summary: Defending my childhood friend Jose Antonio Vargas: Pulitzer winner living the American dream illegally, asking 'What would you have done differently?'
 
 For the last many years, my childhood friend, Jose Antonio Vargas (we just called him “Jose”) has been challenging documented and undocumented Americans alike to define what it means to be American. 
 

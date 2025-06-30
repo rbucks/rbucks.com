@@ -3,6 +3,7 @@ Date: 2024-12-25 09:06
 Slug: thoughts-on-building-a-brand
 Category: Business
 Tags: branding, marketing, shovels, entrepreneurship
+Summary: Brand as promise: why logos don't make companies, culture drives brand success, and why Shovels doesn't need a rebrand but better execution.
 
 Marketing is increasingly central to who I am and what I do as an entrepreneur. This is not what I expected. 
 

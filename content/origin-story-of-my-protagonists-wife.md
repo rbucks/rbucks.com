@@ -3,6 +3,7 @@ Date: 2020-07-02 08:02
 Slug: origin-story-of-my-protagonists-wife
 Category: Personal
 Tags: writing, creativity, fiction, character-development
+Summary: Character development exercise: creating the backstory for Jo, the protagonist's wife in my novel, through a childhood food kitchen experience.
 
 Here's the result of another exercise. My protagonist's wife, Jo, will play a big role in the novel and I needed to figure out what she stands for.
 
