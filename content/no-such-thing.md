@@ -24,14 +24,16 @@ The tabloids have given John Mayer a rough time, and a lot of that is self-infli
 
 I admire guitarists whose solos you can sing, who develop real voices in the way they play. I can pick out a solo [David Gilmour](https://www.youtube.com/watch?v=9Q7Vr3yQYWQ), [BB King](https://www.youtube.com/watch?v=JJx5626euOo), [Eric Clapton](https://www.youtube.com/watch?v=UtLwuPCUEdg), or Slash just by listening to the way they strike the string. It’s distinct.
 
-I don’t yet put John Mayer on the same level as those guitarists, but I give him a lot of credit for defining a style of guitar ballad that I’m not sure existed before him. Listen to ["3x5"](https://g.co/kgs/xtWxH) from that same debut pop album, [*Room for Squares*](https://en.m.wikipedia.org/wiki/Room_for_Squares). Then listen to it again. Those guitar chords don’t exist anywhere else.
+I don’t yet put John Mayer on the same level as those guitarists, but I give him a lot of credit for defining a style of guitar ballad that I’m not sure existed before him. Listen to ["St. Patrick's Day"](https://www.youtube.com/watch?v=3LPEEb8iH9c&list=RD3LPEEb8iH9c&start_radio=1) from that same debut pop album, [*Room for Squares*](https://en.m.wikipedia.org/wiki/Room_for_Squares). Then listen to it again. Those guitar chords don’t exist anywhere else.
 
 For that alone, I give the man props, but I also respect his later work. The jazz trio, the country pop album, the Hendrix and Petty covers. I feel like if I was John Mayer, I’d have had the exact same guitar playing career. Oh, and dating Katy Perry? Sure, that too.
 
 ---
 
-For the last decade of my life, since I’ve been aware of the guy, there’s been a thread in my brain that feels like I missed out on being John Mayer. The other threads remind me that I don’t have his voice, the guitar chops, the poise on stage, the libido. I would be a terrible John Mayer, and if I could get into his head for a moment, I bet there’s a thread there that wishes he could just have a [normal suburban life]({filename}an-ode-to-the-suburbs.md) with a hot wife and a couple of guitars hanging on the wall (like I do). Screw the fame. Simplicity, anonymity, and peaceful easy feeling is priceless. I’m sure he has those moments.
+For the last decade of my life, since I’ve been aware of the guy, there’s been a thread in my brain that feels like I missed out on being John Mayer. The other threads remind me that I don’t have his voice, the guitar chops, the poise on stage, the libido. 
 
-It’s fun to think about, and I enjoyed my brief time in the spotlight with [this tweet](https://twitter.com/stephmarco/status/475511293395603456). Plus, I’ll always be able to pick up my guitar and sing John Mayer tunes to Lily.
+I would be a terrible John Mayer, and if I could get into his head for a moment, I bet there’s a thread there that wishes he could just have a [normal suburban life]({filename}an-ode-to-the-suburbs.md) with a hot wife and a couple of guitars hanging on the wall (like I do). Screw the fame. Simplicity, anonymity, and peaceful easy feeling is priceless. I’m sure he has those moments.
+
+It’s fun to think about, and I enjoyed my brief time in the spotlight with [the Rolling Sloans](https://x.com/stephmarco/status/475511293395603456). Plus, I’ll always be able to pick up my guitar and sing John Mayer tunes to Lily.
 
 {% youtube ejubRbHs0J0 %}
