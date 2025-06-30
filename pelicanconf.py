@@ -47,7 +47,10 @@ STATIC_PATHS = ['images', 'extra']
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = []
+PLUGINS = ['liquid_tags']
+
+# Liquid tags configuration
+LIQUID_TAGS = ["youtube"]
 
 # Markdown extensions
 MARKDOWN = {

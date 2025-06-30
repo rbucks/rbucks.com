@@ -26,12 +26,12 @@ It never varied. For those who moved out of the city the reasons don’t need to
 - 
 **Commuting**. I was worried about BART. I thought it would drain me. Not so much. I’m back on my podcast game. I read more, and I write too. In fact, I wrote this entire post on my commute. I get between my house and the Lafayette BART on the road bike I could never let out of my sight in SF. The BART here has great covered bike lockers for less than fifty cents a day. Funny enough, after listening to one podcast, I (http://giantrobots.fm/186) onto it as a guest!
 
-https://www.youtube.com/watch?v=WU8I-9bjGi0
+{% youtube WU8I-9bjGi0 %}
 
 - 
 **A dog and a grill**. The two most obvious benefits of having a house with a backyard are the ability to grill and get a dog. I waited 33 years for it, and I want to enjoy having a dog and a grill for the next 33. Here’s the (http://www.homedepot.com/p/Weber-Genesis-E-310-3-Burner-Propane-Gas-Grill-in-Copper-6512001/202538983), and here’s (https://www.flickr.com/photos/92897410@N08/25905186801/in/dateposted-public/).
 
-https://youtu.be/t6aE30_GbF8
+{% youtube t6aE30_GbF8 %}
 
 - 
 **Peaceful easy feeling**. We all miss Glenn Frey, don’t we? When I cruise home, this tune randomly jumps into my head. It tells me I’m relaxed, ready to see my daughter, wife and puppy when I get home.

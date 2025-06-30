@@ -34,4 +34,4 @@ For the last decade of my life, since I’ve been aware of the guy, there’s be
 
 It’s fun to think about, and I enjoyed my brief time in the spotlight with (https://twitter.com/stephmarco/status/475511293395603456). Plus, I’ll always be able to pick up my guitar and sing John Mayer tunes to Lily.
 
-https://youtu.be/ejubRbHs0J0
+{% youtube ejubRbHs0J0 %}
