@@ -3,6 +3,7 @@ Date: 2022-06-21 20:18
 Slug: exercising-the-writing-muscle
 Category: Personal
 Tags: writing, reading, music, reflection
+Summary: Reflections on developing creative habits including daily reading, playing piano, and establishing a regular writing practice.
 
 Okay, here we go. I'll write as many mostly unedited words as I can before I give up and turn on *Better Call Saul*. 
 

@@ -3,6 +3,7 @@ Date: 2017-02-08 20:30
 Slug: im-not-shaving-until-my-company-is-profitable
 Category: Business
 Tags: entrepreneurship, startups, business-strategy, transparency
+Summary: A brutally honest account of burning $18M over five years while building Scripted, with a pledge not to shave until achieving profitability.
 
 I’ve been (https://medium.com/@rbucks/on-being-the-3rd-ceo-of-the-startup-i-started-ae04fc6d58c3#.jtn178756) and it’s never been profitable. More like ten years if you count my pre-pivot company too. Even when we didn’t have employees, we still weren’t profitable. We actually didn’t lose a lot of money back then, but we didn’t make a lot either.
 

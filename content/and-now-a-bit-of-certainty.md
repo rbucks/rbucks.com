@@ -3,6 +3,7 @@ Date: 2019-04-27 21:33
 Slug: and-now-a-bit-of-certainty
 Category: Health
 Tags: thyroid-cancer, cancer, health, reflection
+Summary: Part of the thyroid cancer series where uncertainty about lingering cancer finally gets resolved through biopsy results and treatment clarity.
 
 If you're new to my cancer saga, here are parts [one]({filename}my-thyroid-got-cancer.md) and [two]({filename}my-thyroid-got-cancer-one-year-later.md). Part three is coming along in a couple of sittings like [this]({filename}the-thing-that-wont-go-away.md) [and this]({filename}here-i-go-again.md). It's the part where after I get diagnosed with papillary thyroid cancer, get it removed, and carry on with a bit of cloud hanging over my head, the cloud comes into focus. Now I know what's next. 
 

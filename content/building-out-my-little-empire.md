@@ -3,6 +3,7 @@ Date: 2018-08-27 10:17
 Slug: building-out-my-little-empire
 Category: Business
 Tags: entrepreneurship, toofr, business-strategy, startups
+Summary: Reflections on being a builder at heart and the journey of leaving VC-backed work to focus on creating and launching new business projects.
 
 It’s been over a year since I left the comfort and security of a VC-backed paycheck. I haven’t missed it.
 

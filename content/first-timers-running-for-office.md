@@ -3,6 +3,7 @@ Date: 2018-06-28 07:05
 Slug: first-timers-running-for-office
 Category: Politics
 Tags: local politics, campaigns, public service, political experience
+Summary: Exploring paths for political newcomers to enter public service, comparing traditional experience requirements with first-time candidates.
 
 When I decided that I was going to run for office the first thing I did was look up the resumes of my current representatives. Most of them began their political careers representing their neighborhoods on city councils and other local organizations. Some were elected mayor or served on school boards. 
 

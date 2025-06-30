@@ -3,6 +3,7 @@ Date: 2016-10-19 10:01
 Slug: what-investors-care-about
 Category: Business
 Tags: fundraising, startups, entrepreneurship, advice
+Summary: Understanding investor psychology - they're driven by fear of missing out and greed, and entrepreneurs can leverage both to succeed in fundraising.
 
 I wrote [the simple truth about fundraising]({filename}the-simple-truth-about-fundraising.md) about what entrepreneurs should do to help their venture-backed companies succeed. Here’s what entrepreneurs should know about the psyche of the people they’re taking money from.
 

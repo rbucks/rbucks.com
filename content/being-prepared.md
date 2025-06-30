@@ -3,6 +3,7 @@ Date: 2016-05-02 08:04
 Slug: being-prepared
 Category: Personal
 Tags: parenting, public-speaking, self-improvement, advice
+Summary: How thorough preparation helps overcome anxiety in both fatherhood and public speaking, emphasizing practice and rehearsal for success.
 
 #### For fatherhood, for public speaking
 

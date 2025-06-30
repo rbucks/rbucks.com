@@ -3,6 +3,7 @@ Date: 2019-10-17 09:38
 Slug: why-im-applying-to-be-an-instructor-at-dvc
 Category: Personal
 Tags: teaching, community-college, education, career
+Summary: Cover letter explaining why I want to teach digital marketing at Diablo Valley College to help local students access tech sector opportunities.
 
 Here’s the cover letter for my application to be a part-time adjunct marketing instructor at Diablo Valley College (DVC). In essence, I’m doing this because I’ve really enjoyed every opportunity I’ve had to speak, volunteer, and recruit at DVC. Prior to reaching out to a professor there just over a year ago, I didn’t know what community colleges were all about. I didn’t know what types of students went there, what classes they took, and what gap in the education market these schools filled. 
 

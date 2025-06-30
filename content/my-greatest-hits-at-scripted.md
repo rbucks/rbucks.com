@@ -3,6 +3,7 @@ Date: 2017-09-19 14:32
 Slug: my-greatest-hits-at-scripted
 Category: Business
 Tags: scripted, leadership, company-culture, entrepreneurship
+Summary: Reflecting on leadership successes at Scripted including custom grandma shirts, inspirational speeches, team toasts, and building meaningful company culture.
 
 I’ve been thinking recently about what I did right during my time at (https://www.scripted.com) as a co-founder, COO, head of sales, and finally CEO. A few surprising things came to mind. Here they are.
 

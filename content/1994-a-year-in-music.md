@@ -3,6 +3,7 @@ Date: 2023-03-28 20:23
 Slug: 1994-a-year-in-music
 Category: Personal
 Tags: music, nostalgia, reflection, personal-growth
+Summary: Reflecting on being twelve years old in 1994 and how the thirty-year distance to that pivotal music year feels different now than it did then.
 
 I was twelve years old in 1994. I was in 7th grade and just started learning guitar. I played roller hockey after school, wore braces, held hands with my girlfriend, and competed with the other overachievers. 
 

@@ -3,6 +3,7 @@ Date: 2022-11-26 09:12
 Slug: climate-tech-is-my-next-big-thing
 Category: Business
 Tags: entrepreneurship, climate-tech, business-strategy, startups
+Summary: After MightySignal's acquisition and a challenging year of teaching, I've pivoted to focus on climate technology as my next entrepreneurial venture in the growing green economy.
 
 This has been a wild year. I guess I'll start from where I left off on that [children's book post]({filename}how-i-wrote-my-childrens-book.md) about a year ago.
 

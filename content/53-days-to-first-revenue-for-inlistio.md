@@ -3,6 +3,7 @@ Date: 2018-01-04 12:46
 Slug: 53-days-to-first-revenue-for-inlistio
 Category: Business
 Tags: entrepreneurship, saas, startups, pricing, inlistio
+Summary: How launching and pricing experiments helped Inlistio achieve first revenue in just 53 days from idea to paid customers for this SaaS tool.
 
 #### Launching and pricing experiments got my first customers
 

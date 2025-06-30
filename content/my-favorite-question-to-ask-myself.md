@@ -3,6 +3,7 @@ Date: 2017-10-09 21:07
 Slug: my-favorite-question-to-ask-myself
 Category: Personal
 Tags: reflection, self-improvement, fulfillment, productivity
+Summary: The power of asking 'What would be most fulfilling to do right now?' when running an autonomous business without structure or external accountability.
 
 These days I don’t have a lot of structure between 9am and 4pm. I don’t go into an office anymore. I don’t report to anyone. I’m running a nice little business now with no partners and no investors.
 

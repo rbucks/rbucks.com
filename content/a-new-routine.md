@@ -3,6 +3,7 @@ Date: 2020-12-10 22:41
 Slug: a-new-routine
 Category: Personal
 Tags: lifestyle, daily-routine, fitness, family, reflection
+Summary: Establishing a new daily routine during the pandemic with early morning workouts, family time, and work-from-home balance strategies.
 
 ## By Day
 

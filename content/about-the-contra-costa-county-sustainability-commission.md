@@ -3,6 +3,7 @@ Date: 2018-08-17 08:32
 Slug: about-the-contra-costa-county-sustainability-commission
 Category: Politics
 Tags: local politics, environment, climate action, sustainability
+Summary: Overview of Contra Costa County's Sustainability Commission, its role in implementing the Climate Action Plan and reducing greenhouse gas emissions.
 
 Our county's sustainability commission is a recent addition (November 2016) to the slate of community commissions created by the Board of Supervisors. According to (http://www.co.contra-costa.ca.us/6393/Sustainability-Commission), its responsibilities are threefold:
 

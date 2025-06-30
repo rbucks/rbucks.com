@@ -3,6 +3,7 @@ Date: 2022-06-22 09:37
 Slug: business-evaluation-clime
 Category: Business
 Tags: business evaluation, climate tech, energy efficiency, sustainability
+Summary: Evaluating Clime, a climate tech solution for detecting home energy inefficiencies, but struggling to find a real customer problem despite solid technology.
 
 I recently read this great short article about (https://www.ycombinator.com/library/8g-how-to-get-startup-ideas) by Jared Friedman, a partner at YC. In it he describes a recurring theme across the thousands and thousands of startup pitches they see. They call it SISP, or "a solution in search of a problem." It's an idea that has no practical use in the market. I'll come back to this.
 

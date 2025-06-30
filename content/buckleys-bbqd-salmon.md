@@ -3,6 +3,7 @@ Date: 2017-02-26 20:53
 Slug: buckleys-bbqd-salmon
 Category: Food
 Tags: recipes, grilling, cooking, lifestyle
+Summary: Recipe and technique for successfully grilling salmon on a Weber Genesis grill without destroying it - the best salmon ever made.
 
 This was easily the best salmon I’ve ever made. I did it on a hot (hot!) Weber Genesis grill. Finally, at long last, I cooked salmon on a grill without completely destroying it. Here’s the story and the technique.
 

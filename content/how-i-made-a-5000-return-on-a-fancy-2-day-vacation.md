@@ -3,6 +3,7 @@ Date: 2017-08-18 15:50
 Slug: how-i-made-a-5000-return-on-a-fancy-2-day-vacation
 Category: Business
 Tags: entrepreneurship, crisis management, business pivot, ROI
+Summary: How spending $1,100 on a focused two-day retreat to fix Toofr's data crisis led to over $550,000 in lifetime revenue - a 5,000% return on investment.
 
 In late 2013 I was facing a bit of a crisis. I had just launched (https://www.toofr.com) a few months earlier and the service was failing.
 

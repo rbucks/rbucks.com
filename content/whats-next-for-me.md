@@ -3,6 +3,7 @@ Date: 2017-07-11 20:20
 Slug: whats-next-for-me
 Category: Business
 Tags: parallel-entrepreneurship, toofr, scripted, bootstrapping
+Summary: Transitioning from Scripted CEO to full-time solopreneur, building a portfolio of bootstrapped B2B web apps while preparing for eventual public service.
 
 This is a really exciting time for me.
 

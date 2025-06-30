@@ -3,6 +3,7 @@ Date: 2017-08-17 21:58
 Slug: common-outcomes-of-founder-breakups
 Category: Business
 Tags: startups, entrepreneurship, leadership, business-strategy
+Summary: Strategies for preventing founder breakups through communication and trust, plus advice on cutting bait quickly when partnerships fail.
 
 I recently wrote about the prevalence of (https://www.enps.co/articles/why-founders-break-up) of companies.
 

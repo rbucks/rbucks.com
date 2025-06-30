@@ -3,6 +3,7 @@ Date: 2017-11-27 09:27
 Slug: read-write-play-q4-2017
 Category: Personal
 Tags: reading, writing, music, self-improvement
+Summary: Q4 2017 update on my personal enrichment goals - reading People's History, writing The Parallel Entrepreneur book, and learning piano pieces.
 
 A few months ago I wrote [three life hacks I wish I did more often]({filename}three-life-hacks-i-wish-i-did-more-often.md) about three things I wish I did more often to be and feel better.
 

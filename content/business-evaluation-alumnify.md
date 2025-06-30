@@ -3,6 +3,7 @@ Date: 2022-12-29 21:03
 Slug: business-evaluation-alumnify
 Category: Business
 Tags: business evaluation, b2b data, saas, marketing
+Summary: Evaluating Alumnify, a B2B data platform that tracks college and company alumni for marketing, recruitment, and alumni relations using Live Data's extensive contact database.
 
 I like B2B data businesses. I learned how to write web applications by building Toofr.com (now [FindEmails.com](https://www.findemails.com/) -- they kept my "oo" logo after I sold it). Toofr found email addresses for business contacts. I wrote a book, [The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/), about my experience building, running, and selling Toofr while I kept a day job as co-founder of [Scripted]({filename}the-scripted-origin-story-as-i-remember-it.md).
 

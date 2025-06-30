@@ -3,6 +3,7 @@ Date: 2023-01-04 08:43
 Slug: is-it-okay-to-be-a-nice-ceo
 Category: Business
 Tags: leadership, company-culture, entrepreneurship, business-strategy
+Summary: Exploring whether being a nice CEO is compatible with business success, analyzing Glassdoor ratings versus stock performance to find the answer.
 
 As I take the CEO helm again with ({filename}business-evaluation-shovels.md), I've been thinking more about what kind of CEO I want to be. Am I some visionary leader with all of the answers? A hard-nosed drill sergeant making sure we stick to our deadlines? A coder? A product whiz? Or the Chief Sales Officer?
 

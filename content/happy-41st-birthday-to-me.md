@@ -3,6 +3,7 @@ Date: 2023-08-25 19:13
 Slug: happy-41st-birthday-to-me
 Category: Personal
 Tags: birthday, reflection, family, life lessons
+Summary: Celebrating 41 years with gratitude for family, community, and finding fulfillment as a husband, dad, homeowner, teacher, and entrepreneur.
 
 There's a million things I haven't done... and probably never will. That's okay. 
 

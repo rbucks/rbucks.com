@@ -3,6 +3,7 @@ Date: 2025-04-27 20:57
 Slug: my-best-advice-for-entrepreneurs
 Category: Business
 Tags: entrepreneurship, advice, startups, business-strategy
+Summary: Celebrating Shovels reaching $80K MRR and sharing the most important lesson: the quality of your idea determines your success more than execution alone.
 
 Hey, I've been writing.
 

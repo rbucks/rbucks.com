@@ -3,6 +3,7 @@ Date: 2017-11-08 22:22
 Slug: a-few-more-thoughts-about-hiring
 Category: Business
 Tags: hiring, business-strategy, entrepreneurship, toofr, company-culture
+Summary: Lessons learned from hiring as a solo entrepreneur for Toofr, including decision-making differences when it's your own bootstrapped business.
 
 Last week I started hiring again for the first time in almost a year. (https://medium.com/@rbucks/hiring-feels-a-lot-different-when-its-your-money-b5fd662fab64) because I’m now hiring for my own bootstrapped business. It was also different because I was the sole decision-maker.
 

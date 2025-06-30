@@ -3,6 +3,7 @@ Date: 2021-08-26 14:55
 Slug: the-importance-of-electrification
 Category: Technology
 Tags: sustainability, environment, climate-tech, technology
+Summary: Comprehensive guide to home electrification covering heat pumps, induction cooking, electric water heaters, and why going gas-free reduces costs and emissions.
 
 This is a long post. And to make my long post even longer, I begin with a preamble. 
 

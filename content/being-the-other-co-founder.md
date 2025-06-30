@@ -3,6 +3,7 @@ Date: 2019-03-22 21:01
 Slug: being-the-other-co-founder
 Category: Business
 Tags: entrepreneurship, leadership, co-founder, reflection
+Summary: Reflections on being the second co-founder at Scripted - the challenges of not being CEO, limited board access, and lessons learned about startup leadership dynamics.
 
 Reflecting back on Scripted, I think it stopped feeling like my own company pretty early on. I had the luster of a co-founder title but I really was an employee like everyone else. There were some extra freedoms, perhaps, but not real freedom. Not like I have it now.
 

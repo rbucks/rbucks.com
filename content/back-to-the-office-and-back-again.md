@@ -3,6 +3,7 @@ Date: 2019-08-07 20:35
 Slug: back-to-the-office-and-back-again
 Category: Business
 Tags: work-from-home, business-strategy, productivity, remote-work
+Summary: Arguing that offices should be optional tools rather than mandates, sharing insights on remote work benefits and productivity strategies.
 
 I'm just going to say it. Offices should be optional. They are a tool to be used when you need them, not a mandate, not an expectation, not an *assumption* that the tool is always needed. 
 

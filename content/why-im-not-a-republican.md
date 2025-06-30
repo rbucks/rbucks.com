@@ -3,6 +3,7 @@ Date: 2018-06-12 18:22
 Slug: why-im-not-a-republican
 Category: Politics
 Tags: politics, opinion, philosophy, policy
+Summary: A point-by-point analysis of the California Republican Party platform, explaining why their positions on education, family, and government contradict small-government principles.
 
 I’m very slowly and deliberately starting the process of building my own political career, and in exploring every option, I looked at the Republican platform through the lens of a new recruit.
 

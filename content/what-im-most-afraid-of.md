@@ -4,7 +4,7 @@ Slug: what-im-most-afraid-of
 Category: Personal
 Tags: environment, climate-tech, sustainability, reflection
 
-I started writing this post at my most recent ({filename}about-the-contra-costa-county-sustainability-commission.md) meeting which was aptly held on Earth Day. Since then I've been thinking more about this content, tossing it around in my head. The problems I described, just in the past month, have only gotten worse: historically high temperatures in the Arctic, increasing evidence of mass extinctions, and warnings of irreversible changes to crop seasons. 
+I started writing this post at my most recent [Sustainability Commission]({filename}about-the-contra-costa-county-sustainability-commission.md) meeting which was aptly held on Earth Day. Since then I've been thinking more about this content, tossing it around in my head. The problems I described, just in the past month, have only gotten worse: historically high temperatures in the Arctic, increasing evidence of mass extinctions, and warnings of irreversible changes to crop seasons. 
 
 I'm afraid of this. All of it. Thinking about it makes me sad. Imagining the position this puts my kids and their kids in actually makes me kind of depressed. I feel like there's nothing I can do. The challenges are too large and there's too much momentum moving against the changes required to subvert a disaster. 
 
@@ -16,15 +16,11 @@ And I won't know what to say in response. That's what I'm most afraid of.
 
 ## The end of recycling
 
-Earlier this year I began seeing some scary headlines:
-
-- (https://www.fox10tv.com/news/recycling-woes-local-governments-struggle-with-collapsed-market/article_74242df4-66f8-11e9-be8d-3f8989664c04.html)- (http://As costs skyrocket and recycling market crumbles, Midcoast communities struggle with whether to toss recycling)
-
 This is personal. 
 
 I worked in waste reduction and recycling throughout my high school and college years. My first real experience in leadership involved convincing some friends to pick up trash on our high school campus every Wednesday after school. Amazingly, we did it consistently and I was able to keep this group together for several years. The janitors appreciated us so much, they gave us our own rolling trash can. 
 
-In college at (https://rbucks.com/the-parallel-entrepreneur/about-the-author/) I got a job in the Campus Recycling and Refuse Services office initially to expand the residential recycling coordinator program in the freshman dormitories. This was a program originally envisioned by another student named Garth Schultz. When he launched a campus thrift store for reusable items, the recycling coordinator position opened up. I got the gig. 
+In college at [UC Berkeley](https://rbucks.com/the-parallel-entrepreneur/about-the-author/) I got a job in the Campus Recycling and Refuse Services office initially to expand the residential recycling coordinator program in the freshman dormitories. This was a program originally envisioned by another student named Garth Schultz. When he launched a campus thrift store for reusable items, the recycling coordinator position opened up. I got the gig. 
 
 Recycling back then, in the early 2000s, made a lot of sense. The market for aluminum, paper, and glass was strong. Studies showed that it was cheaper for companies to acquire raw materials from recycling streams than from fresh sources. When I sought out students to be dormitory ambassadors to our campus recycling program, I could explain with conviction that this was really important work. Recycling was good for the environment, important for business, and simply the righteous, ethical thing to do. The people I worked with felt the same way. It was easy to recruit, and we expanded these programs and added some new ones. I made lifelong friends in the process.
 
@@ -38,7 +34,7 @@ I fear this is the case. 
 
 My college senior thesis was titled, “Water Use Characteristics of College Students.” In it I found that when students paid their water bill directly, their water consumption significantly dropped. When students previously lived in Southern California, a drought-prone region with a lot of water use education, water consumption significantly increased. I hypothesized that the irony of Southern Californian students using more water was due to behavior backlash. Once they relocated to an area with better water access, they splurged on longer showers. 
 
-I left my water policy interest there and didn’t pick it back up until I reconnected with one of my high school mentors, an activist and policy leader named (https://www.tuolumne.org/team_mf/peter-drekmeier/). 
+I left my water policy interest there and didn’t pick it back up until I reconnected with one of my high school mentors, an activist and policy leader named [Peter Drekmeier](https://www.tuolumne.org/team_mf/peter-drekmeier/). 
 
 I love this guy. Peter founded Bay Area Action, a community environmental organization headquartered in Mountain View. I was a member of Bay Area Action's high school group and met some amazing other students in my community with whom I never would have otherwise connected. Together we organized environmental summits, supported other activist organizations, and ran our own local protests. It was fun, interesting, and important work. 
 
@@ -56,7 +52,8 @@ Combine "free riders" and "adverse incentives" and you have what I would call a 
 
 I can't believe how cheap energy is right now. Check this out:
 
-- Last year, in 2018, the national average cost of a (https://www.statista.com/statistics/236854/retail-price-of-milk-in-the-united-states/).- Last year, in 2018, the national average cost of a (https://www.statista.com/statistics/204740/retail-price-of-gasoline-in-the-united-states-since-1990/).
+- Last year, in 2018, the national average cost of a [gallon of milk was $2.90](https://www.usinflationcalculator.com/inflation/milk-prices-adjusted-for-inflation/).
+- Last year, in 2018, the national average cost of a [gallon of gas was $2.72](https://www.statista.com/statistics/204740/retail-price-of-gasoline-in-the-united-states-since-1990/).
 
 Gas is cheaper than milk! It's cheaper to move your 3,500 pound car 25 miles than it is to drink 16 cups of milk. 
 

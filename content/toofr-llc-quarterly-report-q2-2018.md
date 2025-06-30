@@ -3,6 +3,7 @@ Date: 2018-07-31 22:22
 Slug: toofr-llc-quarterly-report-q2-2018
 Category: Business
 Tags: toofr, entrepreneurship, business-strategy, saas
+Summary: Q2 2018 quarterly report on switching Toofr from SaaS to metered billing - a risky move that dramatically improved all key metrics and customer growth.
 
 I write this from the creek in my backyard where the mosquitos are celebrating this oddly cool summer morning in Walnut Creek by devouring my shins. I like to work down here anyway. It's a reminder that nothing is perfect and it'll also force me to type a bit faster.
 

@@ -3,6 +3,7 @@ Date: 2017-06-26 22:35
 Slug: candid-thoughts-about-being-candid
 Category: Business
 Tags: entrepreneurship, scripted, leadership, reflection
+Summary: Reflecting on feeling constrained in professional communication while at Scripted and the challenge of authentic entrepreneurial writing.
 
 #### For a long time I felt hamstrung in my ability to communicate professionally. I couldn’t say what I wanted to say because of how it might be perceived by the (https://www.scripted.com) community.
 

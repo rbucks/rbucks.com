@@ -3,6 +3,7 @@ Date: 2020-02-24 06:55
 Slug: how-i-could-be-republican
 Category: Politics
 Tags: politics, philosophy, conservatism, environment
+Summary: Exploring traditional Republican values like conservation, small government, fiscal responsibility, and freedom to find common ground across party lines.
 
 A year and a half ago I published a piece here describing why I'm a Democrat. It was a bit of a diatribe, really, and it railed against the California Republican Party's [platform](https://cagop.my.salesforce.com/sfc/p/3i000000CsCG/a/3i000000CcJw/n51HS0ybBBUItXs68wA_ydonniApC3HK0BlfOmBXDLM). I titled it "[Why I'm not a Republican]({filename}why-im-not-a-republican.md)." 
 

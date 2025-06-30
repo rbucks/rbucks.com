@@ -3,6 +3,7 @@ Date: 2022-06-05 10:23
 Slug: hacking-for-climate-sales
 Category: Technology
 Tags: climate tech, sales, technology, sustainability
+Summary: Applying sales automation and psychology techniques to climate technology sales, leveraging mission-driven appeal and mimetic desire.
 
 About a million years ago I wrote a blog post called "Hacking for Sales." I posted it on the (https://www.scripted.com/blogs) and didn't think about it again until this guy (https://maxalts.com/) from Udemy contacted me about running a course on it. I demurred and ultimately declined, but he and I stayed in touch. Later, we got some other people interested in the intersection of engineering, automation, and sales together for monthly dinners and meetups in San Francisco. He turned it into the (https://www.saleshacker.com) conference, website, and community, and ultimately (https://www.saleshacker.com/outreach-acquires-sales-hacker/).  
 

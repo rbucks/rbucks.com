@@ -3,6 +3,7 @@ Date: 2017-01-02 12:18
 Slug: buckleys-grilled-cowboy-rib-eyes
 Category: Food
 Tags: recipes, grilling, cooking, lifestyle
+Summary: Recipe for grilling premium bone-in cowboy rib eye steaks with liberal salt seasoning and high-heat grilling techniques.
 
 ![Grilled cowboy rib eye steak 1]({static}/images/a728c-1hiag9lulzmwfvtxuz7qwqg.jpeg)
 ![Grilled cowboy rib eye steak 2]({static}/images/f2f1c-1y4vw-w8d5an3wcvcfzoplg.jpeg)

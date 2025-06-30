@@ -3,6 +3,7 @@ Date: 2024-01-01 18:02
 Slug: what-i-want-in-2024
 Category: Personal
 Tags: goals, shovels, fitness, teaching
+Summary: Setting ambitious goals for 2024: growing Shovels to $10M ARR, enhancing teaching with case studies, deepening friendships, and maintaining peak fitness.
 
 If I do this right, the way I *want* to do it and believe that I *can* do it, this will be a big year for me. Maybe the biggest. 
 

@@ -3,6 +3,7 @@ Date: 2019-02-17 21:56
 Slug: if-i-could-redo-all-of-my-content-marketing
 Category: Business
 Tags: content, marketing, writing, reflection
+Summary: A simple content marketing philosophy: every piece you publish should feel like giving a gift, with outline, multiple drafts, and careful editing.
 
 If I could redo all of my content marketing, from every company I've ever worked on, I would keep this single, simple mantra in mind:
 

@@ -3,6 +3,7 @@ Date: 2017-11-23 19:51
 Slug: why-saas-is-a-solo-founders-dream
 Category: Business
 Tags: saas, parallel-entrepreneurship, bootstrapping, toofr
+Summary: The blueprint for solo entrepreneurs: 100 customers paying $100/month equals $120K revenue and the freedom to pursue parallel businesses.
 
 The dream is 100 customers paying you $100 per month. That’s the software-as-a-service (SaaS) solopreneur’s mecca.
 

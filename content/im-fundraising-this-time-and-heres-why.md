@@ -3,6 +3,7 @@ Date: 2022-12-22 06:36
 Slug: im-fundraising-this-time-and-heres-why
 Category: Business
 Tags: shovels, fundraising, startups, climate-tech
+Summary: Why I'm pursuing venture capital for Shovels after previously bootstrapping, making the case for capital when building something big, green, and local.
 
 If you read this blog, I mean really parse through it and find my stuff from 2017 and 2018, you'd be surprised to know that I'm eagerly, enthusiastically, *passionately* fundraising for my startup this time around. 
 

@@ -3,6 +3,7 @@ Date: 2019-06-06 13:04
 Slug: what-my-grad-school-experience-meant-to-me
 Category: Personal
 Tags: harvard, education, reflection, achievement
+Summary: Reflecting on my Harvard Kennedy School acceptance 13 years later - how it changed my life in unexpected ways through marriage, entrepreneurship, and family.
 
 I write this from Cambridge, MA. I took the red eye last night, flying in from SFO. There used to be a lot more flights out of OAK a decade ago when I did this trip several times a year. Now they are few and far between. 
 

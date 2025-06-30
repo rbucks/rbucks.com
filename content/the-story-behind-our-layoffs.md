@@ -3,6 +3,7 @@ Date: 2017-02-09 16:40
 Slug: the-story-behind-our-layoffs
 Category: Business
 Tags: layoffs, leadership, scripted, entrepreneurship
+Summary: The difficult story of multiple layoffs at Scripted, reducing from 33 to 19 to 6 employees while pivoting to profitability and a new business model.
 
 It’s hard to write about layoffs. It’s admitting failure on multiple levels: failure to manage people and cash, failure to adapt, and failure to see the future.
 

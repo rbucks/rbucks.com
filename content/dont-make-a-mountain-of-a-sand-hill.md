@@ -3,6 +3,7 @@ Date: 2017-06-30 10:25
 Slug: dont-make-a-mountain-of-a-sand-hill
 Category: Business
 Tags: entrepreneurship, fundraising, startups, business-strategy
+Summary: Advice for entrepreneurs on not getting caught up in fundraising culture and staying focused on building a business rather than raising money.
 
 #### So, you want to start a business. Fantastic! There’s no nobler pursuit.
 

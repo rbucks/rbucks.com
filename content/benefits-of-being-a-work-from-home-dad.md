@@ -3,6 +3,7 @@ Date: 2018-06-27 06:00
 Slug: benefits-of-being-a-work-from-home-dad
 Category: Family
 Tags: parenting, work-from-home, family, entrepreneurship
+Summary: How working from home as an entrepreneur provided unexpected benefits during challenging times including thyroid cancer treatment and business transitions.
 
 ![Work from home dad photos]({static}/images/unadjustednonraw_thumb_4f4.jpg)
 

@@ -3,6 +3,7 @@ Date: 2017-11-01 13:08
 Slug: hiring-feels-a-lot-different-when-its-your-own-money
 Category: Business
 Tags: hiring, bootstrapping, entrepreneurship, personal finance
+Summary: The emotional and financial difference between hiring with venture capital versus bootstrapped funds, where every dollar comes directly from personal income.
 
 I recently posted a (https://www.toofr.com/jobs) to help me with a bunch of tactical stuff for Toofr.
 

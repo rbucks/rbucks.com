@@ -3,6 +3,7 @@ Date: 2018-09-27 16:42
 Slug: a-day-in-my-life
 Category: Family
 Tags: parenting, family, lifestyle, work-from-home, daily-routine
+Summary: A detailed look at a typical day balancing work-from-home entrepreneurship with parenting young children and family life.
 
 No speech was given, no money raised. No company started or sold. This is merely a day in my life, chopped up and pieced together over several sittings and written into a story. 
 

@@ -3,6 +3,7 @@ Date: 2017-02-19 10:10
 Slug: the-two-things-i-wish-wed-done-sooner-at-scripted
 Category: Business
 Tags: scripted, entrepreneurship, business-strategy, marketing
+Summary: Two major strategic mistakes at Scripted: not implementing monthly subscriptions sooner and stopping email marketing despite its proven effectiveness.
 
 #### Regret #1: We should have experimented with monthly subscriptions sooner
 

@@ -3,6 +3,7 @@ Date: 2022-06-28 15:24
 Slug: business-evaluation-ahoy
 Category: Business
 Tags: business evaluation, web3, blockchain, politics
+Summary: Evaluation of Ahoy, a web3 bounty app for conditional fundraising that could revolutionize political donations and voting incentives.
 
 *Edit: (https://ahoy.fund/) is now live so I've included links. *
 

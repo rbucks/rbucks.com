@@ -3,6 +3,7 @@ Date: 2016-05-05 18:54
 Slug: digging-in
 Category: Personal
 Tags: reflection, life-lessons, self-improvement, philosophy
+Summary: Embracing the value of taking time and effort to do things well, rejecting life hacking shortcuts in favor of meaningful commitment.
 
 One of my managers back at (http://www.navigant.com/) would invite me to “dig in” with him when he really wanted to chat. It’s a good metaphor. As I’ve aged (now into my 33s) I’ve come to appreciate it more.
 

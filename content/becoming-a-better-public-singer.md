@@ -3,6 +3,7 @@ Date: 2019-10-17 10:36
 Slug: becoming-a-better-public-singer
 Category: Personal
 Tags: music, singing, performance, self-improvement
+Summary: Setting up a home audio system for neighborhood jam sessions and overcoming the challenge of public singing performance anxiety.
 
 Public speaking is for wimps. Try public singing. 
 

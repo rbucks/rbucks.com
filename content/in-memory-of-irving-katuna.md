@@ -3,6 +3,7 @@ Date: 2021-05-08 12:17
 Slug: in-memory-of-irving-katuna
 Category: Family
 Tags: family, memory, appreciation, reflection
+Summary: A eulogy for my grandfather Irving Katuna, from coal mining town to civil rights marcher to beloved family patriarch who lived 92 years with curiosity and conviction.
 
 *Edit: I've turned this blog post into a eulogy that I'll give at Rossmoor for my grandpa's funeral. He passed away early in the morning on Tuesday, April 27, 2021.*
 

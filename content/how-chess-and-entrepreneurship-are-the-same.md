@@ -3,6 +3,7 @@ Date: 2019-11-28 21:10
 Slug: how-chess-and-entrepreneurship-are-the-same
 Category: Business
 Tags: chess, entrepreneurship, strategy, business lessons
+Summary: Drawing parallels between chess strategy and startup success, covering first-mover advantage, channel development, building moats, and decision-making under pressure.
 
 I’ve always been a decent chess player, but recently I’ve started playing a lot more. Like, a lot more. I am happily addicted to the beautiful game once again. 
 

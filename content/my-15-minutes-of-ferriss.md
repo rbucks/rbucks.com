@@ -3,6 +3,7 @@ Date: 2016-03-24 15:49
 Slug: my-15-minutes-of-ferriss
 Category: Business
 Tags: networking, tim-ferriss, content-marketing, scripted
+Summary: How meeting Tim Ferriss at a private Google Ventures party led to getting a guest post published on his blog by leading with value instead of asking for favors.
 
 Here’s how I met Tim Ferriss and (http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/).
 

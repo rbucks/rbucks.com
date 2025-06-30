@@ -3,6 +3,7 @@ Date: 2019-08-24 06:30
 Slug: four-lessons-to-learn-about-selling-a-business
 Category: Business
 Tags: entrepreneurship, acquisition, business lessons, Toofr
+Summary: Key lessons learned from selling Toofr, covering negotiation tactics, valuation approaches, and the emotional journey of business exits.
 
 For entrepreneurs, especially the bootstrapped variety, the moment of exit is a mix of nostalgia and jubilation. You can't help but wonder what might have been if you'd only held on, but you also experience that wondrous relief of having a windfall of hundreds of thousands (or, more rarely, millions) of dollars suddenly hit your bank account. 
 

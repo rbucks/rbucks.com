@@ -3,6 +3,7 @@ Date: 2024-06-11 19:20
 Slug: a-short-essay-on-free-will
 Category: Personal
 Tags: philosophy, free-will, reflection, writing
+Summary: A philosophical argument defending the existence of free will and challenging deterministic views about human choice and agency.
 
 My most pretentious title yet! 🥳
 

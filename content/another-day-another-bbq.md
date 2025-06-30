@@ -3,6 +3,7 @@ Date: 2017-05-04 20:03
 Slug: another-day-another-bbq
 Category: Food
 Tags: grilling, cooking, food, lifestyle
+Summary: Photo collection showcasing various BBQ and grilling sessions, celebrating the joy of outdoor cooking and food preparation.
 
 - ![BBQ photo 1]({static}/images/2017/05/d58f3-1igdhihxcnfkq6t1m1-esqq.jpeg)
 - ![BBQ photo 2]({static}/images/2017/02/eaf38-16tobadmlxou5rgybbcbtka.jpeg)

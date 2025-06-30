@@ -3,6 +3,7 @@ Date: 2017-02-09 10:35
 Slug: on-being-the-3rd-ceo-of-the-startup-i-started
 Category: Business
 Tags: entrepreneurship, leadership, startups, scripted
+Summary: My journey from co-founder to third CEO of Scripted - from Scripped screenwriting software to content marketing marketplace, through trials and successes.
 
 Please allow me to re-introduce myself.
 

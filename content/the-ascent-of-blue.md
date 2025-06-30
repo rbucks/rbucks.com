@@ -3,6 +3,7 @@ Date: 2017-06-19 07:32
 Slug: the-ascent-of-blue
 Category: Family
 Tags: family, pets, parenting, home
+Summary: The heartwarming story of finding and raising Blue, our chocolate lab puppy, from Craigslist beginnings to becoming the perfect family dog.
 
 #### Like many great love stories, this one begins on Craigslist
 

@@ -3,6 +3,7 @@ Date: 2019-02-24 22:33
 Slug: feast-on-pain
 Category: Business
 Tags: entrepreneurship, motivation, personal growth, fitness
+Summary: Why entrepreneurs thrive on struggle and pain, drawing parallels between bodybuilding and the entrepreneurial mindset of growth through adversity.
 
 For all of the moping around and support-seeking you see on social media these days about the struggle of starting a business, there’s an underlying truth that these entrepreneurs love the pain. They wouldn’t find time to analyze and write their feelings otherwise. 
 

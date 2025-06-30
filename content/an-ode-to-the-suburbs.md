@@ -3,6 +3,7 @@ Date: 2016-03-22 19:33
 Slug: an-ode-to-the-suburbs
 Category: Personal
 Tags: lifestyle, suburbs, family, community, reflection
+Summary: Celebrating the move from San Francisco to Contra Costa County suburbs and discovering the unexpected benefits of suburban family life.
 
 About twenty miles east of San Francisco there is an expansive oasis of calm. A place where the air smells of grass and bay leaves, where the hills transition from burnt yellow to mild green with the seasonal rains. It’s where you can buy a home for about a million dollars and feel pretty good about it.
 

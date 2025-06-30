@@ -3,6 +3,7 @@ Date: 2021-11-14 19:47
 Slug: how-we-did-our-home-addition-and-remodel
 Category: Personal
 Tags: family, lifestyle, design, contra-costa-county
+Summary: A comprehensive account of doubling our home size from 1,500 to 3,900 square feet, including design process, permits, construction, and detailed room transformations.
 
 *This was the last and final remodel. There were [earlier projects]({filename}a-summary-of-our-first-home-projects.md).*
 

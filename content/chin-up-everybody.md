@@ -3,6 +3,7 @@ Date: 2016-03-31 09:24
 Slug: chin-up-everybody
 Category: Health
 Tags: fitness, exercise, health, lifestyle
+Summary: How mastering overhand pull-ups eliminated back pain, built muscle, and became a transformative fitness habit using assisted machines.
 
 People often ask me what my workout routine is…
 

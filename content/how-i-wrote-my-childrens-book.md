@@ -3,6 +3,7 @@ Date: 2022-02-20 21:22
 Slug: how-i-wrote-my-childrens-book
 Category: Personal
 Tags: writing, creativity, family, entrepreneurship
+Summary: The story of how a nostalgic Monday night poem became a published children's book with help from a Reddit illustrator, costing $1,700 and three months to complete.
 
 "Children's book author" is not something I aspired to put on my resume. It never crossed my mind. Not once. 
 

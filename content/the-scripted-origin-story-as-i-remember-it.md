@@ -3,6 +3,7 @@ Date: 2016-05-20 09:59
 Slug: the-scripted-origin-story-as-i-remember-it
 Category: Business
 Tags: scripted, entrepreneurship, startups, origin-story
+Summary: The complete 10-year origin story of Scripted, from environmental organizing at UC Berkeley to screenwriting software to content marketing marketplace.
 
 This fall I will have worked on my writing company for 10 years. Here’s how it all started, as best I can remember it.
 

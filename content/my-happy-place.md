@@ -3,6 +3,7 @@ Date: 2019-03-03 07:42
 Slug: my-happy-place
 Category: Personal
 Tags: family, vacation, personal, memory
+Summary: My family's cabin at Pinecrest Lake built by my great-grandpa in 1928 - a timeless sanctuary where generations gather and memories are marked.
 
 It’s a little cabin on a little lake in Pinecrest, California. The road ends on the south shore, so the only way in is by boat or foot. That inconvenience is what makes it so special. The boat ride across the lake is like a space shuttle launching from terra firma to zero gravity. You’re in a different mindset when you pull up to our raggedy old dock. You’re on Pinecrest Time now. 
 

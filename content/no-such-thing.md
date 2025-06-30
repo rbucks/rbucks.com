@@ -3,6 +3,7 @@ Date: 2016-04-10 19:43
 Slug: no-such-thing
 Category: Personal
 Tags: music, reflection, john-mayer, creativity
+Summary: My admiration for John Mayer's musical talent and reflections on the path not taken - from hearing 'No Such Thing' on the radio to suburban contentment.
 
 I never wanted to become a rock star.
 

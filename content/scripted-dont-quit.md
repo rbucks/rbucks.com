@@ -3,6 +3,7 @@ Date: 2017-07-12 08:21
 Slug: scripted-dont-quit
 Category: Business
 Tags: entrepreneurship, scripted, startups, business-strategy
+Summary: Ten hard-learned lessons from a decade of building Scripted - from technical co-founders to debt, hiring to layoffs, and the power of culture.
 
 #### Ten things I learned in 10 years of doing this
 

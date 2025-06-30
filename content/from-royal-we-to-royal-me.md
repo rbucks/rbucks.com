@@ -3,6 +3,7 @@ Date: 2017-09-05 07:36
 Slug: from-royal-we-to-royal-me
 Category: Business
 Tags: entrepreneurship, transparency, solo founder, authenticity
+Summary: Why solo entrepreneurs should embrace transparency about being a one-person company instead of using plural pronouns to appear larger.
 
 #### On being transparent that Toofr is just me
 

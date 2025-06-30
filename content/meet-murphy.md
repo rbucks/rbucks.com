@@ -3,6 +3,7 @@ Date: 2022-12-24 07:19
 Slug: meet-murphy
 Category: Personal
 Tags: family, personal, pets, lifestyle
+Summary: Introducing Murphy, our new goldendoodle adopted after Blue Boy's passing, from dog-sitting experiments to finding the perfect family companion.
 
 I wrote only [two posts]({filename}the-ascent-of-blue.md) about [Blue Boy]({filename}the-descent-of-blue.md) here about Blue Boy, our first dog, a lovable chocolate Labrador who left us too soon. But if you had access to our photo album, you'd see that he's in nearly every video and every picture. Once you notice his round brown shape, the sound of his walk and shake, you can't miss him. Scrolling through the last seven years, he is everywhere.
 

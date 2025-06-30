@@ -3,6 +3,7 @@ Date: 2018-07-05 07:43
 Slug: my-critique-of-prop-13
 Category: Politics
 Tags: policy, california, taxation, local-government
+Summary: Analyzing how Proposition 13 disrupted California's local government funding by centralizing property tax control in Sacramento and undermining fiscal autonomy.
 
 Here's what I thought of Proposition 13 going into writing this article:
 

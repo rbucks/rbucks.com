@@ -3,6 +3,7 @@ Date: 2018-08-08 08:25
 Slug: californias-wild-fire-season
 Category: Personal
 Tags: climate change, wildfires, environment, family
+Summary: Personal impact of California's worsening wildfire season, losing family vacation time at Pinecrest Lake due to Ferguson fire smoke.
 
 California is warmer, dryer, and more prone to catastrophic wildfires. Those are just the facts. How we got here and what we can do to mitigate are open for debate. 
 

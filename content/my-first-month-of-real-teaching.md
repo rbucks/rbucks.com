@@ -3,6 +3,7 @@ Date: 2022-02-10 21:58
 Slug: my-first-month-of-real-teaching
 Category: Personal
 Tags: teaching, education, community-college, career
+Summary: Teaching two in-person Introduction to Business sections at DVC is exhausting but rewarding - authenticity, preparation, and stamina are key.
 
 I leave Diablo Valley College each Tuesday and Thursday exhausted but on the equivalent of a mental high. Teaching two Introduction to Business sections back-to-back is a full body+mind workout that I've never experienced before. 
 

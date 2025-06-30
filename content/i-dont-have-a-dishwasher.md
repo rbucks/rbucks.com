@@ -3,6 +3,7 @@ Date: 2017-01-01 22:59
 Slug: i-dont-have-a-dishwasher
 Category: Personal
 Tags: lifestyle, home-improvement, mindfulness, personal-finance
+Summary: Finding satisfaction in hand-washing dishes and discovering that life without a dishwasher is perfectly manageable and even preferable.
 
 About a year ago, my wife and bought a house. It took us six months and exactly four offers before we got one. Funny thing to spend so much time and money on buying a house… to discover it didn’t even come with a dishwasher.
 

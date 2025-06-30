@@ -3,6 +3,7 @@ Date: 2023-04-08 20:59
 Slug: an-exploration-of-deep-exhaustion
 Category: Personal
 Tags: endurance-sports, cycling, fitness, exercise, reflection
+Summary: Reflecting on why extreme endurance cycling challenges like the Belgian Waffle Ride push physical and mental limits through deep exhaustion.
 
 This month I plan to push my endurance to the outer limits. I rode my bicycle 142 miles in just under 12 hours a week ago. 
 

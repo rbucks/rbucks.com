@@ -2,6 +2,7 @@ Title: 0 to 1, 1 to 10
 Date: 2025-06-29
 Category: entrepreneurship
 Status: draft
+Summary: The journey from rejecting venture capital to raising $5M for Shovels, building a big data business focused on the physical world and climate companies.
 
 
 About six years ago I announced on this very blog that I was done with venture capital <<Claude: link to i'm not fundable>>. Kaput. Over. I was going out on my own, bootstrapped, never to rely on another dollar of VC money. 

@@ -3,6 +3,7 @@ Date: 2022-05-30 20:28
 Slug: a-summary-of-our-first-home-projects
 Category: Personal
 Tags: home-improvement, family, lifestyle, diy
+Summary: Overview of initial home improvement projects completed before the major addition and remodel, establishing the foundation for bigger changes.
 
 *This is a prequel to the longer post about our ({filename}how-we-did-our-home-addition-and-remodel.md).*
 

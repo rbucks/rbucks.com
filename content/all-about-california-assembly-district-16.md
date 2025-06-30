@@ -3,6 +3,7 @@ Date: 2018-06-29 07:08
 Slug: all-about-california-assembly-district-16
 Category: Politics
 Tags: local-politics, contra-costa-county, california, government
+Summary: Guide to California Assembly District 16, covering its unusual boundaries across Contra Costa and Alameda counties and local politics.
 
 My Assembly district cuts across two counties, Contra Costa to the north and Alameda to the south, and includes about 80% of Walnut Creek. It is shaped like a toilet or somebody sitting on one. 
 

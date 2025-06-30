@@ -3,6 +3,7 @@ Date: 2022-11-22 12:04
 Slug: business-evaluation-shovels
 Category: Business
 Tags: business evaluation, data platform, construction, shovels
+Summary: Comprehensive business evaluation of Shovels, a construction data platform that analyzes building permits and contractor performance to solve information asymmetries.
 
 *TL;DR I'm now working on (https://www.shovels.ai)*. 
 

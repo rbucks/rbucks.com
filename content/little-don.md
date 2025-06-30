@@ -3,6 +3,7 @@ Date: 2016-07-27 05:46
 Slug: little-don
 Category: Politics
 Tags: politics, opinion, election, leadership
+Summary: A fictional DNC convention speech critiquing Trump's qualifications and calling for Hillary Clinton to confront him directly in the 2016 election.
 
 *Here’s a speech I wish someone would have given at the 2016 DNC convention.*
 

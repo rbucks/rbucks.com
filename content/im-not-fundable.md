@@ -3,6 +3,7 @@ Date: 2019-02-01 14:42
 Slug: im-not-fundable
 Category: Business
 Tags: entrepreneurship, fundraising, startup-lessons, business-strategy
+Summary: Reflecting on being 'damaged goods' to VCs after Scripted, advocating for exits that change founders' lives rather than chasing monster outcomes.
 
 Someone raised a good question when I presented to a group of new companies at 500 Startups recently:
 

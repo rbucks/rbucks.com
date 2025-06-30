@@ -3,6 +3,7 @@ Date: 2021-10-10 20:17
 Slug: above-average-mediocrity
 Category: Personal
 Tags: reflection, ambition, self-improvement, career, achievement
+Summary: Reflections on being successful but not extraordinary, exploring the psychology of high achievers stuck in comfortable mediocrity.
 
 *I started writing this a while ago and am publishing it now even though I don't feel this anymore. Nonetheless, I edited and finished it because I think the vibe is interesting and might be helpful to another fellow "bottom of the top 1%"-er. *
 

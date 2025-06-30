@@ -3,6 +3,7 @@ Date: 2016-07-10 06:52
 Slug: finding-the-flow
 Category: Personal
 Tags: flow state, productivity, mindfulness, self-improvement
+Summary: Discovering flow state through yard work and physical labor, exploring how repetitive tasks can lead to mindful, productive experiences.
 
 #### Yard work is hard work
 

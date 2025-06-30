@@ -3,6 +3,7 @@ Date: 2019-03-03 22:00
 Slug: i-dont-use-shampoo
 Category: Health
 Tags: health, lifestyle, self-improvement, opinion
+Summary: Why I stopped using shampoo daily, exploring the chemistry behind soap and the commercial cycle of stripping natural oils then replacing them with chemicals.
 
 Many years ago, I stopped putting weird liquid soap in my hair every time I showered. The decision point happened amidst a profound and literal "shower thought." I picked up a bottle of shampoo, looked at it, and thought, “Why am I doing this, again?” 
 

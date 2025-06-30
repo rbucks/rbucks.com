@@ -3,6 +3,7 @@ Date: 2023-03-18 12:35
 Slug: knocking-your-nox-off
 Category: Politics
 Tags: environment, policy, climate-tech, green-economy
+Summary: Exploring new Bay Area Air Quality Management District regulations requiring zero NOx standards for heating appliances to reduce pollution and protect public health.
 
 I just started learning about nitrous oxide (NOx). When we [electrified our home]({filename}the-importance-of-electrification.md), we did it to burn less carbon. I signed up for (https://www.walnut-creek.org/departments/e-c-o/energy-innovation/mce-renewable-energy) so our share of energy usage would come from renewable sources. I felt good about paying extra (the notorious "green premium") for our all-electric home appliances. 
 
