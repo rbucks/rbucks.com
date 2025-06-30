@@ -80,25 +80,14 @@
         </ul>
 
         {% if LINKS %}
-            <h2><br/>BLOGROLLS</h2>
+            <h2><br/>SOCIALS</h2>
             <ul>
                 {% for name, link in LINKS %}
                     <li><a href="{{ link }}">{{ name }}</a></li>
                 {% endfor %}
             </ul> 
         {% endif %}
-   
-        <p> 
-        {% if SOCIAL %}
-            {% for name, link in SOCIAL %}
-                <span>
-                    <a href="{{ link }}" target="_blank">
-                        <img class="social-icons-m" src="{{ SITEURL }}/theme/images/icons/{{ name|lower }}.png">
-                    </a>
-                </span>
-            {% endfor %}
-        {% endif %}
-        </p>
+
         <p>
         {% if FEED_ALL_ATOM %}
             <a href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" rel="alternate">

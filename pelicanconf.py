@@ -18,20 +18,13 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ('LinkedIn', 'https://www.linkedin.com/in/rbuckley'),
-    ('Twitter', 'https://twitter.com/rbucks'),
-)
-
-# Social widget - Graymill theme format
-SOCIAL = (
-    ('linkedin', 'https://www.linkedin.com/in/rbuckley'),
-    ('twitter', 'https://twitter.com/rbucks'),
-    ('facebook', 'https://www.facebook.com/rbucks'),
+    ('Twitter/X', 'https://x.com/rbucks'),
 )
 
 DEFAULT_PAGINATION = 8
 
 # Graymill theme specific settings
-SITEDESCRIPTION = 'Entrepreneur, writer, and builder'
+SITEDESCRIPTION = 'I like building things.'
 DISPLAY_SUMMARY = True
 DISPLAY_PAGES_ON_MENU = True
 
