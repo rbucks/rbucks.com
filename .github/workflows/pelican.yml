@@ -35,6 +35,7 @@ jobs:
       run: |
         pelican content -o docs -s publishconf.py
         echo "rbucks.com" > docs/CNAME
+        touch docs/.nojekyll
         cp themes/graymill/static/images/favicon.ico docs/favicon.ico
     
     - name: Setup Pages
