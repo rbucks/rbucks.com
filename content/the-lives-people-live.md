@@ -78,9 +78,9 @@ Enough of the hand-wavy stuff. Let’s name some names to bring this down to bra
 
 ## Who is having more fun (#6)
 
-**Dave Grohl** is the former drummer of Nirvana (prescient, perhaps?) and current leader of the Foo Fighters. He is beyond wealthy and seems to have remained in his prime for the last twenty years at least. By all accounts, he’s a nice guy and a wonderful dad (watch this YouTube video of him (https://www.youtube.com/watch?v=ZKb0lQlCYOE) — it’s so, so genuine). He tries to meld the simple life with rock and roll stardom and although it must be an impossible task, he makes it look easy. 
+**Dave Grohl** is the former drummer of Nirvana (prescient, perhaps?) and current leader of the Foo Fighters. He is beyond wealthy and seems to have remained in his prime for the last twenty years at least. By all accounts, he’s a nice guy and a wonderful dad (watch this YouTube video of him [cooking with his daughter](https://www.youtube.com/watch?v=ZKb0lQlCYOE) — it’s so, so genuine). He tries to meld the simple life with rock and roll stardom and although it must be an impossible task, he makes it look easy. 
 
-**Keanu Reeves **is nice. He’s generous. He comes off like a regular guy. I’ve read accounts on Twitter and Quora about him (https://pagesix.com/2022/08/26/keanu-reeves-crashes-couples-wedding-acts-very-friendly/) and actually showing up. He makes sure the under-appreciated staff on his movie sets get paid. I include him because being nice is the perfect proxy for having fun. You can’t have fun if you’re not happy. You can’t be happy if you’re not nice. I believe this. 
+**Keanu Reeves **is nice. He’s generous. He comes off like a regular guy. I’ve read accounts on Twitter and Quora about him [crashing a wedding](https://pagesix.com/2022/08/26/keanu-reeves-crashes-couples-wedding-acts-very-friendly/) and actually showing up. He makes sure the under-appreciated staff on his movie sets get paid. I include him because being nice is the perfect proxy for having fun. You can’t have fun if you’re not happy. You can’t be happy if you’re not nice. I believe this. 
 
 **Barack Obama** seems like he’s always been comfortable in his skin. And now, as a former president, wealthy from his books and celebrity, he can have fun. From what I read, he is doing that well. I know one person who knows Obama well and the picture he paints is one of a man who has found his place in the universe. Life can’t be simple for a former president, but I don’t hold that against him. 
 
@@ -120,7 +120,7 @@ Picture a man in a box: no social media, no FOMO or reference points. He’s giv
 
 In this hypothetical universe, does he ever stop working? If so, when? If work is work, and not meant to be fun, when is enough, enough? With no reference points, the man in the box probably accumulates enough money, based on some exchange rate, to last a long time. Then he stops working and trades money for fun. He should be happy. 
 
-We know from studying human psychology that we can't help comparing ourselves to others. This is the mimetic desire I read about in the book (https://lukeburgis.com/wanting/). We are programmed from an early age to mime those around us, and that very much includes material possessions. If we can short-circuit that tendency, we find happiness faster. 
+We know from studying human psychology that we can't help comparing ourselves to others. This is the mimetic desire I read about in the book [*Wanting*](https://lukeburgis.com/wanting/). We are programmed from an early age to mime those around us, and that very much includes material possessions. If we can short-circuit that tendency, we find happiness faster. 
 
 ## Personal takeaways
 

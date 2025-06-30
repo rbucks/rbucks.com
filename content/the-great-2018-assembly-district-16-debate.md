@@ -4,7 +4,7 @@ Slug: the-great-2018-assembly-district-16-debate
 Category: Politics
 Tags: politics, local-politics, debate, assembly-district-16
 
-I watched (https://www.youtube.com/watch?v=HLMshB9zH6c) and came away very impressed by both the candidates and the moderators. The questions were direct, specific, and the candidates responded appropriately. Unlike most of our national debates, it was refreshing to watch this and actually learn something. 
+I watched [the debate video](https://www.youtube.com/watch?v=HLMshB9zH6c) and came away very impressed by both the candidates and the moderators. The questions were direct, specific, and the candidates responded appropriately. Unlike most of our national debates, it was refreshing to watch this and actually learn something. 
 
 For those who didn't have time to watch, I'll give the play-by-play below and my two cents. 
 
@@ -104,10 +104,10 @@ I thought Baker won the debate. She gave stronger answers with more detail and c
 
 Let me be clear -- I'm a Democrat and always have been and always will be -- but that doesn't mean I always need to vote Democrat. I wrote this post primarily to force myself to analyze this debate in gross detail. Although I don't agree with everything that Baker said, I thought she presented herself better than Bauer-Kahan. Baker clearly had a deeper grasp of the policy details and the context and history to put policies into perspective.
 
-Additionally, while I disagreed with Baker on Prop 6, the repeal of last year's SB 1, I commend Baker for having a spine. Polling has Baker on the wrong side of this issue --- a (https://www.mercurynews.com/2018/09/26/rent-control-loses-gas-tax-wins-in-new-pre-election-poll/) shows Prop 6 trailing by 13 points --- but Democrats (myself included) like to say that politicians shouldn't choose sides based on polls. I respect Baker for choosing the unpopular position even though I disagree with it. 
+Additionally, while I disagreed with Baker on Prop 6, the repeal of last year's SB 1, I commend Baker for having a spine. Polling has Baker on the wrong side of this issue --- a [recent Mercury News poll](https://www.mercurynews.com/2018/09/26/rent-control-loses-gas-tax-wins-in-new-pre-election-poll/) shows Prop 6 trailing by 13 points --- but Democrats (myself included) like to say that politicians shouldn't choose sides based on polls. I respect Baker for choosing the unpopular position even though I disagree with it. 
 
 In contrast, I thought Bauer-Kahan's response to this question rambled and she failed to hammer Baker for opposing SB 1. Bauer-Kahan spoke first on this question and didn't mention Baker's vote. It could have been a solid debate hit but she missed it.
 
 I give Bauer-Kahan credit for getting into the ring with a formidable opponent. I recognize that she did a better job than I could have done and I don't know anyone else in our county who could have done better. Baker has the advantage of doing this professionally for four years now. Baker is very good at debating and that's all the more reason for Bauer-Kahan to have come in better prepared. 
 
-*Image credit: (https://www.pleasantonweekly.com/news/2018/09/17/assembly-candidates-air-positions-at-tri-valley-forum)*
+*Image credit: [Pleasanton Weekly](https://www.pleasantonweekly.com/news/2018/09/17/assembly-candidates-air-positions-at-tri-valley-forum)*

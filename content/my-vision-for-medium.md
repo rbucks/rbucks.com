@@ -54,7 +54,7 @@ The idea that I’m most excited about for Medium is the marketplace.
 
 #### Businesses pay
 
-First of all, I’m biased. I’m a B2B entrepreneur through and through. I’d rather (https://twitter.com/laurenduca/status/817040025078681600) than build a B2C app. So my proposed solution follows a B2B paradigm, but I think it makes real sense for Medium.
+First of all, I’m biased. I’m a B2B entrepreneur through and through. I’d rather [help companies solve their content problem](https://twitter.com/laurenduca/status/817040025078681600) than build a B2C app. So my proposed solution follows a B2B paradigm, but I think it makes real sense for Medium.
 
 Businesses would pay for two things that Medium has a ton of: licensable content and available writers. This means that Medium’s publications essentially become storefronts for content and writers.
 

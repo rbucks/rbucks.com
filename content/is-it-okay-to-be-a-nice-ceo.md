@@ -10,7 +10,7 @@ I simply plan to be thoughtful and nice. Thoughtful makes sense. I should be thi
 
 What about being nice? Why is that so high on my list? Some of my favorite entrepreneurs are nice CEOs. Many have raised hundreds of millions of dollars, taking their companies public and proving that investors like nice CEOs, too. One of them, the nicest CEO I know, recently sold his company for enough money to put $1M into his pocket. Pretty nice, eh?
 
-Mean CEOs do well too. There's the<span style="font-size: 1rem;"> old news about bad-boy-CEO </span>(https://www.nytimes.com/2017/06/21/technology/uber-travis-kalanick-final-hours.html?_r=0)<span style="font-size: 1rem;"> and his company's massive IPO but subsequent flop (alongside others in the ride-sharing market). However, for every Travis, there's a Logan (CEO of Lyft) who is equal parts nice. </span>
+Mean CEOs do well too. There's the<span style="font-size: 1rem;"> old news about bad-boy-CEO </span>[Travis Kalanick](https://www.nytimes.com/2017/06/21/technology/uber-travis-kalanick-final-hours.html?_r=0)<span style="font-size: 1rem;"> and his company's massive IPO but subsequent flop (alongside others in the ride-sharing market). However, for every Travis, there's a Logan (CEO of Lyft) who is equal parts nice. </span>
 
 Here are the good and bad points about being a nice CEO:
 
@@ -19,7 +19,7 @@ Here are the good and bad points about being a nice CEO:
 - Culture comes from the top. Nice CEOs yield nice cultures, which makes recruiting and retention much easier.
 - Nice CEOs get more favorable media coverage or at least avoid negative coverage. 
 - Nice CEOs, provided they’re meeting revenue expectations (see below), are less likely to be fired.
-- Customers like nice CEOs. I've always heard that Box's enterprise customers loooove (https://twitter.com/levie), and he seems like a nice guy.
+- Customers like nice CEOs. I've always heard that Box's enterprise customers loooove [Aaron Levie](https://twitter.com/levie), and he seems like a nice guy.
 
 #### The Bad
 
@@ -35,7 +35,7 @@ I still favor the "nice CEO" model, but I'm biased. I can't be any other way. Si
 
 The problem with trying to be analytical about this is "niceness" is impossible to quantify. So I took it upon myself to look at the performance of 20 public companies and the Glassdoor reviews of the CEOs in the lifetime-ago pre-pandemic era.
 
-Here's the list of the (https://www.ceotodaymagazine.com/2019/12/the-fortune-100-companies-with-the-worst-rated-ceos/) in 2019 and a chart plotting their Glassdoor rating against their stock growth in 2019.
+Here's the list of the [worst rated CEOs](https://www.ceotodaymagazine.com/2019/12/the-fortune-100-companies-with-the-worst-rated-ceos/) in 2019 and a chart plotting their Glassdoor rating against their stock growth in 2019.
 
 #### Top 10 Worst CEOs
 

@@ -66,8 +66,6 @@ I'll briefly explain. If I have the cards, I can play out the future. As I perfe
 
 If you can predict everything, you don't need time. Therefore, time isn't required. If time isn't required, then it won't exist. If it won't exist, then it does not exist.
 
-(https://x.com/elonmusk/status/1585341984679469056).
-
 ## If time does not exist, then we don’t exist
 
 It follows. If we have no need for time, then we have no need for anything.
