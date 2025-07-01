@@ -35,7 +35,7 @@ However, as a donor you have no visibility into their fundraising. They could be
 
 It gets more interesting when we consider the popular "matching grant" fundraising technique. Here's a letter from an organization I admire, the Environmental Voter Project. Note the highlighted circle at the bottom. 
 
-![Environmental Voter Project fundraising letter with matching grant]({static}/images/image-1-768x1024.png)
+![Environmental Voter Project fundraising letter with matching grant]({static}/images/2022/06/image-1.png)
 
 **There's no way for me to know if this matching donor actually exists**. It could be simply a marketing technique, and I suspect that most of the time that's all it is. It's hard to fundraise. There's a lot of competition for attention and donations, especially in this climate of falling stock prices and rising inflation. Donors could be misled out of desperation. It's still not ideal for those of us who donate. 
 
@@ -47,7 +47,7 @@ We don't go to the cabin at Pinecrest Lake in August anymore. We can't plan our 
 
 You're crazy, Ryan, you might argue. Wildfires have been happening for *millions of years*. What do you mean it's not normal? 
 
-![Sierra Nevada fire season statistics chart]({static}/images/image-2.png)
+![Sierra Nevada fire season statistics chart]({static}/images/2022/06/image-2.png)
 *https://sierranevada.ca.gov/2021-another-historic-sierra-nevada-fire-season/ *
 
 It's not normal. 

@@ -42,8 +42,8 @@ I still needed a piano, of course, and looked all around for good uprights. I pl
 She agreed to trust me and I was able to find a family in Alamo who had the space and the desire for our piano. I sold it and with money to spare I bought the Clavinova. I'd like to say I miss my grandparents' piano, but I don't. I love the Clav, and since I can adjust the volume and play piano in the same room where my girls are drawing, I play a lot more. Like, a LOT more. This is all that would have mattered to my grandparents. They just want to know that music is being played. I know it. 
 
 <figure>
-![Piano before and after]({static}/images/75e3344b-d2e8-4b2a-8273-e971326eb94a.jpg)
-![Piano before and after]({static}/images/a20c1926-f200-425c-8159-bf7fd7634aa9.jpg)
+![Piano before and after]({static}/images/2019/11/75e3344b-d2e8-4b2a-8273-e971326eb94a.jpg)
+![Piano before and after]({static}/images/2019/11/a20c1926-f200-425c-8159-bf7fd7634aa9.jpg)
 
 
 *After and before.*

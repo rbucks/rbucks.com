@@ -33,7 +33,7 @@ I didn’t know then that I’d get to work closely with him for the next five y
 
 I’d say I’ve been on two founding teams within the same company. The first was my screenwriting product, Scripped, with Sunil and Zak. The second is my writing marketplace, Scripted, with Sunil and Jake. Jake ultimately signed on as one of our first real, non-contractor employees, and is the only one from that first group still involved with the company. I consider him a co-founder even if he’s not one on paper.
 
-![Them salad days. Zak, Sunil, and me, posing for the camera, 2007-ish.]({static}/images/256eb-1ms6mjzjh3u4gssgeia-rhg.png)
+![Them salad days. Zak, Sunil, and me, posing for the camera, 2007-ish.]({static}/images/2017/02/256eb-1ms6mjzjh3u4gssgeia-rhg.png)
 *Them salad days. Zak, Sunil, and me, posing for the camera, 2007-ish.*
 
 Sunil was CEO during both Scripped and Scripted up [until he stepped down](https://www.linkedin.com/pulse/moving-ceo-scriptedcom-sunil-rajaraman). Then my board appointed our most senior employee (experience-wise) at the time, [John Peterson](https://www.linkedin.com/in/jdpeterson), to be interim CEO while they ran an outside CEO search. We hired [Curtis Kroeker](https://www.linkedin.com/in/curtiskroeker) on August 25, 2015, my 33rd birthday. He had the daunting task of commuting between San Francisco and Portland, Maine, where his family expected to remain for up to six months. When they canceled their moving plans, Curtis had to resign. I formally took the reigns of Scripted on July 29, 2016.

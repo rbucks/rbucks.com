@@ -51,4 +51,4 @@ So that why I want to share what’s ours. That’s why I’m tolerant of immigr
 
 And that maybe someday he would do something about it. 
 
-![Pinecrest Lake cabin view]({static}/images/unadjustednonraw_thumb_643.jpg)
+![Pinecrest Lake cabin view]({static}/images/2019/01/unadjustednonraw_thumb_643.jpg)

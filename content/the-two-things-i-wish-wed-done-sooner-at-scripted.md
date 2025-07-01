@@ -33,7 +33,7 @@ The trick to email marketing, and plenty has been written about this, is simply 
 
 The third dimension, at the right time, takes care of itself if you can send a lot of email. When you have a product that has broad demand (like [Scripted](https://www.scripted.com)), your lists can be very large. Someone is bound to have the burning need at the time we email them, and our customer acquisition cost (CAC) data shows this to be true.
 
-![Q4 2016 data showing email marketing CAC]({static}/images/9d902-1fxnzmtmegh_iltefhtuffq.png)
+![Q4 2016 data showing email marketing CAC]({static}/images/2017/02/9d902-1fxnzmtmegh_iltefhtuffq.png)
 *Q4 2016 data. It’s even better now!*
 
 Today it’s one of our best channels, profitable by a good margin, and yet I battled my team for years to let me do it. In fact, it wasn’t [until I became CEO](https://medium.com/@rbucks/on-being-the-3rd-ceo-of-the-startup-i-started-ae04fc6d58c3) that we finally went big on email marketing. Jake, our CTO, built an amazing machine to manage and track our email campaigns, and the data unequivocally says it works. That cold email CAC from Q4 is even lower today.

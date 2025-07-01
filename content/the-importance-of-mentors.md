@@ -35,7 +35,7 @@ Is it ever too late to get a mentor? I hope not. When I think across all of my p
 
 I miss that.
 
-<figure class="wp-block-image size-large">![Lisa and Doug at ranch]({static}/images/DSCF0096_0046-1-1024x768.jpg)
+<figure class="wp-block-image size-large">![Lisa and Doug at ranch]({static}/images/2023/10/DSCF0096_0046-1.jpg)
 
-![Ranch visit photo]({static}/images/AA0B9D9B-E6AF-4FD1-AFDE-9F9DDA1E5915_1_105_c-1.jpeg)
+![Ranch visit photo]({static}/images/2023/10/AA0B9D9B-E6AF-4FD1-AFDE-9F9DDA1E5915_1_105_c-1.jpeg)
 </figure>

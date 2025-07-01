@@ -5,7 +5,7 @@ Category: Personal
 Tags: reflection, self-improvement, goals, reading
 Summary: Implementing new habits for 2019: no late-night work, concentrated learning, less coffee, swimming, and commitment to Read Write Play routine.
 
-![Goodreads reading goal completion for 2018]({static}/images/screen-shot-2019-02-06-at-8.53.41-pm.png)
+![Goodreads reading goal completion for 2018]({static}/images/2019/02/screen-shot-2019-02-06-at-8.53.41-pm.png)
 
 In 2018 I did plenty of [Read Write Play](https://rbucks.com/category/read-write-play/) (RWP). I was good about reading books; GoodReads says I knocked down [26 books](https://www.goodreads.com/user/year_in_books/2018/4203313) of them. And in April 2018 I [published my book](https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V). I improved at both piano and guitar. RWP continues to echo through my head during the day and I take care to spend my "me" time wisely.
 

@@ -5,7 +5,7 @@ Category: Personal
 Tags: reflection, family, parenting, lifestyle
 Summary: Contrasting my melancholy 25th birthday with a fulfilling 35th: family, community, and finding happiness in the American suburban dream.
 
-![Morning hike view]({static}/images/49317-12ekmq7syg8kxzp8yv0i2mq.jpeg)
+![Morning hike view]({static}/images/2017/08/49317-12ekmq7syg8kxzp8yv0i2mq.jpeg)
 *Morning hike on day 1 of my 35th year.*
 
 My 25th birthday was a melancholy one.
@@ -30,9 +30,9 @@ Ten years later I’m all grown up: I’m married with a house, two kids, and a 
 
 I woke up and took my dog and youngest daughter for a nice long hike in Briones Regional Park. She loves the backpack and fell asleep after about 30 minutes.
 
-![Norah in backpack]({static}/images/1dc03-1ejy8y9e1tljwtf_hyjxn8q.jpeg)
+![Norah in backpack]({static}/images/2017/08/1dc03-1ejy8y9e1tljwtf_hyjxn8q.jpeg)
 
-![Hiking trail view]({static}/images/cde65-1yuj-vxnfdwhp0ddggvymag.jpeg)
+![Hiking trail view]({static}/images/2017/08/cde65-1yuj-vxnfdwhp0ddggvymag.jpeg)
 
 We walked along an oak-lined creek, past dry grass meadows and up to a summit with a beautiful view of Mount Diablo. We walked past horses and stepped over cow pies and nodded at other hikers with their dogs. Norah grunted and sang and slept while Blue sped ahead, occasionally looking back to check on us.
 
@@ -44,13 +44,13 @@ At four o’clock we all drove to my older daughter’s preschool. We let my you
 
 I took my younger daughter to BevMo to pick up some whiskey for the evening and met my wife and older daughter at a children’s bookstore. I called in a sushi order to eat at home. After that we met up with our neighbors and all rode out to the last fruiting blackberry bush in our neighborhood.
 
-![Blackberry picking]({static}/images/a2cf1-1xv0gfcmacrktfj_uzjj-zg.jpeg)
+![Blackberry picking]({static}/images/2017/08/a2cf1-1xv0gfcmacrktfj_uzjj-zg.jpeg)
 
-![Kids with blackberries]({static}/images/ce8a7-1ov-ax8lgqc0o0uh8ynh8ba.jpeg)
+![Kids with blackberries]({static}/images/2017/08/ce8a7-1ov-ax8lgqc0o0uh8ynh8ba.jpeg)
 
 I helped get the kids to bed and invited several of the neighborhood dads over to join me down by the creek in my backyard to drink scotch and smoke cigars. Midnight came fast and we broke up the party. I went to bed tired and happy.
 
-![Birthday celebration remnants]({static}/images/0c183-1b-sgugd8llpci0vbjc8nta@2x.jpeg)
+![Birthday celebration remnants]({static}/images/2017/08/0c183-1b-sgugd8llpci0vbjc8nta@2x.jpeg)
 *Remnants of my first night of 35.*
 
 Thirty-five years is a long time. I’m ten years passed grad school and nearly twenty years passed high school. I was very ambitious back then and sometimes I wonder if that 25-year-old self would think I’ve plateaued or underachieved.

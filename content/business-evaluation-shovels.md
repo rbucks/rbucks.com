@@ -83,7 +83,7 @@ But more specifically, the world needs Shovels because the world needs more info
 
 When we make a histogram of all of the inspection pass rates for contractors in Contra Costa County, it produces a beautiful bell curve.
 
-![Inspection pass rates histogram for contractors in Contra Costa County]({static}/images/rate-1.png)
+![Inspection pass rates histogram for contractors in Contra Costa County]({static}/images/2022/11/rate-1.png)
 
 This is exactly what I'd hoped to see. The standard deviation is about 13 points on either side of the mean. Those contractors beyond the standard deviation are the best (right side) and worst (left side) of the bunch, and we can raise that flag to anyone looking to hire them. It doesn't necessarily mean they're awful, but it does mean that hiring or funding them has additional risk. 
 

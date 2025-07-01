@@ -19,15 +19,15 @@ That's not the deep exhaustion I'm referring to. This type of exhaustion sits in
 
 From the start of my 142-mile loop, it took about 40 miles and a bit over two hours for me to ride from my house in Lafayette to the estuary on the eastern side of the Dumbarton Bridge. That's when I got my first taste of tiredness. I stopped there and stretched. I filled my water bottles at a little trailhead visitor center structure. I took this picture there. 
 
-![Rest stop at Dumbarton Bridge estuary during 142-mile ride]({static}/images/IMG_4207-1024x768.jpeg)
+![Rest stop at Dumbarton Bridge estuary during 142-mile ride]({static}/images/2023/04/IMG_4207.jpeg)
 
 I was still feeling good. I stretched my legs, felt a twinge of cramp coming on but shook it off. I hopped back on and kept going. At 50 miles, I took a picture at the peak of the bridge span. I took my last picture as I entered Martinez from the north ninety miles later. 
 
 <figure class="wp-block-image size-large">
 
-![Peak of bridge span at 50 miles]({static}/images/IMG_4208-1024x768.jpeg)
+![Peak of bridge span at 50 miles]({static}/images/2023/04/IMG_4208.jpeg)
 
-![Entering Martinez from the north at 90 miles]({static}/images/IMG_4216-1024x768.jpeg)
+![Entering Martinez from the north at 90 miles]({static}/images/2023/04/IMG_4216.jpeg)
 
 </figure>
 

@@ -59,7 +59,7 @@ I love my neighborhood for many reasons, but the biggest one is my neighbors. On
 
 So of course in the days leading up to my ultrasound and MRI I gave him the play-by-play as our kids scooted around the cul de sac. He knows cancer better than anyone I know. He sees it every day, in every part of the body, and when I was first diagnosed he too told me that thyroid cancer is the best of them. He told me he would be working the morning of my MRI. When I left the trailer I texted him.
 
-![MRI text message]({static}/images/9c923-1eqwcpmepbrtrzwhmzpt8ya.png)
+![MRI text message]({static}/images/2018/02/9c923-1eqwcpmepbrtrzwhmzpt8ya.png)
 
 That afternoon his two boys were out playing so I went out with my two girls, beer in hand. I could tell when he walked down the driveway that he didn’t want to tell me his read on my MRI.
 

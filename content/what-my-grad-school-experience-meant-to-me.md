@@ -25,7 +25,7 @@ Of note, it wasn't Chancellor Berdahl who I worked with to get that letter draft
 
 I've learned time and time again that you have to be nice to and appreciative of everyone. 
 
-![Chancellor Berdahl presenting Berkeley Sustainability Award]({static}/images/berdahl-award_orig.jpg)
+![Chancellor Berdahl presenting Berkeley Sustainability Award]({static}/images/2019/01/berdahl-award_orig.jpg)
 *The Chancellor of UC Berkeley giving me one of the first Berkeley Sustainability Awards.*
 
 So I was good at this campus sustainability politicking and probably the best at doing this at UC Berkeley at the time. My skills met the right opportunity and it catapulted me forward. I made sure that my Harvard grad school application emphasized that point. I got in. 
@@ -34,27 +34,27 @@ I forwarded that fateful email from Harvard to my mom and went to the bar at a n
 
 I was on cloud nine. I soon made plans to quit my job, spend the summer on an epic road trip through the southwest to Colorado and then to Spain and Europe. It was a unique and amazing time in my life. Limitless opportunity, no obligations, and most of all, a sense of pride that I'd worked towards an ambitious goal and achieved it. It was done. Nobody could take it away. 
 
-![Travel photo 1]({static}/images/img_0108.jpg)
+![Travel photo 1]({static}/images/2019/06/img_0108.jpg)
 
-![Travel photo 2]({static}/images/img_0182.jpg)
+![Travel photo 2]({static}/images/2019/06/img_0182.jpg)
 
-![Travel photo 3]({static}/images/img_0275.jpg)
+![Travel photo 3]({static}/images/2019/06/img_0275.jpg)
 
-![Travel photo 4]({static}/images/img_0353.jpg)
+![Travel photo 4]({static}/images/2019/06/img_0353.jpg)
 
-![Travel photo 5]({static}/images/img_0438.jpg)
+![Travel photo 5]({static}/images/2019/06/img_0438.jpg)
 
-![Travel photo 6]({static}/images/img_0473.jpg)
+![Travel photo 6]({static}/images/2019/06/img_0473.jpg)
 
-![Travel photo 7]({static}/images/img_0624.jpg)
+![Travel photo 7]({static}/images/2019/06/img_0624.jpg)
 
-![Travel photo 8]({static}/images/img_0649.jpg)
+![Travel photo 8]({static}/images/2019/06/img_0649.jpg)
 
-![Travel photo 9]({static}/images/img_0699.jpg)
+![Travel photo 9]({static}/images/2019/06/img_0699.jpg)
 
-![Travel photo 10]({static}/images/img_0788.jpg)
+![Travel photo 10]({static}/images/2019/06/img_0788.jpg)
 
-![Travel photo 11]({static}/images/img_0972.jpg)
+![Travel photo 11]({static}/images/2019/06/img_0972.jpg)
 
 For the rest of my life I'd always have that Harvard acceptance letter. I was in the club. Indeed my life would change forever, but not in the ways I originally expected. 
 

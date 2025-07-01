@@ -37,7 +37,7 @@ In [my post about writing 17k words in two days]({filename}how-i-wrote-17k-words
 
 Here's me crossing the 30,000-word mark that I was shooting for. That's a last-call Old Fashioned in my hand. It was about 11pm on my last night of the retreat. I started with 13,000 words in the document. 
 
-![Crossing 30,000-word mark during writing retreat with Old Fashioned]({static}/images/f1b51-1r6kq9ymy8_kogwoh68ompg.jpeg)
+![Crossing 30,000-word mark during writing retreat with Old Fashioned]({static}/images/2017/12/f1b51-1r6kq9ymy8_kogwoh68ompg.jpeg)
 
 #### Play: Mayonaise
 

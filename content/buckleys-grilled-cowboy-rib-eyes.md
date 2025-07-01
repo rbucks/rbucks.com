@@ -5,10 +5,10 @@ Category: Food
 Tags: recipes, grilling, cooking, lifestyle
 Summary: Recipe for grilling premium bone-in cowboy rib eye steaks with liberal salt seasoning and high-heat grilling techniques.
 
-![Grilled cowboy rib eye steak 1]({static}/images/a728c-1hiag9lulzmwfvtxuz7qwqg.jpeg)
-![Grilled cowboy rib eye steak 2]({static}/images/f2f1c-1y4vw-w8d5an3wcvcfzoplg.jpeg)
-![Grilled cowboy rib eye steak 3]({static}/images/a6fef-16alve8xi7ilntwepjysmtq.jpeg)
-![Grilled cowboy rib eye steak 4]({static}/images/b1020-1lgbesqsx5vu6icdd8uo4dg.jpeg)
+![Grilled cowboy rib eye steak 1]({static}/images/2017/01/a728c-1hiag9lulzmwfvtxuz7qwqg.jpeg)
+![Grilled cowboy rib eye steak 2]({static}/images/2017/01/f2f1c-1y4vw-w8d5an3wcvcfzoplg.jpeg)
+![Grilled cowboy rib eye steak 3]({static}/images/2017/05/a6fef-16alve8xi7ilntwepjysmtq.jpeg)
+![Grilled cowboy rib eye steak 4]({static}/images/2017/01/b1020-1lgbesqsx5vu6icdd8uo4dg.jpeg)
 
 Here’s the recipe.
 

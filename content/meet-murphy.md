@@ -17,7 +17,7 @@ Before I knew it, we were sending adoption applications to shelters for pre-appr
 
 The foster parent wasn't sure about us. The last family had young kids and he was too much for them, but she agreed to let us meet him. We drove out to Sacramento hoping for the best, that we'd meet our new friend and fall in love at first sight. What happened was pretty darn close. 
 
-![Murphy going home]({static}/images/Mini-Murphy_Going-Home-1024x819.jpeg)
+![Murphy going home]({static}/images/2022/12/Mini-Murphy_Going-Home.jpeg)
 
 Murphy is old for his age. He has puppy vibes, but he calms down quickly, and then a happy old man comes out. He likes to nap. Scratch that, he *needs *to nap. He loves to cuddle as close to his humans as possible. He gets scared when he hears a new sound. Importantly, he sleeps through the night, quiet as a mouse. And he doesn't shed! 
 

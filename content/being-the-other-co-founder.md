@@ -13,7 +13,7 @@ I'm coming up on two full years since my Scripted days came to a close. Since th
 
 ---
 
-![Charlie Munger]({static}/images/munger.jpg)
+![Charlie Munger]({static}/images/2019/03/munger.jpg)
 
 The co-founder or CEO / non-CEO-but-still-important pairing has many obvious examples:
 

@@ -5,7 +5,7 @@ Category: Business
 Tags: parallel-entrepreneurship, entrepreneurship, startups, toofr
 Summary: The core philosophy of parallel entrepreneurship: build a startup while keeping your day job to reduce risk and diversify income.
 
-![Parallel entrepreneurship concept]({static}/images/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)
+![Parallel entrepreneurship concept]({static}/images/2017/10/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)
 
 Here’s the concept.
 

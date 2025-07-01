@@ -5,7 +5,7 @@ Category: Family
 Tags: parenting, work-from-home, family, entrepreneurship
 Summary: How working from home as an entrepreneur provided unexpected benefits during challenging times including thyroid cancer treatment and business transitions.
 
-![Work from home dad photos]({static}/images/unadjustednonraw_thumb_4f4.jpg)
+![Work from home dad photos]({static}/images/2019/01/unadjustednonraw_thumb_4f4.jpg)
 
 For the last couple of years I've been working from home, generating my own income with my own companies on my own timeline. It's been a wonderful change of pace from the stress and surprises of startup life.
 

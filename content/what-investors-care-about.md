@@ -43,7 +43,7 @@ See, you’re selling “preferred” stock in your company. Preferred is above 
 
 But, like I said, it’s good. At some level, I want my board members to be greedy. Our incentives are aligned. The bigger the company, the faster the growth, the sooner the exit and my yacht (By the way, I always thought a great name for a post-exit yacht is “Liquidity.” Get it?)
 
-![Liquidity yacht]({static}/images/54a9a-1z6bu7aqkl_nvyodvmbr8lq.jpeg)
+![Liquidity yacht]({static}/images/2016/10/54a9a-1z6bu7aqkl_nvyodvmbr8lq.jpeg)
 *Of course someone has already done it. [Source](http://www.yachtingmagazine.com/30-unforgettable-boat-names)*
 
 Just be careful what you wish for, because if the tables turn, and you need financial support for whatever reason, you won’t get it. Resources must be allocated to the clear winners, not the possible losers.

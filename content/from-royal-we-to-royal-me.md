@@ -7,7 +7,7 @@ Summary: Why solo entrepreneurs should embrace transparency about being a one-pe
 
 #### On being transparent that Toofr is just me
 
-![Solo entrepreneur]({static}/images/88285-1ojcidih-be4am421fx1kfa.jpeg)
+![Solo entrepreneur]({static}/images/2017/09/88285-1ojcidih-be4am421fx1kfa.jpeg)
 
 When I first started Toofr, even though I was the only person working on it, I’d refer to myself in the plural.
 

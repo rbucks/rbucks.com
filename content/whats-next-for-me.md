@@ -31,7 +31,7 @@ I’ve grown into a [bit of a Taoist](http://www.with.org/tao_te_ching_en.pdf) t
 
 Getting the monthly recurring revenue model functioning is really hard work at first, and then it’s magical. I can go a day or two without “working” and the money keeps coming. [See here](http://nathanlatka.com/thetop610/). I’m addicted to this kind of entrepreneurship and I’ll be writing about it a lot more. It’s the kind of day job that lets you go for hikes in the morning, every morning, if you wanted to.
 
-![View of Mt. Diablo from hills near daughter's pre-school]({static}/images/744e3-1nkku0a1exch20_fj3g5fyw.jpeg)
+![View of Mt. Diablo from hills near daughter's pre-school]({static}/images/2017/07/744e3-1nkku0a1exch20_fj3g5fyw.jpeg)
 *View of Mt. Diablo in the hills near my daughter’s pre-school.*
 
 I also look forward to [being candid](https://medium.com/startup-grind/candid-thoughts-about-being-candid-b61c68e07c8f) without caring what anyone besides my customers might think about it. I used to have people to consider before I shared a number or graph publicly. Not anymore! I’m excited to follow in the footsteps of [Buffer](https://buffer.com/) and [Baremetrics](https://www.baremetrics.com) and just lay it all out there. I think it’s good for the community, and it will also help motivate me to keep the numbers moving up. My public following, in a way, will become my board of directors.
@@ -49,5 +49,5 @@ This is just the start. Over the next year or two I plan to sell off and add mor
 
 If all goes to plan, I will in fact raise money again. But instead of fundraising for a company, I’ll be dialing for dollars when I run for public office out here in beautiful Contra Costa County.
 
-![Home office conference room with backyard view]({static}/images/113ce-1epudpomhk03vkdcf5txdyw.jpeg)
+![Home office conference room with backyard view]({static}/images/2017/07/113ce-1epudpomhk03vkdcf5txdyw.jpeg)
 *One of the “conference rooms” in my “office”*

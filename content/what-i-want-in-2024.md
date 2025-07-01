@@ -52,11 +52,8 @@ I'm making more friends as a result of the work I'm doing on Shovels and at DVC.
 I'm in the best shape of my life. It's true. I credit a combination of my daily core routine, training for some [endurance races]({filename}an-exploration-of-deep-exhaustion.md), and doing a triathlon which really was about forcing myself to swim laps. Now a typical workout week for me looks like this:
 
 - 5 mornings of 10 minute core. Mondays I do a 5 minute straight arm blank. Tuesday through Friday I do 4 minutes on my elbows. The rest of the workout is various crunches, stretches, squats, and 40 pushups. 
-
 - A couple of 5.5 mile runs. Plus one 10+ mile run or a 35 mile bike ride.
-
 - 1 mile swim at a pace of about 2 mins per 100 yards.
-
 - 1 Peloton workout. My favorite is a 20 minute ride followed by a 20 minute full body strength
 
 The morning core routine, which I've now been doing for more years than I can track, is table stakes. It's always there, so I don't think about it. This means I work out twice on most days. It feels normal. In fact, on days when I don't work out at all, I get restless. That's when I head out to the backyard cottage where we have our Peloton stuff and knock one out. I have to exercise every day or I don't feel right. 

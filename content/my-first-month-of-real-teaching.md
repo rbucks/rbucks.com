@@ -7,7 +7,7 @@ Summary: Teaching two in-person Introduction to Business sections at DVC is exha
 
 I leave Diablo Valley College each Tuesday and Thursday exhausted but on the equivalent of a mental high. Teaching two Introduction to Business sections back-to-back is a full body+mind workout that I've never experienced before. 
 
-![My classroom]({static}/images/FDE73FAF-9199-4C01-B425-A4CF0F7CA28D_1_105_c.jpeg)
+![My classroom]({static}/images/2022/02/FDE73FAF-9199-4C01-B425-A4CF0F7CA28D_1_105_c.jpeg)
 *My classroom*
 
 I'm three weeks in with thirteen more to go until the end of the semester. I've learned a few things, but before I go into that, let me provide some context. 

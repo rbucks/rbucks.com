@@ -19,13 +19,13 @@ Finally, a great business has what’s known as “net negative churn.” This i
 
 To make this point clearer, let’s look at this table.
 
-![Business revenue growth table]({static}/images/5b1fa-1amz-gmrdqumsq5hsns74hw.png)
+![Business revenue growth table]({static}/images/2018/06/5b1fa-1amz-gmrdqumsq5hsns74hw.png)
 
 Let’s say you’re adding $1,000 of new customers every month. You’re also getting another $1,000 from upgrades and $500 reactivations (customers who canceled and then came back). That’s bringing $2,500 of new monthly revenue into your business.
 
 On the flipside, let’s say you’re losing $500 from cancellations and downgrades each month. This means on net you’re adding $1,500 of revenue to your business each month.
 
-![Net negative churn calculation]({static}/images/3c9da-1fxff7gutcrqp880lkl4loa.png)
+![Net negative churn calculation]({static}/images/2018/06/3c9da-1fxff7gutcrqp880lkl4loa.png)
 
 Net negative churn is when, setting new customer revenue aside, you’re still adding revenue every month. In this case, you would be making $1,500 from upgrades and reactivations and losing $1,000 from cancellations and downgrades. You’re adding $500 each month from *existing* customers.
 

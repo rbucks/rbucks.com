@@ -11,9 +11,9 @@ This topic hit me personally this year, but not as personally as it could have b
 
 ​Here's how Pinecrest was impacted. These are two pics, same time of day, same vantage point on the lake, to show how crazy bad the smoke got. It's really sad. 
 
-![Pinecrest Lake on a clear day]({static}/images/img-0963.jpg)
+![Pinecrest Lake on a clear day]({static}/images/2019/01/img-0963.jpg)
 
-![Pinecrest Lake with heavy smoke from wildfires]({static}/images/bkj8sftetmgezpmik1nn4g.jpg)
+![Pinecrest Lake with heavy smoke from wildfires]({static}/images/2019/01/bkj8sftetmgezpmik1nn4g.jpg)
 
 In the US as a whole, 2017 was the [second-worst year](https://www.nifc.gov/fireInfo/fireInfo_stats_totalFires.html) for wildfires in over 60 years, missing the ominous #1 spot by only 1%, a record set just two years earlier.  I believe this trend is the culmination of many trends, including warmer sea temperatures (Ocean temperature off San Diego coast [is warmest in 102 years](http://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/06/ocean-temperature-off-san-diego-coast-is-warmest-in-102-years-of-measurements/) of measurements). The trends are clear. What's less clear is what to do about it. 
 

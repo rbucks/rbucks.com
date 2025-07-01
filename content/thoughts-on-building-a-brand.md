@@ -25,11 +25,11 @@ One important note: a brand is not a logo. A logo is not a brand. A logo can rep
 
 <figure class="wp-block-image size-large">
 
-![American Express logo]({static}/images/American_Express_logo_2018.svg_-1024x1022.png)
+![American Express logo]({static}/images/2024/12/American_Express_logo_2018.svg_.png)
 
-![Gap logo]({static}/images/Gap_logo.svg_-1024x1024.png)
+![Gap logo]({static}/images/2024/12/Gap_logo.svg_.png)
 
-![Bass logo]({static}/images/Bass_logo.svg_-849x1024.png)
+![Bass logo]({static}/images/2024/12/Bass_logo.svg_.png)
 
 </figure>
 

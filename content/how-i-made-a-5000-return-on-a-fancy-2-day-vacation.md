@@ -41,14 +41,14 @@ Over the following months I continued to fret about Toofr being blocked by eithe
 
 Toofr continued to grow in 2013 and broke $50K in 2014. The year 2015 was huge as Toofr nearly tripled in revenue. I credit that growth to a lot of power users speaking up and boosting word of mouth referrals. It slowed down the following year, 2016, but still grew a respectable 35%. Here are those dashboards.
 
-![Stripe dashboard 2013]({static}/images/b9ee1-1phszo8zsh4pdo-1wokq5fg.png)
+![Stripe dashboard 2013]({static}/images/2017/08/b9ee1-1phszo8zsh4pdo-1wokq5fg.png)
 
-![Stripe dashboard 2014]({static}/images/3ce5c-1rsks8mlo7j-vxsadk-guaq.png)
+![Stripe dashboard 2014]({static}/images/2017/08/3ce5c-1rsks8mlo7j-vxsadk-guaq.png)
 *Stripe dashboard for 2013 and 2014*
 
-![Stripe dashboard 2015]({static}/images/d042a-1gews0cvxnjt7mi-smqgriq.png)
+![Stripe dashboard 2015]({static}/images/2017/08/d042a-1gews0cvxnjt7mi-smqgriq.png)
 
-![Stripe dashboard 2016]({static}/images/57411-16ksy41h_um3oq0hl478siq.png)
+![Stripe dashboard 2016]({static}/images/2017/08/57411-16ksy41h_um3oq0hl478siq.png)
 *Stripe dashboard for 2015 and 2016*
 
 I was spending several thousand dollars each month on data throughout 2015 and 2016, and as I’d feared, my API volume eventually did get flagged. My vendors asked to speak to me and I scheduled a call and confessed.

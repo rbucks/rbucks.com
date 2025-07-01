@@ -27,4 +27,4 @@ Grandpa Irv was immensely proud of all of us. And we were proud of him too.
 
 Farewell, Grandpa Irv. We will miss you.
 
-![Irving Katuna memorial photo]({static}/images/FE03D723-42E1-4AD3-8436-EC06E470E13E-1024x768.jpg)
+![Irving Katuna memorial photo]({static}/images/2021/04/FE03D723-42E1-4AD3-8436-EC06E470E13E.jpg)

@@ -11,7 +11,7 @@ Let's start with two charts for Contra Costa County and then compare it to our n
 
 ​The first shows per capita personal income growth and the second compares that growth to income inequality (top 20% of earners divided by bottom 20% of earners). What we see is alarming. (Note: the gray vertical bars are recessions.)
 
-![Per capita personal income in Contra Costa County]({static}/images/fredgraph_orig.png)
+![Per capita personal income in Contra Costa County]({static}/images/2019/01/fredgraph_orig.png)
 
 At over $70K per person, income in our county is almost twice what it is in San Joaquin County and 20% higher than Alameda County.
 
@@ -19,21 +19,21 @@ With home prices being what they are, only people with the means to save $200-3
 
 This wealth isn't shared, however. It's not putting more money into the pockets of the less wealthy among us. We see this in the income inequality graph, which shows a growing gap between the top and bottom earners. The higher the ratio (Y-axis), the greater the distance between the top and bottom income brackets. 
 
-![Income inequality in Contra Costa County]({static}/images/fredgraph-4_orig.png)
+![Income inequality in Contra Costa County]({static}/images/2019/01/fredgraph-4_orig.png)
 
 Income inequality is worst in Alameda County but all three counties have shown significant increases after the 2008-2011 recession ended. When you compare the movements in per capita personal income to the changes in income inequality, a picture comes pretty clear: the top earners have more than recovered from the recession while the bottom earners have not. 
 
 ​Here are the inequality charts for Alameda and San Joaquin:
 
-![Income inequality in Alameda County]({static}/images/fredgraph-2_orig-1.png)
+![Income inequality in Alameda County]({static}/images/2019/01/fredgraph-2_orig-1.png)
 
-![Income inequality in San Joaquin County]({static}/images/fredgraph-3_orig.png)
+![Income inequality in San Joaquin County]({static}/images/2019/01/fredgraph-3_orig.png)
 
 And here are the per capita personal income charts for Alameda and San Joaquin:
 
-![Per capita personal income in Alameda County]({static}/images/fredgraph-1_1_orig.png)
+![Per capita personal income in Alameda County]({static}/images/2019/01/fredgraph-1_1_orig.png)
 
-![Per capita personal income in San Joaquin County]({static}/images/fredgraph-5_orig.png)
+![Per capita personal income in San Joaquin County]({static}/images/2019/01/fredgraph-5_orig.png)
 
 I look at these graphs and think, What's the upper limit? How high can it go? How high *should* it go? I'm not talking about income redistribution. I'm just concerned that if the gap gets too large it strikes at the heart of what this country is about. We're not the land of opportunity if all the opportunities go to the top wage earners. 
 

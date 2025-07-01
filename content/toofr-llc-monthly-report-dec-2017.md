@@ -59,7 +59,7 @@ Acquirers like stable cash flow and they prefer more customers to fewer customer
 
 That's why this chart matters to me so much.
 
-![Customer growth chart]({static}/images/0-10.jpeg)
+![Customer growth chart]({static}/images/2019/01/0-10.jpeg)
 
 And not surprisingly, the customer growth chart mirrors the #1 usership metric I track, the number of unique users guessing emails each month. It looks like like this:
 

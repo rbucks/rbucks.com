@@ -23,7 +23,7 @@ The days leading up to my "therapy dose" of iodine 131, a radioactive isotope wi
 
 It started on a Monday. I took a shot of thyrogen, a synthetic hormone that mimics what my pituitary gland produces when it doesn’t see enough thyroid hormone. It’s meant to send my thyroid cells into overdrive, looking for the iodine required to produce the thyroid hormone. To make them even more thirsty, I spent the preceding two weeks on an iodine fast. Essentially, this meant no seafood, no dairy, and no sea salt (but really, to be safe, no processed food with any salt — because it might be iodized — which essentially meant no processed food at all.) 
 
-![The waiting room]({static}/images/unadjustednonraw_thumb_284.jpg)
+![The waiting room]({static}/images/2019/09/unadjustednonraw_thumb_284.jpg)
 *The waiting room.*
 
 On Tuesday I took a “test dose” of iodine 131, just enough to show up on scans but not enough to be dangerous. I went immediately from the nuclear medicine department to the LabCorp office for another quick blood draw. Then I was home for the rest of the day, catching up on work and preparing to disappear for a few days after the therapy dose made me officially, dangerously radioactive.
@@ -82,7 +82,7 @@ It had been years since I hiked this trail and decades since my dad and I had hi
 
 At the top of this first incline there used to stand an old ghost of a cedar. Its leaves and branches had long since fallen away, and it leaned nearly twenty degrees off center, toward the lake and away from the trail. When I was much younger my dad and I would throw rocks at that tree, trying to see if we coould tip it over. As I got older and stopped hiking that trail, my dad would send me updates. Finally, this past spring when he hiked up there with my aunt, he told me it had fallen and sent this picture.
 
-![Where the old leaning tree used to lean]({static}/images/old-tree.jpg)
+![Where the old leaning tree used to lean]({static}/images/2019/09/old-tree.jpg)
 *Where the old leaning tree used to lean*
 
 It was bittersweet to see it myself, halfway up to Herring Creek. It was an odd reminder of my own mortality: I was at Pinecrest to recover from cancer treatment, keenly aware of the aging world all around me. 
@@ -107,9 +107,9 @@ On Friday we hiked up to Cleo's bath, a section of the Stanislaus where it runs 
 
 I figured this year, with the long winter and late thaw, would be good. I was not disappointed.
 
-![Cleo's bath waterfall]({static}/images/unadjustednonraw_thumb_287.jpg)
+![Cleo's bath waterfall]({static}/images/2019/09/unadjustednonraw_thumb_287.jpg)
 
-![Cleo's bath pools]({static}/images/unadjustednonraw_thumb_28b.jpg)
+![Cleo's bath pools]({static}/images/2019/09/unadjustednonraw_thumb_28b.jpg)
 </figure>
 
 It was refreshing to see Cleo's bath replenished and beautiful, the way I remembered it from summers past when we'd hike up several times and go further up the canyon into what my grandpa called the first and second forests. My dad and I didn't talk as much on this hike. I was content to soak it all in. The weather was perfect and the water felt great, crisp and cool, snow melt warmed by the summer sun. I jumped into the small waterfall pool and my dad, not having a swim suit, stripped down to his underwear and joined me. It was something I would also do if the situation called for it. However, this trip, the only shorts I packed were swimming trunks. I was prepared to be in the water several times a day. 
@@ -118,17 +118,17 @@ On Saturday, instead of hiking, we swam from our boat dock to the swimming cove,
 
 I was okay with the truncated morning routine, though. I had writing to do, and I wanted to break 20,000 words on the trip. As it turned out, I got up to 28,000 words before I drove back home. In the weeks since I've had to focus my writing in other areas, but I'm now over 32,000 words and figure I'm a bit less than halfway through the novel. It's a labor, but calling it a labor of love would be an understatement. I think about it all the time and can't wait to dive back in. 
 
-![Writing a novel lakeside at sunset]({static}/images/unadjustednonraw_thumb_288.jpg)
+![Writing a novel lakeside at sunset]({static}/images/2019/09/unadjustednonraw_thumb_288.jpg)
 *Is there anything better than writing a novel lakeside at sunset?*
 
 Our evening grilling was on point. I don't have a picture of every meal, but I did snap a pic of the wood fire BBQ'd salmon since it was perfect. I got the coals just right and this filet flipped over without sticking anywhere. 
 
-![A perfectly grilled Atlantic salmon]({static}/images/db2tcfbvqmc6mlpnodszuw_thumb_297.jpg)
+![A perfectly grilled Atlantic salmon]({static}/images/2019/09/db2tcfbvqmc6mlpnodszuw_thumb_297.jpg)
 *A perfectly grilled Atlantic salmon*
 
 This particular dinner was symbolic because it meant my radioactive iodine treatment was over. I could go back to seafood and dairy, which meant I could eat salmon, cheese, and chocolate, the three foods I missed most in the preceding two-and-a-half weeks. I did not have to skimp on alcohol, at least, and got to enjoy this bottle of whiskey that one of my doctor neighbors generously gave me before I left. 
 
-![A perfect place to sip Basil Hayden's]({static}/images/unadjustednonraw_thumb_28e.jpg)
+![A perfect place to sip Basil Hayden's]({static}/images/2019/09/unadjustednonraw_thumb_28e.jpg)
 *A perfect place to sip Basil Hayden's*
 
 The long weekend at Pinecrest was as uneventful as it was eventful. Although I was radioactive, I had no symptoms, and the treatment and scans had no complications. This was the best that I could have hoped for. On the other hand, the five days I spent with my dad were some of the most memorable we've had together. It had been at least twenty years since I spent time like this alone with my dad and I'm very grateful that we had this opportunity and took it. I'm glad my wife encouraged me to do it and that my dad was willing to disrupt his routine for a few days, risk some exposure to his radioactive son, and take advantage of this special time together.

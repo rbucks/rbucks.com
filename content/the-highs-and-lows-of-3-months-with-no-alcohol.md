@@ -43,7 +43,7 @@ The other trying time was during an overnight programming retreat I took at a lo
 
 Yes, that’s cold water and Corn Nuts. Some great retreat.
 
-![Coding retreat without wine]({static}/images/f961a-170mcmykw6xneiikrq1qkiw.jpeg)
+![Coding retreat without wine]({static}/images/2016/12/f961a-170mcmykw6xneiikrq1qkiw.jpeg)
 *Coding retreat sans wine. Sad!*
 
 I did “splurge” on some Red Bull, and my dinner tab was a lowest-ever record: $8 including tip for vegetable soup and tonic water. I think the waitress didn’t even charge me for the drink. She probably felt sorry for me.
@@ -68,7 +68,7 @@ It’s an interesting place to be. I still wanted to drink, I think because I ac
 
 The night that my second daughter was born, I went to the BBQ joint next door and had an ice cold Lagunitas in a bottle. It was good. I honestly can’t claim that it was the greatest beer I’ve ever had, or that I took each sip with a blissful smile. It tasted like I remembered. I took slow sips and finished the bottle.
 
-![BBQ restaurant]({static}/images/d5439-19vdzi7n5czl6hf3ucyahda.jpeg)
+![BBQ restaurant]({static}/images/2016/12/d5439-19vdzi7n5czl6hf3ucyahda.jpeg)
 *Where I broke my spell. Image from TripAdvisor.*
 
 ### Epilogue

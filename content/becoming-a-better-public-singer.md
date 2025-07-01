@@ -21,7 +21,7 @@ This time we were louder and although the kids did love it, I can’t say there 
 
 I wrote recently about [dealing with public speaking panic attacks]({filename}dealing-with-public-speaking-panic-attacks.md). Here’s a summary of what I’ve learned in the last year about public singing. 
 
-![Backyard concert setup]({static}/images/img_6035.jpg)
+![Backyard concert setup]({static}/images/2019/10/img_6035.jpg)
 
 **It takes repetition**
 
