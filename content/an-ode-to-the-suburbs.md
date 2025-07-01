@@ -9,7 +9,7 @@ About twenty miles east of San Francisco there is an expansive oasis of calm. A 
 
 I moved to a small community called Saranap, smack in between the downtowns of Lafayette and Walnut Creek in Contra Costa county. Like most city folk I worried that I would miss San Francisco. It was one of our biggest concerns about leaving the city.
 
-In fact, the Marina district, insular bubble within the broader insular bubble of San Francisco, is a great spot to have and raise a kid. Everything we needed was just two blocks from our apartment. My (https://www.yelp.com/biz/chestnut-street-coffee-roastery-san-francisco), my wife’s manicure spot, our (http://www.nakedfishsushi.com/)… It was all there. I enjoyed riding my bike to work, past Moscone field, up and back down Polk Street, and through the Tenderloin on my way to SoMa. Crissy Field was the perfect spot to take my stroller jog in the mornings. Yes, all true!
+In fact, the Marina district, insular bubble within the broader insular bubble of San Francisco, is a great spot to have and raise a kid. Everything we needed was just two blocks from our apartment. My [favorite coffee shop](https://www.yelp.com/biz/chestnut-street-coffee-roastery-san-francisco), my wife’s manicure spot, our [favorite sushi place](http://www.nakedfishsushi.com/)… It was all there. I enjoyed riding my bike to work, past Moscone field, up and back down Polk Street, and through the Tenderloin on my way to SoMa. Crissy Field was the perfect spot to take my stroller jog in the mornings. Yes, all true!
 
 But do we miss it? No, actually, not at all.
 
@@ -25,12 +25,12 @@ It never varied. For those who moved out of the city the reasons don’t need to
 *See ya never, nasty thistle patch!*
 
 - 
-**Commuting**. I was worried about BART. I thought it would drain me. Not so much. I’m back on my podcast game. I read more, and I write too. In fact, I wrote this entire post on my commute. I get between my house and the Lafayette BART on the road bike I could never let out of my sight in SF. The BART here has great covered bike lockers for less than fifty cents a day. Funny enough, after listening to one podcast, I (http://giantrobots.fm/186) onto it as a guest!
+**Commuting**. I was worried about BART. I thought it would drain me. Not so much. I’m back on my podcast game. I read more, and I write too. In fact, I wrote this entire post on my commute. I get between my house and the Lafayette BART on the road bike I could never let out of my sight in SF. The BART here has great covered bike lockers for less than fifty cents a day. Funny enough, after listening to one podcast, I [was invited](http://giantrobots.fm/186) onto it as a guest!
 
 {% youtube WU8I-9bjGi0 %}
 
 - 
-**A dog and a grill**. The two most obvious benefits of having a house with a backyard are the ability to grill and get a dog. I waited 33 years for it, and I want to enjoy having a dog and a grill for the next 33. Here’s the (http://www.homedepot.com/p/Weber-Genesis-E-310-3-Burner-Propane-Gas-Grill-in-Copper-6512001/202538983), and here’s (https://www.flickr.com/photos/92897410@N08/25905186801/in/dateposted-public/).
+**A dog and a grill**. The two most obvious benefits of having a house with a backyard are the ability to grill and get a dog. I waited 33 years for it, and I want to enjoy having a dog and a grill for the next 33. Here’s the [Weber Genesis grill](http://www.homedepot.com/p/Weber-Genesis-E-310-3-Burner-Propane-Gas-Grill-in-Copper-6512001/202538983), and here’s [Blue the dog](https://www.flickr.com/photos/92897410@N08/25905186801/in/dateposted-public/).
 
 {% youtube t6aE30_GbF8 %}
 

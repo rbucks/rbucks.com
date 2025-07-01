@@ -5,11 +5,11 @@ Category: Business
 Tags: entrepreneurship, public speaking, business advice, education
 Summary: Essential entrepreneurship insights from a keynote speech at Diablo Valley College, covering practical business wisdom and startup realities.
 
-I'm going to give a solo speech this week at (https://www.dvc.edu/). I'm the headliner of the event. It's going to be an hour and a half (!) and is part of a "Business Beyond the Classroom" series that the business department has been doing annually for three years. 
+I'm going to give a solo speech this week at [Diablo Valley College](https://www.dvc.edu/). I'm the headliner of the event. It's going to be an hour and a half (!) and is part of a "Business Beyond the Classroom" series that the business department has been doing annually for three years. 
 
 I'm excited about it. Scared too. It's a lot of time to stand in front of a group and talk and I'm going to do it without slides. I want to force myself to be a bit more engaging with my speaking. It's a challenge. 
 
-The topic is of my choosing, and I'm going to take bits of (https://rbucks.com/the-parallel-entrepreneur/) and combine it with bits of other experience I've had since then. I'll run through five topics and try to dive into them for a bit over 10 minutes each. That means this whole thing has to be at least 5,000 words. 
+The topic is of my choosing, and I'm going to take bits of [my book](https://rbucks.com/the-parallel-entrepreneur/) and combine it with bits of other experience I've had since then. I'll run through five topics and try to dive into them for a bit over 10 minutes each. That means this whole thing has to be at least 5,000 words. 
 
 That also means this is one *realllly* *long* blog post. 
 
@@ -68,7 +68,7 @@ So that was getting into Berkeley.
 
 At Berkeley, I did more of the same. My freshman year, I was hired by the Campus Recycling and Refuse Services office and found an incredible mentor in a woman named Lisa Bauer. She ran that office and gave me the wings I needed to broaden my reach across campus. 
 
-I started more programs, a reusable art project, a dorm recycling ambassador program, a sustainability awards program and finally, the (https://sustainability.berkeley.edu/office-sustainability/cacs). This committee, called "CACS" for short, was my swan song. I wrote a proposal, pitched it myself to the chancellor, got his approval, and together Lisa and I assembled the crew that would meet bi-monthly during the school year to get this environmental stuff organized. 
+I started more programs, a reusable art project, a dorm recycling ambassador program, a sustainability awards program and finally, the [Chancellor's Advisory Committee on Sustainability](https://sustainability.berkeley.edu/office-sustainability/cacs). This committee, called "CACS" for short, was my swan song. I wrote a proposal, pitched it myself to the chancellor, got his approval, and together Lisa and I assembled the crew that would meet bi-monthly during the school year to get this environmental stuff organized. 
 
 Nearly 20 years later, CACS still exists at UC Berkeley. In fact, it's been replicated in some form at all the other UC campuses. 
 
@@ -76,7 +76,7 @@ Now, most students don't just get a meeting with the chancellor. I was able to g
 
 In order to do my environmental projects, I needed to go through the student government office. In that office I met and became friends with a staff person named Millicent Morris-Cheney. She helped me navigate that part of the campus administration, and I must have impressed her, because she got me selected into a secret society on the UC Berkeley campus.
 
-That secret society is called the (http://ogb.berkeley.edu/). It happens to be the oldest student group in the entire UC system. And it's not *that *secret (there is a website), it's just not *that* well-known, on purpose, so it can do its business, which is to connect leaders in the student body, the faculty, and the staff, to make the campus a better place. 
+That secret society is called the [Order of the Golden Bear](http://ogb.berkeley.edu/). It happens to be the oldest student group in the entire UC system. And it's not *that *secret (there is a website), it's just not *that* well-known, on purpose, so it can do its business, which is to connect leaders in the student body, the faculty, and the staff, to make the campus a better place. 
 
 One of the more influential members of the order is the chancellor, and the student-elected leader of the Order of the Golden Bear gets to meet twice a year with the chancellor. These are kind of standing, expected meetings. 
 
@@ -310,9 +310,9 @@ Finally, and most importantly, you do need founder friends. The more the better!
 
 So find a network of them. Out where I live, in Walnut Creek, there's a group called Lamorinda Entrepreneurs. They're photographers, bakery and furniture store owners, consultants and real estate agents. It's a really interesting group of people because none of them are software entrepreneurs with $50,000 per month office leases and Sand Hill Road investors. It's really refreshing, even though we're just 20 miles from the heart of all of that stuff.
 
-There's a conference called (https://microconf.com/) that I've attended for the last two years in Las Vegas. Two brilliant entrepreneurs started it and their sessions have titles like:
+There's a conference called [MicroConf](https://microconf.com/) that I've attended for the last two years in Las Vegas. Two brilliant entrepreneurs started it and their sessions have titles like:
 
-- (https://microconf.com/growth-2017/rob-walling-11-years-to-overnight-success-from-beach-towels-to-a-successful-exit-ge17c)- (https://microconf.com/videos-2016/im-a-terrible-ceo) and- (https://microconf.com/videos-2015/growing-your-userbase-with-better-onboarding)
+- [Rob Walling's talk](https://microconf.com/growth-2017/rob-walling-11-years-to-overnight-success-from-beach-towels-to-a-successful-exit-ge17c)- [I'm a Terrible CEO](https://microconf.com/videos-2016/im-a-terrible-ceo) and- [Growing Your Userbase with Better Onboarding](https://microconf.com/videos-2015/growing-your-userbase-with-better-onboarding)
 
 I've met some of my best founder friends from this conference and I've continued to stay in touch with them primarily on Twitter. 
 

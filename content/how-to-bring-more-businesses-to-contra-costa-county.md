@@ -5,7 +5,7 @@ Category: Business
 Tags: local-politics, contra-costa-county, business-strategy, entrepreneurship
 Summary: Analysis of Contra Costa County's business landscape and proposals for attracting more companies through conference centers, business clubs, arts districts, and industry branding.
 
-I recently joined the Business Advisory Board in (https://www.dvc.edu/academics/departments/business-admin/index.html) department. I thought it sounded like not only a great way to volunteer, give back, and meet similarly-minded people in my community, but also I was simply impressed that DVC had this.
+I recently joined the Business Advisory Board in [Diablo Valley College's Business Administration](https://www.dvc.edu/academics/departments/business-admin/index.html) department. I thought it sounded like not only a great way to volunteer, give back, and meet similarly-minded people in my community, but also I was simply impressed that DVC had this.
 
 What better way to prepare business students for the real world than to have businesses from the real world come into DVC and talk about what's going on in the real world. At these meetings we have DVC professors, staff, and representatives from both the public and private sectors. The business side is represented by some execs from Google and Amazon, real estate agents and insurance brokers, and me. We come from all around the county too, which is important. 
 
@@ -13,7 +13,7 @@ At one meeting a while ago, perhaps the first meeting I attended, I lamented tha
 
 Why? Why aren't these employees able to persuade their employers to set up an office closer to where they live? There should be a critical mass now to make that ask, and maybe it's already happening. If so, however, what can we do from a policy standpoint to make it happen faster?
 
-This is why we've created (https://www.linkedin.com/groups/13662966/), an offshoot of the DVC Business Advisory Board. When we hear about big companies (https://www.bizjournals.com/sanfrancisco/news/2019/05/01/lending-club-lc-bay-area-exodus-real-estate-utah.html), we need to ask ourselves, why Utah and not San Ramon or Concord? We need to find the answer. 
+This is why we've created [Contra Costa Business Coalition](https://www.linkedin.com/groups/13662966/), an offshoot of the DVC Business Advisory Board. When we hear about big companies [like LendingClub moving to Utah](https://www.bizjournals.com/sanfrancisco/news/2019/05/01/lending-club-lc-bay-area-exodus-real-estate-utah.html), we need to ask ourselves, why Utah and not San Ramon or Concord? We need to find the answer. 
 
 ### Figure out what works
 
@@ -55,7 +55,7 @@ We have some small Marriott's boutique hotels that are great for business meetin
 
 #### A business club
 
-We have country clubs for retirees. We need the equivalent for the up-and-coming mid-career executives. This would be a place to meet people, attend events, drink and dine. The closest comparison is (https://www.thebatterysf.com/) in San Francisco. This area needs some resources to facilitate collisions between business partners, customers, and investors. A hub of sorts would go a long way toward making it happen. And resources like this will attract more ambitious business people into the area. 
+We have country clubs for retirees. We need the equivalent for the up-and-coming mid-career executives. This would be a place to meet people, attend events, drink and dine. The closest comparison is [The Battery](https://www.thebatterysf.com/) in San Francisco. This area needs some resources to facilitate collisions between business partners, customers, and investors. A hub of sorts would go a long way toward making it happen. And resources like this will attract more ambitious business people into the area. 
 
 #### Arts districts
 

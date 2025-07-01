@@ -5,13 +5,13 @@ Category: Business
 Tags: hiring, business-strategy, entrepreneurship, toofr, company-culture
 Summary: Lessons learned from hiring as a solo entrepreneur for Toofr, including decision-making differences when it's your own bootstrapped business.
 
-Last week I started hiring again for the first time in almost a year. (https://medium.com/@rbucks/hiring-feels-a-lot-different-when-its-your-money-b5fd662fab64) because I’m now hiring for my own bootstrapped business. It was also different because I was the sole decision-maker.
+Last week I started hiring again for the first time in almost a year. [Hiring feels different this time](https://medium.com/@rbucks/hiring-feels-a-lot-different-when-its-your-money-b5fd662fab64) because I’m now hiring for my own bootstrapped business. It was also different because I was the sole decision-maker.
 
 Here’s a recap on how it went down and what I learned.
 
 ---
 
-It’s been nearly seven months since I was able to officially go full-time on (https://www.toofr.com), my salestech app that finds email addresses for prospecting. In that time I turned the trajectory of the business around. Q1 of this year was on a negative slide and Q2 reversed it. I credit that to a fair bit of product development, more responsive support, and simply being out there, public, about my role with Toofr.
+It’s been nearly seven months since I was able to officially go full-time on [Toofr](https://www.toofr.com), my salestech app that finds email addresses for prospecting. In that time I turned the trajectory of the business around. Q1 of this year was on a negative slide and Q2 reversed it. I credit that to a fair bit of product development, more responsive support, and simply being out there, public, about my role with Toofr.
 
 It was a liberating seven months, but I could feel the next plateau approaching. The rate of new customer acquisition was slowing. Churn was growing again. I lost some big, $1K+/mo customers. For a bootstrapped business, those losses are a blow to the gut.
 
@@ -19,7 +19,7 @@ I felt panicked and overwhelmed sometimes because when I thought about what I re
 
 I talked to some people about this and they suggested that I hire someone. Sure, I figured. I should just make a hire. Have someone else do it. That’ll plug the hole.
 
-I wrote up (https://www.toofr.com/jobs) and posted it on Craigslist, LinkedIn, Facebook, and Remoteok.io.
+I wrote up [a job posting](https://www.toofr.com/jobs) and posted it on Craigslist, LinkedIn, Facebook, and Remoteok.io.
 
 It was amazing. I got inundated with applications. People from all over the world introduced themselves and their work. Between when I posted and when I took it down I probably got 100 applications. I spoke to about 15 of them. I hired one.
 
@@ -29,7 +29,7 @@ And the one I hired was not the one I expected to hire. Here’s why.
 
 It took the better part of three days and was really distracting, but I enjoyed the phone calls. I looked forward to each one. I was excited to meet someone new, hear their interest in me and Toofr and my other projects. It felt good. I didn’t realize how hungry I was for a teammate.
 
-It was really helpful to pitch Toofr like this and also describe my (https://medium.com/@rbucks/parallel-entrepreneurship-defined-34b2a1cca624). These applicants thought it was great. They got fired up and wanted to help. It was validating to hear it. I spoke to programmers, designers, SEO experts, and content marketers. They all wanted to help me grow my businesses.
+It was really helpful to pitch Toofr like this and also describe my [parallel entrepreneurship approach](https://medium.com/@rbucks/parallel-entrepreneurship-defined-34b2a1cca624). These applicants thought it was great. They got fired up and wanted to help. It was validating to hear it. I spoke to programmers, designers, SEO experts, and content marketers. They all wanted to help me grow my businesses.
 
 Over the course of those 15 calls, I could tell my pitch improved, got more succinct, and I could describe what I’m doing with more conviction. That alone was extremely valuable.
 

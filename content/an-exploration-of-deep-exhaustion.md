@@ -7,7 +7,7 @@ Summary: Reflecting on why extreme endurance cycling challenges like the Belgian
 
 This month I plan to push my endurance to the outer limits. I rode my bicycle 142 miles in just under 12 hours a week ago. 
 
-A week from now, I will do it again, but with twice the vertical climb. It will be my second year in a row doing the (https://www.belgianwaffleride.bike/pages/california), a day-long ride on road, gravel, and sandy dirt trails in the hills above San Marcos, California. It's a silly 135 miles and 11,000 feet of climb. That's the equivalent of riding around the base of Mt. Diablo twice and hitting the summit three times. 
+A week from now, I will do it again, but with twice the vertical climb. It will be my second year in a row doing the [Belgian Waffle Ride California](https://www.belgianwaffleride.bike/pages/california), a day-long ride on road, gravel, and sandy dirt trails in the hills above San Marcos, California. It's a silly 135 miles and 11,000 feet of climb. That's the equivalent of riding around the base of Mt. Diablo twice and hitting the summit three times. 
 
 Who does a ride like that? Me, apparently. It's becoming clearer to me why I like doing it. 
 

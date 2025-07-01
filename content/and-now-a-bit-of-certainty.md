@@ -21,7 +21,7 @@ I've been coupling these cancer hospital appointments with swim workouts. The mo
 
 ---
 
-I've made the mistake of reading through the (https://www.reddit.com/r/cancer/). It is not a place for the faint of heart. These are real tragedies. My saga is a fairy tale compared to many people writing on that forum. I can't complain, but I do because it's only natural to gripe when something's not fair, even when other innocent people have it worse. Far worse. 
+I've made the mistake of reading through the [r/cancer subreddit](https://www.reddit.com/r/cancer/). It is not a place for the faint of heart. These are real tragedies. My saga is a fairy tale compared to many people writing on that forum. I can't complain, but I do because it's only natural to gripe when something's not fair, even when other innocent people have it worse. Far worse. 
 
 It was on Reddit that I learned a new word, "scanxiety." It's the fear of finding out your test results, the moment when your doctor's number shows up on your phone and you realize that in mere seconds you will find out if the news you've been waiting for is good or bad. Did the numbers go up or down? Is it better or worse? Am I going to live a long life or die next month? After every scan there's more scanxiety waiting for you. 
 

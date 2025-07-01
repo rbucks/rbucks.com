@@ -16,7 +16,7 @@ I described [my motivation for teaching]({filename}why-im-applying-to-be-an-inst
 
 When the Business Administration Department asked me to teach the only two in-person sections of Introduction to Business, a course that every business student needs to take, I eagerly accepted. This would be my moment! I could finally don my elbow-patched tweed blazer, smoke my pipe, and wax poetical before a chalkboard in front of enamored students. 
 
-So, late last year, I chose my textbook and began to imagine how my lectures would go. My sections would be Tuesday and Thursday at 9:30am and 11am. Each is 80 minutes. I wanted to believe I could give an enchanting lecture every time, peppered with tails of my business experience, maybe incorporating something interesting and current from (https://mightysignal.com) and (https://www.airnow.com). Thinking back on my favorite lectures at UC Berkeley, I admired most the professors who could riff on current events and tie them back to the reading. 
+So, late last year, I chose my textbook and began to imagine how my lectures would go. My sections would be Tuesday and Thursday at 9:30am and 11am. Each is 80 minutes. I wanted to believe I could give an enchanting lecture every time, peppered with tails of my business experience, maybe incorporating something interesting and current from [MightySignal](https://mightysignal.com) and [AirNow](https://www.airnow.com). Thinking back on my favorite lectures at UC Berkeley, I admired most the professors who could riff on current events and tie them back to the reading. 
 
 I've been trying, desperately, to be that professor. I'm not sure I'm doing it right, but I do think I'm getting better. 
 

@@ -9,7 +9,7 @@ I’m surprised that I want to write this. I’ve written more in the last two d
 
 The last two days were my personal retreat this year. It isn’t over yet, I have a few hours left on the clock, but I’ve already hit my goal. It’s time to relax at the spa and yet I want to keep writing.
 
-I’m a big fan of personal retreats. They’ve been (https://medium.com/@rbucks/how-i-made-a-5-000-return-on-a-fancy-2-day-vacation-21b9100d3fb5) for me. To save you another click, I’ll recap briefly that these retreats are two nights every December away at a fancy resort and present an opportunity for me to tackle a big project. It’s 48 hours of creative freedom. No family obligations, no timeline, just me.
+I’m a big fan of personal retreats. They’ve been [highly profitable](https://medium.com/@rbucks/how-i-made-a-5-000-return-on-a-fancy-2-day-vacation-21b9100d3fb5) for me. To save you another click, I’ll recap briefly that these retreats are two nights every December away at a fancy resort and present an opportunity for me to tackle a big project. It’s 48 hours of creative freedom. No family obligations, no timeline, just me.
 
 It’s wonderful. I can recall every resort, every project, every quantum leap I gained from doing this. My wife supports them too because, well, they make money (and she knows I love it and wants me to be happy.)
 
@@ -17,11 +17,11 @@ Anyway.
 
 When I left Scripted this past April I set three goals to accomplish before the following April. They were:
 
-- Grow (https://www.toofr.com) and find a second income stream so I don’t need to get another office job.- Write a book about startup tactics and parallel entrepreneurship.- Figure out my pathway to public office.
+- Grow [Toofr](https://www.toofr.com) and find a second income stream so I don’t need to get another office job.- Write a book about startup tactics and parallel entrepreneurship.- Figure out my pathway to public office.
 
-I’ve spent my work weeks focusing on #1. Toofr is growing well and it’s generating enough income to support me after Scripted. My stretch goal is to spin up a second income stream, and the most promising one I have now is (https://www.inlistio.com).
+I’ve spent my work weeks focusing on #1. Toofr is growing well and it’s generating enough income to support me after Scripted. My stretch goal is to spin up a second income stream, and the most promising one I have now is [Inlistio](https://www.inlistio.com).
 
-At night I’ve been working on #2. I started writing more about (https://medium.com/@rbucks/parallel-entrepreneurship-defined-34b2a1cca624) in the last few months, dipping my toe into the topic and getting reactions. My friends are supportive. They say it’s timely. The “side hustle” trend has been around for a long time, but my spin on it might best be described as a “side-side-side hustle.”
+At night I’ve been working on #2. I started writing more about [parallel entrepreneurship](https://medium.com/@rbucks/parallel-entrepreneurship-defined-34b2a1cca624) in the last few months, dipping my toe into the topic and getting reactions. My friends are supportive. They say it’s timely. The “side hustle” trend has been around for a long time, but my spin on it might best be described as a “side-side-side hustle.”
 
 Meaning, if you can do one side hustle, why can’t you do three?
 
@@ -30,7 +30,7 @@ I found a terrific designer in Napa to put some book cover ideas together for me
 ![My first book cover design]({static}/images/9006b-1wixihktb2-jkfzda9ftmtq.png)
 *My first book :)*
 
-Finally, for #3, I’ve also begun talking to my local representatives and leaders of the county Democratic Party about getting connected and laying the groundwork for my (https://medium.com/@rbucks/open-the-gate-11bf4afa6cf3). I’m not as far along on this front yet but I still have a few months before next April.
+Finally, for #3, I’ve also begun talking to my local representatives and leaders of the county Democratic Party about getting connected and laying the groundwork for my [political aspirations](https://medium.com/@rbucks/open-the-gate-11bf4afa6cf3). I’m not as far along on this front yet but I still have a few months before next April.
 
 So this retreat was all about #2. My book. I set a word count target of 25K and went into the retreat with 13K written, most of it done on a flight to and from Chicago back in October. I wrote the outline earlier in the year and sporadically would pick a section and tackle it. It was a good tempo but I knew that nothing would work better than a 48 hour session of focused writing.
 

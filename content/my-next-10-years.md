@@ -23,7 +23,7 @@ There’s a lot that's been happening in the world today while I’ve had my hea
 
 I don't really know, so I've been trying out a few different things. I joined a new regional environmental organization, the Contra Costa Climate Action Network, which is an umbrella group of sorts for all the eco groups in my area. We coordinate on actions, talk about the county general plan, and collectively try to figure out how "think globally, act locally" applies to us. I also got placed on the county [sustainability commission]({filename}about-the-contra-costa-county-sustainability-commission.md) which has provided even more insights into how Contra Costa operates. It's eye-opening and I could see myself running for my county supervisor office in a few years.  
 
-On the economic development side, I've very happily been active with (https://www.dvc.edu) this year. I [applied to be an instructor at DVC]({filename}why-im-applying-to-be-an-instructor-at-dvc.md) (as of this writing, still haven't heard back) and managed to be among the founding group of the [Diablo Valley Tech Initiative](https://www.diablovalley.co). At its best, DVTI will help bring tech jobs into the county, thereby reducing commute times (and GHG emissions), *and *help local residents get access to higher paying tech jobs.
+On the economic development side, I've very happily been active with [Diablo Valley College](https://www.dvc.edu) this year. I [applied to be an instructor at DVC]({filename}why-im-applying-to-be-an-instructor-at-dvc.md) (as of this writing, still haven't heard back) and managed to be among the founding group of the [Diablo Valley Tech Initiative](https://www.diablovalley.co). At its best, DVTI will help bring tech jobs into the county, thereby reducing commute times (and GHG emissions), *and *help local residents get access to higher paying tech jobs.
 
 Although my neighborhood is very homogenous (I'll just say it -- "white" -- the one knock I have on where I live), I believe there's opportunity to bring more diversity into the nicer neighborhoods like mine by giving the less-white neighborhoods in the Diablo Valley the access to education they need to get these jobs and the paychecks that come with them. DVC is the vector for that change, so I'm optimistic that the hours I've been putting into DVC are time well-spent. 
 
@@ -43,11 +43,11 @@ But for the most part, I've opted to solve my own problems first. Here's the yea
 
 ### 2013
 
-- Launched Toofr.com- Sold (https://www.scripped.com) - Raised $4M for Scripted from Redpoint Ventures- Sentiment: *multiple revenue streams is better than one*
+- Launched Toofr.com- Sold [Scripped.com](https://www.scripped.com) - Raised $4M for Scripted from Redpoint Ventures- Sentiment: *multiple revenue streams is better than one*
 
 ### 2014
 
-- First daughter born- Raised another $9M for Scripted from Storm Ventures- Toofr started to make some real income- Got a house down payment from Scripted secondary stock sale- Became President of the UC Berkeley (https://nature.berkeley.edu/alumni-friends/alumni-association)- Sentiment: *look at the bigger picture*
+- First daughter born- Raised another $9M for Scripted from Storm Ventures- Toofr started to make some real income- Got a house down payment from Scripted secondary stock sale- Became President of the UC Berkeley [UC Berkeley Nature Alumni Association](https://nature.berkeley.edu/alumni-friends/alumni-association)- Sentiment: *look at the bigger picture*
 
 ### 2015
 

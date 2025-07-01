@@ -5,7 +5,7 @@ Category: Business
 Tags: hiring, leadership, startups, business-strategy
 Summary: Why building great teams makes layoffs harder, and how transparency with employees is crucial when experimenting with growth strategies.
 
-*Note: I originally published this on the *(https://www.enps.co/articles/the-hiring-paradox)* (a resource to send NPS surveys to your employees).*
+*Note: I originally published this on the *[eNPS blog](https://www.enps.co/articles/the-hiring-paradox)* (a resource to send NPS surveys to your employees).*
 
 > The better you are at building your team, the harder it will be unravel it. And yes, you will eventually need to unravel it.
 

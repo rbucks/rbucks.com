@@ -51,7 +51,7 @@ The following months would be challenging. We needed a new deck in the backyard 
 
 ![Text message about puppy challenges]({static}/images/2017/06/63358-1alz5o1o6nppif1meyxjavq.png)
 
-Having a puppy and a toddler at the same time is hard. Our timing was off, but I didn’t know any better. We should have waited until she was older so her toys wouldn’t look so much like puppy toys. He chewed more plastic baby gifts than I can count, including her first potty, her first swing, and one of our two grey couch pillows. Even (https://medium.com/@rbucks/the-most-expensive-chair-possible-b958ee4d7ebe) ottoman has puppy teeth marks on it. He also liked to tear up his own beds.
+Having a puppy and a toddler at the same time is hard. Our timing was off, but I didn’t know any better. We should have waited until she was older so her toys wouldn’t look so much like puppy toys. He chewed more plastic baby gifts than I can count, including her first potty, her first swing, and one of our two grey couch pillows. Even [my most expensive chair](https://medium.com/@rbucks/the-most-expensive-chair-possible-b958ee4d7ebe) ottoman has puppy teeth marks on it. He also liked to tear up his own beds.
 
 ![Blue with destroyed bed]({static}/images/2017/06/603c1-1sswkwyimgxrzn-11kfkdqw.png)
 

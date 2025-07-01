@@ -10,7 +10,7 @@ I don’t usually love expensive things. For this piece of furniture, though, I 
 ![My Eames lounge chair and ottoman]({static}/images/10e40-1r3svmkllnh55ty3fv3mslw.jpeg)
 *My Eames*
 
-It’s my (http://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman.html), and I just goddamn love it. It’s one of the things I looked forward to about owning a house. The justification was easy: when you spend your life savings on owning property in the Bay Area, what’s another few grand for a chair no one actually needs?
+It’s my [Eames lounge chair and ottoman](http://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman.html), and I just goddamn love it. It’s one of the things I looked forward to about owning a house. The justification was easy: when you spend your life savings on owning property in the Bay Area, what’s another few grand for a chair no one actually needs?
 
 That and the fact that I’d mentioned it many times to my wife over the years was enough justification to make the purchase. I think it was delivered within two weeks of us moving in.
 

@@ -15,7 +15,7 @@ I'm not saying that offices are useless and face-to-face interactions are not wo
 
 At some point this past spring I got a jolt of an idea: I should hire some interns. 
 
-I had projects piling up and I was busy at (https://mightysignal.com). With our small team, we're pulling in north of $250,000 per employee per year in revenue. I'm happy with that ratio, but it means we're pretty strapped for time. I had one daunting project in particular that I wanted to knock out this summer and I didn't want to do it alone. It would be the perfect project for an intern. Or two. Or heck, even four. 
+I had projects piling up and I was busy at [MightySignal](https://mightysignal.com). With our small team, we're pulling in north of $250,000 per employee per year in revenue. I'm happy with that ratio, but it means we're pretty strapped for time. I had one daunting project in particular that I wanted to knock out this summer and I didn't want to do it alone. It would be the perfect project for an intern. Or two. Or heck, even four. 
 
 I got to work and had a really easy time finding qualified candidates. I was shocked, actually, at how well we were able to attract exactly the kind of students I hoped to work with. I settled on two engineering interns to knock out some lingering R&D on our app scanning technology, and two marketing interns to finally, once and for all, pound out a big SEO project I'd been wanting to do. 
 
@@ -29,7 +29,7 @@ The first intern started in late May and three more piled on in June. I ultimate
 
 Offices provide structure and routine. It's positive peer pressure to show up, work hard, and put in your eight hours. When you're first starting a new position (or an internship) I think this is good habit-forming practice
 
-It also expedites the time it takes to get to know each other. I like to eat, and lunch is one of my three favorite meals. Each week we went out to eat, re-creating one of my favorite perks at (https://www.scripted.com), the weekly catered lunches we provided to everyone. There's something nice about breaking bread together. You can't do that on Slack. 
+It also expedites the time it takes to get to know each other. I like to eat, and lunch is one of my three favorite meals. Each week we went out to eat, re-creating one of my favorite perks at [Scripted](https://www.scripted.com), the weekly catered lunches we provided to everyone. There's something nice about breaking bread together. You can't do that on Slack. 
 
 Parts of the MightySignal tech stack are very hands-on. Some of what we do involves physical devices, actual iPhones, and Mac minis that power them. I needed my engineering interns to be in the same room with this stuff. It's not conducive to remote work. 
 

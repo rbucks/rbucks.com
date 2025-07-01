@@ -5,15 +5,15 @@ Category: Personal
 Tags: health, cancer, thyroid-cancer, life-lessons
 Summary: My personal journey with papillary thyroid cancer - from diagnosis to surgery and recovery, sharing the experience of navigating cancer during major life transitions.
 
-My thyroid got cancer some time ago. The doctors can’t say when because there was no way to determine a growth rate. It might have been thirty years ago when my throat was X-rayed during a bout with really bad (https://www.babycenter.com/0_croup-in-toddlers_11421.bc), but nobody knows.
+My thyroid got cancer some time ago. The doctors can’t say when because there was no way to determine a growth rate. It might have been thirty years ago when my throat was X-rayed during a bout with really bad [croup](https://www.babycenter.com/0_croup-in-toddlers_11421.bc), but nobody knows.
 
-On January 29, 2017, a (https://www.caredash.com/doctors/kara-riley-paull-md-walnut-creek-ca) at Kaiser in Walnut Creek removed my cancerous thyroid. For those of you following me professionally, this was four days after Scripted’s final layoff, when we went from ({filename}the-story-behind-our-layoffs.md). For those of you who know me personally, this was also two months after my second daughter was born.
+On January 29, 2017, a [Dr. Kara Riley Paull](https://www.caredash.com/doctors/kara-riley-paull-md-walnut-creek-ca) at Kaiser in Walnut Creek removed my cancerous thyroid. For those of you following me professionally, this was four days after Scripted’s final layoff, when we went from ({filename}the-story-behind-our-layoffs.md). For those of you who know me personally, this was also two months after my second daughter was born.
 
-When people notice the scar on my neck, I tell them that my thyroid got cancer, that I had it removed, and that I’m okay now. My prognosis was and still is very good. The cancer my thyroid got, (https://en.wikipedia.org/wiki/Papillary_thyroid_cancer), is probably the least scary of them all. It’s still cancer though, and cancer sucks.
+When people notice the scar on my neck, I tell them that my thyroid got cancer, that I had it removed, and that I’m okay now. My prognosis was and still is very good. The cancer my thyroid got, [papillary thyroid cancer](https://en.wikipedia.org/wiki/Papillary_thyroid_cancer), is probably the least scary of them all. It’s still cancer though, and cancer sucks.
 
 ---
 
-I hadn’t had a physical in a couple of years when I went into the doctor’s office last November. My last physical was two years earlier, when my first daughter was born. I wanted to make sure then that I was in top form. I also saw a nutritionist because I was working out a lot and gaining weight. My conversations with him led to my (http://www.huffingtonpost.com/ryan-buckley/why-entrepreneurs-should-_b_5851044.html) about the benefits of sleep. I changed my diet, the loose fat went down, and the muscle I’d built up stayed. I felt much better.
+I hadn’t had a physical in a couple of years when I went into the doctor’s office last November. My last physical was two years earlier, when my first daughter was born. I wanted to make sure then that I was in top form. I also saw a nutritionist because I was working out a lot and gaining weight. My conversations with him led to my [Huffington Post article](http://www.huffingtonpost.com/ryan-buckley/why-entrepreneurs-should-_b_5851044.html) about the benefits of sleep. I changed my diet, the loose fat went down, and the muscle I’d built up stayed. I felt much better.
 
 In fact, since my first daughter was born two years ago I’ve been on a two-year-long running and pull-up binge. I feel better at 34 than I did at any point in my twenties. On my 34th birthday my wife bought me some nice size 34 jeans. I had a 36 waist for so long I didn’t realize that all of my pants were too big.
 

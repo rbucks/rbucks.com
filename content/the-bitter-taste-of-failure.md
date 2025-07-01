@@ -5,7 +5,7 @@ Category: Business
 Tags: entrepreneurship, scripted, startups, life-lessons
 Summary: How Scripted succeeded as a business but failed financially for investors, and the painful lessons learned about startup risk and money.
 
-(https://www.scripted.com), my first and largest business venture, was simultaneously a great success and a financial failure. 
+[Scripted](https://www.scripted.com), my first and largest business venture, was simultaneously a great success and a financial failure. 
 
 The business today is thriving without me. We sold to Xenon Ventures, a growth-oriented private equity group that will continue the work my employees and investors dedicated many years and millions of dollars to build. 
 
@@ -13,7 +13,7 @@ For my investors, though, it was a failure. Everybody lost their money. I hate h
 
 Some startup deals yield 100X returns. Others go up in flames. This one did the latter. 
 
-Someone close to Scripted told me that this financial outcome was the result of a weak management team and a weak board. When he said that, it stung. I don’t think of myself or anyone I hired as weak. We did, in retrospect, (http://rbucks.com/2017/07/12/scripted-dont-quit/), but we did the best we could at the time. 
+Someone close to Scripted told me that this financial outcome was the result of a weak management team and a weak board. When he said that, it stung. I don’t think of myself or anyone I hired as weak. We did, in retrospect, [make some mistakes along the way]({filename}scripted-dont-quit.md), but we did the best we could at the time. 
 
 In thinking more about what he said, though, I can see his point. A stronger company with stronger leadership might have:
 

@@ -63,7 +63,7 @@ The morning core routine, which I've now been doing for more years than I can tr
 
 When I was younger, I remember thinking one sweaty exercise a week was all I needed. Maybe that was true at the time. A few years ago, I got into a rhythm of exercising every third day. One day on, two days off. It felt like work, but I stuck to it. I've been narrowing that gap in off days ever since, and it's now to the point where even on vacation I have to get my workouts in. The only days I didn't exercise in Hawaii were the days spent packing and flying. 
 
-I'm proud of (https://www.strava.com/athletes/6960326). I want to keep it going. 
+I'm proud of [my Strava profile](https://www.strava.com/athletes/6960326). I want to keep it going. 
 
 ## To take chess more seriously
 

@@ -13,7 +13,7 @@ Then I got an electronic chess board and soon after that I played chess on my Ga
 
 This was the first time I became familiar with chess scoring and I think I peaked in the low 1600s when I was really into playing chess in high school. I joined the chess club and played games during lunch. I remember there was a group of boys who would hang around the classroom where we played and sneer at us. My friends and I dubbed them the “Chess Club Bullies.” We didn’t mind them at all, noting how absurd their focus on us was.
 
-Around this time my uncle introduced me to (http://Chess.com), and I’ve been playing there ever since. I thought I’d get more into it in college at UC Berkeley, but I fell into other interests. My chess playing at Berkeley was primarily with my friend Howard Chong, who was perfectly matched with me. We played some great games. But the most memorable experience I had playing chess at Cal was with Walter. 
+Around this time my uncle introduced me to [Chess.com](http://Chess.com), and I’ve been playing there ever since. I thought I’d get more into it in college at UC Berkeley, but I fell into other interests. My chess playing at Berkeley was primarily with my friend Howard Chong, who was perfectly matched with me. We played some great games. But the most memorable experience I had playing chess at Cal was with Walter. 
 
 I never found out what Walter’s deal was. Anybody at Cal in the early 2000s would remember him. He was a funny, friendly Black man with a beret who kept a chess board on display where Telegraph t-bones into Bancroft at one of the major entrances to the Cal campus, just steps from the famous Sather Gate. Walter played speed chess and talked jive. Games cost a dollar and he always won. I still remember his voice. 
 
@@ -83,7 +83,7 @@ Even if you don’t follow a playbook to its letter, they’re still good study,
 
 ### (Startup strategy: Look for market openings)
 
-At my current chess level (a bit above average), my opponents still make mistakes. (http://Chess.com) actually does a great job of analyzing games that I’ve completed and coaching me through my own mistakes. It scores my every move! This is one of the reasons why I’m so addicted. 
+At my current chess level (a bit above average), my opponents still make mistakes. [Chess.com](http://Chess.com) actually does a great job of analyzing games that I’ve completed and coaching me through my own mistakes. It scores my every move! This is one of the reasons why I’m so addicted. 
 
 Some games I’ve played have been simply to avoid making a mistake like dropping a piece or leaving a vulnerable pawn. Playing a tough defense can force my opponents to make brash moves, leaving open an opportunity to fork a valuable piece. If I’m patient, I can capitalize on my opponent’s mistakes. 
 

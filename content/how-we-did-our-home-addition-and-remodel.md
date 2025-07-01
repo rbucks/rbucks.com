@@ -143,9 +143,9 @@ In the time between when we first got Byron's numbers in October 2020 and when w
 
 We ordered all the big new appliances, like the Sub-Zero panel-ready side-by-side refrigerator and freezer, the wine refrigerator, and the dishwasher (we hand-washed dishes for six years with two kids at our old house!)
 
-We went to (https://www.goldenstatelumber.com/) and ordered our windows and doors. We checked out their trim options too and started talking about paint colors. We got swatches, lots and lots of swatches. And then we got samples to test out the swatches. 
+We went to [Golden State Lumber](https://www.goldenstatelumber.com/) and ordered our windows and doors. We checked out their trim options too and started talking about paint colors. We got swatches, lots and lots of swatches. And then we got samples to test out the swatches. 
 
-My wife bought a bunch of discounted tile from (https://www.heathceramics.com/pages/heath-tile) and some custom fresh tile from them too. We talked endlessly about floors and carpets. We visited every kitchen appliance and countertop store in a 20 mile radius. We were starting to get all that figured out too. 
+My wife bought a bunch of discounted tile from [Heath Ceramics](https://www.heathceramics.com/pages/heath-tile) and some custom fresh tile from them too. We talked endlessly about floors and carpets. We visited every kitchen appliance and countertop store in a 20 mile radius. We were starting to get all that figured out too. 
 
 We also needed to find a place to live! In order for Byron to work his five-month-magic, we needed to get out of his way. I found an option in San Francisco. Melissa found one elsewhere in our neighborhood. 
 
@@ -211,9 +211,9 @@ I was worried at first that splitting the space in half was going to make both r
 
 When the walls were up we measured out a space for a couch and discovered that normal-sized couches were not going to cut it. This was a long wall and we were going to need a big couch. We settled on a 150"x100" Ethan Allen sectional. We sat on a million couches and liked the look and feel of Ethan Allen best. 
 
-We also weren't sure how big of a TV to get. We penciled it out on the wall but it was still hard to picture without the couch being there too. We bought a (https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/75-class-the-frame-tv-qled-4k-uhd-hdr-smart-tv-2020-qn75ls03tafxza/) and it's perfect for the space. I really think we nailed this whole setup. 
+We also weren't sure how big of a TV to get. We penciled it out on the wall but it was still hard to picture without the couch being there too. We bought a [Samsung 75" Frame TV](https://www.samsung.com/us/televisions-home-theater/tvs/the-frame/75-class-the-frame-tv-qled-4k-uhd-hdr-smart-tv-2020-qn75ls03tafxza/) and it's perfect for the space. I really think we nailed this whole setup. 
 
-I'm also quite proud of my audio selection. You'll see in the final picture a (https://www.sonos.com/en-us/products/wireless-home-theater) system. It includes two wall-mounted Sonos One speakers, a sound bar, and a sub woofer. I love that the eArc HDMI allows the TV to automatically chooses the Sonos speakers when it's on. I never have to set the external audio. When the TV isn't on, I can play music through the home theater system simply by choosing it from my Spotify controls or by talking to Alexa. It's amazing. 
+I'm also quite proud of my audio selection. You'll see in the final picture a [Sonos home theater system](https://www.sonos.com/en-us/products/wireless-home-theater) system. It includes two wall-mounted Sonos One speakers, a sound bar, and a sub woofer. I love that the eArc HDMI allows the TV to automatically chooses the Sonos speakers when it's on. I never have to set the external audio. When the TV isn't on, I can play music through the home theater system simply by choosing it from my Spotify controls or by talking to Alexa. It's amazing. 
 
 Plus, the sub woofer is LOUD. It gives you the deep warm bass sound that you really want on some songs. And somehow the Sonos software routes certain sounds between the sound bar and the mounted speakers to make an amazing surround sound. It's a remarkable system and there's no extra hardware. No rack in the back, no special receiver. It's just Sonos. 
 
@@ -245,11 +245,11 @@ The kitchen was my wife's domain. So many decisions. So. Many. Decisions.
 
 We knew we wanted it to be big, and we knew it made sense to have it basically take over the entirety of the old garage. We wanted a massive island, a prep sink in addition to the main sink, and we needed a pantry. My wife was also certain that we should add a "powder room" -- basically a bathroom dedicated to our downstairs guests. 
 
-Her inspiration was (https://stylebyemilyhenderson.com/blog/portland-project-the-kitchen-remodel-reveal). I couldn't complain -- it's beautiful -- and since visualizing colors and tiles and cabinet locations is not my thing, I mostly just nodded as she described her vision. 
+Her inspiration was [this Emily Henderson kitchen remodel](https://stylebyemilyhenderson.com/blog/portland-project-the-kitchen-remodel-reveal). I couldn't complain -- it's beautiful -- and since visualizing colors and tiles and cabinet locations is not my thing, I mostly just nodded as she described her vision. 
 
 Here are a few bullet points about kitchen remodels that I learned: 
 
-- Cabinet boxes and drawers are constructed before the doors. The doors are a specialty service ordered to spec based on the box dimensions. We used Igor, one of Byron's guys, for the boxes and (https://www.dutchmandoors.com/) for the doors. - It really helps to have a 3D rendering. We commissioned one on Upwork for about $2,500 and ended up changing the design as a result. (https://accounts.chiefarchitect.com/3DV/view?share=531072004235004). - There are a million types of countertop and you can't really go wrong (unless you pick marble, which stains easily). I'm really glad we landed on quartzite (Victoria Falls, to be exact) after almost going with a Cambria quartz. - The pantry is clutch. It's just so nice to have all the dry food stored on open shelves instead of having to rummage through low cabinets to find that can of beans. 
+- Cabinet boxes and drawers are constructed before the doors. The doors are a specialty service ordered to spec based on the box dimensions. We used Igor, one of Byron's guys, for the boxes and [Dutchman Doors](https://www.dutchmandoors.com/) for the doors. - It really helps to have a 3D rendering. We commissioned one on Upwork for about $2,500 and ended up changing the design as a result. [our 3D kitchen rendering](https://accounts.chiefarchitect.com/3DV/view?share=531072004235004). - There are a million types of countertop and you can't really go wrong (unless you pick marble, which stains easily). I'm really glad we landed on quartzite (Victoria Falls, to be exact) after almost going with a Cambria quartz. - The pantry is clutch. It's just so nice to have all the dry food stored on open shelves instead of having to rummage through low cabinets to find that can of beans. 
 
 ![Kitchen pantry with open shelving]({static}/images/IMG_2735-1024x768.jpeg)
 

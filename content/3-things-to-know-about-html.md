@@ -13,7 +13,7 @@ HyperText Markup Language (HTML) has become one of the underlying technologies t
 
 ### HTML Uses a System of Nested Elements to Create Website Pages
 
-HTML (http://www.w3schools.com/tags/default.asp) to tell web browsers how to interpret content. Each tag describes how an element should appear on your screen. For instance, if you want to make a section of text bold, you would place < strong > before the text and < /strong > after the text.
+HTML [uses tags](http://www.w3schools.com/tags/default.asp) to tell web browsers how to interpret content. Each tag describes how an element should appear on your screen. For instance, if you want to make a section of text bold, you would place < strong > before the text and < /strong > after the text.
 
 All tags are written inside of angle brackets. When a browser encounters a “<>” it knows that the characters inside the angled brackets are an HTML tag. “” tells the browser to stop applying the tag to a page’s content. A handful of elements — such as , which creates a line break — do not require end tags.
 
@@ -27,4 +27,4 @@ Without hyperlinks, the World Wide Web would not exist in its current form.
 
 Not all HTML elements tell browsers how to display content. Some provide useful information for people willing to look at the source material. These elements also communicate important information to search engines.
 
-(https://support.google.com/webmasters/answer/79812?hl=en) are called “meta tags” because they contain descriptive information such as the page’s title, description, and keywords. Including meta tags makes it easier for search engines like Google to identify a page as something a user might want to see. Without meta tags, websites rarely appear on first-page search engine results.
+[These elements](https://support.google.com/webmasters/answer/79812?hl=en) are called “meta tags” because they contain descriptive information such as the page’s title, description, and keywords. Including meta tags makes it easier for search engines like Google to identify a page as something a user might want to see. Without meta tags, websites rarely appear on first-page search engine results.

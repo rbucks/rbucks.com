@@ -5,19 +5,19 @@ Category: Business
 Tags: networking, tim-ferriss, content-marketing, scripted
 Summary: How meeting Tim Ferriss at a private Google Ventures party led to getting a guest post published on his blog by leading with value instead of asking for favors.
 
-Here’s how I met Tim Ferriss and (http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/).
+Here’s how I met Tim Ferriss and [got a guest post published on his blog](http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/).
 
 #### First, I showed up.
 
-I met Tim Ferriss at a private party hosted by Google Ventures at (http://www.rickhousebar.com/) in downtown San Francisco back in October 2012. It might have been one of those fancy parties during TechCrunch Disrupt or Dreamforce. It doesn’t matter. I got an invitation and (https://medium.com/@xsvengoechea/just-show-up-9b5df950d88d#.9t0r2zpw2).
+I met Tim Ferriss at a private party hosted by Google Ventures at [Rickhouse Bar](http://www.rickhousebar.com/) in downtown San Francisco back in October 2012. It might have been one of those fancy parties during TechCrunch Disrupt or Dreamforce. It doesn’t matter. I got an invitation and [showed up](https://medium.com/@xsvengoechea/just-show-up-9b5df950d88d#.9t0r2zpw2).
 
 Private happy hours are common in San Francisco. These events and smaller dinners are the preferred way to network among people who are tired of networking, or who have graduated from the crowded open mixers that are even more common here. If instead you get invited to an event where people you’d like to see but rarely do see will also attend, then it’s game on. This was one of those events. It was where people who no longer need to network can network with each other.
 
-When I first walked in I recognized some VC partners who turned us down when we were fundraising for Scripted. I didn’t talk to them. I also saw (https://en.wikipedia.org/wiki/Kevin_Rose), whose face I distinctly remember seeing for the first time giving two thumbs up with a beanie and headphones on the (http://www.bloomberg.com/news/articles/2006-08-13/cover-image-how-this-kid-made-60-million-in-18-months) back in 2006. Next to him was a guy I also recognized but was not expecting to see: (http://fourhourworkweek.com/about/).
+When I first walked in I recognized some VC partners who turned us down when we were fundraising for Scripted. I didn’t talk to them. I also saw [Kevin Rose](https://en.wikipedia.org/wiki/Kevin_Rose), whose face I distinctly remember seeing for the first time giving two thumbs up with a beanie and headphones on the [Bloomberg Businessweek cover](http://www.bloomberg.com/news/articles/2006-08-13/cover-image-how-this-kid-made-60-million-in-18-months) back in 2006. Next to him was a guy I also recognized but was not expecting to see: [Tim Ferriss](http://fourhourworkweek.com/about/).
 
 Let’s take a step back for a moment. I didn’t go to this thing with a plan. I went for the open bar and belief that anyone I met here would think better of me simply because I was there. Trite but true; you have to think this way if you want to play the game. I didn’t have the guest list to prep talking points, so I was just going to be friendly, order a nice cocktail, and wing it.
 
-Tim, though, actually gives advice about how to approach VIPs. I recently listened to a (http://fourhourworkweek.com/2015/08/26/how-to-build-a-world-class-network-in-record-time/) about how to network at events where there are busy, important people. People like Tim. I hadn’t heard the advice he gave when I had the opportunity to network with the master himself.
+Tim, though, actually gives advice about how to approach VIPs. I recently listened to a [podcast episode](http://fourhourworkweek.com/2015/08/26/how-to-build-a-world-class-network-in-record-time/) about how to network at events where there are busy, important people. People like Tim. I hadn’t heard the advice he gave when I had the opportunity to network with the master himself.
 
 Here’s what happened.
 
@@ -47,9 +47,9 @@ I still give Tim tons of great credit for staying true to his word. I vaguely re
 
 The exact email I got from him is lost in my inbox. It was short and asked me to pitch him ideas and then he’d choose one and read the post. If it was good, he’d work with me to get it published on his blog. I was psyched! This was an opportunity I did not want to screw up.
 
-Here’s where I have to stop taking the credit. My team, particularly our third employee, Sara Kendall, did a superb job getting the pitches, finding the ghostwriter (using (http://www.scripted.com), of course), and even securing some interviews of best-selling Amazon authors upon Tim’s request.
+Here’s where I have to stop taking the credit. My team, particularly our third employee, Sara Kendall, did a superb job getting the pitches, finding the ghostwriter (using [Scripted](http://www.scripted.com), of course), and even securing some interviews of best-selling Amazon authors upon Tim’s request.
 
-The (http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/) was terrific. Three years later it’s still one of the top traffic referrers to Scripted.
+The [guest post](http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/) was terrific. Three years later it’s still one of the top traffic referrers to Scripted.
 
 The only email from Tim that I could find was the one where he told me my post was published. In true Ferriss fashion, he writes succinctly and has a link in his signature about why his emails are so short. It took about six months from the night we met and I pitched him to get my piece published.
 

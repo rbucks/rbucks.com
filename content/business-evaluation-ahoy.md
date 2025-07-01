@@ -5,9 +5,9 @@ Category: Business
 Tags: business evaluation, web3, blockchain, politics
 Summary: Evaluation of Ahoy, a web3 bounty app for conditional fundraising that could revolutionize political donations and voting incentives.
 
-*Edit: (https://ahoy.fund/) is now live so I've included links. *
+*Edit: [Ahoy](https://ahoy.fund/) is now live so I've included links. *
 
-I'm still working on the web3 project I ({filename}my-foray-into-web3.md). In November 2021 I wrote (https://github.com/DAOPAC/White-Paper) of a fundraising tool that I hoped could be used to influence votes on climate legislation. Rather than collecting signatures, this project would collect cash, real dollars, and release that cash conditionally on voting outcomes. It would function like a PAC but exist in broad daylight, meant to "put our money where our mouth is" and quite literally pay for votes. 
+I'm still working on the web3 project I ({filename}my-foray-into-web3.md). In November 2021 I wrote [a white paper](https://github.com/DAOPAC/White-Paper) of a fundraising tool that I hoped could be used to influence votes on climate legislation. Rather than collecting signatures, this project would collect cash, real dollars, and release that cash conditionally on voting outcomes. It would function like a PAC but exist in broad daylight, meant to "put our money where our mouth is" and quite literally pay for votes. 
 
 The same approach could be used for election results. Candidate A could have a primary election fund and a general election fund. If they lose the primary, then the general election donations get refunded in full. A soaring balance in the general election fund could indicate momentum and maybe change voting behavior because people would want to back the person with the most to lose.
 
@@ -17,7 +17,7 @@ They call their bounty app Ahoy.
 
 ---
 
-Ahoy isn't live yet. I'll link to it once it's available to the general public (which should be soon, I'm told). (https://ahoy.fund/)!] For this business evaluation I'm going to describe the business opportunity of Ahoy generally and my political fundraising idea specifically. 
+Ahoy isn't live yet. I'll link to it once it's available to the general public (which should be soon, I'm told). [Ahoy](https://ahoy.fund/)!] For this business evaluation I'm going to describe the business opportunity of Ahoy generally and my political fundraising idea specifically. 
 
 ## The Problem
 
@@ -138,17 +138,17 @@ The trick, like any pricing game, is to make the take rate just high enough to m
 
 ### Subscription fee
 
-I love me (https://rbucks.com/the-parallel-entrepreneur/chapter-3-the-business-rationale/) (monthly recurring revenue). We could charge bounty creators a monthly fee for hosting the bounties or even for promoting them. Once Ahoy becomes large enough, there will be a need to rank the bounties on the homepage and include them in email marketing. This could be pay-to-play scheme, prioritizing those who are subscribers.
+I love me [subscription business models](https://rbucks.com/the-parallel-entrepreneur/chapter-3-the-business-rationale/) (monthly recurring revenue). We could charge bounty creators a monthly fee for hosting the bounties or even for promoting them. Once Ahoy becomes large enough, there will be a need to rank the bounties on the homepage and include them in email marketing. This could be pay-to-play scheme, prioritizing those who are subscribers.
 
 As with most SaaS businesses, a free tier is usually best practice. We want the tire kickers, after all. But if we're clever with certain features and promotional opportunities, we can probably entice a fraction of the creators to pay a fee. 
 
-MRR is nice because it's predictable. With predictability comes stability and confidence that the company can invest ahead of growth. Investors love it too. While you can still become a huge company without MRR (looking at you, (https://stripe.com)) it's harder to do that these days. You need massive volume to make up for the lack of predictable revenue. 
+MRR is nice because it's predictable. With predictability comes stability and confidence that the company can invest ahead of growth. Investors love it too. While you can still become a huge company without MRR (looking at you, [Stripe](https://stripe.com)) it's harder to do that these days. You need massive volume to make up for the lack of predictable revenue. 
 
 ### Tokenomics
 
 Finally, we get to the wild card. Tokenomics is the idea that a project can create its own cryptocurrency and use it cleverly to incentivize behavior that benefits all token holders. We can turn using Ahoy into a little game. Create a bounty, get some tokens. Raise $10,000, get some tokens. Get enough tokens, join the special Ahoy governance council. 
 
-Then you make the tokens transferrable, throw some up on a decentralized exchange, and let people buy them. A price gets set by the market, and that stash of a million (or five million) tokens you set aside for yourself is all of a sudden worth... millions. Don't believe me that this happens? The top 20 wallets for ConstitutionDAO have (https://coinmarketcap.com/currencies/constitutiondao/holders/) (more like $1.5M just a few months ago). The top handful are worth tens of millions. I can't know for certain but I assume these are the founders' wallets.
+Then you make the tokens transferrable, throw some up on a decentralized exchange, and let people buy them. A price gets set by the market, and that stash of a million (or five million) tokens you set aside for yourself is all of a sudden worth... millions. Don't believe me that this happens? The top 20 wallets for ConstitutionDAO have [millions in value](https://coinmarketcap.com/currencies/constitutiondao/holders/) (more like $1.5M just a few months ago). The top handful are worth tens of millions. I can't know for certain but I assume these are the founders' wallets.
 
 These guys are the modern crypto barrons, the people at the top of the totem pole who are able to literally print their own money. It's (mostly) unregulated, certainly nothing like the stock market where companies have to jump through hoops to print more of their own paper.
 

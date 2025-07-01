@@ -33,11 +33,11 @@ First disappointment: I still weighed 210 pounds. No change.
 
 Man, what good’s not drinking if you don’t lose some weight? That was a bummer. I did the math in my head. 250 calories per pint or glass of wine. That’s at least 1,000 calories per week, or 4,000 per month. Somewhere I read that 1,000 calories is a pound of weight. I should have lost a pound a week, and I didn’t.
 
-However, I did increase (https://medium.com/@rbucks/chin-up-everybody-65a9b3fa473#.4n8ruerqf) from 12 to 20 per session. Perhaps just a coincidence that this development occurred during my drinking experiment, but that’s the only measurable physical impact I can point to after the first month.
+However, I did increase [chin-ups](https://medium.com/@rbucks/chin-up-everybody-65a9b3fa473#.4n8ruerqf) from 12 to 20 per session. Perhaps just a coincidence that this development occurred during my drinking experiment, but that’s the only measurable physical impact I can point to after the first month.
 
 Meanwhile, the temptations got stronger.
 
-My wife and I went out to a really nice (https://www.yelp.com/biz/hanazen-orinda). It was better than any San Francisco sushi and on par with (http://sugarfishsushi.com/our-locations/calabasas/). I love to get sake with sushi, but this time I couldn’t. I missed that. I had tea instead, but I really wanted small glass of Saporo and some hot sake. I made a mental note to allow a splurge when my experiment was done.
+My wife and I went out to a really nice [Hanazen](https://www.yelp.com/biz/hanazen-orinda). It was better than any San Francisco sushi and on par with [Sugarfish](http://sugarfishsushi.com/our-locations/calabasas/). I love to get sake with sushi, but this time I couldn’t. I missed that. I had tea instead, but I really wanted small glass of Saporo and some hot sake. I made a mental note to allow a splurge when my experiment was done.
 
 The other trying time was during an overnight programming retreat I took at a local hotel. I’ll write about this sometime. It’s wonderful for my productivity — essentially I give myself about 30 hours to do a project, and my wife gives me the night off. I take it out of the house to maximize focus. I’ve done this many times, and it has always involved a couple glasses of red wine late at night in my hotel room with my website project. This time I put water in my wine glass. Here’s the picture from that night.
 

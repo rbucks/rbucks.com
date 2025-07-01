@@ -5,7 +5,7 @@ Category: Personal
 Tags: reflection, life-lessons, self-improvement, philosophy
 Summary: Embracing the value of taking time and effort to do things well, rejecting life hacking shortcuts in favor of meaningful commitment.
 
-One of my managers back at (http://www.navigant.com/) would invite me to “dig in” with him when he really wanted to chat. It’s a good metaphor. As I’ve aged (now into my 33s) I’ve come to appreciate it more.
+One of my managers back at [Navigant](http://www.navigant.com/) would invite me to “dig in” with him when he really wanted to chat. It’s a good metaphor. As I’ve aged (now into my 33s) I’ve come to appreciate it more.
 
 Anything worth doing takes time. It requires digging in. Whether it’s a relationship with your spouse, starting a company, learning a new skill, or raising a kid, you have to dig in to really do it well.
 
@@ -17,7 +17,7 @@ Digging in is also about being in the moment with yourself. It’s like the flow
 
 My point is this: flow is awesome; why short change yourself by short circuiting it with a less meaningful approach? Learning something faster isn’t really learning it. It’s the hot dog eating contest of self improvement. Its not really learning.
 
-I can appreciate the Tim Ferriss philosophy. I even (http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/). However, I disagree that doing anything for four hours a week (other than only watching that much TV) is something to be proud of. Enjoy the process. Dig in and take 40 hours learning how to cook, and relish every minute of it.
+I can appreciate the Tim Ferriss philosophy. I even [reviewed Tim Ferriss's book tactics](http://fourhourworkweek.com/2013/04/04/how-to-make-1000000-selling-e-books-tactics-and-case-studies/). However, I disagree that doing anything for four hours a week (other than only watching that much TV) is something to be proud of. Enjoy the process. Dig in and take 40 hours learning how to cook, and relish every minute of it.
 
 There’s a better life learning movement out there. It’s called 10,000 hours. That’s the commitment required to be a master at anything. 10,000 hours. Let me save you the math: that’s over a year of practice if you never slept, ate, or went to the bathroom. More realistically, 10,000 hours is five years worth of 40-hour workweeks.
 

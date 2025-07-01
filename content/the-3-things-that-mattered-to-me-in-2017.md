@@ -13,7 +13,7 @@ This year began with a very high high and a very low low.
 
 The high was Norah, born just a month before the new year. I was excited to be a new dad again and go into it seasoned this time. I wanted to soak it in, really enjoy it, not be as nervous as I was the first time around.
 
-The low was my (https://medium.com/@rbucks/my-thyroid-got-cancer-b11f4494fc6f), thyroidectomy, and the announcement I had to make at Scripted within a few days of my surgery that we were going to lay off all but six employees.
+The low was my [cancer diagnosis](https://medium.com/@rbucks/my-thyroid-got-cancer-b11f4494fc6f), thyroidectomy, and the announcement I had to make at Scripted within a few days of my surgery that we were going to lay off all but six employees.
 
 Fortunately it’s been nothing but up since January and the side benefit to all of these changes was being at home with my family. A lot. I was probably in an office for less than two weeks this entire year. I spent a lot of time with Norah every day and witnessed every little development. I loved it.
 
@@ -47,9 +47,9 @@ I can’t disappear on long road trips anymore, but I still have Tom’s music.
 
 #### Politics
 
-(https://medium.com/@rbucks/whats-next-for-me-a6418447d3d0) back in April and set three goals for the following 12 months. I’m now 75% of the way there and two of the three goals are done.
+[I wrote about next steps](https://medium.com/@rbucks/whats-next-for-me-a6418447d3d0) back in April and set three goals for the following 12 months. I’m now 75% of the way there and two of the three goals are done.
 
-- Done: Be able to live on (https://www.toofr.com) and get a second revenue stream going too (that’s (https://www.inlistio.com)).- Done: Write a book on parallel entrepreneurship. Well, it’s *almost* done. I have a (http://www.parallelentrepreneurship.com/) and I wrote about my (https://medium.com/@rbucks/how-i-wrote-17k-words-in-just-two-days-2f1979f227a6).- In progress: Find my path into local politics.
+- Done: Be able to live on [Toofr](https://www.toofr.com) and get a second revenue stream going too (that’s [Inlistio](https://www.inlistio.com)).- Done: Write a book on parallel entrepreneurship. Well, it’s *almost* done. I have a [landing page](http://www.parallelentrepreneurship.com/) and I wrote about my [writing process](https://medium.com/@rbucks/how-i-wrote-17k-words-in-just-two-days-2f1979f227a6).- In progress: Find my path into local politics.
 
 The political one has proven to be the most difficult because there’s no guide. There’s no data to measure against. It’s just a feeling of progress I have with every new connection I make, every insight I have on the local election scene in Contra Costa County, and every article I read about upcoming 2018 elections.
 

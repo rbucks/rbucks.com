@@ -11,7 +11,7 @@ I decided to take him up on that question. How do I define American? It’s the 
 
 ---
 
-Jose has lived the American dream. He’s an entrepreneur, running his own organization, (https://defineamerican.com/), that is so tied to his being right now that it probably defines him. He rubs shoulders with the likes of Arianna Huffington and Sheryl Sandberg. He won a Pulitzer Prize. When I was a grad student at Harvard, Jose guest lectured one of my classes. Mark Zuckerberg calls him a good friend. Jose lives the American dream because he started with nothing. 
+Jose has lived the American dream. He’s an entrepreneur, running his own organization, [Define American](https://defineamerican.com/), that is so tied to his being right now that it probably defines him. He rubs shoulders with the likes of Arianna Huffington and Sheryl Sandberg. He won a Pulitzer Prize. When I was a grad student at Harvard, Jose guest lectured one of my classes. Mark Zuckerberg calls him a good friend. Jose lives the American dream because he started with nothing. 
 
 He arrived from the Philippines as a young boy speaking only a few words of English. I met him when we were pre-teens at the same middle school in the Silicon Valley suburb of Mountain View, California. He called me “Buckley Buckley” and I gave him a lot of immaturity. He took everything so literally. I’d roll up my sleeves and say, “Hey Jose, wanna box?” He would reply, “What box? You don’t have a box.” 
 
@@ -27,7 +27,7 @@ Indeed, Jose lived the American dream, but he lived it illegally. 
 
 I have a different question than the one Jose’s been asking. It’s a question for his critics.
 
-Would you have done anything differently? Would you have left your life, your future, your family of 10 years when you were 16 years old simply because you didn’t have a green card? When you got a scholarship for a full ride to a college of your choice, as Jose did, would you have left then? How about when you found your true calling, that you could interview and write and think in terms of columns and storylines better than any of your peers? Would you leave a promising career in journalism because you still didn’t have a piece of paper that defined your American-ism? How about after you (https://en.wikipedia.org/wiki/Jose_Antonio_Vargas#Pulitzer_Prize) or got an (http://www.mvwsd.org/NWhismanRd)?
+Would you have done anything differently? Would you have left your life, your future, your family of 10 years when you were 16 years old simply because you didn’t have a green card? When you got a scholarship for a full ride to a college of your choice, as Jose did, would you have left then? How about when you found your true calling, that you could interview and write and think in terms of columns and storylines better than any of your peers? Would you leave a promising career in journalism because you still didn’t have a piece of paper that defined your American-ism? How about after you [won a Pulitzer Prize](https://en.wikipedia.org/wiki/Jose_Antonio_Vargas#Pulitzer_Prize) or got an [Outstanding Graduate Award](http://www.mvwsd.org/NWhismanRd)?
 
 There are a lot of people saying Jose should deport himself if the authorities won’t do it. They say he should get in line and subject himself to our broken immigration process. To these people I ask one simple question: Would *you* do that? Think about it. Honestly. 
 

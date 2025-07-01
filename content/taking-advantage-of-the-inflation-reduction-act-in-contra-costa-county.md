@@ -5,7 +5,7 @@ Category: Politics
 Tags: inflation-reduction-act, contra-costa-county, green-economy, policy
 Summary: How Contra Costa County can leverage $1.4 billion in federal infrastructure funds to build a green economy through manufacturing and services.
 
-After the success of (https://www.dvti.org/conference) conference, for which I chaired and did the bulk of the organizing, I was approached by a friend in the local sustainability community. She asked me if I'd like to help organize a conference focusing on green tech in Contra Costa County. I enthusiastically said yes!
+After the success of [Diablo Valley Tech Innovation](https://www.dvti.org/conference) conference, for which I chaired and did the bulk of the organizing, I was approached by a friend in the local sustainability community. She asked me if I'd like to help organize a conference focusing on green tech in Contra Costa County. I enthusiastically said yes!
 
 There's a lot to chew on around this topic. To summarize the three massive spending bills passed by the Biden administration in 2021 and 2022:
 
@@ -54,10 +54,10 @@ Manufacturing industries:
 
 A stretch goal is to create a green technology manufacturing sector. For this to happen, we will need to get services going first and use that advantage to attract the industry. There's a lot of research to do here, starting with understanding if these appliances are built *anywhere* in California. I suspect not. Suppose there's an economic rationale or the possibility of an incentive provided by these federal dollars directly or through the state. In that case, I hope our county leadership will be aware and make noise about getting our share. 
 
-How big is our share? According to (https://www.gov.ca.gov/2022/11/15/california-creates-17000-infrastructure-jobs-with-support-from-the-biden-administration/) from the governor's office, California will receive more than $16 billion from the IIJA. Allocated by population, Contra Costa should receive about $400 million. Then there's the $47 billion multiyear infrastructure package already in the state budget. Our share of that budget is over $1 billion. So we have $1.4 billion potentially to work with, and more *if* we can be creative and put good proposals together.
+How big is our share? According to [this announcement](https://www.gov.ca.gov/2022/11/15/california-creates-17000-infrastructure-jobs-with-support-from-the-biden-administration/) from the governor's office, California will receive more than $16 billion from the IIJA. Allocated by population, Contra Costa should receive about $400 million. Then there's the $47 billion multiyear infrastructure package already in the state budget. Our share of that budget is over $1 billion. So we have $1.4 billion potentially to work with, and more *if* we can be creative and put good proposals together.
 
 The media calls this a once-in-a-generation event. Unlike the similarly-described extreme weather we've been experiencing, I agree that this funding won't come again next year.
 
-This is the case for organizing a Green Economy Conference in Contra Costa County. We need our representatives to see this window of opportunity, a critical period when economic incentives strongly align with environmental needs. A boom in green economic output could transform this county, producing the change I've been working towards through the (https://www.dvti.org).
+This is the case for organizing a Green Economy Conference in Contra Costa County. We need our representatives to see this window of opportunity, a critical period when economic incentives strongly align with environmental needs. A boom in green economic output could transform this county, producing the change I've been working towards through the [Diablo Valley Tech Innovation organization](https://www.dvti.org).
 
 I can continue to leverage my connection to Diablo Valley College, which will play a key role in connecting workforce development initiatives to the green economy. I'll also bring in the connections and perspective I've gained recently from my work on [Shovels]({filename}business-evaluation-shovels.md). This will be fun!

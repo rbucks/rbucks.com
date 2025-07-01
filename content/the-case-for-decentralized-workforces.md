@@ -25,7 +25,7 @@ The number one concern I hear from my executive friends who worry about the impa
 
 ### Google GSuite: email, calendar, documents, and file storage
 
-(https://gsuite.google.com/) includes a bunch of other office tools like shared documents, shared drives, and calendars which frankly are essential now whether or not your team is distributed. Every startup I know uses them, remote or otherwise. 
+[Google GSuite](https://gsuite.google.com/) includes a bunch of other office tools like shared documents, shared drives, and calendars which frankly are essential now whether or not your team is distributed. Every startup I know uses them, remote or otherwise. 
 
 Email is still the dominant communication medium in business, and it can be used as a proxy for engagement. Since usage of email will vary greatly across employees, what managers need to be aware of is a decrease in engagement, which means taking longer to respond and not sending as many emails. GSuite has ways of measuring this or your can build your own monitoring tool. There’s similar monitoring that can be done for GSuite’s calendar feature. 
 
@@ -33,19 +33,19 @@ For the most part, though, GSuite is not a tool for monitoring productivity. It�
 
 ### Slack: chat, group chat, video call, screenshare
 
-(https://slack.com/), in case you’re new to tech office culture in the late 2010’s, is an office chat tool that swiftly replaced Yammer as the de facto go-between for phone calls and emails. It's essentially a virtual water cooler and productivity suite rolled up in one.
+[Slack](https://slack.com/), in case you’re new to tech office culture in the late 2010’s, is an office chat tool that swiftly replaced Yammer as the de facto go-between for phone calls and emails. It's essentially a virtual water cooler and productivity suite rolled up in one.
 
 Slack activity cuts both ways. Employees who are constantly on Slack may actually be unproductive, socializing rather than working. A lot has been written about how being constantly tethered to a chat app can negatively impact office culture. There are options available to Slack admins to monitor engagement here too. 
 
 ### Zoom: video conference and screenshare
 
-Regular team video chats are a very effective tool. A  (https://zoom.us/) video call with the team goes a long way toward getting everyone on the same page and remaining connected to the company. 
+Regular team video chats are a very effective tool. A  [Zoom](https://zoom.us/) video call with the team goes a long way toward getting everyone on the same page and remaining connected to the company. 
 
 I do a daily 15 minute “stand up” video call where each of my remote teammates checks in and says what they did the previous day and what they plan to do today. As a manager, it’s very efficient, and it helps me feel connected to my team. 
 
 ### Trello, Asana: project management
 
-These are tools that are equally effective for centralized and decentralized teams. Even if we had an office, we’d still want to stay organized by using (https://www.trello.com), which is essentially an online shared post-it board (with some very clever enhancements.) 
+These are tools that are equally effective for centralized and decentralized teams. Even if we had an office, we’d still want to stay organized by using [Trello](https://www.trello.com), which is essentially an online shared post-it board (with some very clever enhancements.) 
 
 These simple yet powerful tools provide the equivalent of a white board. Combined with a video conference that allows you to share your screen, it’s about as effective a brainstorming tool as it gets. They make for a fully functional virtual conference room. 
 
@@ -53,7 +53,7 @@ These simple yet powerful tools provide the equivalent of a white board. Combine
 
 Proponents of distributed workforces aren’t hermits who never like to meet in person. On the contrary, remote teams make a point of scheduling a company meeting at least once a year. They take the money they’ve saved by not paying office rent and deploy a fraction of it on a nice resort. 
 
-The fully-remote companies in the (https://xenon.io) private equity portfolio that I’m involved with have team meetups all over the world, most recently in Hawaii, Las Vegas, Tokyo, and Sydney. The distributed team behind (http://Hunter.io) chooses a new location in Europe every year. Zapier meets in Hawaii. (http://Customer.io) and (https://www.baremetrics.com) fly employees out to exotic locales too.
+The fully-remote companies in the [Xenon Partners](https://xenon.io) private equity portfolio that I’m involved with have team meetups all over the world, most recently in Hawaii, Las Vegas, Tokyo, and Sydney. The distributed team behind [Hunter.io](http://Hunter.io) chooses a new location in Europe every year. Zapier meets in Hawaii. [Customer.io](http://Customer.io) and [Baremetrics](https://www.baremetrics.com) fly employees out to exotic locales too.
 
 When you don’t see your teammates face-to-face every day, these company retreats hold a deeper purpose. You feel more motivated to attend, engage, and make the most of that time together. I do this twice a year with my team. We’ve met in Las Vegas, where one of my employees lives, and in Walnut Creek, where I live. I think our next one will be in Arizona or New Mexico, just because.  
 
@@ -61,9 +61,9 @@ When you don’t see your teammates face-to-face every day, these company retrea
 
 Most of this operational technology is used by traditional companies as well. Remote or local, the days of printing out paychecks and handing them out on Fridays are long gone. Salaries for employees and contractors alike are paid electronically and it’s easier than ever to make those payments, administer benefits, and account for taxes. 
 
-### (http://Bill.com): invoicing and accounting
+### [Bill.com](http://Bill.com): invoicing and accounting
 
-I’ve used (http://Bill.com) at every large startup I’ve been involved with. It’s simply the best way to handle vendors, customers, and the related (and seemingly endless) accounting tasks involved with doing it right. (http://Bill.com) is not perfect but it’s about as good as it reasonably gets. 
+I’ve used [Bill.com](http://Bill.com) at every large startup I’ve been involved with. It’s simply the best way to handle vendors, customers, and the related (and seemingly endless) accounting tasks involved with doing it right. [Bill.com](http://Bill.com) is not perfect but it’s about as good as it reasonably gets. 
 
 ### Justworks, Gusto, Zenefits: payroll and insurance
 
@@ -81,7 +81,7 @@ There’s no longer a need for in-house servers. Even if you wanted to manage yo
 
 ### GitHub, Bitbucket: code repository
 
-A code repository is like the main file cabinet for all of your engineering output. (https://www.github.com) is the most well-known of them but there are others. 
+A code repository is like the main file cabinet for all of your engineering output. [GitHub](https://www.github.com) is the most well-known of them but there are others. 
 
 This system allows teams of pretty much any size to collaborate on libraries of code without stepping on each other’s toes. It’s a brilliant system that allows anyone to create, merge, and revert copies of the code. The entire history is logically recorded. Git, as the versioning system is called, is actually pretty magical. GitHub and others add a pleasant web interface to git and a bunch of complimentary features for tracking, commenting, and approving  code changes. 
 

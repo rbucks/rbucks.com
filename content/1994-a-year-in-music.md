@@ -17,7 +17,7 @@ I now understand how my mom felt in the 90s, reminiscing about her teenage years
 
 ![Snoop Dogg Doggystyle album cover]({static}/images/2023/03/SnoopDoggyDoggDoggystyle.jpg)
 
-The 90s music scene of my youth fell into two camps: grunge and rap. I liked some of the rap, but I loved grunge. It's worth noting that (https://en.wikipedia.org/wiki/In_Utero), Nirvana's last studio album, came out the same year as (https://en.wikipedia.org/wiki/Doggystyle), Snoop Dogg's first, in late 1993. Both albums were edgy, mature, and full of emotion. I consumed them with curiosity and awe. As an almost-teenager, these albums were portals into adulthood. Kurt Cobain and Snoop Dogg couldn't have been more different, but they shared with me the mysteries of adolescence. Listening to them made me feel older.
+The 90s music scene of my youth fell into two camps: grunge and rap. I liked some of the rap, but I loved grunge. It's worth noting that [In Utero](https://en.wikipedia.org/wiki/In_Utero), Nirvana's last studio album, came out the same year as [Doggystyle](https://en.wikipedia.org/wiki/Doggystyle), Snoop Dogg's first, in late 1993. Both albums were edgy, mature, and full of emotion. I consumed them with curiosity and awe. As an almost-teenager, these albums were portals into adulthood. Kurt Cobain and Snoop Dogg couldn't have been more different, but they shared with me the mysteries of adolescence. Listening to them made me feel older.
 
 I owned In Utero. I cherished it. I don't think my mom would have let me buy Doggystyle. I'm not sure I ever asked. Instead, I listened to that album at my best friend's house. We laughed at all the sexual references and pretended to understand the lifestyle that Snoop Dogg rapped about. We two suburban white boys couldn't have been further from South Central LA, but something about the stories, the bravado, and the sound of that music made us listen and feel it anyway. 
 
@@ -45,4 +45,4 @@ Weiland and Cornell are gods in comparison. There's nobody like them. They're th
 
 Finally, I have to give a shout-out to the two best albums from the MTV Unplugged series. Nirvana's came out in 1994, seven months after Kurt Cobain's death. Eric Clapton's Unplugged was released in 1992. Both albums got a lot of radio and air time on MTV, and each won a Grammy. 
 
-Fun trivia fact. Although (https://en.wikipedia.org/wiki/Nevermind), released in 1991, was a HUGE album, it didn't win anything. MTV Unplugged was Nirvana's only Grammy award.
+Fun trivia fact. Although [Nevermind](https://en.wikipedia.org/wiki/Nevermind), released in 1991, was a HUGE album, it didn't win anything. MTV Unplugged was Nirvana's only Grammy award.

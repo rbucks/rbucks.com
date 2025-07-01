@@ -5,7 +5,7 @@ Category: Business
 Tags: startups, career, hiring, entrepreneurship
 Summary: Why 40s-50s professionals should join startups: failure stigma is myth, experience is valued, and perks like equity and flexibility beat corporate jobs.
 
-In my role at (https://www.scripted.com), I meet a lot of mid-career professionals in their 40s and 50s who feel like they’re stuck in boring positions that don’t challenge them anymore. Despite this, they’re hesitant to join startups like ours because they think we’re too risky. We’re at the wrong stage of growth for them and they have stage fright.
+In my role at [Scripted](https://www.scripted.com), I meet a lot of mid-career professionals in their 40s and 50s who feel like they’re stuck in boring positions that don’t challenge them anymore. Despite this, they’re hesitant to join startups like ours because they think we’re too risky. We’re at the wrong stage of growth for them and they have stage fright.
 
 I understand this fear, but I think it’s misguided. In fact, I think people in the middle of their careers can benefit a lot more from startups than traditional companies. Hear me out! I have some good reasoning behind this.
 

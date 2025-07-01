@@ -23,5 +23,5 @@ I'd like for this concept to work. We need more creative solutions to the intra-
 
 This is called internalizing the externality. The scooter ride I took in San Francisco was cheap because these real costs were not born by me or the scooter company I was renting from. That's a flaw in the system that needs to change.  
 
-*Image credit:* (https://www.sltrib.com/news/politics/2018/07/30/scooter-wars-come-salt/)*
+*Image credit:* [Salt Lake Tribune](https://www.sltrib.com/news/politics/2018/07/30/scooter-wars-come-salt/)*
 *

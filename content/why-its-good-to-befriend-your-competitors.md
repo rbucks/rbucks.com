@@ -25,7 +25,7 @@ So that's how it went for a while. We each put up competitor matrices, passive-a
 
 But it was a slog. This was not a great market to be in and every little pivot we made led to another dead end. We hit $15,000/mo in revenue and stalled out. At some point, I convinced Sunil to let me reach out to Zhura. It would be the first of many times I contacted my direct business competitors. 
 
-That first email is lost to history, but I remember being very frank. I sent it directly to Eric MacDonald, the wealthy CEO, and complimented him on building a great product. I even acknowledged that the technology was better than ours, and I hinted that I knew we had more users (those public user URLs disappeared shortly afterward). I also asked if maybe there was a way to work together against a common enemy ((https://finaldraft.com/), in our case). 
+That first email is lost to history, but I remember being very frank. I sent it directly to Eric MacDonald, the wealthy CEO, and complimented him on building a great product. I even acknowledged that the technology was better than ours, and I hinted that I knew we had more users (those public user URLs disappeared shortly afterward). I also asked if maybe there was a way to work together against a common enemy ([Final Draft](https://finaldraft.com/), in our case). 
 
 Eric responded with a thoughtfulness that I would come to appreciate and know well. One conversation led to another, and soon we talked about joining forces. In another show of magnanimity, he accepted that the combined entity would use our name, and even offered to invest another $100,000 to give us the resources we'd need to grow. 
 
@@ -35,13 +35,13 @@ We hired our first full-time developer and got to work combining the assets.
 
 ## Scripted: Saw the writing on the wall
 
-Scripped eventually did one final pivot over to what became Scripted. We sold the remnants of Scripped to another competitor, (https://www.writerduet.com/) (still the redirect target from Scripped.com), and focused on our new content marketing marketplace. 
+Scripped eventually did one final pivot over to what became Scripted. We sold the remnants of Scripped to another competitor, [WriterDuet](https://www.writerduet.com/) (still the redirect target from Scripped.com), and focused on our new content marketing marketplace. 
 
 Things went really, really well for a while. We raised a ton of money, hired a great team, and managed to build a meaningful brand in the content marketing space. We positioned ourselves in between Upwork (Elance/Odesk at the time) and a Madison Avenue marketing agency. The idea was to offer software-powered high-quality writing that paid well, respected the writing process, and could scale up. 
 
-We weren't alone, of course. Just like our screenwriting launch with Zhura, another east coast competitor sprung up at the same time we launched Scripted. (https://contently.com/) was based in New York and focused their writer recruiting on journalists rather than screenwriters. They allowed public writer profiles and ours (at the time) were private. They charged a hefty annual subscription and we just took a percentage of the fees. They were positioned upmarket from us but close enough that it made me nervous. 
+We weren't alone, of course. Just like our screenwriting launch with Zhura, another east coast competitor sprung up at the same time we launched Scripted. [Contently](https://contently.com/) was based in New York and focused their writer recruiting on journalists rather than screenwriters. They allowed public writer profiles and ours (at the time) were private. They charged a hefty annual subscription and we just took a percentage of the fees. They were positioned upmarket from us but close enough that it made me nervous. 
 
-We coexisted peacefully, though, skirmishing a bit on the Google Ads front as most competitors do. I didn't reach out to them early on because they didn't come up on our sales calls. We had very different customers. There were plenty of others to worry about, especially (https://www.zerys.com/) and (https://www.writeraccess.com/).
+We coexisted peacefully, though, skirmishing a bit on the Google Ads front as most competitors do. I didn't reach out to them early on because they didn't come up on our sales calls. We had very different customers. There were plenty of others to worry about, especially [Zerys](https://www.zerys.com/) and [WriterAccess](https://www.writeraccess.com/).
 
 Conferences make it easy to meet the competition, and I remember the first time I went to Outbound, the big HubSpot user conference in Boston. They were all there and I sheepishly went up to their booths. I remember the Zerys founders were very reserved. They squinted at my badge and when they recognized my company they backed away, offended that I would even approach them. I tried to make small talk. They wouldn't have any of it. I walked away feeling mad. 
 
@@ -69,7 +69,7 @@ Toofr is an email-finding app. Punch in a person's name and what company they wo
 
 Hunter.io was and still is the best in the business. I was always impressed and intimidated by them. I reached out a few times over the years. I think they ignored me once or twice but we did have a friendly exchange when I finally told them I wanted to sell Toofr and shared my numbers. They concluded it wasn't worth the hassle. 
 
-(https://findthatlead.com/en) and (https://www.lusha.com/) are two others I got to know. I got along particularly well with Gerard at FindThatLead. He was hilarious, happy to joke around, throwing out compliments about how great I am, and Toofr is, and how they could never afford to buy it. I don't know how serious he was but I enjoyed that relationship. The Lusha guys were more serious. I'm pretty sure they reached out to me, perhaps checking my interest in acquiring them, but Toofr was a cash-flow business and couldn't buy anything. When I flipped it around and asked if they would buy Toofr, I learned they were in a similar situation. 
+[FindThatLead](https://findthatlead.com/en) and [Lusha](https://www.lusha.com/) are two others I got to know. I got along particularly well with Gerard at FindThatLead. He was hilarious, happy to joke around, throwing out compliments about how great I am, and Toofr is, and how they could never afford to buy it. I don't know how serious he was but I enjoyed that relationship. The Lusha guys were more serious. I'm pretty sure they reached out to me, perhaps checking my interest in acquiring them, but Toofr was a cash-flow business and couldn't buy anything. When I flipped it around and asked if they would buy Toofr, I learned they were in a similar situation. 
 
 I eventually sold Toofr to a private equity shop that operated a competing product. Once again, I shared a lot of detail and was entirely vulnerable and it paid off (until it didn't, but that's another story). My friends, technically my competition, were happy for me. They asked for advice about how they could get similar exits. 
 
@@ -87,7 +87,7 @@ Ultimately, to get this deal done at a multiple my board would accept, I need to
 
 So that's what I did. I set about building relationships knowing that I had around a year to become friends and try to get a deal done. I tracked my conversations, noting how long it's been since my last outreach. I had a bunch of calls, demos, and emails with other CEOs and founders. For the most part, they were great. Very friendly, helpful, and in a few cases it led immediately to partnership opportunities. Our marketing teams connected and we did joint webinars and email campaigns. These activities made it easier to talk M&A later on. 
 
-MightySignal eventually sold not to Mixrank but to Airnow, a product that was very complimentary to MightySignal. The relationship began more than a year before when I reached out about a data product we wanted to incorporate into MightySignal. It turned out they wanted our data too, and then it turned out they'd rather buy the whole company than lease the data. (https://mobilemarketingreads.com/airnow-acquires-mightysignal-for-4-5-million/). 
+MightySignal eventually sold not to Mixrank but to Airnow, a product that was very complimentary to MightySignal. The relationship began more than a year before when I reached out about a data product we wanted to incorporate into MightySignal. It turned out they wanted our data too, and then it turned out they'd rather buy the whole company than lease the data. [this acquisition announcement](https://mobilemarketingreads.com/airnow-acquires-mightysignal-for-4-5-million/). 
 
 ## How to make useful relationships with competitors
 

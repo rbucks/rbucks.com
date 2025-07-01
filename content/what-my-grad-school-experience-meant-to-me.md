@@ -15,7 +15,7 @@ Much of this stretch between Harvard and MIT has remained the same. And the weat
 
 I received my acceptance email from the admissions office at the Harvard Kennedy School of Government  on March 4, 2006, just over 13 years ago. 
 
-This was obviously a big deal for me and my parents. I'd be the first in my family to attend a school like Harvard and for my mom it was a dream come true. She'd encouraged me to apply to Harvard when I was in high school. I did and got waitlisted, but in my heart of hearts I wanted to go to (https://nature.berkeley.edu/). I told Harvard College to bugger off, and I made a mental note to do everything I could to build a competitive application for a Harvard grad school program instead.
+This was obviously a big deal for me and my parents. I'd be the first in my family to attend a school like Harvard and for my mom it was a dream come true. She'd encouraged me to apply to Harvard when I was in high school. I did and got waitlisted, but in my heart of hearts I wanted to go to [Cal](https://nature.berkeley.edu/). I told Harvard College to bugger off, and I made a mental note to do everything I could to build a competitive application for a Harvard grad school program instead.
 
 The path from August 2000, when I matriculated to Cal, to February 2006, when I submitted my Harvard Kennedy School admission application for the Master in Public Policy program, was a long one. I worked hard at UC Berkeley, both in and out of the classroom, to differentiate myself. My grades were good but not among the best. I knew I'd need something special to catch the eye of admissions officers at Harvard, so I focused on environmental activities and leadership in those circles. 
 

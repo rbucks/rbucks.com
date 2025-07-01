@@ -13,9 +13,9 @@ I like small. I like lean. I like efficient, balanced, in the black rather than 
 
 So I began to dig around. As a lifelong Democratic candidate voter, raised in a liberal family, I never once considered changing parties. As a result, I didn’t know specifically what the California Republican Party stood for.
 
-So I decided to find out. I read the brief platform of the California Republican Party (as of 2015, via (https://ballotpedia.org/Republican_Party_of_California#Platform)) and I had my answer. I’m not a Republican, not even a *California* Republican.
+So I decided to find out. I read the brief platform of the California Republican Party (as of 2015, via [Ballotpedia](https://ballotpedia.org/Republican_Party_of_California#Platform)) and I had my answer. I’m not a Republican, not even a *California* Republican.
 
-Here are my rebuttals to a few of the items on the California Republican Party platform. For the full California Republican platform, you can (https://ballotpedia.org/Republican_Party_of_California#Platform).
+Here are my rebuttals to a few of the items on the California Republican Party platform. For the full California Republican platform, you can [read it on Ballotpedia](https://ballotpedia.org/Republican_Party_of_California#Platform).
 
 ### Aging Californians
 

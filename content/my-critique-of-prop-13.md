@@ -13,7 +13,7 @@ So you could say I've held a healthy bit of skepticism on this measure and its 4
 
 Prop 13 was approved by California voters in 1978. To get at the heart of why Prop 13 still matters 40 years later, it's important to understand why its biggest change, the uniform property tax and state control of its allocation, was so disruptive. 
 
-Prior to 1978, the relationship between the state and local (city and county) governments was governed by two key principals: (http://www.ppic.org/content/pubs/op/OP_1207EBOP.pdf). It's important to understand what these mean.
+Prior to 1978, the relationship between the state and local (city and county) governments was governed by two key principals: [Public Policy Institute of California](http://www.ppic.org/content/pubs/op/OP_1207EBOP.pdf). It's important to understand what these mean.
 
 Home rule power states that local governments can make land use decisions and build and operate the public works required to execute on those decisions. Separation of revenue sources goes back to the 1910 Separation of Sources Act which gives local governments the authority to levy their own taxes and spend the receipts as they (and the voters) wish. It is the essence of the parent-child relationship of state and local governments. As citizens, we are simultaneously Californians and residents of San Diego, Humboldt, or unincorporated Walnut Creek (a.k.a. Contra Costa County). This dual citizenship, so to speak, had been maintained peacefully through the principles of home rule power and separation of sources because the boundaries were explicitly drawn and all parties adhered to them. 
 

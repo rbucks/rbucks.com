@@ -9,7 +9,7 @@ This is a long post. And to make my long post even longer, I begin with a preamb
 
 ---
 
-I visited my mom recently and spent a lot of time in her house. She entertained my kids and my wife talked for a while with my stepdad. I stumbled upon a pamphlet I recognized while rummaging through magazines on the side table by her couch. It was for an awards banquet at UC Berkeley in 2005. I was a recipient of the (https://awards.berkeley.edu/ucbf-award-archives), a special recognition for anyone doing interesting stuff with alumni. I had organized an alumni association for the College of Natural Resources, and that got the attention of the award committee. 
+I visited my mom recently and spent a lot of time in her house. She entertained my kids and my wife talked for a while with my stepdad. I stumbled upon a pamphlet I recognized while rummaging through magazines on the side table by her couch. It was for an awards banquet at UC Berkeley in 2005. I was a recipient of the [UC Berkeley Foundation Award](https://awards.berkeley.edu/ucbf-award-archives), a special recognition for anyone doing interesting stuff with alumni. I had organized an alumni association for the College of Natural Resources, and that got the attention of the award committee. 
 
 I remember that night. I invited my parents, my [grandfather]({filename}in-memory-of-irving-katuna.md), and Lisa Bauer, my mentor from the Campus Recycling and Refuse Services office where I worked as a student. I was really happy and tickled to continue receiving awards from Cal. Plus, I knew it would look good on my [graduate school]({filename}what-my-grad-school-experience-meant-to-me.md) application. 
 
@@ -17,7 +17,7 @@ Back at my mom's house, I read through my bio for the Young Bear Award and smile
 
 I was indeed. Two hundred words of every conceivable environmental activity were packed into that description. It sounded like I never took a regular class. I did take classes, but I took them because I had to. And since I was an environmental sciences major, I took them because they were interesting. But I had a sense of urgency then. Global warming was coming and I needed my peers to become good environmental stewards, even if it just meant taking shorter showers and separating trash from recyclables. 
 
-In time, that passion faded. Al Gore produced *An Inconvenient Truth*, Leonard DiCaprio rode a Prius to the Oscars, and all of a sudden the whole world was talking about global warming. I figured the job was done. The former Vice President beat me to it. I quit the environmental organizing job I took right after college and looked to the private sector. I moved to LA and joined (https://en.wikipedia.org/wiki/Navigant_Consulting). I stopped thinking about environmental activism. 
+In time, that passion faded. Al Gore produced *An Inconvenient Truth*, Leonard DiCaprio rode a Prius to the Oscars, and all of a sudden the whole world was talking about global warming. I figured the job was done. The former Vice President beat me to it. I quit the environmental organizing job I took right after college and looked to the private sector. I moved to LA and joined [Navigant Consulting](https://en.wikipedia.org/wiki/Navigant_Consulting). I stopped thinking about environmental activism. 
 
 Fast-forward 15 years and boy... Could I have been more wrong? Al Gore didn't save us. Neither did Leo. And all I did in the meantime was get a couple of graduate degrees and start some B2B web companies. If I'd stuck with environmental work, I know what I would do right now. 
 
@@ -60,13 +60,13 @@ A heat pump is a refrigerator in reverse. It uses the thermodynamic properties o
 
 When it's hot *outside*, the system runs in reverse, using the same principles as your refrigerator and freezer to cool you off. Heat from the inside of your house gets absorbed by the refrigerant and again using thermodynamic magic, that fluid gets cooled and produces cool air. The heat pump unit does both the heating and the cooling and can toggle back and forth (but can't do both simultaneously). 
 
-I asked my friend Wei-Tai Kwok about his decarbonization project and he referred me to a (https://www.sustainablelafayette.org/single-post/why-we-are-removing-gas-from-our-home-and-going-all-electric) about his project. I asked him how well the heat pump units heat and cool his home; he said they work great and they're really quiet. He had no regrets.  
+I asked my friend Wei-Tai Kwok about his decarbonization project and he referred me to a [blog post about his electrification project](https://www.sustainablelafayette.org/single-post/why-we-are-removing-gas-from-our-home-and-going-all-electric) about his project. I asked him how well the heat pump units heat and cool his home; he said they work great and they're really quiet. He had no regrets.  
 
 I wanted to learn more about this technology, and I found this:
 
 > In a study by the city and county of San Francisco of ways to reduce emissions 80 percent by 2050, researchers found widespread adoption of electric heat pumps to be the “single most important lever considered.” Heat pumps are currently the **most efficient available technology for space heating** in the commercial and residential sectors. Although heat pumps have high initial capital costs, high efficiency and minimal maintenance make air source heat pumps a **positive financial investment** over 20 years. 
 > 
-> <cite>(https://www.c2es.org/document/decarbonizing-u-s-buildings/) by Jessica Leung</cite>
+> <cite>[Center for Climate and Energy Solutions report](https://www.c2es.org/document/decarbonizing-u-s-buildings/) by Jessica Leung</cite>
 
 I asked my general contractor about switching out our furnace system and putting in a heat pump. We were still pouring foundations at the time, so it wasn't too late to make the change, but he was skeptical about the power draw. 
 
@@ -78,7 +78,7 @@ My contractor relented. I could get the heat pumps!
 
 I spoke more with Bill and I learned that he'd been pushing heat pumps on my contractor for a while. He was happy to get a large residential system installed. He said half of his jobs involve heat pumps now and they last a really long time with far less maintenance. 
 
-Furthermore, with a typical (https://www.fujitsugeneral.com/us/residential/what-is-a-mini-split.html) system we could have temperature-controlled zones throughout the house. My kids could adjust their own temperatures in their rooms and we could turn it off completely in the common rooms overnight. Our last system was a single zone, so in the winter we were heating an empty living room, hallways, and kitchen all night. I loved the idea of having all these zones so we only heat and cool small parts of our house at any given time. I told him let's do it. 
+Furthermore, with a typical [mini-split](https://www.fujitsugeneral.com/us/residential/what-is-a-mini-split.html) system we could have temperature-controlled zones throughout the house. My kids could adjust their own temperatures in their rooms and we could turn it off completely in the common rooms overnight. Our last system was a single zone, so in the winter we were heating an empty living room, hallways, and kitchen all night. I loved the idea of having all these zones so we only heat and cool small parts of our house at any given time. I told him let's do it. 
 
 I got the quote a week later and we needed to pay $20,000 extra for the system we talked about. I don't know how much of that was my desire for five zones or the complexity of wiring the system upstairs where there's no attic or crawl space, but I didn't protest. I wanted the better system that would use less energy and no fossil fuels. Since it was still early in our renovation process I could stomach the difference. It would have been much harder to do towards the end. We agreed to the extra cost. 
 
@@ -116,7 +116,7 @@ Our system does two great things: it uses no gas, and it heats and cools with pr
 
 ## Heating water without burning gas
 
-Heating water with a heat pump is a much easier proposition. We originally had a typical gas-fired 80-gallon water heater and after some quick research, I found a (https://www.homedepot.com/p/Rheem-Performance-Platinum-80-Gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE80T10H45U0/312741506) that I liked at Home Depot and had it delivered. 
+Heating water with a heat pump is a much easier proposition. We originally had a typical gas-fired 80-gallon water heater and after some quick research, I found a [Rheem heat pump water heater](https://www.homedepot.com/p/Rheem-Performance-Platinum-80-Gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE80T10H45U0/312741506) that I liked at Home Depot and had it delivered. 
 
 ![Traditional gas water heater specifications]({static}/images/Screen-Shot-2021-08-24-at-9.26.15-PM-1024x468.png)
 *Traditional gas*
@@ -130,7 +130,7 @@ The cost difference here was about $1,300. However, the energy efficiency saves 
 
 Because the water heater system only runs in one direction (transfer heat from the air to the water), the appliance constantly exhausts cool air. Therefore, in the summer months our water heater will cool down the garage. We didn't put any AC vents to the garage so this will be a really nice perk when it's 100 degrees outside. I don't like hot, stuffy garages.  
 
-As for performance, my friend Wei-Tai had no qualms. The water heater can keep up with his family just fine, and since my family doesn't take long showers, I suspect we'll be fine too -- the (https://www.homedepot.com/p/Rheem-Performance-Platinum-80-Gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE80T10H45U0/312741506) are very positive. 
+As for performance, my friend Wei-Tai had no qualms. The water heater can keep up with his family just fine, and since my family doesn't take long showers, I suspect we'll be fine too -- the [customer reviews](https://www.homedepot.com/p/Rheem-Performance-Platinum-80-Gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE80T10H45U0/312741506) are very positive. 
 
 ## Cooking without burning gas
 
@@ -142,11 +142,11 @@ I couldn't imagine swapping out my gas range for an electric one. This was a bri
 
 Here's what we got:
 
-- (https://www.bosch-home.com/us/productslist/cooking-baking/cooktops/induction-cooktops/NIT8669UC)- (https://www.bosch-home.com/us/productslist/cooking-baking/wall-ovens/single-ovens/HBL5451UC)- (https://www.bosch-home.com/us/productslist/cooking-baking/wall-ovens/speed-ovens/HMC80152UC)
+- [Bosch induction cooktop](https://www.bosch-home.com/us/productslist/cooking-baking/cooktops/induction-cooktops/NIT8669UC)- [Bosch wall oven](https://www.bosch-home.com/us/productslist/cooking-baking/wall-ovens/single-ovens/HBL5451UC)- [Bosch speed oven](https://www.bosch-home.com/us/productslist/cooking-baking/wall-ovens/speed-ovens/HMC80152UC)
 
 Yes, we went Bosch all the way. That's because we didn't buy anything new! All of our appliance purchases came through Craigslist from people who changed their minds or somehow wound up with two appliances. Their misfortune was our gain -- especially since supply chain backups were going to cause major delays. It was nice to drive to someone's house and pick up a box with our appliance and take it home. (And if you're wondering -- all purchases turned out to be legit.)
 
-Our ovens do not use heat pumps. These are regular old electric ovens with heating elements and fans that do the heating work. I think this is because heat pumps don't get *that* hot. Shower water is going to be 110 degrees or less. Anything above 140 will burn your skin within five seconds! A heat pump can get you there, but it can't reach the 350 or 500 degrees needed for a convection oven. This technology is back to basics, but that's fine. It's still electric, and we (https://www.mcecleanenergy.org/100-renewable/) to get our energy from renewable sources.  
+Our ovens do not use heat pumps. These are regular old electric ovens with heating elements and fans that do the heating work. I think this is because heat pumps don't get *that* hot. Shower water is going to be 110 degrees or less. Anything above 140 will burn your skin within five seconds! A heat pump can get you there, but it can't reach the 350 or 500 degrees needed for a convection oven. This technology is back to basics, but that's fine. It's still electric, and we [pay a premium](https://www.mcecleanenergy.org/100-renewable/) to get our energy from renewable sources.  
 
 Our cooktop doesn't use heat pumps either. Instead, it uses *magnets*. But like a heat pump, it feels like magic. Behind the scenes, induction cooktops leverage the reaction of a ferrous material in the presence of a magnetic field to produce heat. Basically, iron molecules become really active and produce electronic friction which makes the pan heat up. The induction cooktop *itself* doesn't get hot -- it makes the *pan* get hot. This is what makes it super efficient.
 
@@ -162,7 +162,7 @@ Here's a really good video I found from a chef who has adopted induction cooking
 
 This one is aspirational. For now, we're sticking with our gas dryer because we recently bought it and I couldn't find a heat pump dryer that would match our washer dimensions. Call me vain, but I didn't want our washer and dryer to have different heights. 
 
-However, when the time comes, I will absolutely positively replace our gas dryer with -- you guessed it -- a heat pump dryer. I've (https://www.homedepot.com/p/Samsung-4-0-cu-ft-Capacity-White-24-Stackable-Electric-Ventless-Heat-Pump-Dryer-ENERGY-STAR-Certified-DV22N6800HW/307685530) and it looks amazing. No vents needed, just a standard outlet. The dry times take a bit longer, presumably because of the lower heat temperature, but that's fine by me. We're usually not in a rush when we run our dryer anyway. 
+However, when the time comes, I will absolutely positively replace our gas dryer with -- you guessed it -- a heat pump dryer. I've [seen this Samsung heat pump dryer](https://www.homedepot.com/p/Samsung-4-0-cu-ft-Capacity-White-24-Stackable-Electric-Ventless-Heat-Pump-Dryer-ENERGY-STAR-Certified-DV22N6800HW/307685530) and it looks amazing. No vents needed, just a standard outlet. The dry times take a bit longer, presumably because of the lower heat temperature, but that's fine by me. We're usually not in a rush when we run our dryer anyway. 
 
 This decision was a toss up between throwing or giving away a 2-year-old gas dryer to replace it with a new heat pump dryer, and that decision triggering the need (vain, again) to get a matching washer. That seemed a bit indulgent. We already have gas pipes in our home and we could build the exhaust vent into our laundry room. At this point I had already eaten the extra cost of our heat pump air system and I had buyer's fatigue. We didn't spring for the matching new washer / heat pump dryer combo. Instead, I'll look forward to adding this appliance  to our gas-free family when our current ones wear out. 
 
@@ -172,11 +172,11 @@ It's pretty simple, really. In the long-run, it costs less to build, it costs le
 
 ### It costs less to build
 
-- E3 report "(https://www.ethree.com/wp-content/uploads/2019/04/E3_Residential_Building_Electrification_in_California_April_2019.pdf)", Apr. 2019, indicates that new all-electric residential construction will be less expensive as compared to homes with gas heating systems. - San Jose's new (https://www.sanjoseca.gov/home/showpublisheddocument/65202/637377490416200000) includes the following statement: "In most cases, all-electric buildings are less costly to build. The service and piping for natural gas is an expense that is often ignored when comparing the cost of gas and electric equipment. An all-electric building starts without that expense, so even when electric equipment might be more expensive in some cases than its natural gas counterparts, that cost is offset by the gas infrastructure savings."
+- E3 report "[E3 Residential Building Electrification in California](https://www.ethree.com/wp-content/uploads/2019/04/E3_Residential_Building_Electrification_in_California_April_2019.pdf)", Apr. 2019, indicates that new all-electric residential construction will be less expensive as compared to homes with gas heating systems. - San Jose's new [building electrification policy](https://www.sanjoseca.gov/home/showpublisheddocument/65202/637377490416200000) includes the following statement: "In most cases, all-electric buildings are less costly to build. The service and piping for natural gas is an expense that is often ignored when comparing the cost of gas and electric equipment. An all-electric building starts without that expense, so even when electric equipment might be more expensive in some cases than its natural gas counterparts, that cost is offset by the gas infrastructure savings."
 
 ### It costs less to run
 
-- Frontier Energy's (https://peninsulareachcodes.org/wp-content/uploads/2019/10/Electrification-Cost-Story-Infographic_v8.1.pdf) showed that electric heating systems for single-family homes cost less to construct, and less to operate, as compared to gas heating systems.- Sacramento's new (https://www.cityofsacramento.org/-/media/Corporate/Files/CDD/Planning/Major-Projects/Electrification-of-New-Construction/New-Building-Electrification-FAQ_Updated_5_25_21.pdf?la=en) includes the following statement: "Cost Savings: All-electric new buildings do not require the installation of gas infrastructure, reducing capital costs. New, and existing all-electric buildings can benefit from reduced operating costs. Studies have shown that cost savings for all electric construction can range, with potential savings upwards of tens of thousands of dollars, depending on the type of construction". - Wei-Tai Kwok's gas-free renovation resulted in lower overall cost. He recorded his energy costs and split between gas and electric before and after the conversion in a very (https://www.sustainablelafayette.org/single-post/home-electrification-part-4-selecting-and-installing-a-heat-pump-heating-cooling-system). 
+- Frontier Energy's [Electrification Cost Story infographic](https://peninsulareachcodes.org/wp-content/uploads/2019/10/Electrification-Cost-Story-Infographic_v8.1.pdf) showed that electric heating systems for single-family homes cost less to construct, and less to operate, as compared to gas heating systems.- Sacramento's new [New Building Electrification FAQ](https://www.cityofsacramento.org/-/media/Corporate/Files/CDD/Planning/Major-Projects/Electrification-of-New-Construction/New-Building-Electrification-FAQ_Updated_5_25_21.pdf?la=en) includes the following statement: "Cost Savings: All-electric new buildings do not require the installation of gas infrastructure, reducing capital costs. New, and existing all-electric buildings can benefit from reduced operating costs. Studies have shown that cost savings for all electric construction can range, with potential savings upwards of tens of thousands of dollars, depending on the type of construction". - Wei-Tai Kwok's gas-free renovation resulted in lower overall cost. He recorded his energy costs and split between gas and electric before and after the conversion in a very [detailed cost analysis](https://www.sustainablelafayette.org/single-post/home-electrification-part-4-selecting-and-installing-a-heat-pump-heating-cooling-system). 
 
 ### It's less dangerous
 

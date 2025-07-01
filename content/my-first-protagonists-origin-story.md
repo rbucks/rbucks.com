@@ -7,7 +7,7 @@ Summary: Origin story for my novel's protagonist: seven-year-old Ben's Air Jorda
 
 In case you weren't aware, about a year ago I started writing a novel. It's bound to be a tragedy. In the end, my protagonist will die a lonely death. Readers will know this upfront; the opening scene is his terminal cancer diagnosis. 
 
-There's a lot more to it, of course, and I've read (https://www.amazon.com/Story-Genius-Science-Outlining-Riveting/dp/1607748894/) by Lisa Cron to help me think through the "third rail" of my novel, the essence of the story, the reason why it matters. My initial draft had two-dimensional characters, driven by plot, without the depth that would really make this story shine. I'm now trying to fix that. 
+There's a lot more to it, of course, and I've read [Story Genius](https://www.amazon.com/Story-Genius-Science-Outlining-Riveting/dp/1607748894/) by Lisa Cron to help me think through the "third rail" of my novel, the essence of the story, the reason why it matters. My initial draft had two-dimensional characters, driven by plot, without the depth that would really make this story shine. I'm now trying to fix that. 
 
 A critical exercise that Lisa Cron requires is to write up an origin story that sets up the a core belief held by the protagonist. This is his third rail, the core code that he lives by and gets tested throughout the story. 
 

@@ -8,9 +8,9 @@ Summary: First marathon in New Orleans 2003: brutal lessons in preparation, paci
 ![2003 Mardi Gras Marathon finisher]({static}/images/march-128_orig.jpg)
 *2003 Mardi Gras Marathon finisher*
 
-I ran my first marathon in college. It was my junior year and I decided to take a brief respite from alcohol (I would (https://medium.com/@rbucks/the-highs-and-lows-of-3-months-with-no-alcohol-1edebe724036) about fifteen years later) and train for a marathon. There was no impetus behind it. I just wanted to do it for me and I decided to do it alone.
+I ran my first marathon in college. It was my junior year and I decided to take a brief respite from alcohol (I would [take another break from alcohol](https://medium.com/@rbucks/the-highs-and-lows-of-3-months-with-no-alcohol-1edebe724036) about fifteen years later) and train for a marathon. There was no impetus behind it. I just wanted to do it for me and I decided to do it alone.
 
-I picked the (http://www.runrocknroll.com/new-orleans/) in New Orleans, trained as best I could, and flew out to NOLA with just a backpack and some running shoes. I felt prepared, excited, and anxious to push myself to the outer limits. At the time I'd never actually run 26.2 miles. My training topped out at roughly 3.5 hours of straight running. This was in 2003, before we carried GPS-enabled maps in our pockets, so I wasn't sure exactly how far I my training runs were. I guessed based on how much time it took.
+I picked the [Rock 'n' Roll Marathon](http://www.runrocknroll.com/new-orleans/) in New Orleans, trained as best I could, and flew out to NOLA with just a backpack and some running shoes. I felt prepared, excited, and anxious to push myself to the outer limits. At the time I'd never actually run 26.2 miles. My training topped out at roughly 3.5 hours of straight running. This was in 2003, before we carried GPS-enabled maps in our pockets, so I wasn't sure exactly how far I my training runs were. I guessed based on how much time it took.
 
 It turned out this was not a good way to train. I ran in the Berkeley hills and developed calf muscles that cramped up in the flat southern terrain around New Orleans. I wasn't prepared for the heat or humidity. I remember route was in a figure-8 shape, with each loop being 13.1 miles so the half-marathoners could wave good-bye at that route intersection in the middle.
 

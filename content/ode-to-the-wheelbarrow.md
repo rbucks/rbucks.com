@@ -9,7 +9,7 @@ The wheelbarrow cleverly combines two ancient technologies, the wheel and the le
 
 I mean really, look at this thing.
 
-!(https://i.pinimg.com/originals/44/75/60/4475604f5fc6f95244b5aef24a77c24a.jpg)
+![Classic wheelbarrow design]({static}/images/wheelbarrow-classic.jpg)
 
 The leverage you get comes from the long handles. Keeping the load near the fulcrum allows you to lift the load off the ground with less effort. Since the purpose of a wheelbarrow is to move a load along a plane, not lift it up high, its design is perfect. 
 

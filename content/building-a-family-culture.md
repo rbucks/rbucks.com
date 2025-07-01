@@ -23,7 +23,7 @@ In an office these are pretty standard:
 
 - Are distractions allowed in meetings?- Do meetings start and end on time? - How are conflicts resolved?- Is it okay to be emotional?- How promptly are requests handled?
 
-I’ve ({filename}my-greatest-hits-at-scripted.md) a lot about company culture. One of my side projects, (https://www.enps.co), is a way to measure it. Now that I'm in an office again, although({filename}back-to-the-office-and-back-again.md), I'm conscious of the cultural norms that I'm creating. I'm trying to be deliberate about it, even the "do as I say, not as I do" norms that I wish I could avoid. Resistance is futile, though. The norm setting is unavoidable. 
+I’ve ({filename}my-greatest-hits-at-scripted.md) a lot about company culture. One of my side projects, [eNPS.co](https://www.enps.co), is a way to measure it. Now that I'm in an office again, although({filename}back-to-the-office-and-back-again.md), I'm conscious of the cultural norms that I'm creating. I'm trying to be deliberate about it, even the "do as I say, not as I do" norms that I wish I could avoid. Resistance is futile, though. The norm setting is unavoidable. 
 
 Culture is always set by the CEO. Every one of the bullet points above stem directly from how the CEO conducts himself. 
 

@@ -5,7 +5,7 @@ Category: Politics
 Tags: local-politics, advice, leadership, government
 Summary: Key insights from Sacramento visits: standing out in politics is simple - just follow through on commitments and support existing officials' agendas.
 
-I recently drove out to Sacramento to try to see some old friends and public officials I know. The folks on my list were Assemblymembers (https://a19.asmdc.org/),  (https://a16.asmdc.org/), and (https://a45.asmdc.org/). I tried to track down (https://twitter.com/jason_elliott), my friend from grad school who is now Governor Newsom's Chief Deputy Cabinet Secretary, but our timing was off, so I called up another grad school friend, (https://twitter.com/ZachNeumannCO), instead. 
+I recently drove out to Sacramento to try to see some old friends and public officials I know. The folks on my list were Assemblymembers [Phil Ting](https://a19.asmdc.org/), [Rebecca Bauer-Kahan](https://a16.asmdc.org/), and [Jesse Gabriel](https://a45.asmdc.org/). I tried to track down [Jason Elliott](https://twitter.com/jason_elliott), my friend from grad school who is now Governor Newsom's Chief Deputy Cabinet Secretary, but our timing was off, so I called up another grad school friend, [Zach Neumann](https://twitter.com/ZachNeumannCO), instead. 
 
 It felt good to toggle my attention back over to local and state politics for a while. It'd been years since my last trip to Sacramento and I'd forgotten how busy it gets. Close to the capitol, it's all suits and ties and handshakes and ad hoc discussions between people carrying binders and iPads. It reminded me how much political infrastructure the state has. It also made me feel small. How can I make a dent in something this big?
 

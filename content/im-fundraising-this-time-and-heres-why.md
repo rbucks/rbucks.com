@@ -37,7 +37,7 @@ Finally, I hit upon Shovels.
 
 - **It's big**: on multiple levels, but for one, this dataset doesn't exist anywhere and it will take a TON of work -- that alone proves its size to me
 
-- **Be green**: our first two customers are climate tech 🌲
+- **Be green**: our first two customers are climate tech companies
 
 - **Be local**: building permits are *inherently *local -- better yet, it incorporates local government, which I also care about
 
@@ -51,7 +51,7 @@ What I disliked about venture in the past was this vicious cycle of ever-higher 
 
 Knowing this, and knowing what austerity feels like too, I want the venture capital. I have conviction that what I do next will be big. If I can't convince a VC that my idea is big enough, then I need to reassess my pitch or, worse, reconsider my idea. Venture capital has become a yard stick for me this time. I want VC to prove that my idea is big enough. 
 
-Playing devil's advocate for a moment, can I be wrong about this? Aren't I putting too much weight on VC, hinging my perception of my idea on what one group of people think? I could argue that VC is too short-sighted, not creative enough, too focused on shiny objects (web3! AI! NFT!) but I don't think that's true. I read this post from Y Combinator calling for climate tech companies, and it's one of the most (https://www.ycombinator.com/blog/rfs-climatetech) about the climate tech opportunity. It reassured me that VCs get it.  
+Playing devil's advocate for a moment, can I be wrong about this? Aren't I putting too much weight on VC, hinging my perception of my idea on what one group of people think? I could argue that VC is too short-sighted, not creative enough, too focused on shiny objects (web3! AI! NFT!) but I don't think that's true. I read this post from Y Combinator calling for climate tech companies, and it's one of the most [thoughtful pieces](https://www.ycombinator.com/blog/rfs-climatetech) about the climate tech opportunity. It reassured me that VCs get it.  
 
 Climate is mainstream, and construction tech is coming up.  Shovels is positioned between two big market opportunities that will attract a lot of capital. The constraint, therefore, is my ability to pitch and position what we're working on. If I'm not successful in partnering with a VC firm, it's my fault, not theirs.
 
@@ -59,7 +59,7 @@ The typical case for not taking venture capital is the expense. VCs take equity,
 
 ## The case for debt
 
-I want to briefly touch on the case for debt. I'm reading a great book right now, (https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290). My takeaway so far (just 11% in, according to Kindle) is that debt is a natural relationship between members of society and society itself. Debt is ancient, and it's necessary. It's unavoidable too; taxes are a form of debt payment. 
+I want to briefly touch on the case for debt. I'm reading a great book right now, [Debt: The First 5,000 Years](https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290). My takeaway so far (just 11% in, according to Kindle) is that debt is a natural relationship between members of society and society itself. Debt is ancient, and it's necessary. It's unavoidable too; taxes are a form of debt payment. 
 
 So, would I take out a loan to build Shovels? Not right now, no. There's too much risk in this early stage and I don't want the obligation to pay the loan back or the risk of suffering the consequences of bankruptcy. Shovels doesn't have enough revenue to de-risk taking a loan. I would be very open to this form of financing at a later stage, though. 
 

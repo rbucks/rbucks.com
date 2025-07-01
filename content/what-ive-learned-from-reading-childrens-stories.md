@@ -35,7 +35,7 @@ Some of my favorite novelists construct long sentences with a lot of asides and 
 
 If you want to write great marketing content, though, don’t turn to James Joyce for inspiration. You’ll just push most of your readers away.
 
-Instead, try learning from a (http://www.sfasu.edu/echl/documents/Goodnight_Moon.pdf). Brown keeps her language very simple, yet it explodes with precision and visual words. Check out the first five lines from her book:
+Instead, try learning from a [children's author like Margaret Wise Brown](http://www.sfasu.edu/echl/documents/Goodnight_Moon.pdf). Brown keeps her language very simple, yet it explodes with precision and visual words. Check out the first five lines from her book:
 
 > In the great green room
 > 
@@ -51,7 +51,7 @@ It’s easy to miss how elegant her writing is, but look at how much she has giv
 
 As a writer, you might want to push yourself by arranging longer, complex sentences that show off your abilities. I get that, but marketing content is not the right place to show off. When you’re writing this type of material, you’re trying to reach the average consumer, not a niche group of readers interested in watching you perform grammatical gymnastics.
 
-Consider that only (http://www.statisticbrain.com/number-of-american-adults-who-cant-read/). The majority (44 percent) read at an intermediate level; 29 percent read at a basic level; 4 percent read below the basic level.
+Consider that only [14% of American adults can read at a proficient level](http://www.statisticbrain.com/number-of-american-adults-who-cant-read/). The majority (44 percent) read at an intermediate level; 29 percent read at a basic level; 4 percent read below the basic level.
 
 If you’re really writing for the average person, then you should try to compose sentences that a fifth or sixth grader can understand.
 

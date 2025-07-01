@@ -23,7 +23,7 @@ Pinecrest is grilling at its most rural: a granite fire pit, cedar and pine logs
 ![The Buckley wood fire grill]({static}/images/2017/05/cf070-1kfkyskffhj5iuoc5swlqlg.jpeg)
 *The Buckley wood fire grill*
 
-The gas grill I have now, a (https://www.lowes.com/pd/Weber-Genesis-E-310-Copper-3-Burner-38-000-BTU-Liquid-Propane-Gas-Grill/3341012), is far more convenient. I don’t have to wait more than five minutes for the grill to pre-heat, and the hood keeps the internal temperature at a steady 350 degrees when all three burners are on medium. I don’t have to worry about that temperature shifting as the coals flare up and flame out. It’s a safer way to grill but it’s still a challenge. It’s just a different flavor.
+The gas grill I have now, a [Weber Genesis E-310](https://www.lowes.com/pd/Weber-Genesis-E-310-Copper-3-Burner-38-000-BTU-Liquid-Propane-Gas-Grill/3341012), is far more convenient. I don’t have to wait more than five minutes for the grill to pre-heat, and the hood keeps the internal temperature at a steady 350 degrees when all three burners are on medium. I don’t have to worry about that temperature shifting as the coals flare up and flame out. It’s a safer way to grill but it’s still a challenge. It’s just a different flavor.
 
 Grilling is relaxing. It’s about the smells and sounds, the appearance and texture, the time and temperature. It’s also when I most enjoy a drink. Beer tastes better when I’m grilling. So does scotch.
 

@@ -5,7 +5,7 @@ Category: Politics
 Tags: contra-costa-county, policy, economics, inequality
 Summary: Analysis of income inequality trends in Contra Costa County using Federal Reserve data, showing growing gaps between top and bottom earners post-recession.
 
-Here's a look at income inequality in our area. I'm using data and charts provided by this (https://fred.stlouisfed.org/) at the St. Louis Fed. 
+Here's a look at income inequality in our area. I'm using data and charts provided by this [Federal Reserve Economic Data](https://fred.stlouisfed.org/) at the St. Louis Fed. 
 
 Let's start with two charts for Contra Costa County and then compare it to our neighboring counties to the east and west of us.
 

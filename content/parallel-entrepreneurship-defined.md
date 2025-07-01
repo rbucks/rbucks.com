@@ -23,7 +23,7 @@ And here’s why it’s important. It’s getting harder and harder to raise equ
 
 Similarly, it’s getting harder and harder to earn revenue. Customers are getting harder to grab because starting internet businesses is getting easier. Simply put, there’s more competition.
 
-I’ve recently launched my sixth website app in the last 12 months. Of those six, only two are making money. My main source of income now, (https://www.toofr.com), was a side business I started nearly four years ago. Now I live off of it and with every new venture I start, I’m even more grateful to have even one business that works.
+I’ve recently launched my sixth website app in the last 12 months. Of those six, only two are making money. My main source of income now, [Toofr](https://www.toofr.com), was a side business I started nearly four years ago. Now I live off of it and with every new venture I start, I’m even more grateful to have even one business that works.
 
 It took that long — four years of nights and weekends—to get this business to a state where I can live comfortably off of it. It seems these days it might take four years of full-time effort to yield the same result.
 

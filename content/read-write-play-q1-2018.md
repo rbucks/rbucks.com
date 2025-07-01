@@ -7,7 +7,7 @@ Summary: First quarter recap covering Rich Dad Poor Dad insights, completing The
 
 #### Reading: Rich Dad Poor Dad
 
-(https://www.goodreads.com/book/show/27917357-rich-dad-poor-dad) proved to be the most important book I read this quarter. 
+[Rich Dad Poor Dad](https://www.goodreads.com/book/show/27917357-rich-dad-poor-dad) proved to be the most important book I read this quarter. 
 
 I learned a lot about real estate investing, about the importance of being a business owner to reduce taxable income, and in general how to think about where my money goes.
 
@@ -19,7 +19,7 @@ That should give all of us pause. The more successful you are at business, the m
 
 #### Writing: The Parallel Entrepreneur
 
-I finished my book! It's no Rich Dad Poor Dad (despite what Jon Miller says) but I'm proud of it. It's on (https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V) and (https://www.audible.com/pd/The-Parallel-Entrepreneur-Audiobook/B07D1CFL7J?asin=B07D1CFL7J). Enjoy!
+I finished my book! It's no Rich Dad Poor Dad (despite what Jon Miller says) but I'm proud of it. It's on [Amazon](https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V) and [Audible](https://www.audible.com/pd/The-Parallel-Entrepreneur-Audiobook/B07D1CFL7J?asin=B07D1CFL7J). Enjoy!
 
 I finished it while on my first-ever writing retreat. I've written about my most [profitable vacation]({filename}how-i-made-a-5000-return-on-a-fancy-2-day-vacation.md) and also about this particular focused writing vacation where I wrote [17k words in just two days]({filename}how-i-wrote-17k-words-in-just-two-days.md). I'm proud of the effort and I'm also proud of the book. Here's the quote from Jon Miller, co-founder of Marketo.
 

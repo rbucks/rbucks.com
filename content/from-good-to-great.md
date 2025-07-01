@@ -5,13 +5,13 @@ Category: Business
 Tags: entrepreneurship, SaaS, business growth, parallel entrepreneurship
 Summary: How to scale from $10K to $100K monthly recurring revenue in SaaS, featuring the Rule of 34 for sustainable business growth.
 
-#### An excerpt from *(https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V)*
+#### An excerpt from *[The Parallel Entrepreneur](https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V)*
 
 If you can get your business up to $10,000 in monthly recurring revenue (MRR), then that’s really good. Most entrepreneurs never get there.
 
 It’s good but not *great*.
 
-(https://www.linkedin.com/in/jsiegel) gave me advice that I’ll never forget. I use this bit of wisdom to fire up my drive. He says, “Any $10,000 per month business can be a $100,000 per month business.” These are crumbs, he says, compared to what the larger companies are earning. The hard growth steps, he argues, happen beyond that first $100,000 per month. Less than that is just discipline and some creativity.
+[Josh Siegel](https://www.linkedin.com/in/jsiegel) gave me advice that I’ll never forget. I use this bit of wisdom to fire up my drive. He says, “Any $10,000 per month business can be a $100,000 per month business.” These are crumbs, he says, compared to what the larger companies are earning. The hard growth steps, he argues, happen beyond that first $100,000 per month. Less than that is just discipline and some creativity.
 
 He also argues that if your monthly churn is 3% and your net monthly growth is 4% then you will have a phenomenal business. This Rule of 34 (I’ll name this rule on his behalf) is what we should all strive for. You may only get there once in your entrepreneurial career, so to increase the likelihood of doing this, you have multiple businesses running at once.
 
@@ -93,7 +93,7 @@ The internet equivalent to opening that second cafe is to start another SaaS bus
 
 #### Case Study: Sheel Mohnot
 
-(https://www.linkedin.com/in/smohnot/) is another parallel entrepreneur *par excellence*. After selling his online payments business to Groupon, he started Thistle, a food company that delivers sustainable plant-based meals to homes in major cities throughout California. He also runs a podcast, an auction platform, and a financial technology fund within 500 Startups, a prestigious startup incubator with offices around the world.
+[Sheel Mohnot](https://www.linkedin.com/in/smohnot/) is another parallel entrepreneur *par excellence*. After selling his online payments business to Groupon, he started Thistle, a food company that delivers sustainable plant-based meals to homes in major cities throughout California. He also runs a podcast, an auction platform, and a financial technology fund within 500 Startups, a prestigious startup incubator with offices around the world.
 
 He does this all in parallel because he’s found ways to exploit synergies across his projects, delegate his way out of daily management, and turn his cost centers into profit centers.
 
@@ -113,4 +113,4 @@ For Sheel personally, he is a co-founder of Thistle but is not the CEO. That giv
 
 ---
 
-*Read more on Amazon! Buy *(https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V/)*.*
+*Read more on Amazon! Buy *[The Parallel Entrepreneur](https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V/)*.

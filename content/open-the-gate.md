@@ -7,7 +7,7 @@ Summary: My political platform for future office: three E's of Education, Econom
 
 I’ve thought a lot about running for office. I studied it in college and in graduate school but I decided to take a detour through the private sector to get some practical experience and financial cushion.
 
-Three years ago I started a family and just recently decided that I should prioritize a lifestyle that lets me maximize family time. So I’m doing that now, spending most of my day with my youngest daughter and working on (https://www.toofr.com) and other projects during her naps and at night.
+Three years ago I started a family and just recently decided that I should prioritize a lifestyle that lets me maximize family time. So I’m doing that now, spending most of my day with my youngest daughter and working on [Toofr](https://www.toofr.com) and other projects during her naps and at night.
 
 As a result I’m at home or in the neighborhood all the time now and I love it.
 
@@ -43,7 +43,7 @@ As a public official, my economic policy would revolve around the philosophy tha
 
 That’s why I support environmental regulations. It’s about as simple a rationale as I can think of.
 
-To paraphrase the political philosopher John Rawls, we should design policies that support the most vulnerable populations. He asked what rules you might choose if you had no knowledge about your own social class and would be subjected to those rules upon birth. This thought experiment is known as the “(https://en.wikipedia.org/wiki/Veil_of_ignorance).”
+To paraphrase the political philosopher John Rawls, we should design policies that support the most vulnerable populations. He asked what rules you might choose if you had no knowledge about your own social class and would be subjected to those rules upon birth. This thought experiment is known as the “[veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance).”
 
 I extend that concept to the natural world. I believe we are absolutely dependent on a healthy planet. To treat the natural world like a non-essential, expendable resource to be taken advantage of is short-sighted and tragically wrong.
 

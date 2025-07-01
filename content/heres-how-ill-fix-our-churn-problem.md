@@ -5,7 +5,7 @@ Category: Business
 Tags: churn, SaaS, business strategy, data analysis
 Summary: Using data analysis to identify when to contact trials and customers to reduce churn at Scripted, focusing on specific timing windows and activity patterns.
 
-The biggest problem we have at (https://www.scripted.com) is churn. The second biggest problem, and it’s related, is burn.
+The biggest problem we have at [Scripted](https://www.scripted.com) is churn. The second biggest problem, and it’s related, is burn.
 
 Sounds funny, churn and burn, but together they can make or break your business.
 

@@ -15,7 +15,7 @@ That’s all you need to know, but I’ll elaborate a bit more on both of these.
 
 #### Fear — of missing out
 
-Investors hate being the guy who turned down Pinterest, or Snapchat, or Uber. They’re out there. Some even (https://www.bvp.com/portfolio/anti-portfolio) for it. (Missed on Facebook *and* Google, Bessemer? OUCH.)
+Investors hate being the guy who turned down Pinterest, or Snapchat, or Uber. They’re out there. Some even [brag about it](https://www.bvp.com/portfolio/anti-portfolio). (Missed on Facebook *and* Google, Bessemer? OUCH.)
 
 So savvy entrepreneurs manufacture the fear of missing out (FOMO). They get buzz on TechCrunch and ProductHunt by winning awards or announcing crazy growth stats. Then they take a whole bunch of meetings at all the VC firms and make it sound like everybody is after them. Once the first angel investor buys in, the snowball hits.
 
@@ -44,7 +44,7 @@ See, you’re selling “preferred” stock in your company. Preferred is above 
 But, like I said, it’s good. At some level, I want my board members to be greedy. Our incentives are aligned. The bigger the company, the faster the growth, the sooner the exit and my yacht (By the way, I always thought a great name for a post-exit yacht is “Liquidity.” Get it?)
 
 ![Liquidity yacht]({static}/images/54a9a-1z6bu7aqkl_nvyodvmbr8lq.jpeg)
-*Of course someone has already done it. (http://www.yachtingmagazine.com/30-unforgettable-boat-names)*
+*Of course someone has already done it. [Source](http://www.yachtingmagazine.com/30-unforgettable-boat-names)*
 
 Just be careful what you wish for, because if the tables turn, and you need financial support for whatever reason, you won’t get it. Resources must be allocated to the clear winners, not the possible losers.
 

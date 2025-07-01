@@ -21,7 +21,7 @@ I was right and wrong. It has been fun. It has not been easy.
 
 *Story Genius by Lisa Cron*
 
-When I was about 40,000 words into it, I read (https://www.amazon.com/Story-Genius-Science-Outlining-Riveting/dp/1607748894) by Lisa Cron and loved it. Around the time I started the novel I also read (https://www.amazon.com/Save-Last-Book-Screenwriting-Youll/dp/1932907009/) on the recommendation of a neighbor. Both touch on the same theme: *character, character, character*. Plots are just things that happen. Characters are what we remember. Characters are what we care about. Characters are what actually drives the story and makes the plot *matter*. 
+When I was about 40,000 words into it, I read [Story Genius](https://www.amazon.com/Story-Genius-Science-Outlining-Riveting/dp/1607748894) by Lisa Cron and loved it. Around the time I started the novel I also read [Save the Cat!](https://www.amazon.com/Save-Last-Book-Screenwriting-Youll/dp/1932907009/) on the recommendation of a neighbor. Both touch on the same theme: *character, character, character*. Plots are just things that happen. Characters are what we remember. Characters are what we care about. Characters are what actually drives the story and makes the plot *matter*. 
 
 When we read a great novel, we emote as the main character struggles with a misguided belief that drives him against the roiling ocean that is the plot. We feel him as he makes decisions and rejoice as he evolves, becoming a new person at the end. This is the formula that the most commercially successful novels and screenplays use to sell copies and *move* people. You want your reader immersed in your story, rooting for or enamored with your character. You want them invested through to the last page, and you want your story to be a real gift to them. For those five or six hours the reader spent with you, they got a real glimpse into another world, a new universe, a sidecar's view into something extraordinary. 
 
@@ -41,7 +41,7 @@ This insight is one reason that I keep chipping away at this novel. It also help
 
 The other big difference about non-fiction and fiction writing is the exponentially greater number of decisions that must be made in a fiction story. 
 
-Whatever the topic is of my non-fiction piece (business, usually), I have a framework to follow. There's a set of facts and my decision-making is simply around how I describe my observations, what references to make, and how deep I want to go. (By the way, for some of the best non-fiction writing I've found, check out (https://alexdanco.com/).)
+Whatever the topic is of my non-fiction piece (business, usually), I have a framework to follow. There's a set of facts and my decision-making is simply around how I describe my observations, what references to make, and how deep I want to go. (By the way, for some of the best non-fiction writing I've found, check out [Alex Danco's blog](https://alexdanco.com/).)
 
 Great non-fiction writing is academic but accessible. It might also weave a storyline through it, using some of the character techniques described in Observation #1. For the epitome of that technique, look no further than Alexander Hamilton's biography or the musical inspired by it. Laden with facts, it had to decide what to keep and what to ignore, what to expand upon and what to merely mention in passing. These are big decisions, no doubt, but not as many as would have been made if Alexander Hamilton were a purely fiction character. 
 

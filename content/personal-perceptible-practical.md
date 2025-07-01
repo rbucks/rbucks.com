@@ -9,8 +9,8 @@ Some time ago I learned about Susan Solomon, the atmospheric chemist who discove
 
 I've been thinking about something she said about the tactics she used to get the world to care and do something about the problem. I was struck that she thought as much about the "marketing" of the ozone layer problem as the science behind it.  
 
-!(https://www.pbs.org/wnet/peril-and-promise/files/2019/04/3_SusanSolomonV2-768x432.png)
-*Susan Solomon at MIT. Credit: (https://www.pbs.org/wnet/peril-and-promise/2019/04/how-the-ozone-hole-can-help-us-communicate-climate-change/)*
+![Susan Solomon at MIT]({static}/images/susan-solomon-mit.png)
+*Susan Solomon at MIT. Credit: [PBS](https://www.pbs.org/wnet/peril-and-promise/2019/04/how-the-ozone-hole-can-help-us-communicate-climate-change/)*
 
 Solomon said that effective environmental problem solving requires that the solution be **personal**, **perceptible**, and **practical**. I'd argue that this framework works for any problem, public or private, economic or environmental. It's relevant even when rallying the globe around fending off a global pandemic, too. I keep coming back to this when I read about the response to coronavirus, so let's apply Dr. Solomon's framework to our current global crisis. 
 
@@ -18,7 +18,7 @@ Solomon said that effective environmental problem solving requires that the solu
 
 Make people relate. Help individuals understand how the problem relates to them personally. Not the world, or the rainforests, or the spotted owls. Biologically, we are wired to care about #1 (ourselves) and although we can all point to examples of selfless behavior, on average, we're selfish. Rather than fight that tendency, make it work for the cause. 
 
-The harrowing stories of frontline health workers ring louder than the pleas of politicians. Doctors and nurses have an effective way of making things personal. Shelter in place to protect your family, your community, your own health. It also helps that nurses consistently rank among the (https://news.gallup.com/poll/180260/americans-rate-nurses-highest-honesty-ethical-standards.aspx). 
+The harrowing stories of frontline health workers ring louder than the pleas of politicians. Doctors and nurses have an effective way of making things personal. Shelter in place to protect your family, your community, your own health. It also helps that nurses consistently rank among the [most trusted professions](https://news.gallup.com/poll/180260/americans-rate-nurses-highest-honesty-ethical-standards.aspx). 
 
 ## **Perceptible**
 

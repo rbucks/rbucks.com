@@ -25,7 +25,7 @@ To Whom It May Concern:
 
 A little over one year ago I reached out to Professor Charlie Shi about my interest in speaking with DVC students about entrepreneurship. We met in his office and then over lunch. I brought with me a copy of my recent book, *[The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/)*, and we talked about the decade I’ve spent as a founder, CEO, and General Manager within a private equity firm.
 
-He invited me to speak in one class, and then another, and then he introduced me to other professors at DVC who also invited me to speak, and then Charlie invited me to join the Business Administration Department Advisory Board. From there I became involved with the (https://www.linkedin.com/groups/13662966/) led by Professor Jim Blair. Delightfully, one opportunity has led to another, and I’m very pleased that this sequence of events has led here, to my application to be an adjunct instructor at the college. 
+He invited me to speak in one class, and then another, and then he introduced me to other professors at DVC who also invited me to speak, and then Charlie invited me to join the Business Administration Department Advisory Board. From there I became involved with the [DVTI](https://www.linkedin.com/groups/13662966/) led by Professor Jim Blair. Delightfully, one opportunity has led to another, and I’m very pleased that this sequence of events has led here, to my application to be an adjunct instructor at the college. 
 
 I believe digital marketing is the underpinning of success for entrepreneurship today. Product is rapidly being commoditized; it has never been cheaper to create a web application. What sets companies and employees apart is their understanding of marketing fundamentals. The best founders think about their marketing strategy from day one; the most marketable employees approach their job interviews and daily tasks with the same marketing-oriented perspective. 
 
@@ -35,7 +35,7 @@ So that’s my rationale for being interested in this position. Here’s how I c
 
 **Experience**
 
-I have been working in technology since I graduated with my MBA from MIT Sloan in 2009. The first company I started was (http://scripted.com), a content marketing marketplace. I was immersed in everything about content marketing, even becoming friends with Joe Pulizzi, the founder of the (https://contentmarketinginstitute.com/). Having seen it from all sides, working with hundreds of clients and producing (literally) hundreds of thousands of content marketing documents, I know this field well. 
+I have been working in technology since I graduated with my MBA from MIT Sloan in 2009. The first company I started was [Scripted](http://scripted.com), a content marketing marketplace. I was immersed in everything about content marketing, even becoming friends with Joe Pulizzi, the founder of the [Content Marketing Institute](https://contentmarketinginstitute.com/). Having seen it from all sides, working with hundreds of clients and producing (literally) hundreds of thousands of content marketing documents, I know this field well. 
 
 Along the way, we had to run our own digital marketing campaigns of various kinds. We did huge email campaigns. We spent over a hundred thousand dollars on Google, Facebook, and LinkedIn ads. We learned a lot about how to do this right. We also learned how to do it wrong.
 

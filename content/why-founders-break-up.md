@@ -5,7 +5,7 @@ Category: Business
 Tags: entrepreneurship, startups, leadership, company-culture
 Summary: Analyzing why founding teams split up, examining cases from Uber, Groupon, Zenefits, and Whole Foods across four common failure patterns.
 
-I’ve been listening to a lot of podcasts recently and (http://www.npr.org/podcasts/510313/how-i-built-this) has been particularly interesting. Beyond the travails and comebacks, it’s been fascinating to see over the span of a dozen podcasts how many founding teams break up.
+I’ve been listening to a lot of podcasts recently and [How I Built This](http://www.npr.org/podcasts/510313/how-i-built-this) has been particularly interesting. Beyond the travails and comebacks, it’s been fascinating to see over the span of a dozen podcasts how many founding teams break up.
 
 It’s far more likely that at least one of the founders leaves the company relatively early than for the entire early team to stay together.
 
@@ -23,7 +23,7 @@ Let’s take a look at each reason with an example from a well-known company.
 
 #### Cultural misalignment: Uber
 
-I respect (https://www.uber.com) for its undeniably brilliant execution and ability to open up new markets fast. They deserve a lot of credit for setting targets and achieving them.
+I respect [Uber](https://www.uber.com) for its undeniably brilliant execution and ability to open up new markets fast. They deserve a lot of credit for setting targets and achieving them.
 
 However, my personal beef with Uber stems from its origin: the founders built it to impress girls and look cool at fancy clubs in San Francisco. That’s why Travis Kalanick conceived Uber and that same chauvinistic lean is also what took him down.
 
@@ -35,7 +35,7 @@ The culture he built ultimately backfired and Uber will be better without him.
 
 #### Company underperformance: Groupon
 
-Andrew Mason gave perhaps the most light-hearted response to losing his CEO position and leaving (https://www.groupon.com), the company he founded:
+Andrew Mason gave perhaps the most light-hearted response to losing his CEO position and leaving [Groupon](https://www.groupon.com), the company he founded:
 
 > “After 4 1/2 intense and wonderful years as CEO of Groupon, I’ve decided that I’d like to spend more time with my family. Just kidding — I was fired today.”
 
@@ -43,13 +43,13 @@ His announcement came the day after Groupon posted a large quarterly loss. Inves
 
 #### Trust changes: Zenefits
 
-The (https://www.zenefits.com) founder breakup crosses over into cultural misalignment as well. Patrick Conrad, whom I do know and have met several times, promoted a win at all costs culture that eventually backfired. In a highly regulated industry, more caution is needed and trust is paramount.
+The [Zenefits](https://www.zenefits.com) founder breakup crosses over into cultural misalignment as well. Patrick Conrad, whom I do know and have met several times, promoted a win at all costs culture that eventually backfired. In a highly regulated industry, more caution is needed and trust is paramount.
 
 When the executive team and board lost their trust in Patrick, he was let go and the reigns were handed to his COO. Zenefits had to go through a brutal, public apology for skirting the rules and building a toxic sales department culture and a significant layoff, but they survived.
 
 #### Goals change: Whole Foods
 
-John Mackey recently sold (https://www.wholefoods.com) to Amazon. Based on the origin story he described on How I Built This, I doubt he would have ever thought he’d sell to an online retailer. However, he did have the dream to build an enterprise, the largest organic food chain in the country.
+John Mackey recently sold [Whole Foods](https://www.wholefoods.com) to Amazon. Based on the origin story he described on How I Built This, I doubt he would have ever thought he’d sell to an online retailer. However, he did have the dream to build an enterprise, the largest organic food chain in the country.
 
 John was one of four founders initially. Each of them left after discovering that their version of success was different than John’s. He was able to retain ownership and continue growing because his goal was to grow and open up more locations and expand the variety of foods sold.
 
@@ -59,4 +59,4 @@ His co-founders wanted to remain small, local, and vegan. Those goals were not s
 
 Founder breakups can ultimately be a good thing for the company and its investors. It doesn’t always work out that way, though, as we’ll see in the next post.
 
-*Note: This was originally published on the *(https://www.enps.co/articles)*, a new tool I built to measure employee satisfaction.*
+*Note: This was originally published on the *[eNPS blog](https://www.enps.co/articles)*, a new tool I built to measure employee satisfaction.*

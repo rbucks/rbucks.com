@@ -5,13 +5,13 @@ Category: Business
 Tags: entrepreneurship, crisis management, business pivot, ROI
 Summary: How spending $1,100 on a focused two-day retreat to fix Toofr's data crisis led to over $550,000 in lifetime revenue - a 5,000% return on investment.
 
-In late 2013 I was facing a bit of a crisis. I had just launched (https://www.toofr.com) a few months earlier and the service was failing.
+In late 2013 I was facing a bit of a crisis. I had just launched [Toofr](https://www.toofr.com) a few months earlier and the service was failing.
 
 Earlier in 2013 I found a way to automate email guessing using a hidden API buried inside the Rapportive Chrome extension for Gmail. It worked amazingly well. It was fast, the data was terrific, and best of all, it was free.
 
 But there was a catch. It was free because it wasn’t supposed to be used as an API for guessing emails. It was built as a browser extension to give metadata on your Gmail recipients.
 
-Unfortunately, I wasn’t alone in leveraging this harmless little hack. On November 23, 2013, another programmer (https://nathanleclaire.com/blog/2013/11/23/how-i-automated-finding-almost-anyones-email-address/). About a week later, the API was effectively shut off and Toofr’s primary data stream was gone.
+Unfortunately, I wasn’t alone in leveraging this harmless little hack. On November 23, 2013, another programmer [published a blog post about the same technique](https://nathanleclaire.com/blog/2013/11/23/how-i-automated-finding-almost-anyones-email-address/). About a week later, the API was effectively shut off and Toofr’s primary data stream was gone.
 
 My customers were complaining about poor data quality and many of them were referred by my friends in the sales tech community. These friends caught wind of the problems and kept pinging me, asking what was going on. My delay in fixing the problem was making them look bad.
 
@@ -57,7 +57,7 @@ Instead of shutting me down, though, they increased my fees and made me sign ann
 
 ---
 
-As I’ve written about before, (https://medium.com/@rbucks/my-524-687-side-business-84e8996678da) while I was working on Scripted full-time. In its first year it made less than $3,000. When I spent that weekend at the St. Regis working to fix it, that’s all I knew. Toofr made some money, and it might make a lot more, but it also might make nothing. Going into that weekend, Toofr really wasn’t working. I had unhappy customers and a lot of unwanted stress.
+As I’ve written about before, [Toofr was my $524,687 side business](https://medium.com/@rbucks/my-524-687-side-business-84e8996678da) while I was working on Scripted full-time. In its first year it made less than $3,000. When I spent that weekend at the St. Regis working to fix it, that’s all I knew. Toofr made some money, and it might make a lot more, but it also might make nothing. Going into that weekend, Toofr really wasn’t working. I had unhappy customers and a lot of unwanted stress.
 
 If I shut it down that month, I’d save $800 in tax filing fees the following year. That’s a lot of money, so it was tempting to just kill it.
 

@@ -31,7 +31,7 @@ At the ridge I looked to the north and west. It's another world. A small ranch a
 
 This is why I run. 
 
-<figure class="wp-block-image size-large">![Ridge view]({static}/images/D16AE852-F852-4803-BD78-DFF40CE0E4B5_1_105_c.jpeg)
+![Ridge view]({static}/images/D16AE852-F852-4803-BD78-DFF40CE0E4B5_1_105_c.jpeg)
 
 ![Landscape view]({static}/images/5C4931D5-AE57-4F3A-8C49-65DB35DD247B_1_105_c.jpeg)
 

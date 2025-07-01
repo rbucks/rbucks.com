@@ -25,7 +25,7 @@ My kneejerk, snarky answer would have been something along the lines of, “Nope
 > 
 > Remember this: if you can fundraise, you can sell. If you can sell for a multiple of what you took fundraised (or ideally you just bootstrap), then you can change your life.
 
-But don’t take my word for it. Here’s a quote from John Mackey, the now-even-more-rich co-founder of Whole Foods (in case you missed it, he sold to Amazon for $13.7 billion), in his (http://one.npr.org/?sharedMediaId=527979061:528000104).
+But don’t take my word for it. Here’s a quote from John Mackey, the now-even-more-rich co-founder of Whole Foods (in case you missed it, he sold to Amazon for $13.7 billion), in his [NPR interview with John Mackey](http://one.npr.org/?sharedMediaId=527979061:528000104).
 
 > …We turned to venture capitalists, who I have learned are like hitchhikers with credit cards. They get in your car, and as long as you take them where they want to go, they will help pay for the gas. But if you get lost or wander off the road you promised you were going down, they will hijack the car, throw you out and bring in a new driver.
 

@@ -9,7 +9,7 @@ This quarter there was not a tremendous amount of reading or writing. But playin
 
 ## Read
 
-I tried to start on my design curriculum. I really did. I purchased (https://www.amazon.com/Drawing-Absolute-Utter-Beginner-Revised/dp/0399580514/), a drawing book at the local Amazon store (how incredible that the company that killed Borders and Barnes has set up its own local bookstores) and read a short ebook on web design, (https://hellowebbooks.com/learn-design/). I also got halfway through (https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) by Steve Krug. Then I got distracted, spending my evening time working on existing side projects and starting new ones. 
+I tried to start on my design curriculum. I really did. I purchased [Drawing on the Right Side of the Brain](https://www.amazon.com/Drawing-Absolute-Utter-Beginner-Revised/dp/0399580514/), a drawing book at the local Amazon store (how incredible that the company that killed Borders and Barnes has set up its own local bookstores) and read a short ebook on web design, [Hello Web Design](https://hellowebbooks.com/learn-design/). I also got halfway through [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) by Steve Krug. Then I got distracted, spending my evening time working on existing side projects and starting new ones. 
 
 My goal this quarter was to improve my side projects by addressing a known gap in my entrepreneurial tool belt. I'm a terrible designer. I can use an existing design framework (like Bootstrap) pretty well, and I can modify templates, but I can't draw and I can't build a page from scratch. 
 
@@ -25,7 +25,7 @@ Next up was "[What my grad school experience meant to me]({filename}what-my-grad
 
 "[The game I'm playing]({filename}the-game-im-playing.md)" was my most introspective piece, which actually was good mental prep for my big grad school reunion. I had to remind myself that success is relative. There's no hard definition; it can mean whatever I want it to mean. Am I trying to be the richest guy in my class? The most famous? Or the most interesting? No thanks. As it turns out, I'm doing just fine.
 
-Seven posts that I feel pretty proud of is no small feat. I worked a lot last quarter, moving the ball downfield with (https://mightysignal.com) and a small handful of much smaller projects. I spent some good quality time with my kids too, passing the afternoons in front of my house, in our lovely little cut-de-sac, with the whole neighborhood stopping by to chat and play. 
+Seven posts that I feel pretty proud of is no small feat. I worked a lot last quarter, moving the ball downfield with [MightySignal](https://mightysignal.com) and a small handful of much smaller projects. I spent some good quality time with my kids too, passing the afternoons in front of my house, in our lovely little cut-de-sac, with the whole neighborhood stopping by to chat and play. 
 
 ## Play
 

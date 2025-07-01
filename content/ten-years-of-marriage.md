@@ -5,12 +5,12 @@ Category: Family
 Tags: marriage, relationships, family, reflection
 Summary: Celebrating ten years of marriage: from meeting in Sacramento to Boston to wine country wedding, building family and community in the suburbs.
 
-!(https://i1.wp.com/rbucks.com/wp-content/uploads/2020/06/IMG_0240.jpg?fit=739%2C985&ssl=1)
+![Wedding photo from Kennebunkport]({static}/images/2020/06/IMG_0240.jpg)
 *March 14, 2008. Kennebunkport, ME.*
 
 It was hot in June 2010, but not too hot. I remember being worried that the flowers at the estate where we had our wine country wedding might wilt in the Windsor, California heat.
 
-We picked (https://www.madronamanor.com/) after touring a few other venues earlier in the year. It was stately, quiet, peaceful, and absolutely stunning in the evening. There's a Michelin-rated restaurant, elegant rooms with no televisions, and a view over the Anderson Valley. Inside it smelled like a rustic mansion, because that's what it was. 
+We picked [Madrona Manor](https://www.madronamanor.com/) after touring a few other venues earlier in the year. It was stately, quiet, peaceful, and absolutely stunning in the evening. There's a Michelin-rated restaurant, elegant rooms with no televisions, and a view over the Anderson Valley. Inside it smelled like a rustic mansion, because that's what it was. 
 
 I was happy to have a small wedding. There were 64 guests in total, and since my wife's family is neat and compact, my side of the equation ended up with a majority of the seats. Not that anyone was counting. 
 

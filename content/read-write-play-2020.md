@@ -27,19 +27,19 @@ Here's a quick rundown on each of these books, why I read them, and what I thoug
 
 - My neighbor gave me this book (my first non-Kindle book of the year!) when she heard I was writing a novel. She said it was good; she was right. I thought Lisa Cron's [Wired for Story](https://www.amazon.com/gp/product/B0180T2YZQ/ref=dbs_a_def_rwt_bibl_vppi_i0) was the formula for writing a good novel. In fact, Steven King gave it away 16 years earlier, in 2000. A few things resonated with me. First, he describes writing as "dreaming while awake," a state of mind I can relate to. It's why I need writing retreats to make giant leaps in my books. He also confessed to not having a complete outline for his books when he writes them. Instead, he find some inspiration for a situation. That spark comes a bit randomly, and then he noodles on it, maybe writes down the scenario, and comes back to it when he's ready. At that point, he sets the characters up "[in medias res](https://en.wikipedia.org/wiki/In_medias_res)" (in the midst of the thing) and lets *them* tell *him* what happens. The story is already there; like an archaeologist, he just has to uncover it. 
 
-(https://www.goodreads.com/book/show/6324651-the-shining)
+[The Shining](https://www.goodreads.com/book/show/6324651-the-shining)
 
 - Since I loved his memoir so much, I decided to take up a Stephen King book. I'm not sure I've ever read one cover to cover. I'm sure I tried to tackle *It* at some point and didn't make it through. I know my mom used to read his books. I picked the one he felt most proud of at the time of his memoir and verified that it was on the top of some his fan clubs' lists. My impression, ultimately, was *meh.* I didn't love it. I noticed that he didn't stick to some of own rules ("never put an adjective after 'said' -- e.g. 'he said slyly' -- King did this a few times in *The Shining*). I also didn't fall for the ghosts (or were they hallucinations? I wasn't sure, since I don't think his wife and boy could see them.) And the coming-to-life of the hedges was odd to me. Why were they the only inanimate objects to come alive? The setup, though, was great. Man goes crazy with his wife and boy in a huge, empty, isolated mountain hotel. Who wouldn't want to read that story?
 
-(https://www.goodreads.com/book/show/44802148-becoming-a-digital-marketer)
+[Becoming a Digital Marketer](https://www.goodreads.com/book/show/44802148-becoming-a-digital-marketer)
 
 - Since I'm teaching a search marketing [class at DVC]({filename}im-now-an-adjunct.md) this spring, I figured I should start reading some search marketing books. If I liked one well enough, I might assign it. This one didn't fit the bill. It was mostly trite, and the good parts they offered were few and far between. If they'd peppered in more case studies and anecdotes I would have enjoyed it. Instead, I made it about halfway through.  It just wasn't that good. 
 
-(https://www.goodreads.com/book/show/29639736-everything-we-keep)
+[Everything We Keep](https://www.goodreads.com/book/show/29639736-everything-we-keep)
 
 - This was the last Kindle Unlimited book I read. I canceled my membership soon afterwards. Since I've been working on a novel (see the Writing section below), I figured I should read more novels. I picked this one because the plot, like mine, involves cancer. I didn't care about the main character enough. I made it all the way through, because I wanted to understand what exactly it was that I didn't like. I determined that the main character (and narrator) were trying to be too cute. There was a triteness to the descriptions and dialogue that felt juvenile. It lacked depth. I related to the author in that I felt her struggle to bring about the full spectrum of emotion in her characters but in the end it was still shallow. I just didn't like it. 
 
-(https://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore)
+[Mr. Penumbra's 24-Hour Bookstore](https://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore)
 
 - I also didn't like this book. I picked it because I saw it at a Barnes & Nobles and it involves a secret society, like my novel. This one was better than *Everything We Keep*. I liked that it takes place in San Francisco and New York and incorporated some tech startup references and characters. That part felt real, but the plot itself didn't capture me. I didn't care about Mr. Penumbra or his bookstore. I could tell the main character cared, and his love interest also eventually cared, but the whole plot was just a bit too geeky. I didn't believe that the main character would get so wrapped up in it. He had his own life too, and I suppose that's where it lost me. I took mental notes about what *not* to do with my own plot. 
 
@@ -80,4 +80,4 @@ Until then, I make slow but steady progress on piano, and I fully expect to be a
 
 Here's to you, 2021.
 
-!(https://media4.giphy.com/media/5e1RkyWVtT8xVeRHQB/giphy.gif)
+![2021 celebration gif]({static}/images/2021-celebration.gif)

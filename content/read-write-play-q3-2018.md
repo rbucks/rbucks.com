@@ -13,7 +13,7 @@ My reading and playing were mostly fun. The writing was work.
 
 #### Read: The Great Alone
 
-My wife found (https://www.goodreads.com/book/show/34912895-the-great-alone) and I have to say, the author Kristin Hannah is an artist. Her storytelling and character development is among the best I've ever read. I loved every page. I also read (https://www.goodreads.com/book/show/22663563-the-nightingale) by Kristin Hannah and it is equally off-the-charts wonderful. It's a delicious, page-turning adventure that makes me feel good for reading it. 
+My wife found [The Great Alone](https://www.goodreads.com/book/show/34912895-the-great-alone) and I have to say, the author Kristin Hannah is an artist. Her storytelling and character development is among the best I've ever read. I loved every page. I also read [The Nightingale](https://www.goodreads.com/book/show/22663563-the-nightingale) by Kristin Hannah and it is equally off-the-charts wonderful. It's a delicious, page-turning adventure that makes me feel good for reading it. 
 
 I will definitely read more of her stuff. She deserves all the fandom and accolades. This is an author who absolutely should be atop the charts.
 

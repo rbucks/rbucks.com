@@ -11,7 +11,7 @@ Another quarter, another RWP. I'm glad to report that I've been doing a LOT of r
 
 This quarter I managed to read three books as part of my self-improvement curriculum. In ({filename}my-personal-2018-recap.md), I mentioned how I wanted to focus my media consumption on specific topics. Rather than trying to read and keep up on everything, I'd put blinders up and focus on one (fairly broad) topic. I decided to make finance and accounting the inaugural subject matter, and I initially set out to read two books. However long it took to read two books on finance would be the length of my "class." I ended up reading three. 
 
-### (https://www.amazon.com/dp/B0018QQQKS) by Nial Ferguson
+### [The Ascent of Money](https://www.amazon.com/dp/B0018QQQKS) by Nial Ferguson
 
 An awesome overview of the financial history of the world. I listened to the audiobook many years ago and told myself then that this book deserved a second pass. It's so dense, so fascinating, so comprehensive that it warrants real study. I tried to read this book slowly and let it sink in, but giving it the treatment it deserved probably would have meant taking months to read it rather than weeks. 
 
@@ -38,7 +38,7 @@ Of course this purely free market solution could certainly be argued against. Fe
 
 This book is a great read for anyone studying economics.
 
-### (https://www.goodreads.com/book/show/18966580-financial-intelligence-revised-edition) by Karen Berman and Joe Knight
+### [Financial Intelligence](https://www.goodreads.com/book/show/18966580-financial-intelligence-revised-edition) by Karen Berman and Joe Knight
 
 This was the perfect book for what I was looking for: a simple review of financial statements and the common ratios to analyze them. It is well-written, informative, and just the right length. 
 
@@ -48,7 +48,7 @@ I also now have greater appreciation for Warren Buffet's view on financial state
 
 I'm very glad I read this one. 
 
-### (https://www.goodreads.com/book/show/70420.The_Undercover_Economist) by Tim Harford
+### [The Undercover Economist](https://www.goodreads.com/book/show/70420.The_Undercover_Economist) by Tim Harford
 
 The Undercover Economist came up in some podcasts and Google searches. I liked Freakonomics and decided that this would be a good book to read to start my finance "course." It turned out to be my least favorite of the three books I read, but it's not necessarily because it's a bad book. 
 
@@ -80,7 +80,7 @@ The news is mostly good, and I am mostly fine. Writing about it is therapeutic a
 
 ## Play: The Rolling Sloans
 
-I have been playing a lot of guitar and piano and I've started taking singing lessons too. I found a (http://erinsvoiceandpiano.com) who I pay a little bit extra for the convenience of her coming to my house for our lessons. She coaches me through beginner to intermediate-ish pieces by Mozart, Beethoven, and Bach. She gives me scale exercises and guidance on how to make sure my fingering is correct when the sheet music isn't explicit. I've become a much better piano player since the lessons began and it's become more and more fun to play piano. It really started to click for me in the last few months.
+I have been playing a lot of guitar and piano and I've started taking singing lessons too. I found a [music teacher](http://erinsvoiceandpiano.com) who I pay a little bit extra for the convenience of her coming to my house for our lessons. She coaches me through beginner to intermediate-ish pieces by Mozart, Beethoven, and Bach. She gives me scale exercises and guidance on how to make sure my fingering is correct when the sheet music isn't explicit. I've become a much better piano player since the lessons began and it's become more and more fun to play piano. It really started to click for me in the last few months.
 
 At the same time, I've been preparing for the 10 year reunion of my grad school band, The Rolling Sloans. We're playing in Boston on Saturday night, June 8, and I've been preparing for this for months. I have a Spotify playlist of our set, printouts of the music, and have been playing along with the songs as frequently as I can. When my girls are playing in the court with my neighbors, I fire up Spotify, grab my acoustic guitar, and jam along with the tracks. It's the best way I can think of to practice. 
 

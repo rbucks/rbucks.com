@@ -15,9 +15,9 @@ There are two paradigms here: readers pay and advertisers pay. Let’s start wit
 
 #### Advertisers pay
 
-Meh. Nobody wants Medium to become another (https://www.buzzfeed.com/). Nobody at Medium wants to work at another BuzzFeed. Building a clickbait business is not only not very interesting anymore, it’s also arguably not very profitable.
+Meh. Nobody wants Medium to become another [BuzzFeed](https://www.buzzfeed.com/). Nobody at Medium wants to work at another BuzzFeed. Building a clickbait business is not only not very interesting anymore, it’s also arguably not very profitable.
 
-Although online ad spending is expected to continue to (http://www.nasdaq.com/article/the-current-and-future-trends-of-digital-advertising-cm669129), surpassing TV advertising for the first time last year, publishers are seeing (https://www.hochmanconsultants.com/cost-of-ppc-advertising/). Thus it’s becoming harder for advertisers to get a return from investing in these channels. Without extremely detailed viewer analytics, Medium won’t be able to compete with Facebook and Google for the big league ad dollars.
+Although online ad spending is expected to continue to [grow](http://www.nasdaq.com/article/the-current-and-future-trends-of-digital-advertising-cm669129), surpassing TV advertising for the first time last year, publishers are seeing [higher costs](https://www.hochmanconsultants.com/cost-of-ppc-advertising/). Thus it’s becoming harder for advertisers to get a return from investing in these channels. Without extremely detailed viewer analytics, Medium won’t be able to compete with Facebook and Google for the big league ad dollars.
 
 If you ask me, that’s why Facebook and Google have thrived while Twitter has tanked. Ad targeting on Twitter blows.
 
@@ -25,7 +25,7 @@ So I think Ev’s right to throw this strategy out. Next.
 
 #### **Readers pay**
 
-This is the (https://www.nytimes.com/subscriptions/Multiproduct/lp8R34X.html) and (http://subscription.wsj.com/) model. I think this makes sense when there are full-time writers to support, especially in the context of the tenuous advertising revenue described above.
+This is the [New York Times](https://www.nytimes.com/subscriptions/Multiproduct/lp8R34X.html) and [Wall Street Journal](http://subscription.wsj.com/) model. I think this makes sense when there are full-time writers to support, especially in the context of the tenuous advertising revenue described above.
 
 We all want high-quality journalism, and it’s very expensive to produce. There’s traveling, original research, and sometimes extensive legal costs to cover. I’m willing to pay $10/mo for this.
 
@@ -41,7 +41,7 @@ Here’s where Medium should be looking for their revenue model.
 
 This is an interesting one. What if, instead of giving the publishing software away for free, they charged for it? I’m assuming it was initially free to lure publishers in and make money later by sharing ad dollars. Now that the ad model is toast, why not monetize the software and hosting?
 
-Like most developers, publishers hate dealing with servers. Medium could be the (https://www.heroku.com/) of the publishing industry: simple, elegant, and (I’d suggest) cheap. It wouldn’t need to compete with (https://vip.wordpress.com/), which (https://wordpress.org/showcase/techcrunch/). Enterprise is a pain to sell and support. Medium could be WordPress VIP for the mid-market.
+Like most developers, publishers hate dealing with servers. Medium could be the [Heroku](https://www.heroku.com/) of the publishing industry: simple, elegant, and (I’d suggest) cheap. It wouldn’t need to compete with [WordPress VIP](https://vip.wordpress.com/), which [powers TechCrunch](https://wordpress.org/showcase/techcrunch/). Enterprise is a pain to sell and support. Medium could be WordPress VIP for the mid-market.
 
 This move might spawn a whole ecosystem supporting these medium-sized publishers: freelance editors, designers, photographers could offer services to them. Writers too, of course (I’ll give this point its own section).
 
@@ -69,18 +69,18 @@ Or if it was the article she wanted:
 
 > Ryan’s treatise on Medium’s business model was just brilliant. I want to republish it as a white paper for my audience to read. I’m going to contact him and work out a deal.
 
-This probably won’t happen for me, but my chances of finding this customer increase dramatically if I’m associated with one of Medium’s top publications, like (https://hackernoon.com/). They give me viewership and credibility. My posts get more heart-likes. Hacker Noon becomes a seal of approval, like a fancy university degree.
+This probably won’t happen for me, but my chances of finding this customer increase dramatically if I’m associated with one of Medium’s top publications, like [Hacker Noon](https://hackernoon.com/). They give me viewership and credibility. My posts get more heart-likes. Hacker Noon becomes a seal of approval, like a fancy university degree.
 
 In this way, the publications become the place to be if you want to get known. They’ll have to compete for the best Medium authors, curate the best content, vie for the best scoops. Readers benefit from better content. Writers benefit from paid gigs, and publications benefit from notoriety and a piece of the action.
 
-The business model is a basic marketplace system. Buyer (business) pays seller (writer) $X for some writing. A portion (10%?) of $X goes to Medium, and another portion (another 10%?) goes to the publication, if it was involved in the deal. So the writer gets 80% of $X but doesn’t have to pay for marketing. Spending 20% of your revenue on marketing (https://vtldesign.com/digital-marketing/content-marketing-strategy/percent-of-revenue-spent-on-marketing-sales/).
+The business model is a basic marketplace system. Buyer (business) pays seller (writer) $X for some writing. A portion (10%?) of $X goes to Medium, and another portion (another 10%?) goes to the publication, if it was involved in the deal. So the writer gets 80% of $X but doesn’t have to pay for marketing. Spending 20% of your revenue on marketing [is standard](https://vtldesign.com/digital-marketing/content-marketing-strategy/percent-of-revenue-spent-on-marketing-sales/).
 
 ### Will it work?
 
 Let me cough into the mic to make sure it’s on. Okay.
 
-Yes, (https://www.scripted.com). But it won’t be easy to build a good writer marketplace. My team and I should know — we’ve spent the past five years doing just that and we have the battle scars to prove it.
+Yes, [we did it at Scripted](https://www.scripted.com). But it won’t be easy to build a good writer marketplace. My team and I should know — we’ve spent the past five years doing just that and we have the battle scars to prove it.
 
-But I’m proud to say we did it. We have an amazing product and a (https://www.scripted.com/freelance-writers) doing all kinds of work for businesses today. We’ve transferred millions of dollars to writers without the scale and investment that Medium can leverage.
+But I’m proud to say we did it. We have an amazing product and a [thriving community of writers](https://www.scripted.com/freelance-writers) doing all kinds of work for businesses today. We’ve transferred millions of dollars to writers without the scale and investment that Medium can leverage.
 
 I’m looking forward to seeing what happens…

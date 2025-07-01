@@ -21,7 +21,7 @@ Not everyone gets a high paid tech or medical job. These are competitive too, so
 
 ![New housing permits in Contra Costa County]({static}/images/2019/01/fredgraph-8_orig.png)
 
-This statistic from the (http://mercurynews.ca.newsmemory.com/publink.php?shareid=25ac99f0a) should raise an alarm:
+This statistic from the [Mercury News](http://mercurynews.ca.newsmemory.com/publink.php?shareid=25ac99f0a) should raise an alarm:
 
 "In California, the percentage of residents able to buy a single-family home has hit its lowest point — 26 percent — since the first quarter of 2008, when the residential housing industry was beset by inflated prices and the subprime mortgage crisis." 
 

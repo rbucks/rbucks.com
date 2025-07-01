@@ -5,7 +5,7 @@ Category: Business
 Tags: business evaluation, data platform, construction, shovels
 Summary: Comprehensive business evaluation of Shovels, a construction data platform that analyzes building permits and contractor performance to solve information asymmetries.
 
-*TL;DR I'm now working on (https://www.shovels.ai)*. 
+*TL;DR I'm now working on [Shovels][Shovels](https://www.shovels.ai)*. 
 
 I’m going to evaluate a business that I’ve already started working on. Perhaps I should have done this earlier, but for better or worse, this project has evolved far faster than expected!
 
@@ -13,7 +13,7 @@ To back up a bit, I’ve been looking for a good idea for a while. I was obliged
 
 But COVID dragged on, I continued ({filename}im-now-an-adjunct.md), and life simply just kept moving. The year was up before I knew it. I wrote ({filename}business-evaluation-clime.md) in June 2022, just four months ago. In it, I said I’m a “general manager in search of an idea” and that I wanted my next idea to be a “B2B climate tech solution that solves an enormous problem.” 
 
-The idea was elusive, to say the least. I crawled through the thousands of posts on (https://workonclimate.org/), social media-stalked my contacts launching  their own climate tech companies, and went deep on at least three co-founder opportunities. I came close to joining an electric vehicle manufacturer (micro-mobility, like golf carts), a carbon-free steel technology, and a programmatic interface for carbon accounting. 
+The idea was elusive, to say the least. I crawled through the thousands of posts on [Work on Climate](https://workonclimate.org/), social media-stalked my contacts launching  their own climate tech companies, and went deep on at least three co-founder opportunities. I came close to joining an electric vehicle manufacturer (micro-mobility, like golf carts), a carbon-free steel technology, and a programmatic interface for carbon accounting. 
 
 None of them worked out. Either I fell out of love with the idea, the CEO/co-founder I was courting chose someone else, or momentum waned and sputtered out. 
 
@@ -39,7 +39,7 @@ They gave me a big pat on the back and said they both see me being a successful 
 
 I returned home invigorated. I reached back out to a couple of the co-founder conversations I still had open. They both quickly ended. Undeterred, I posted a project on Upwork to get help building the permit scraper prototype. It felt great to start moving. 
 
-Then I reached out to a contact at (https://www.teamworthy.com/) who I’d known for years. He had also encouraged me to pursue my own company rather than working for anyone else, including another turn as a hired CEO. I sent him an email to reconnect and told him about the carbon credit accounting opportunity and my idea to harvest building permit data. A week later, the carbon accounting deal was off the table and I was left with my permit data idea. 
+Then I reached out to a contact at [Teamworthy](https://www.teamworthy.com/) who I’d known for years. He had also encouraged me to pursue my own company rather than working for anyone else, including another turn as a hired CEO. I sent him an email to reconnect and told him about the carbon credit accounting opportunity and my idea to harvest building permit data. A week later, the carbon accounting deal was off the table and I was left with my permit data idea. 
 
 I scheduled a meeting with my Teamworthy guy. He told me that to be competitive with their process I needed a co-founder. Fortunately, I had the perfect person in mind. 
 
@@ -61,7 +61,7 @@ Now, long backstory aside, let’s dive into the actual business. 
 
 ## **The Problem ** 
 
-As I wrote in the (https://www.shovels.ai/blog/introduction-to-shovels/), there’s an agency problem in the trades. Contractors have far more knowledge about their skill level and fit for a job than the people who hire them and the banks who fund them. As a result, there is an inefficient market with a lot of bad deals. This is how my neighbors ended up with their awful contractors. 
+As I wrote in the [introduction to Shovels](https://www.shovels.ai/blog/introduction-to-shovels/), there’s an agency problem in the trades. Contractors have far more knowledge about their skill level and fit for a job than the people who hire them and the banks who fund them. As a result, there is an inefficient market with a lot of bad deals. This is how my neighbors ended up with their awful contractors. 
 
 Which contractors are active in my area and which of them are the best fit for my project? The answer today is “nobody knows!” This is what we call the contractor agency problem. Everyone looking to hire a contractor, whether they’re a homeowner with 2,000 square feet or a real estate builder with 2 million square feet, has this problem. The financial institutions who loan money to builders have this problem, too. 
 
@@ -73,13 +73,13 @@ But it doesn’t exist… yet. 
 
 ## **The Solution**
 
-(https://www.shovels.ai) (did I mention that’s what we’re calling this business?) figures out where construction work is happening and who’s doing it. We pull together and analyze millions of records of public data on building permits and inspections. From this data we can measure and therefore predict performance for every contractor, and we also see what work has been done on every address. 
+[Shovels](https://www.shovels.ai) (did I mention that’s what we’re calling this business?) figures out where construction work is happening and who’s doing it. We pull together and analyze millions of records of public data on building permits and inspections. From this data we can measure and therefore predict performance for every contractor, and we also see what work has been done on every address. 
 
 What we’re seeing already is not surprising. The data is messy: it’s incomplete, it’s inconsistent, it’s rife with human error. It's every dirty data problem wrapped up in one incongruous mess. Luka and I remind each other that this is our moat. This is the essence of the problem: decentralized data with different schema maintained by different organizations. 
 
 This is why the world needs Shovels. 
 
-But more specifically, the world needs Shovels because the world needs more information about who the good contractors are. By analyzing inspection data, we're able to introduce a couple of new metrics into the contractor hiring process. As I describe on (https://www.shovels.ai/banks), our first two new metrics are:
+But more specifically, the world needs Shovels because the world needs more information about who the good contractors are. By analyzing inspection data, we're able to introduce a couple of new metrics into the contractor hiring process. As I describe on [the Shovels website](https://www.shovels.ai/banks), our first two new metrics are:
 
 When we make a histogram of all of the inspection pass rates for contractors in Contra Costa County, it produces a beautiful bell curve.
 

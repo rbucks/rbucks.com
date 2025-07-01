@@ -13,7 +13,7 @@ Here's the text from the county website.
 
 > Any change on the property tax roll associating your property with Lafayette, rather than Walnut Creek, will be in name only. It will not move your property into the City of Lafayette and the Zip Code of your property will remain the same.  Mail will continue to be sorted at the Walnut Creek Post Office and continue to be recognized by the United States Postal Service (USPS) when addressed as either “Walnut Creek” or “Lafayette.”
 
-In other words, we're still unincorporated. We belong to neither Walnut Creek nor Lafayette. When we call the police, we're routed to the county Sheriff. The county handles our (https://www.shovels.ai). All that usual stuff you go to City Hall for is handled for us at the county level. My closest elected official is a County Supervisor.
+In other words, we're still unincorporated. We belong to neither Walnut Creek nor Lafayette. When we call the police, we're routed to the county Sheriff. The county handles our [permitting](https://www.shovels.ai). All that usual stuff you go to City Hall for is handled for us at the county level. My closest elected official is a County Supervisor.
 
 I haven't run into any issues with this setup. In fact it's been beneficial. We get all the benefits of living close to Lafayette and Walnut Creek without dealing with the red tape or paying extra taxes. It feels a bit like cheating.
 
@@ -35,7 +35,7 @@ So if Saranap is gonna Saranap, why don't we form our own government? The other 
 
 Moraga is only 10 square miles and has a population of 16,000, about three times the population of Saranap. It incorporated in 1974 when the three towns of Moraga Town, Rheem, and Rheem Valley decided to merge in order to prevent overdevelopment. 
 
-Today, Saranap could do this by petitioning our (https://en.wikipedia.org/wiki/Local_Agency_Formation_Commission), or LAFCO. These commissions are unique to California, which has 58 of them, and they are able to form and dissolve cities within their jurisdiction. To start a new city, the journey begins here. 
+Today, Saranap could do this by petitioning our [Local Agency Formation Commission](https://en.wikipedia.org/wiki/Local_Agency_Formation_Commission), or LAFCO. These commissions are unique to California, which has 58 of them, and they are able to form and dissolve cities within their jurisdiction. To start a new city, the journey begins here. 
 
 But first, we must ask the question: Why would anyone want to form a new city? To answer this, let's look at what city does versus what a county does.
 
@@ -69,4 +69,4 @@ So, if the residents of Saranap felt potholes were going unfixed, buildings were
 
 And this is what the bulk of the incorporation documentation deals with: the comprehensive fiscal analysis. It sounds so messy, the LAFCOs give it its own acronym: the CFA. 
 
-The LAFCO's main responsibility is to ensure that the county isn't worse off by the incorporation and that the new city is fiscally sound. If the analysis is sound and the voters approve it, the new city is born. For more on how it works, (https://calafco.org/sites/default/files/resources/Incorp_appendices.pdf) by the CA Governor's Office of Planning and Research was really helpful.
+The LAFCO's main responsibility is to ensure that the county isn't worse off by the incorporation and that the new city is fiscally sound. If the analysis is sound and the voters approve it, the new city is born. For more on how it works, [this incorporation guide](https://calafco.org/sites/default/files/resources/Incorp_appendices.pdf) by the CA Governor's Office of Planning and Research was really helpful.

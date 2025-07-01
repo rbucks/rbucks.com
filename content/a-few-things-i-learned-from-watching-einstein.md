@@ -5,7 +5,7 @@ Category: Personal
 Tags: reflection, albert-einstein, creativity, life-lessons
 Summary: Reflections on Albert Einstein's complex personality and life lessons from watching the Genius series about his personal and professional struggles.
 
-A friend suggested that I watch the first season of (https://tv.apple.com/us/show/genius/umc.cmc.i2eqkysudwuus6l2h73zl9bz), which profiles Albert Einstein. I checked to see how many episodes there were and how long each one was, as I always do when somebody recommends a new series to me. 
+A friend suggested that I watch the first season of [Genius series](https://tv.apple.com/us/show/genius/umc.cmc.i2eqkysudwuus6l2h73zl9bz), which profiles Albert Einstein. I checked to see how many episodes there were and how long each one was, as I always do when somebody recommends a new series to me. 
 
 Ten episodes! Each one 45 minutes! I hesitated at the commitment but took the plunge. Fortunately, I was not disappointed. The acting: phenomenal. I thought I was witnessing the actual Albert as a young man struggling with his place in the universe. I enjoyed seeing old Albert as a dirty old man, fondling his secretary. And in between, we get to know the wire-haired caricature Eintein, sometime in his 40s and 50s, as an unconventional physicist, unafraid to yield to his libertarian tendencies. 
 

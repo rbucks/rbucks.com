@@ -5,7 +5,7 @@ Category: Business
 Tags: entrepreneurship, scripted, leadership, reflection
 Summary: Reflecting on feeling constrained in professional communication while at Scripted and the challenge of authentic entrepreneurial writing.
 
-#### For a long time I felt hamstrung in my ability to communicate professionally. I couldn’t say what I wanted to say because of how it might be perceived by the (https://www.scripted.com) community.
+#### For a long time I felt hamstrung in my ability to communicate professionally. I couldn’t say what I wanted to say because of how it might be perceived by the [Scripted](https://www.scripted.com) community.
 
 I wasn’t allowed to take risks, and that meant I couldn’t be completely authentic.
 
@@ -35,7 +35,7 @@ Most of my writing about entrepreneurship stems from my last two years at Script
 
 - Fast growth, venture-backed fundraising- Multiple layoffs- Founder breakups and CEO dismissals- Revenue model and key metrics turnaround- Acquisition / exit
 
-Emotions aside, I feel very fortunate to have lived it. It’s a front-row seat to the Silicon Valley MBA, and writing candidly about it not only has exposed me to new networks of people I admire, but has also helped me articulate and digest the business lessons that will propel (https://www.toofr.com), (https://www.enps.co), and (https://www.thinboxapp.com) to greater heights with fewer mistakes and a helluva lot less capital.
+Emotions aside, I feel very fortunate to have lived it. It’s a front-row seat to the Silicon Valley MBA, and writing candidly about it not only has exposed me to new networks of people I admire, but has also helped me articulate and digest the business lessons that will propel [Toofr](https://www.toofr.com), [eNPS](https://www.enps.co), and [Thinbox](https://www.thinboxapp.com) to greater heights with fewer mistakes and a helluva lot less capital.
 
 When people asked me how often I used my MIT Sloan MBA in my day job at Scripted, I’d shrug. “Not much, actually. Most of the case studies were about companies much bigger than us.”
 

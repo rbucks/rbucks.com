@@ -11,7 +11,7 @@ The net result: it's another superpower. I'm finding that thinking hard about IC
 
 ## The Shovels ICP: A case study
 
-I've been doing all this ICP work for (https://www.shovels.ai), of course. I never thought twice about the ICP for my side projects; the stakes were too low. Who cares? Just build and let the chips fall where they may.
+I've been doing all this ICP work for [Shovels](https://www.shovels.ai), of course. I never thought twice about the ICP for my side projects; the stakes were too low. Who cares? Just build and let the chips fall where they may.
 
 Shovels is too interesting. It's too big, there's too much surface area to look at. With Shovels, I want to get it right. It's my baby, my reputation, my investors' money on the line. I have a co-founder and a team this time. I want to go all the way. Figuring out the ICP for Shovels has been a struggle but I think we may have it figured out now.
 

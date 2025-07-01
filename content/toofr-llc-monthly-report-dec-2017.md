@@ -21,37 +21,37 @@ My approach, for the record, has been a campaign of strategic, custom commenting
 
 So far it's not yielding results, at least not in my referral traffic metrics.
 
-!(https://media.licdn.com/dms/image/C4E12AQEyfZhT3nPJ7g/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=ST_RqkXkjj4zcdB5TvzhAmo2oLSgsSVzEvyt9veY1OA)
+![Referral traffic decline chart]({static}/images/C4E12AQEyfZhT3nPJ7g.png)
 
 ## Organic traffic update
 
-Organic traffic fell 26% last month, a 21% drop on the quarter. I'm definitely not happy about this but I am actively working on it. There's the commenting work I mentioned already and I'm also working on a reorganization of the Toofr blog into "(https://blog.hubspot.com/marketing/what-is-a-pillar-page)" with the help of the content marketer I hired a few months ago. You can some early results (https://www.toofr.com/articles/p/find-emails) and (https://www.toofr.com/articles/p/email-marketing).
+Organic traffic fell 26% last month, a 21% drop on the quarter. I'm definitely not happy about this but I am actively working on it. There's the commenting work I mentioned already and I'm also working on a reorganization of the Toofr blog into [pillar pages](https://blog.hubspot.com/marketing/what-is-a-pillar-page) with the help of the content marketer I hired a few months ago. You can some early results on [finding emails](https://www.toofr.com/articles/p/find-emails) and [email marketing](https://www.toofr.com/articles/p/email-marketing).
 
 In my last post I said my competitive SEO mojo was roaring and it still is. The SEO landscape is tough because the Hunter guys are so good but nobody's invincible. I'm going to keep doing SEO for Toofr, adding more content, and checking SEMRush for new keywords to go after. The SEO game is challenging but it's fun now that I have the tools and knowledge about how to play it.
 
 So that's all I really have to say for myself on this one. It sucks to see the large dips two months in a row but outside of what I'm already doing, I don't know what else to do.
 
-!(https://media.licdn.com/dms/image/C4E12AQHXRoyREXnddg/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=bEnIiTlHv0kpa2ch8zjpPzHNB50HRdWd5EAe_TBd1WY)
+![Organic traffic trends December]({static}/images/C4E12AQHXRoyREXnddg.png)
 
 ## Marketplace traffic and sales update
 
 Some good news! Sessions are up 14% over last month. I've made back some of the November dip I wrote about last month.
 
-I'm still excited about the (https://www.toofr.com/marketplace) for many reasons. It's unique in the market, it's another SEO opportunity, and goshdarnit, people like it. The ability for this feature to drive traffic and revenue to Toofr is wholly dependent on my ability to merchandise these lists.
+I'm still excited about the [Toofr marketplace](https://www.toofr.com/marketplace) for many reasons. It's unique in the market, it's another SEO opportunity, and goshdarnit, people like it. The ability for this feature to drive traffic and revenue to Toofr is wholly dependent on my ability to merchandise these lists.
 
-It'll be a fun development project but a significant one. That's why I've been punting it. It'll probably take a couple of weeks of developing, breaking things, and putting them back together and recently I've been putting most of my development energy into (https://www.inlistio.com/) and (https://www.voxloca.com/), my last new project for a while.
+It'll be a fun development project but a significant one. That's why I've been punting it. It'll probably take a couple of weeks of developing, breaking things, and putting them back together and recently I've been putting most of my development energy into [Inlistio][Inlistio](https://www.inlistio.com/) and [VoxLoca](https://www.voxloca.com/), my last new project for a while.
 
-However, both are in a good stable spot now, and I'm itching for a big Toofr project to kick off the new year. I think a (https://www.toofr.com/marketplace) overhaul is the ticket.
+However, both are in a good stable spot now, and I'm itching for a big Toofr project to kick off the new year. I think a [marketplace](https://www.toofr.com/marketplace) overhaul is the ticket.
 
-!(https://media.licdn.com/dms/image/C4E12AQHih_cqJ39Lcg/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=7_azLmuvIXs1yS1w53n2VYZa89oNZqpspnOfJlt_VcU)
+![Marketplace sessions growth December]({static}/images/C4E12AQHih_cqJ39Lcg.png)
 
 ## Customer growth
 
-More good news! I ended the year with 155 paying customers, up from 74 in January. I more than doubled my customer base in 2017, a huge accomplishment I think given everything else that (https://medium.com/@rbucks/the-3-things-that-mattered-to-me-in-2017-630968c80d77).
+More good news! I ended the year with 155 paying customers, up from 74 in January. I more than doubled my customer base in 2017, a huge accomplishment I think given everything else that [mattered to me in 2017](https://medium.com/@rbucks/the-3-things-that-mattered-to-me-in-2017-630968c80d77).
 
 If I can double my customers again in 2018 then Toofr will very likely be a life-changing financial asset for me and my family. I should be able to sell it and pay off my mortgage after tax.
 
-After reading (https://www.amazon.com/dp/B0175P82RA/) for the first time recently I've become much more goal-oriented in my personal finances. My house is the biggest burden on my cash flow and I'm thinking more and more about ways to pay off my mortgage, my car, and the rest of my student loans.
+After reading [The Millionaire Next Door](https://www.amazon.com/dp/B0175P82RA/) for the first time recently I've become much more goal-oriented in my personal finances. My house is the biggest burden on my cash flow and I'm thinking more and more about ways to pay off my mortgage, my car, and the rest of my student loans.
 
 This may seem like a non-sequitur, this is my customer growth section after all, but I stand by the point I made last month that the number of paying customers is the key to Toofr's value and, importantly, the *stability *of its value.
 
@@ -63,7 +63,7 @@ That's why this chart matters to me so much.
 
 And not surprisingly, the customer growth chart mirrors the #1 usership metric I track, the number of unique users guessing emails each month. It looks like like this:
 
-!(https://media.licdn.com/dms/image/C4E12AQGgGQcx4os5tw/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=T7vjIymC8HHIFPvZe6M-7xHzeq9aSS7bP449PC6CerA)
+![Unique users looking up emails chart]({static}/images/C4E12AQGgGQcx4os5tw.png)
 
 This year I went from a low in Q2, averaging about 500 unique users looking up emails to a high in Q4, averaging about 1300 unique users looking up emails. My goal is to double this metric again in 2018.
 
@@ -71,15 +71,15 @@ This year I went from a low in Q2, averaging about 500 unique users looking up e
 
 Monthly recurring revenue went up again last month. Not by much, but enough to make up some of the losses from October and November.
 
-!(https://media.licdn.com/dms/image/C4E12AQFLlKVicZ_eZg/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=8VlxMDncQSYLjPPqIJz1oDx90J4ze5A3egIs-D-Tx98)
+![Monthly recurring revenue December growth]({static}/images/C4E12AQFLlKVicZ_eZg.png)
 
 It would have been even prettier if I didn't get a couple of last-minute cancellations on New Year's Eve. You can see it more clearly here.
 
-!(https://media.licdn.com/dms/image/C4E12AQHjTxEjfUcw1Q/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=LYV7GCyuUo6BK285Kt1DorISSHyQFpvG_vOHeu8LbHI)
+![New customer revenue and churn December]({static}/images/C4E12AQHjTxEjfUcw1Q.png)
 
 $1,000 of new customer revenue has been my average for the last long while. I'll take it and will shoot for long-term growth by continuing the SEO work I'm doing. In the short-term, if I can just keep my churn under that $1,000 mark, ideally in the $300-400 range like last month, then 2018 will indeed be a good year for me.
 
-Preventing churn is as much of an art as a science. I ask everyone who churns if there was anything Toofr could have done better and the vast majority say no, they just don't need it anymore. There's not a lot to work with there, other than to continue building non-subscription opportunities for them to pay for stuff, like the (https://www.toofr.com/lists).
+Preventing churn is as much of an art as a science. I ask everyone who churns if there was anything Toofr could have done better and the vast majority say no, they just don't need it anymore. There's not a lot to work with there, other than to continue building non-subscription opportunities for them to pay for stuff, like the [email lists marketplace](https://www.toofr.com/lists).
 
 Even when they stop paying me, they still open my emails.
 
@@ -91,7 +91,7 @@ I also signed and received payment for a significant credit purchase deal with a
 
 Here's the P&L.
 
-!(https://media.licdn.com/dms/image/C4E12AQHqPYT9pblpvQ/article-inline_image-shrink_1500_2232/0?e=1554336000&v=beta&t=TItUeLG5QPycv0j58jytEyWjwtzSTzI9tSs7WxMQuug)
+![December P&L statement]({static}/images/C4E12AQHqPYT9pblpvQ.png)
 
 ## Product update
 
@@ -99,7 +99,7 @@ December product work was largely around my new Audiences product and its relate
 
 A lot of the deploys were in that part of the code and the rest was more general maintenance and SEO work.
 
-- Improved handling of spaces in last names.- Created a confidence score for employee titles and released it to the API.- Expanded the capacity to go out and find new employees at a given company and then detect their emails.- Added the ability to filter on international companies and top-level domains in the (https://www.toofr.com/audiences) product- Added Audiences as a file type for bulk uploads.
+- Improved handling of spaces in last names.- Created a confidence score for employee titles and released it to the API.- Expanded the capacity to go out and find new employees at a given company and then detect their emails.- Added the ability to filter on international companies and top-level domains in the [Audiences](https://www.toofr.com/audiences) product- Added Audiences as a file type for bulk uploads.
 
 ## Other projects
 
@@ -113,7 +113,7 @@ Registrations this month: 8 (5 last month)
 
 Paying customers: 7 (5 last month)
 
-(https://www.inlistio.com/) is my collaboration with (https://www.linkedin.com/in/maxaltschuler/) from Sales Hacker to track job changes on email or customer lists. As anticipated last month, December was another good one for Inlistio. The drop in sessions was caused by my closed job listing, so that's not of concern. I still saw an increase in the rate of registrations and the number of customers, which is now up to 7. For a more detailed history of Inlistio, I described the path to the (https://medium.com/@rbucks/53-days-to-first-revenue-for-inlistio-d14dc245b9a5).
+[Inlistio](https://www.inlistio.com/) is my collaboration with [Max Altschuler](https://www.linkedin.com/in/maxaltschuler/) from Sales Hacker to track job changes on email or customer lists. As anticipated last month, December was another good one for Inlistio. The drop in sessions was caused by my closed job listing, so that's not of concern. I still saw an increase in the rate of registrations and the number of customers, which is now up to 7. For a more detailed history of Inlistio, I described the path to [53 days to first revenue](https://medium.com/@rbucks/53-days-to-first-revenue-for-inlistio-d14dc245b9a5).
 
 ### eNPS
 
@@ -123,7 +123,7 @@ Registrations this month: 3 (4 last month)
 
 Paying customers: Still 0
 
-(https://www.enps.co/) is an employee net promoter score survey tool. The drop in sessions is primarily from referral traffic from my job posting. Not worried about that. I'm still optimistic about eNPS because of its domain name, recent surge in SERPs, and elegance in that it also doesn't rely on external data. It's a pure, high margin SaaS play and that is very attractive still.
+[eNPS](https://www.enps.co/) is an employee net promoter score survey tool. The drop in sessions is primarily from referral traffic from my job posting. Not worried about that. I'm still optimistic about eNPS because of its domain name, recent surge in SERPs, and elegance in that it also doesn't rely on external data. It's a pure, high margin SaaS play and that is very attractive still.
 
 ### Thinbox
 
@@ -133,4 +133,4 @@ Registrations this month: 0 (2 last month)
 
 Paying customers: Still 0
 
-(https://www.thinboxapp.com/) is a customer email analytics tool. Now that I'm at capacity in the number of projects I'm willing to handle at once, this one will unfortunately have to be shuttered because of its ongoing poor performance. It's a bummer though. I had high hopes because it is a really elegant solution and doesn't rely on any external data. The challenge is in getting it in front of the right people: product managers who are responsible for looking out for the emails their users receive. It just might be too niche.
+[Thinbox](https://www.thinboxapp.com/) is a customer email analytics tool. Now that I'm at capacity in the number of projects I'm willing to handle at once, this one will unfortunately have to be shuttered because of its ongoing poor performance. It's a bummer though. I had high hopes because it is a really elegant solution and doesn't rely on any external data. The challenge is in getting it in front of the right people: product managers who are responsible for looking out for the emails their users receive. It just might be too niche.

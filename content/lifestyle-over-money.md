@@ -23,7 +23,7 @@ My other friend started a hedge fund after business school and recently shut it 
 
 I asked him if he was happy. He shrugged and then cringed and said no, not really. I asked him what would make him happy. Hiking all day, he said. He just wants to go on hikes.
 
-He left to go back to work and my other friend and I talked a while. She’s intentionally unemployed and scheming to get back into the game. I’m semi-retired. I’m not rich but I have a rich lifestyle. I’m not actually retired but I can act like it. It’s the ultimate freedom that I described at length in (https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V/).
+He left to go back to work and my other friend and I talked a while. She’s intentionally unemployed and scheming to get back into the game. I’m semi-retired. I’m not rich but I have a rich lifestyle. I’m not actually retired but I can act like it. It’s the ultimate freedom that I described at length in [The Parallel Entrepreneur](https://www.amazon.com/Parallel-Entrepreneur-start-businesses-keeping-ebook/dp/B07CG8SV5V/).
 
 I didn’t tell my friend this but about those hikes? Yea, I do that. I also work until midnight sometimes. 
 

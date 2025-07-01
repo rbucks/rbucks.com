@@ -5,7 +5,7 @@ Category: Business
 Tags: scripted, leadership, company-culture, entrepreneurship
 Summary: Reflecting on leadership successes at Scripted including custom grandma shirts, inspirational speeches, team toasts, and building meaningful company culture.
 
-I’ve been thinking recently about what I did right during my time at (https://www.scripted.com) as a co-founder, COO, head of sales, and finally CEO. A few surprising things came to mind. Here they are.
+I’ve been thinking recently about what I did right during my time at [Scripted](https://www.scripted.com) as a co-founder, COO, head of sales, and finally CEO. A few surprising things came to mind. Here they are.
 
 ### I had “grandma shirts” made for the entire team at our last retreat
 
@@ -83,7 +83,7 @@ I was always privately proud of this.
 
 Here’s a case where I did nothing and nothing was the right thing to do.
 
-It began as the sales team’s weekly happy hour at a spot chosen by our VP of Sales for its ambience and proximity. (https://www.yelp.com/biz/teds-sports-bar-and-grill-san-francisco) is a dive bar across from the courthouse at 6th and Bryant, just a block from our office at the time, and it is a very special place. Ted himself makes it so.
+It began as the sales team’s weekly happy hour at a spot chosen by our VP of Sales for its ambience and proximity. [Ted's Sports Bar and Grill](https://www.yelp.com/biz/teds-sports-bar-and-grill-san-francisco) is a dive bar across from the courthouse at 6th and Bryant, just a block from our office at the time, and it is a very special place. Ted himself makes it so.
 
 Not only is he kind, difficult to understand, and hilarious, but his chicken wings are incredible.
 
@@ -109,7 +109,7 @@ I still go see Ted when I’m in the area, though. He’s not your typical San F
 
 It’s a small thing but it makes a big difference.
 
-I met (https://www.linkedin.com/in/griggs-ziesing/) when he was going door-to-door on Bryant Street. We happened to be in the market for a new office, touring with a couple of other brokers, and started working with him because I admired his hustle.
+I met [Griggs Ziesing](https://www.linkedin.com/in/griggs-ziesing/) when he was going door-to-door on Bryant Street. We happened to be in the market for a new office, touring with a couple of other brokers, and started working with him because I admired his hustle.
 
 He was working at the time for another client who had open office space and was literally knocking on doors to promote the listing. If he hustled like that for them, I figured, he’d work just as hard for us. So we signed with him and he worked hard for us too.
 

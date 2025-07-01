@@ -9,7 +9,7 @@ Summary: Two major strategic mistakes at Scripted: not implementing monthly subs
 
 Just mentioning this concept rolled eyes and raised eyebrows on my team.
 
-Everyone was either a nay or an abstention on this one. I couldn’t get a single ally. It was a touchy subject because the implications were huge. Everyone was right about that. When we (https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53), we had to lay off half the company.
+Everyone was either a nay or an abstention on this one. I couldn’t get a single ally. It was a touchy subject because the implications were huge. Everyone was right about that. When we [switched to monthly subscriptions](https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53), we had to lay off half the company.
 
 I believed this is what our customers wanted, but I couldn’t convince anyone that it made business sense. Yes, it might cannibalize our other plans. Yes, it might piss off the sales reps. (I was sensitive to this because I managed the sales team for all of 2015, but I wanted to try it anyway.) Yes, it could lower our average revenue per user and (only temporarily, I hoped) throw our unit economics out of whack.
 
@@ -31,12 +31,12 @@ I’m not sure why this one was so controversial. I knew email marketing worked.
 
 The trick to email marketing, and plenty has been written about this, is simply to match the right message to the right person at the right time. I say it’s simple because the wide availability of the data you need to do it makes it simple. You can get data on any company and any person. You can inexpensively build lists with low bounce rates, test your subject lines and calls to action, and use software to automatically follow up until you get a reply. That takes care of the right message and the right person.
 
-The third dimension, at the right time, takes care of itself if you can send a lot of email. When you have a product that has broad demand (like (https://www.scripted.com)), your lists can be very large. Someone is bound to have the burning need at the time we email them, and our customer acquisition cost (CAC) data shows this to be true.
+The third dimension, at the right time, takes care of itself if you can send a lot of email. When you have a product that has broad demand (like [Scripted](https://www.scripted.com)), your lists can be very large. Someone is bound to have the burning need at the time we email them, and our customer acquisition cost (CAC) data shows this to be true.
 
 ![Q4 2016 data showing email marketing CAC]({static}/images/9d902-1fxnzmtmegh_iltefhtuffq.png)
 *Q4 2016 data. It’s even better now!*
 
-Today it’s one of our best channels, profitable by a good margin, and yet I battled my team for years to let me do it. In fact, it wasn’t (https://medium.com/@rbucks/on-being-the-3rd-ceo-of-the-startup-i-started-ae04fc6d58c3) that we finally went big on email marketing. Jake, our CTO, built an amazing machine to manage and track our email campaigns, and the data unequivocally says it works. That cold email CAC from Q4 is even lower today.
+Today it’s one of our best channels, profitable by a good margin, and yet I battled my team for years to let me do it. In fact, it wasn’t [until I became CEO](https://medium.com/@rbucks/on-being-the-3rd-ceo-of-the-startup-i-started-ae04fc6d58c3) that we finally went big on email marketing. Jake, our CTO, built an amazing machine to manage and track our email campaigns, and the data unequivocally says it works. That cold email CAC from Q4 is even lower today.
 
 At the time, though, the arguments against it varied from wanting to protect our brand to concern that we already a bunch of dormant leads.
 

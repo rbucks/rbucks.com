@@ -5,9 +5,9 @@ Category: Business
 Tags: scripted, entrepreneurship, business-strategy, reflection
 Summary: The founder of Scripted shaves his beard after achieving near profitability, reflecting on the discipline needed to save a struggling startup.
 
-A little over two months ago I wrote that (https://medium.com/startup-grind/im-not-shaving-until-my-company-is-profitable-ce9661362658). A lot of people liked it, but not everyone did. I expected that. I decided that I would follow the thread of truth wherever it led, even around the murky bends that are difficult to write about.
+A little over two months ago I wrote that [I'm not shaving until my company is profitable](https://medium.com/startup-grind/im-not-shaving-until-my-company-is-profitable-ce9661362658). A lot of people liked it, but not everyone did. I expected that. I decided that I would follow the thread of truth wherever it led, even around the murky bends that are difficult to write about.
 
-The (https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53) in particular struck a chord. I got a lot of feedback from distant friends, and even an early Scripted writer. This is what he wrote:
+The [story behind our layoffs](https://medium.com/@rbucks/the-story-behind-our-layoffs-699c2d2eea53) in particular struck a chord. I got a lot of feedback from distant friends, and even an early Scripted writer. This is what he wrote:
 
 ![Feedback from Scripted writer]({static}/images/26acc-1pxb2ui3ik47qb8lcvwmudg.png)
 

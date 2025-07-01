@@ -7,7 +7,7 @@ Summary: After MightySignal's acquisition and a challenging year of teaching, I'
 
 This has been a wild year. I guess I'll start from where I left off on that [children's book post]({filename}how-i-wrote-my-childrens-book.md) about a year ago.
 
-Coming into 2022, I was doing really great. [MightySignal was acquired](https://mightysignal.com/blog/airnow-acquires-mightysignal) and was enjoying the process of moving into our [remodeled house]({filename}how-we-did-our-home-addition-and-remodel.md). I'd spend my evenings in the cottage (which wasn't described at all in that long blog post -- an accidental oversight) working on a [web3 project]({filename}my-foray-into-web3.md) and listening to loud music (thank you, (https://www.sonos.com/en-us/products/wireless-home-theater).) I was really happy.
+Coming into 2022, I was doing really great. [MightySignal was acquired](https://mightysignal.com/blog/airnow-acquires-mightysignal) and was enjoying the process of moving into our [remodeled house]({filename}how-we-did-our-home-addition-and-remodel.md). I'd spend my evenings in the cottage (which wasn't described at all in that long blog post -- an accidental oversight) working on a [web3 project]({filename}my-foray-into-web3.md) and listening to loud music (thank you, [Sonos home theater system](https://www.sonos.com/en-us/products/wireless-home-theater).) I was really happy.
 
 Then I [started teaching]({filename}my-first-month-of-real-teaching.md) and my routine completely changed. As soon as I finished prepping for one class, another one was around the corner. Spring semester this year I taught thirteen units in five sections across four classes. Two of the sections were 90-minute lectures, back-to-back. It was a lot!
 
@@ -15,7 +15,7 @@ Then I [started teaching]({filename}my-first-month-of-real-teaching.md) and my r
 
 I figured since I was working from home that I could fit this all in: my startup obligations, family life, exercise, creativity, and yes, teaching. A whole shit-ton of teaching. 
 
-I was wrong, of course. What suffered was my creativity. I never missed a work call, rarely missed my share of walking my kids to the bus or taking them to practice, and even managed to do a lot of cross training so I wouldn't wreck myself on the (https://belgianwaffleride.bike/pages/california). I got into the best shape of my life, actually, and would knock out 13 miles trail running, or 2,000 yards of swimming, or 50+ miles with some major climbs on my road bike, on a whim. I could wake up feeling like doing several hard hours of exercise and totally crush it. I found a way to make that all work. But I stopped writing for fun. I didn't have anything left in the tank for that.
+I was wrong, of course. What suffered was my creativity. I never missed a work call, rarely missed my share of walking my kids to the bus or taking them to practice, and even managed to do a lot of cross training so I wouldn't wreck myself on the [Belgian Waffle Ride California](https://belgianwaffleride.bike/pages/california). I got into the best shape of my life, actually, and would knock out 13 miles trail running, or 2,000 yards of swimming, or 50+ miles with some major climbs on my road bike, on a whim. I could wake up feeling like doing several hard hours of exercise and totally crush it. I found a way to make that all work. But I stopped writing for fun. I didn't have anything left in the tank for that.
 
 Meanwhile, my first year under Airnow was rapidly approaching. I figured I would stay a while because I really liked my team and I wanted to take MightySignal "all the way" -- basically to see it become something of a big deal in the mobile data industry. Airnow, it seemed, would get us there. 
 
@@ -39,23 +39,23 @@ So I'm going to find out. I've been telling people around me, including the guy 
 
 There is an incredible amount of work happening in climate tech. Here are just a few of the most interesting companies I've found:
 
-- (https://www.twelve.co/), which makes critical chemicals *from air*
+- [Twelve](https://www.twelve.co/), which makes critical chemicals *from air*
 
-- (https://www.brimstone.energy/), which makes carbon negative Portland cement at market cost
+- [Brimstone Energy](https://www.brimstone.energy/), which makes carbon negative Portland cement at market cost
 
-- (https://www.blocpower.io/), which finances residential and commercial property decarbonization
+- [BlocPower](https://www.blocpower.io/), which finances residential and commercial property decarbonization
 
-- (https://www.carbios.com/en/), which uses enzymes to break down plastics
+- [Carbios](https://www.carbios.com/en/), which uses enzymes to break down plastics
 
-- (https://climeworks.com/), which absorbs CO2 from the air and stores it underground
+- [Climeworks](https://climeworks.com/), which absorbs CO2 from the air and stores it underground
 
-- (https://www.wattcarbon.com/), which sources carbon offsets from buildings
+- [WattCarbon](https://www.wattcarbon.com/), which sources carbon offsets from buildings
 
 It's all fascinating, incredible stuff. I would love to work at any of these companies and be on the frontlines of growing a business that is poised to make a lot of money while preventing humanitarian crises. I could see having boundless enthusiasm for this work. 
 
 But it's competitive, and being ten years out of the professional environmental game, I'm not anyone's top pick for a senior role. I've tried and failed to get some of these interviews. I'll keep trying, but I also have another way to get in. I can build a company myself. 
 
-I thinking seriously about a couple of ideas. One was around financing residential decarbonization using carbon offsets. I wanted to find a way to use the market value of the future unused CO2 to subsidize carbon-free renovations. It seemed like there should be a way to do this, but the pathway is far from clear. Nobody has figure it out yet, but (https://www.wattcarbon.com/) seems to be the closest. My revenue model would be an arbitrage between what the company pays to homeowners for their carbon credits and what the credits sell for in the market. 
+I thinking seriously about a couple of ideas. One was around financing residential decarbonization using carbon offsets. I wanted to find a way to use the market value of the future unused CO2 to subsidize carbon-free renovations. It seemed like there should be a way to do this, but the pathway is far from clear. Nobody has figure it out yet, but [WattCarbon](https://www.wattcarbon.com/) seems to be the closest. My revenue model would be an arbitrage between what the company pays to homeowners for their carbon credits and what the credits sell for in the market. 
 
 My other idea was to quantify how green a home is. This would be a pure software play, or possibly with some hardware if partners don't cooperate. This company would ingest indoor temperature and air quality, thermostat and water heater usage, smart device usage, and any other home-related data streams we can access. Besides analyzing this data to give tips for living greener, it would be a database of households' "home stacks," or the specific appliances that they use. The revenue model would be freemium -- free to use with some paid upgrades on the consumer side and possibly some paid advertising on the business side. This is a variant of the [Clime idea]({filename}business-evaluation-clime.md) I evaluated previously.
 

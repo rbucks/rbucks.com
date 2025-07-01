@@ -5,9 +5,9 @@ Category: Politics
 Tags: local-politics, contra-costa-county, commission, public-service
 Summary: After 291 days of persistence, I'm appointed to the Contra Costa County Sustainability Commission - patience and the right attitude pay off.
 
-My very first commission seat was on the Berkeley Youth Commission. I was appointed by Berkeley City Councilmember (https://www.cityofberkeley.info/council7/411.html) and went to a few meetings. I don't remember much about it. I think I thought it was a waste of time. This was probably 15 years ago. 
+My very first commission seat was on the Berkeley Youth Commission. I was appointed by Berkeley City Councilmember [Dona Spring](https://www.cityofberkeley.info/council7/411.html) and went to a few meetings. I don't remember much about it. I think I thought it was a waste of time. This was probably 15 years ago. 
 
-Today I met with my county supervisor Candace Andersen about my application to the Sustainability Commission alternate seat. As I've (http://weebly-blog-post-link/124017870444701004/545697050303022373/first-timers-running-for-office.html), I've been trying to get on a commission for a while. I don't want to run for office without some local government experience. I think it's important. After a wide-ranging conversation she told me she'd like to appoint me to this commission and I re-iterated my interest. 
+Today I met with my county supervisor Candace Andersen about my application to the Sustainability Commission alternate seat. As I've [written about running for office](http://weebly-blog-post-link/124017870444701004/545697050303022373/first-timers-running-for-office.html), I've been trying to get on a commission for a while. I don't want to run for office without some local government experience. I think it's important. After a wide-ranging conversation she told me she'd like to appoint me to this commission and I re-iterated my interest. 
 
 Just a few minutes after I left I received confirmation that I was going to be nominated but would not be officially on the commission until the Board of Supervisors confirmed me. 
 

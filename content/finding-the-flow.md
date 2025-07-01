@@ -21,7 +21,7 @@ Now that I’ve had some time to reflect on my experience, I’m certain I had e
 
 ### What Is a Flow State?
 
-I’m not a psychologist, so I’ll let renowned psychologist Mihaly Csikszentmihalyi (https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow?language=en). His TED Talk does a wonderful job of discussing the experience and how it benefits people. If you have time to watch this presentation, please do so. It’s enlightening. It does last almost 20 minutes, though, so I’ll offer a brief description of what a flow state means to me.
+I’m not a psychologist, so I’ll let renowned psychologist Mihaly Csikszentmihalyi [explain flow states in his excellent TED Talk](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow?language=en). His TED Talk does a wonderful job of discussing the experience and how it benefits people. If you have time to watch this presentation, please do so. It’s enlightening. It does last almost 20 minutes, though, so I’ll offer a brief description of what a flow state means to me.
 
 For me, a flow state happens when I get so deep into an activity that I forget about my surroundings. In a way, I even forget myself. It’s like I become an animal that lives by reflexes and instincts. I don’t stop to think about what I’m doing. In fact, thinking is the opposite of flow. To flow is to act. There’s no thinking involved.
 

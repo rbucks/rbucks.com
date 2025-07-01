@@ -27,7 +27,7 @@ If you succeed, your investors will make more money than you will.
 
 But hey, you’ll still get rich. Here’s a recent case study and I happen to know one of the founders.
 
-I graduated in the Class of 2009 at MIT Sloan with (https://www.linkedin.com/in/fkerrest/), the co-founder and COO of (https://www.okta.com/), a cloud security company that had a very successful IPO in April 2017.
+I graduated in the Class of 2009 at MIT Sloan with [Freddy Kerrest](https://www.linkedin.com/in/fkerrest/), the co-founder and COO of [Okta](https://www.okta.com/), a cloud security company that had a very successful IPO in April 2017.
 
 He launched it shortly after we graduated and is the first of my classmates to hit the big time, that rarified pinnacle of taking a company all the way to the public markets.
 
@@ -47,7 +47,7 @@ I’m showing, in hard numbers, that the system is rigged so that venture capita
 
 ### 2. Board members should be respected, not revered
 
-During my years at (https://www.scripted.com), I think we tried too hard to please our board. Instead of doing what we thought was right for the long-term viability of our business, we’d do what we thought the board wanted to see at the next meeting.
+During my years at [Scripted](https://www.scripted.com), I think we tried too hard to please our board. Instead of doing what we thought was right for the long-term viability of our business, we’d do what we thought the board wanted to see at the next meeting.
 
 This meant we couldn’t take risks. We were still a private company but we acted like every half-quarter was life and death and the WSJ would skewer us if we missed our earnings.
 
@@ -89,8 +89,8 @@ There’s always a way to start small, offer discounts, and hustle your product 
 
 You may not make Horowitz money at the end of the journey but you’ll at least make something and completely control your own destiny. That benefit is priceless.
 
-(/images/2017/06/0bc58-111ypy_7jhkxehvv2tw9xbw.jpeg)](http://eepurl.com/bBbrFX)
+[Subscribe to newsletter](http://eepurl.com/bBbrFX)
 
-(/images/2017/06/afe68-1tpitwqg_k1az7qw3qxjycg.jpeg)](http://startupgrind.com/conference)
+[Startup Grind Global Conference](http://startupgrind.com/conference)
 
-(/images/2017/06/a43e2-1zarcdgageurwl6erukhacq.jpeg)](http://startupgrind.com/chapters)
+[Find Startup Grind chapters](http://startupgrind.com/chapters)

@@ -9,7 +9,7 @@ Summary: How launching and pricing experiments helped Inlistio achieve first rev
 
 1 month and 23 days. 14.5% of a year.
 
-That’s how long it took to go from idea to first revenue in the bank for(https://www.inlistio.com), a tool for marketers to track job changes and get new contact info. I built it in my quest for a (https://medium.com/@rbucks/parallel-entrepreneurship-defined-34b2a1cca624) alongside of Toofr.
+That’s how long it took to go from idea to first revenue in the bank for [Inlistio][Inlistio](https://www.inlistio.com), a tool for marketers to track job changes and get new contact info. I built it in my quest for a [parallel entrepreneurship](https://medium.com/@rbucks/parallel-entrepreneurship-defined-34b2a1cca624) alongside of Toofr.
 
 It’s an important reminder of how long it can take it get your SaaS company launched and making revenue.
 
@@ -23,7 +23,7 @@ I told him I’d had a similar thought for one of my side projects and investiga
 
 Less than a week later I had a GitHub repository for my code, a Heroku account for hosting, and a very basic Ruby on Rails application live and running.
 
-Almost exactly a month later, on August 22, I “launched” (https://www.inlistio.com) on social media. It had actually been up and live all along, but this was the first time I said it loud and proud. He and I both posted about it on LinkedIn and Facebook.
+Almost exactly a month later, on August 22, I “launched” [Inlistio](https://www.inlistio.com) on social media. It had actually been up and live all along, but this was the first time I said it loud and proud. He and I both posted about it on LinkedIn and Facebook.
 
 I ultimately changed the pricing three times, and then finally on September 7, 16 days after that announcement, I got our first customer. It took us just under two months to go from idea to first revenue and for the next few months it averaged only one new customer every month. It took five months to get the first $1,000 of monthly recurring revenue.
 
@@ -33,7 +33,7 @@ The lesson here is this: **even if you’re quick to launch, getting customers a
 
 Here’s what I wrote on social media when we launched:
 
-> Today I released (https://www.inlistio.com) to the world with my friend and fellow sales tech entrepreneur Max Altschuler.
+> Today I released [Inlistio](https://www.inlistio.com) to the world with my friend and fellow sales tech entrepreneur Max Altschuler.
 > 
 > From idea (when Max sent me an email describing the problem) to launch it took just under 5 weeks! Record time considering we’re both occupied with other businesses.
 > 

@@ -29,7 +29,7 @@ That’s what a hot market is, and it’s the best place to be if you want to ra
 
 This one is perhaps more controversial and specific to B2B companies. However, I hear also from my B2C friends that the same principal applies.
 
-You need the (https://baremetrics.com/academy/saas-calculating-ltv) (LTV) of your customers to be greater than the cost to acquire them, and you need the payback period as short as possible. (For B2C substitute “user” for “customer.”)
+You need the [lifetime value](https://baremetrics.com/academy/saas-calculating-ltv) (LTV) of your customers to be greater than the cost to acquire them, and you need the payback period as short as possible. (For B2C substitute “user” for “customer.”)
 
 That’s a mouthful, but the essence is this:
 

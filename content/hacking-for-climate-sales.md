@@ -5,7 +5,7 @@ Category: Technology
 Tags: climate tech, sales, technology, sustainability
 Summary: Applying sales automation and psychology techniques to climate technology sales, leveraging mission-driven appeal and mimetic desire.
 
-About a million years ago I wrote a blog post called "Hacking for Sales." I posted it on the (https://www.scripted.com/blogs) and didn't think about it again until this guy (https://maxalts.com/) from Udemy contacted me about running a course on it. I demurred and ultimately declined, but he and I stayed in touch. Later, we got some other people interested in the intersection of engineering, automation, and sales together for monthly dinners and meetups in San Francisco. He turned it into the (https://www.saleshacker.com) conference, website, and community, and ultimately (https://www.saleshacker.com/outreach-acquires-sales-hacker/).  
+About a million years ago I wrote a blog post called "Hacking for Sales." I posted it on the [Scripted blog](https://www.scripted.com/blogs) and didn't think about it again until this guy [Max Altschuler](https://maxalts.com/) from Udemy contacted me about running a course on it. I demurred and ultimately declined, but he and I stayed in touch. Later, we got some other people interested in the intersection of engineering, automation, and sales together for monthly dinners and meetups in San Francisco. He turned it into the [Sales Hacker](https://www.saleshacker.com) conference, website, and community, and ultimately [sold it to Outreach](https://www.saleshacker.com/outreach-acquires-sales-hacker/).  
 
 That was my education in sales. Recently, I wrote and taught an accredited course at Diablo Valley College on tech sales and invited my network to guest lecture. Many of them were friends from the Sales Hacker days. As I've recently rediscovered my interest in climate science and begun to get immersed in climate technology, I've been asking myself: *Is there a role for sales hacking in climate tech?*
 
@@ -13,7 +13,7 @@ Selling climate tech is different than selling regular B2B tech. There’s a mis
 
 There’s a mimetic desire element here too. By capitalizing on the buyers’ idealized vision of themselves, you can appeal to better natures as well as the standard painkiller strategy. 
 
-Mimetic desire (see (https://www.amazon.com/dp/B00KHX0II4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and (https://www.amazon.com/dp/B08XLQZM39/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)) is the idea that all desire comes from external models. It doesn’t come from within. You don’t chose to want things. Your desire is entirely influenced by others. 
+Mimetic desire (see [René Girard's work](https://www.amazon.com/dp/B00KHX0II4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and [Luke Burgis's book](https://www.amazon.com/dp/B08XLQZM39/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)) is the idea that all desire comes from external models. It doesn’t come from within. You don’t chose to want things. Your desire is entirely influenced by others. 
 
 This idea is more than just Michael Jordan selling you Hanes briefs. It’s more nuanced than that. It’s fitting in, it’s fear of missing out, it’s viewing yourself as someone who should wear Hanes.
 
@@ -47,7 +47,7 @@ For example, I still eat red meat. I love a seared rib-eye, medium rare, crust s
 
 I also cook that meat on a natural gas grill and in the winter, we heat one room with a natural gas fireplace. Why? Because I love it. I'm willing and able to pay more for it. 
 
-My goal is to be a climate hero, not a climate saint. If most people are closer to me than (https://www.pressdemocrat.com/article/news/environmental-activist-julia-butterfly-hill-climbs-back-onto-public-stage/), then perhaps I can analyze my own mimetic models to anticipate how the desires of other people are formed. 
+My goal is to be a climate hero, not a climate saint. If most people are closer to me than [environmental activist Julia Butterfly Hill](https://www.pressdemocrat.com/article/news/environmental-activist-julia-butterfly-hill-climbs-back-onto-public-stage/), then perhaps I can analyze my own mimetic models to anticipate how the desires of other people are formed. 
 
 For me, it is the Gates and Doerrs and Musks, the technologists who use their money, ingenuity, and general management to invest in or build climate tech and make a ton of money in the process. They have nice things and do nice things.  I want to model that. 
 

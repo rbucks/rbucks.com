@@ -103,9 +103,9 @@ So the P&L is flat. There's not much more to say than that. Gross margin is low 
 
 Last month was a lot of optimization of the Toofr code. Most of my building was actually on the Inlistio front, and since Inlistio uses Toofr a lot, I even caught a couple of bugs that I wouldn't have seen otherwise. I was surprised no one else had brought them to my attention.
 
-So I fixed those and made a bunch of small improvements to the (https://www.toofr.com/audiences) product, further refining the title data and building a service to go out and get new data in real time when an Audience query is empty.
+So I fixed those and made a bunch of small improvements to the [Toofr Audiences](https://www.toofr.com/audiences) product, further refining the title data and building a service to go out and get new data in real time when an Audience query is empty.
 
-- Added a (http://developer.toofr.com/#credits) to purchase credits and check balances- Added a (http://developer.toofr.com/#reimburse-credits-with-flag-reports) to flag bad data in Toofr and get a credit back for the report- Further improved Audience query response times in UI and API- Released a new (https://www.toofr.com/email-marketing-tools) page- Added social shares and made other small improvements to the (https://www.toofr.com/articles).- Included a real-time prospector that adds people to the Toofr database for specific domains(!!)
+- Added a [credits API endpoint](http://developer.toofr.com/#credits) to purchase credits and check balances- Added a [flag reports API endpoint](http://developer.toofr.com/#reimburse-credits-with-flag-reports) to flag bad data in Toofr and get a credit back for the report- Further improved Audience query response times in UI and API- Released a new [email marketing tools page](https://www.toofr.com/email-marketing-tools)- Added social shares and made other small improvements to the [Toofr articles](https://www.toofr.com/articles).- Included a real-time prospector that adds people to the Toofr database for specific domains(!!)
 
 ## Other projects
 
@@ -119,7 +119,7 @@ Registrations this month: 2 (2 last month)
 
 Paying customers: Still 0
 
-(https://www.thinboxapp.com/) is a customer email analytics tool that *still* needs some love but I now have some SEO tooling that will help at least plant the passive SEO seeds on the very niche keyword set that this site needs. It's an elegant product with no external data dependencies. It would be a welcome relief to add this to my portfolio of revenue streams.
+[Thinbox](https://www.thinboxapp.com/) is a customer email analytics tool that *still* needs some love but I now have some SEO tooling that will help at least plant the passive SEO seeds on the very niche keyword set that this site needs. It's an elegant product with no external data dependencies. It would be a welcome relief to add this to my portfolio of revenue streams.
 
 ### eNPS
 
@@ -129,7 +129,7 @@ Registrations this month: 4 (2 last month)
 
 Paying customers: Still 0
 
-(https://www.enps.co/) is an employee net promoter score survey tool that *still* has tons of potential. Encouragingly, I spoke to another trialing user and have a roadmap of features to add that would entice him to pay. I'm also going to explore adding HIPAA compliancy so I can target health tech companies.
+[eNPS](https://www.enps.co/) is an employee net promoter score survey tool that *still* has tons of potential. Encouragingly, I spoke to another trialing user and have a roadmap of features to add that would entice him to pay. I'm also going to explore adding HIPAA compliancy so I can target health tech companies.
 
 ### Inlistio
 
@@ -139,7 +139,7 @@ Registrations this month: 5 (3 last month)
 
 Paying customers: 5 (3 last month)
 
-(https://www.inlistio.com/) is my collaboration with (https://www.linkedin.com/in/maxaltschuler/) from Sales Hacker to track job changes on email or customer lists. The good news is Inlistio works! People like it. They're paying for it and sticking around. So far I haven't churned anyone. I was able to find a way to lower prices significantly and I have my new content marketing hire helping with posting to Inlistio at least once a week. Of note is this pretty impressive jump into the top 10 position on "track job changes" which is the cover chart this month. I'm going to start targeting other keywords now and cement this position. Big things are ahead for Inlistio. I can feel it.
+[Inlistio](https://www.inlistio.com/) is my collaboration with [Max Altschuler](https://www.linkedin.com/in/maxaltschuler/) from Sales Hacker to track job changes on email or customer lists. The good news is Inlistio works! People like it. They're paying for it and sticking around. So far I haven't churned anyone. I was able to find a way to lower prices significantly and I have my new content marketing hire helping with posting to Inlistio at least once a week. Of note is this pretty impressive jump into the top 10 position on "track job changes" which is the cover chart this month. I'm going to start targeting other keywords now and cement this position. Big things are ahead for Inlistio. I can feel it.
 
 !(https://media.licdn.com/dms/image/C4E12AQEZ8fGJWG8P3A/article-inline_image-shrink_1000_1488/0?e=1554336000&v=beta&t=YV8_qN9X4FhHVQSy9aTmYknVun_ncMnbUDIL5n0fWk4)
 
@@ -151,4 +151,4 @@ Registrations this month: 4
 
 Paying customers: 0
 
-(http://www.glist.io/) came about because I wanted to send mass emails to my friends and family and give them a polite way to unsubscribe. I was also curious about AI chatbots and found (https://wit.ai/) and then couldn't get enough of it. So I've used it myself and have four other people who at least registered and made lists. Still a ways to go on this but it was fun to build. If it gets traction it will do so via its own referral marketing mechanism: links back to Glist.io in the bottom of every email.
+[Glist.io](http://www.glist.io/) came about because I wanted to send mass emails to my friends and family and give them a polite way to unsubscribe. I was also curious about AI chatbots and found [Wit.ai](https://wit.ai/) and then couldn't get enough of it. So I've used it myself and have four other people who at least registered and made lists. Still a ways to go on this but it was fun to build. If it gets traction it will do so via its own referral marketing mechanism: links back to Glist.io in the bottom of every email.

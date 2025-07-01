@@ -5,11 +5,11 @@ Category: Business
 Tags: business evaluation, climate tech, energy efficiency, sustainability
 Summary: Evaluating Clime, a climate tech solution for detecting home energy inefficiencies, but struggling to find a real customer problem despite solid technology.
 
-I recently read this great short article about (https://www.ycombinator.com/library/8g-how-to-get-startup-ideas) by Jared Friedman, a partner at YC. In it he describes a recurring theme across the thousands and thousands of startup pitches they see. They call it SISP, or "a solution in search of a problem." It's an idea that has no practical use in the market. I'll come back to this.
+I recently read this great short article about [how to get startup ideas](https://www.ycombinator.com/library/8g-how-to-get-startup-ideas) by Jared Friedman, a partner at YC. In it he describes a recurring theme across the thousands and thousands of startup pitches they see. They call it SISP, or "a solution in search of a problem." It's an idea that has no practical use in the market. I'll come back to this.
 
 Me, I'm a GMISI, or a "general manager in search of an idea." I'd love to start something new in climate tech. To be clear, I'm still happily plugging away at MightySignal, but the shiny object flickering at me in the distance is a B2B climate tech solution that solves an enormous problem. What this is exactly, I simply don't know. But I'm searching for it.
 
-One of the first ideas that I went down the rabbit hole on is (https://rbucks.notion.site/Clime-v2-9251a063f74248bfba6df2e90b516809). Clime is, unfortunately, a technology in search of a problem. In this blog post I make a case for how cool this technology is and how challenging it will be to commercialize it.
+One of the first ideas that I went down the rabbit hole on is [Clime](https://rbucks.notion.site/Clime-v2-9251a063f74248bfba6df2e90b516809). Clime is, unfortunately, a technology in search of a problem. In this blog post I make a case for how cool this technology is and how challenging it will be to commercialize it.
 
 ---
 
@@ -50,7 +50,7 @@ I'll tackle these in reverse order because the first point is the hairiest one f
 
 YES. Emphatic YES. The solution is timely for two main reasons:
 
-- The proliferation of IoT devices in the market. Everything is Internet-connected and it's getting easier to connect those devices that are not yet online. Even (https://www.cbsnews.com/sanfrancisco/news/south-bay-pushes-for-smart-meters-to-fight-water-waste/) are coming into the Internet age.
+- The proliferation of IoT devices in the market. Everything is Internet-connected and it's getting easier to connect those devices that are not yet online. Even [water meters](https://www.cbsnews.com/sanfrancisco/news/south-bay-pushes-for-smart-meters-to-fight-water-waste/) are coming into the Internet age.
 
 - Climate solutions entered the zeitgeist. The price of natural gas is higher than it's been for the last 10 years. Extreme weather events are all over the place. EVs are everywhere too. Everyday people are starting to come around to the cause/effect relationship between greenhouse gases and climate instability.
 

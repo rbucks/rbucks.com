@@ -17,7 +17,7 @@ I have a feeling, though, that one of those memories will unfold like an origami
 
 My youngest daughter still associated flying with earaches, and the hour-long trip to Burbank airport in Los Angeles was the longest flight she'd take. It was settled: it would be just Lily and me, and all we needed were the dates. My wife checked her work calendar, and we settled on the second week of November. I would take Lily to New York, and to even out the score, she would take Norah to Monterey for a night or two.
 
-Lily was ecstatic! New York! We talked a lot about the trip. I asked her to research hotels, her first Google research project. She needed to find three options under $500 per night, choose one, and tell me why she chose it. We ended up booking the (https://park.marmaranyc.com/), an affordable boutique hotel just a few blocks from the Empire State Building.
+Lily was ecstatic! New York! We talked a lot about the trip. I asked her to research hotels, her first Google research project. She needed to find three options under $500 per night, choose one, and tell me why she chose it. We ended up booking the [Marmara Park Avenue](https://park.marmaranyc.com/), an affordable boutique hotel just a few blocks from the Empire State Building.
 
 Next, I needed to book our flights. Lily understood that when the flights were booked, the trip would happen. She checked on my progress daily. I had recently negotiated a small sale of eNPS.co, one of my many side projects that never took off. I'd written this one off, shut it down, zipped up the code, and tucked it away. Then, out of the blue, someone asked if I would sell it. Conveniently, the offer was just enough to cover two round-trip first-class tickets to New York.
 

@@ -27,7 +27,7 @@ Why me? Why *not* me? I don't know. Nobody does.
 
 ---
 
-I was saddened to read about the *Top Chef* winner (https://www.cnn.com/2019/01/25/entertainment/fatima-ali-top-chef-dies/index.html) on January 25, 2019, from Ewing's sarcoma, a bone and soft tissue cancer. She was 29 years old and achieved incredible success in an extremely difficult field. Being a chef is crazy hard work, and breaking through before the age of 30 is basically impossible. She did it, and then she died. 
+I was saddened to read about the *Top Chef* winner [Fatima Ali died](https://www.cnn.com/2019/01/25/entertainment/fatima-ali-top-chef-dies/index.html) on January 25, 2019, from Ewing's sarcoma, a bone and soft tissue cancer. She was 29 years old and achieved incredible success in an extremely difficult field. Being a chef is crazy hard work, and breaking through before the age of 30 is basically impossible. She did it, and then she died. 
 
 Now *that's* not fair. My condition is nowhere near as serious. People don't usually die from [papillary thyroid cancer]({filename}my-thyroid-got-cancer.md), so I have the data in my favor.  
 

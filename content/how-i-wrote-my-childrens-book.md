@@ -27,7 +27,7 @@ I opened up a blank page on my computer and wrote, "I Remember." Then I wrote th
 
 That was Monday. I remember wiping away tears the first time I read it through. I went to bed happy with myself for stirring up so much emotion in so few words. As I lay in bed that night, it hit me. I was going to turn this into an actual children's book. 
 
-The following morning, during a lull in my work schedule, I decided to find an illustrator. I looked in the only place I knew to look: Reddit. I browsed (https://www.reddit.com/r/HungryArtists/) and scrolled and searched around for people doing line drawings and portraits. One in particular caught my eye. It was only an hour old. 
+The following morning, during a lull in my work schedule, I decided to find an illustrator. I looked in the only place I knew to look: Reddit. I browsed [the HungryArtists subreddit](https://www.reddit.com/r/HungryArtists/) and scrolled and searched around for people doing line drawings and portraits. One in particular caught my eye. It was only an hour old. 
 
 *My comment is still there:*
 
@@ -35,7 +35,7 @@ The following morning, during a lull in my work schedule, I decided to find an i
 
 I thought it was funny that OP (that's the gender-neutral Internet slang for "original poster" -- the person who started the thread) said they don't draw people but would do it if I didn't mind them being strange. For a kid's book, I figured strange was good. Strange was special, unique, and memorable. I didn't want anything too polished, and I really liked the art in OP's portfolio, so I left that comment. 
 
-I must have caught (https://www.jreneart.com/) because she wrote back a few minutes later on Reddit's direct message service. She offered to get started right away and do a drawing just to make sure I liked her style. I agreed to pay her whether or not I liked it. That was it for Tuesday.
+I must have caught [Jolene's attention](https://www.jreneart.com/) because she wrote back a few minutes later on Reddit's direct message service. She offered to get started right away and do a drawing just to make sure I liked her style. I agreed to pay her whether or not I liked it. That was it for Tuesday.
 
 On Thursday, this is what she sent. 
 

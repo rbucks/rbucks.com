@@ -13,7 +13,7 @@ But I'm not talking about those kinds of exits. Here's a different kind, one I d
 
 ---
 
-I wasn't planning to sell my email finding business, but when (https://www.xenon.io) asked me to head up (https://www.mightysignal.com) in October 2018, I couldn't help exploring the option. 
+I wasn't planning to sell my email finding business, but when [Xenon Partners](https://www.xenon.io) asked me to head up [MightySignal](https://www.mightysignal.com) in October 2018, I couldn't help exploring the option. 
 
 I interviewed Jonathan Siegel, Xenon's founder, in my book, [The Parallel Entrepreneur](https://rbucks.com/the-parallel-entrepreneur/), so he knew about my penchant for side projects. He'd also offered to purchase this company in 2016, which was how we first met. That initial connection led to [our first meeting]({filename}whats-next-for-me.md) in 2017. Nearly two years later, I was back in conversations with him about MightySignal, another acquisition he was making.
 
@@ -63,7 +63,7 @@ But these were known, fully transparent faults. It's why the valuation was what 
 
 The business issues were also why I couldn't get full payment upfront. There was risk to the acquirer, and I was forced to share it by agreeing to the lower upfront payment and contingent future payments. If my business were healthy then the buyer would not have required these conditions.
 
-Nonetheless, we closed the deal. We signed the APA and I handed over the keys to my little kingdom: full access to my (https://www.heroku.com) app, (https://www.stripe.com) keys, and domain. I joined a Slack channel to help their developers take over the (minimal) day-to-day maintenance of the app. I wrote a bunch of documentation and answered all of their questions. Since our incentives were aligned, I was as helpful as I could possibly be. I thought I had a good relationship with their developers and the principals I worked with. I responded to every email and Slack message within 24 hours. I was the ideal acquiree. 
+Nonetheless, we closed the deal. We signed the APA and I handed over the keys to my little kingdom: full access to my [Heroku](https://www.heroku.com) app, [Stripe](https://www.stripe.com) keys, and domain. I joined a Slack channel to help their developers take over the (minimal) day-to-day maintenance of the app. I wrote a bunch of documentation and answered all of their questions. Since our incentives were aligned, I was as helpful as I could possibly be. I thought I had a good relationship with their developers and the principals I worked with. I responded to every email and Slack message within 24 hours. I was the ideal acquiree. 
 
 Looking back, I don't see how I could have done any better. When they migrated the entire app off of Heroku and onto Elastic Beanstalk, a competitive service by Amazon Web Services, a critical service silently went down. I noticed and told them, even though at this point, per our APA, my job was done. They told me they appreciated the heads up. I was happy to do it, again, because our incentives were aligned. 
 
@@ -85,7 +85,7 @@ It was written formally, as if drafted by a lawyer, and they followed up by send
 
 I met JP Schnapper-Casteras at the Harvard Kennedy School sometime in late 2006. He was a bright young Stanford guy and I liked him right away. He was in the group of friends I went to Puerto Rico with during our graduate school spring break in 2007, successfully re-living our college years at a beachside rental in Rincón. All of my friends at Harvard were smart, but JP had a special wit and warmth about him that I always admired. 
 
-We stayed in touch over the decade between then and now. I was happy for him when he told me he started (https://schnappercasteras.com) after clerking and working at a big fancy private firm. When I was negotiating the Asset Purchase Agreement for this acquisition, I asked him to take a look. And when I needed a lawyer to protect myself from these jackals, JP was the first person I called. He took the case.
+We stayed in touch over the decade between then and now. I was happy for him when he told me he started [his own law firm](https://schnappercasteras.com) after clerking and working at a big fancy private firm. When I was negotiating the Asset Purchase Agreement for this acquisition, I asked him to take a look. And when I needed a lawyer to protect myself from these jackals, JP was the first person I called. He took the case.
 
 Oddly enough, I've always liked lawyers. I enjoyed talking to them over the years at Scripted, working through the process of incorporating the business, raising money, and hiring and firing employees. The lawyers I knew were smart, articulate, and most of all, disciplined. They were on time, on point, prepared. It must be a state of mind in the lawyer community, because I've never known a lawyer to not be *on it*. I always appreciated that. 
 

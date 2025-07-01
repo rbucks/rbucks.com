@@ -41,4 +41,4 @@ Values can play a huge part in your marketing campaigns. Consider this: If your 
 
 Values are the glue that keeps us working together in the same direction, using a common language and motivating factors which we call our Scripted company values.
 
-Here's our official Slideshare: (http://www.slideshare.net/Emaccoll/scripteds-company-values-presentation)
+Here's our official Slideshare: [Scripted's Company Values Presentation](http://www.slideshare.net/Emaccoll/scripteds-company-values-presentation)

@@ -25,7 +25,7 @@ A few months ago, after leaving Scripted to go full-time on Toofr, I changed my 
 
 The reaction has been the opposite of what I’d feared. The people who call in and ask me about Toofr’s history and how big it is seem pleased when they find out it’s just me. They like having a direct line to the founder. They respect me for it. They wish me well and want to help.
 
-!(https://cdn-images-1.medium.com/max/800/0*FXBEoItOHVxebr3j.)
+![Solo entrepreneur confidence]({static}/images/0*FXBEoItOHVxebr3j.jpeg)
 *Not everyone calls me Superman, but I like it when they do!*
 
 As far as I know, I haven’t lost any customers to this revelation, and I think that’s because they recognize that it’s unlikely for a small, profitable business to go under. I’m not going to over-leverage and implode. I don’t have those growth pressures so I can run Toofr in a manner and at a pace that makes me comfortable.
