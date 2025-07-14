@@ -27,7 +27,7 @@ The referral group is the same suspects but a few of them have increased 10X due
 
 And the good news is I haven't done any manual outreach to get these links. That was my strategy last year, and if you read previous reports, it was probably the one thing I kept hounding myself on. I couldn't find the time or energy to go out and manually make the connections to get those links. Fortunately it's happening organically.
 
-![Referral traffic graph]({static}/images/2018/05/toofr-referral-traffic.png)
+<!-- Missing image: 2018/05/toofr-referral-traffic.png -->
 
 ## Organic traffic update
 
@@ -37,13 +37,13 @@ In diving into the organic results, it's clear the difference is long-tail traff
 
 Interestingly, I first started to "feel" the traffic lift in January. I remember noticing more list imports, registrations, and interactions with my welcome emails. I didn't look then but it's clearly from some algorithmic SERP change. Here's a SEMRush chart that shows it.
 
-![Keyword visibility graph]({static}/images/2018/05/toofr-keyword-visibility.png)
+<!-- Missing image: 2018/05/toofr-keyword-visibility.png -->
 
 This chart shows the visibility in Google's top 100 results on 52 keywords I care about. It says that in mid-January my keyword visibility suddenly shot up over 2X and fortunately it has held.
 
 The reason my pages caught Google's eye? Beats me! The net result is a steady climb in organic traffic since January.
 
-![Organic traffic graph]({static}/images/2018/05/toofr-organic-traffic.png)
+<!-- Missing image: 2018/05/toofr-organic-traffic.png -->
 
 ## Marketplace traffic and sales update
 
@@ -55,7 +55,7 @@ So it makes sense that as I get more lists and therefore more pages I ought to a
 
 I've also postulated that as I get more traffic and more users I should also get more list sales. This has likewise been the case.
 
-![List purchases graph]({static}/images/2018/05/toofr-list-purchases.png)
+<!-- Missing image: 2018/05/toofr-list-purchases.png -->
 
 Here you can see the dramatic increase in list purchases since January. It's remarkable really considering that I've done no--zip, zero zilch-- paid advertising on the marketplace. This growth is entirely organic. May is easily going to beat April but probably not at the same slope. It's a third of the way through the month (as of this writing) and I'm halfway to April's count. For what it's worth, the purchase amount (aka "gross marketplace value") graph has the same shape as the quantity graph.
 
@@ -63,7 +63,7 @@ On the bottom line front, this means that the marketplace is giving me > $1K MRR
 
 Here's the traffic chart too.
 
-![Marketplace traffic graph]({static}/images/2018/05/toofr-marketplace-traffic.png)
+<!-- Missing image: 2018/05/toofr-marketplace-traffic.png -->
 
 ## Customer growth update
 
@@ -81,7 +81,7 @@ And now I'm going to shoot myself in the foot. MRR has been a lagging indicator,
 
 Let's just get it out of the way.
 
-![MRR graph]({static}/images/2018/05/toofr-mrr.png)
+<!-- Missing image: 2018/05/toofr-mrr.png -->
 
 Yep, December to March was a slow and steady death march. It sucked. At the start of each month I'd inevitably be greated by the news that a $500/mo customer wanted to cancel. Then a $250/mo one. And even though I was netting new customers each month, those new customers would inevitably of the $19-49/mo variety. In simple terms, I was losing good customers and gaining less good ones.
 
@@ -109,7 +109,7 @@ It solves a problem people hate: their contacts change jobs but their CRM data s
 
 Since December I've pulled in almost $20K in Inlistio revenue, a bulk of it from two one-time projects. My goal now is to find a way to make it recurring. I'm confident that with enough regular outreach I'll get there. Traffic for Inlistio has been climbing too, albeit from a low base.
 
-![Inlistio traffic graph]({static}/images/2018/05/inlistio-traffic.png)
+<!-- Missing image: 2018/05/inlistio-traffic.png -->
 
 ### [VoxLoca](https://www.voxloca.com/)
 

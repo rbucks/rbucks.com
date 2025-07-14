@@ -37,7 +37,7 @@ I need to be way more proactive about getting referral traffic if this is going 
 
 Here's the last six months of sessions acquired by referrers
 
-![Referral traffic sessions September]({static}/images/C4E12AQExPjQl_ZiLTQ.png)
+<!-- Missing image: C4E12AQExPjQl_ZiLTQ.png -->
 
 ## Organic traffic update
 
@@ -49,7 +49,7 @@ To combat it, I recently launched a new [find emails by industry page](https://w
 
 Here's the last six months of sessions acquired organically
 
-![Organic traffic sessions September]({static}/images/C4E12AQHdVuf5PQiSFQ.png)
+<!-- Missing image: C4E12AQHdVuf5PQiSFQ.png -->
 
 ## Marketplace traffic and sales update
 
@@ -65,7 +65,7 @@ There's tons of potential and I'm only scratching the surface on it right now.
 
 Finally, for the first time since I launched Toofr four years ago, I can tie subscription conversions back to the source. Here's that chart:
 
-![Conversion sources breakdown September]({static}/images/C4E12AQGkC2ZBaYsTTA.png)
+<!-- Missing image: C4E12AQGkC2ZBaYsTTA.png -->
 
 Takeaways:
 
@@ -83,7 +83,7 @@ In August I got another customer at $1,250/mo. She was running a ton of emails a
 
 Here's how it impacted the charts in September:
 
-![Customer growth August vs September]({static}/images/C4E12AQEXI5_sF1hPBQ.png)
+<!-- Missing image: C4E12AQEXI5_sF1hPBQ.png -->
 
 The orange lines are August and the blue lines are September. That huge negative growth number from existing users is what happens when an enterprise subscriber churns after one month.
 
@@ -95,13 +95,13 @@ The net of it is September MRR grew by about $800 but overall monthly revenue dr
 
 Here's the monthly cash chart:
 
-![Monthly cash flow September]({static}/images/C4E12AQFIn0I3KgLiCg.png)
+<!-- Missing image: C4E12AQFIn0I3KgLiCg.png -->
 
 Quarter-over-quarter, fortunately, is a better story. Q3 revenue is up 23% after a flat Q2, but more importantly net income (real bottom line profit) is up **100%**. That's because I got my COGS down nearly 50% in Q3. This was a major focus after going full-time on Toofr in April.
 
 Here's the 2017 YTD quarterly P&L:
 
-![Quarterly P&L 2017 YTD]({static}/images/C4E12AQE4hybzbwGTOw.png)
+<!-- Missing image: C4E12AQE4hybzbwGTOw.png -->
 
 ## Product update
 

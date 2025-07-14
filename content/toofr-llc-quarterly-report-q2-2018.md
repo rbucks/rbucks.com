@@ -19,7 +19,7 @@ So why did I bill the way Salesforce bills? Why did I put SaaS-like pricing plan
 
 The following pricing chart from Toofr a few months ago should look annoyingly familiar.
 
-![Toofr pricing chart before metered billing]({static}/images/C5612AQEgou6Kk1ubuQ.png)
+<!-- Missing image: C5612AQEgou6Kk1ubuQ.png -->
 
 There are bunch of problems with this pricing, but it got me to about $15K/mo in revenue and $10K/mo in profit even while it was merely a side project. As Toofr grew, and as I had more time to put into it, I kept running up against this central problem:
 
@@ -31,23 +31,23 @@ That's completely "bass ackwards" as my high school-aged self would say. I shoul
 
 At the same time, my churn was high. You can see here in the months leading up to the switch to metered (I did that in mid June) my revenue churn was consistently over 10% and north of 20% on a bad month.
 
-![Revenue churn before switching to metered billing]({static}/images/C5612AQHJA7eB-B6aBg.png)
+<!-- Missing image: C5612AQHJA7eB-B6aBg.png -->
 
 Now you can see in the header banner that it's since dropped to 1.3%. I went from 12% churn to 1.3% churn in just one month. That's insane! To make sure these numbers are accurate (I did switch from ProfitWell to Baremetrics for my subscription analytics during this time) let's also look at the user churn. They should have a similar movement.
 
 As I've written before, one of the numbers I care most about, because I believe it will add the most value to Toofr when I sell it, is the number of active customers. I'd been very disheartened by the drop in active customers in the beginning of Q2. Here's the ProfitWell chart on that drop.
 
-![Active customers decline before pricing change]({static}/images/C5612AQHhSBcISfSuqg.png)
+<!-- Missing image: C5612AQHhSBcISfSuqg.png -->
 
 I'd been acquiring fewer and churning more, resulting in a net drop in customers in some months. Overall it was a very slow climb, and slow growth at a small company like Toofr is a bad, bad sign. This played a role in my decision to toss convention ([Marc Andreessen's advice to raise prices](https://www.businessinsider.com/marc-andreessen-advice-to-startups-raise-prices-2016-6) and [Jim Schleckser's article on pricing](https://www.inc.com/jim-schleckser/why-you-need-to-raise-your-prices-today.html)) aside and *lower *my prices and get off the SaaS train altogether.
 
 Here's what happened to my customers (Baremetrics table now).
 
-![Active customers growth after metered billing]({static}/images/C5612AQH9xRuSVYu3GA.png)
+<!-- Missing image: C5612AQH9xRuSVYu3GA.png -->
 
 We're up! In fact, 259 is the most active customers I've ever had. I've written that 300 is the magic number. If I can get 300 active customers then I can sell Toofr for $1M. I'll have to wait to prove this out, but I'm optimistic. I should be there next month.
 
-![Customer growth trajectory over time]({static}/images/C5612AQGExtBy1jZCfg.png)
+<!-- Missing image: C5612AQGExtBy1jZCfg.png -->
 
 Interestingly, around February 2017, the bottom of that dip in customers, is when I left Scripted to go full-time onto Toofr. Toofr was making money in that long customer decline between June 2015 and February 2017 but it was beginning to atrophy. Active customers are the lifeblood of any business and Toofr was losing them hand over foot while I was [leaving Scripted](https://medium.com/@rbucks/whats-next-for-me-a6418447d3d0), [dealing with thyroid cancer](https://themighty.com/2018/01/my-papillary-thyroid-cancer-story/), and welcoming my second daughter.
 
@@ -65,7 +65,7 @@ Yea, I'm pretty much tripling down on metered billing now. One plan for all cust
 
 ### No new plans
 
-[![No new plans concept]({static}/images/C5612AQFpiod9S2eF9Q.png)](http://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjYq_Op_cncAhWFAXwKHZogB9oQjRx6BAgBEAU&url=https%3A%2F%2Flumelle.wordpress.com%2F2014%2F06%2F13%2Fthe-no-new-friends-phenomenon%2F&psig=AOvVaw241gjqWq5T6u5MWEAhk5Wn&ust=1533148475115407)
+<!-- Missing image: C5612AQFpiod9S2eF9Q.png -->
 
 If I want to change the price of the meter, I can do that without worrying about grandfathering old customers. I don't have to manage tons of legacy plans. I can simply change the meter.
 
@@ -75,7 +75,7 @@ My competitors charge anywhere from 10 cents down to a fraction of a cent for an
 
 Here's the Toofr plan to rule all plans. My largest customer now spends about $10K/mo. My smallest one spends $9. They both pay the same $0.01 per email address. It's a simple, elegant solution to what was a complicate pain in the neck.
 
-![Toofr simplified pricing plan]({static}/images/C5612AQG3C6kkWtAWKw.png)
+<!-- Missing image: C5612AQG3C6kkWtAWKw.png -->
 
 ### Superfluous gating is lame
 
@@ -87,7 +87,7 @@ That's fine for pure software, but when your product is data, it really doesn't 
 
 I like how [Pipl](https://www.pipl.com/) does their [pricing](https://pipl.com/api/pricing) (even though I wish it were a lot lower). This makes sense to me. They essentially gate on the kind of data they provide but it's a pure metered billing system.
 
-![Pipl pricing example]({static}/images/C5612AQEEufFchxqwfQ.png)
+<!-- Missing image: C5612AQEEufFchxqwfQ.png -->
 
 You can upgrade to premium coverage and those per match prices go up 2X. It's brilliant, really, and I think I'll take a page from this book sometime next year and charge different metered rates on Toofr products.
 
@@ -95,13 +95,13 @@ Let's compare this to [FullContact](https://www.fullcontact.com/). I think [pric
 
 FullContact should focus on giving their entry level customers a great experience and allowing them to grow into greater spend by **simply charging for what they consume**. If FullContact had a metered plan I would still be using them. Because they don't, I've switched. I don't miss them.
 
-![FullContact pricing plans]({static}/images/C5612AQFwnzhpAlVZEA.png)
+<!-- Missing image: C5612AQFwnzhpAlVZEA.png -->
 
 Unlike FullContact, Baremetrics is a software product. They provide subscription analytics. I log into it, noodle around, maybe grab a chart or a little bit of data, but the product they provide is software that analyzes my customer data. Since I can't really control how much data goes into Baremetrics (Stripe feeds it to them automatically), it wouldn't make sense to charge me in a metered manner.
 
 And since [Josh Pigford](https://twitter.com/Shpigford), their CEO, is a pretty thoughtful guy, I figured they'd have a thoughtful approach to pricing. Indeed they do.
 
-![Baremetrics pricing tiers]({static}/images/C5612AQHkLloKWom3XQ.png)
+<!-- Missing image: C5612AQHkLloKWom3XQ.png -->
 
 They price on value and they tie it to how much money your company is generating. I'm in that $100/mo tier right now and the interesting thing is Baremetrics probably spends more on computing and storage for my account because of my low price point and higher number of customers than the typical customer in this bucket. The higher the ARPU, the fewer customers will fit onto this plan. Less customer data is less headache and cost for Baremetrics.
 
@@ -129,7 +129,7 @@ I had a bunch of people signing up over and over again with fake email addresses
 
 I don't bother confirming emails because it doesn't do someone any good to register a bunch of times. If they click off the subscription prompt, they see one of these blocks. Good ol' Blue Boy is now my top sales rep.
 
-![Blue Boy mascot sales prompt]({static}/images/C5612AQFmiWf5Bmv-Bw.png)
+<!-- Missing image: C5612AQFmiWf5Bmv-Bw.png -->
 
 If someone really wants some free credits, they'll write in and I'll give them credits. I'm formalizing this trial process now so I can get visibility into the conversion rate. If it's too low then I'll stop giving away credits. Hunter can have those guys.
 
@@ -151,4 +151,4 @@ There has to be sustainability in that.
 
 Oh, money? Right. It's choppy but should smooth out in the coming months. In the meantime there's enough to pay the mortgage.
 
-![Revenue trends during transition to metered billing]({static}/images/C5612AQFLD8KWlFWlSw.png)
+<!-- Missing image: C5612AQFLD8KWlFWlSw.png -->

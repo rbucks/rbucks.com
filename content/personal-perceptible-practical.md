@@ -9,7 +9,7 @@ Some time ago I learned about Susan Solomon, the atmospheric chemist who discove
 
 I've been thinking about something she said about the tactics she used to get the world to care and do something about the problem. I was struck that she thought as much about the "marketing" of the ozone layer problem as the science behind it.  
 
-![Susan Solomon at MIT]({static}/images/susan-solomon-mit.png)
+<!-- Missing image: susan-solomon-mit.png -->
 *Susan Solomon at MIT. Credit: [PBS](https://www.pbs.org/wnet/peril-and-promise/2019/04/how-the-ozone-hole-can-help-us-communicate-climate-change/)*
 
 Solomon said that effective environmental problem solving requires that the solution be **personal**, **perceptible**, and **practical**. I'd argue that this framework works for any problem, public or private, economic or environmental. It's relevant even when rallying the globe around fending off a global pandemic, too. I keep coming back to this when I read about the response to coronavirus, so let's apply Dr. Solomon's framework to our current global crisis. 

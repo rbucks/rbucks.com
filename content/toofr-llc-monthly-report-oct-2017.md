@@ -23,7 +23,7 @@ However I still haven't acquired a new big referral source. More on why and what
 
 Here's month-to-month referral traffic growth since April, when I started putting more time into Toofr. In fact, referral traffic has grown 250% in the six months since that low point in May.
 
-![Referral traffic growth since April]({static}/images/C4E12AQFhYyXam58nAQ.png)
+<!-- Missing image: C4E12AQFhYyXam58nAQ.png -->
 
 ## Organic traffic update
 
@@ -35,7 +35,7 @@ This month Toofr jumped up a few more positions on "email finder," "find email a
 
 So I didn't get back to my August high but at least it didn't fall any further. I know SEO changes don't impact overnight or even within a few weeks of a change, so maybe, just maybe, last month's SEO project with new industry and domain pages will start to yield results next time.
 
-![Organic traffic October trends]({static}/images/C4E12AQHPhphKRUaMRA.png)
+<!-- Missing image: C4E12AQHPhphKRUaMRA.png -->
 
 ## Marketplace traffic and sales update
 
@@ -49,7 +49,7 @@ I tried running Facebook ads but the comments were all very critical. They range
 
 It's early days still but this pageview growth is great.
 
-![Marketplace pageview growth October]({static}/images/C4E12AQGlLu6hw1AshQ.png)
+<!-- Missing image: C4E12AQGlLu6hw1AshQ.png -->
 
 ## Overall traffic update
 
@@ -59,7 +59,7 @@ To really give where I'm at now in total traffic some context, I took the next c
 
 Suffice to say I was not spending a lot of time on Toofr then. The traffic shows it. I've come a long way since, growing almost 400% from the low point in February.
 
-![Overall traffic growth since October 2016]({static}/images/C4E12AQGNKRBPtoM7tg.png)
+<!-- Missing image: C4E12AQGNKRBPtoM7tg.png -->
 
 ## Customer growth
 
@@ -75,7 +75,7 @@ Is it random? Is it something I said or did? Has there been a data quality probl
 
 I don't know. So far in November it's been better, but it's still frustrating. I don't like all that churn.
 
-![Customer churn October analysis]({static}/images/C4E12AQEaOnQlFUFAMQ.png)
+<!-- Missing image: C4E12AQEaOnQlFUFAMQ.png -->
 
 Another way to spin this, if only to make myself feel better, is that I've been acquiring a lot more new paying customers in the last six months than I did in the six months prior. I made this new customer growth my header chart of the month.
 
@@ -83,9 +83,9 @@ Bugs and churn are unavoidable to some degree. The SMB market is known for havin
 
 The best I can do is to respond to customers quickly, keep the data strong, and continue to fine-tune Toofr so the search engines love it.
 
-![New customer growth six month trend]({static}/images/C4E12AQETedhGmKlekg.png)
+<!-- Missing image: C4E12AQETedhGmKlekg.png -->
 
-![Total paying customers October]({static}/images/C4E12AQGgghBURBttzg.png)
+<!-- Missing image: C4E12AQGgghBURBttzg.png -->
 
 It's interesting how both the new and total paying customer charts overlap with the overall traffic chart. In all cases, things started to take off in March and April.
 
@@ -99,13 +99,13 @@ I actually broke $25,000 in total cash receipts for the first time! The net came
 
 Still, I am very aware that I shouldn't celebrate growth for the sake of growth. I want high quality growth. High quality, sustainable dollars from a large customer base that is engaged with my product. A tick up in low quality revenue one month will no doubt be answered by a tick down soon thereafter. So even though October revenue overall was actually up because of one-time and yearly purchases, I'm not doing any touchdown dances.
 
-![Monthly cash receipts October record]({static}/images/C4E12AQFdQP-TV9gpag.png)
+<!-- Missing image: C4E12AQFdQP-TV9gpag.png -->
 
 Here's the P&L YTD. Looks different than last month because I've finally moved my books over to Quickbooks and hired a real accountant. We're growing up over here!
 
 I've also split out Toofr revenue and COGS from Inlistio revenue and COGS since it looks like Inlistio will have much lower margins than Toofr intially.
 
-![YTD P&L October with QuickBooks]({static}/images/C4E12AQEu9MzrC8YysA.png)
+<!-- Missing image: C4E12AQEu9MzrC8YysA.png -->
 
 The monthly fluctuations, as described, are largely due to the acquisition and churn of large customers. I much prefer to look at SaaS on a quarterly basis so that one-off noise gets washed out. I'm proud of this chart.
 
@@ -115,7 +115,7 @@ That's a winning combo for any business, but it's especially important for a sma
 
 This means the business healthy and if I ever decide to sell it, I should get a nice multiple on revenue.
 
-![Quarterly revenue and margins improvement]({static}/images/C4E12AQHI1oFhderfbg.png)
+<!-- Missing image: C4E12AQHI1oFhderfbg.png -->
 
 ## Hiring
 

@@ -80,4 +80,4 @@ Until then, I make slow but steady progress on piano, and I fully expect to be a
 
 Here's to you, 2021.
 
-![2021 celebration gif]({static}/images/2021-celebration.gif)
+<!-- Missing image: 2021-celebration.gif -->

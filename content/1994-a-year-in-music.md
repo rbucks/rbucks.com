@@ -39,7 +39,7 @@ Stone Temple Pilot's Core and Soundgarden's Superunknown were not in the regular
 
 Weiland and Cornell are gods in comparison. There's nobody like them. They're the Freddy Mercury, Robert Plant, and Steve Perry of the 1990s. 
 
-![Nirvana MTV Unplugged album cover]({static}/images/2023/03/R-1024x1024.jpeg)
+![Nirvana MTV Unplugged album cover]({static}/images/2023/03/R.jpeg)
 
 ![Eric Clapton Unplugged album cover]({static}/images/2023/03/OIP.jpeg)
 

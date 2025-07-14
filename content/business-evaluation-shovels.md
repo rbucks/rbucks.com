@@ -5,7 +5,7 @@ Category: Business
 Tags: business evaluation, data platform, construction, shovels
 Summary: Comprehensive business evaluation of Shovels, a construction data platform that analyzes building permits and contractor performance to solve information asymmetries.
 
-*TL;DR I'm now working on [Shovels][Shovels](https://www.shovels.ai)*. 
+*TL;DR I'm now working on [Shovels](https://www.shovels.ai)*. 
 
 I’m going to evaluate a business that I’ve already started working on. Perhaps I should have done this earlier, but for better or worse, this project has evolved far faster than expected!
 
@@ -17,7 +17,7 @@ The idea was elusive, to say the least. I crawled through the thousands of posts
 
 None of them worked out. Either I fell out of love with the idea, the CEO/co-founder I was courting chose someone else, or momentum waned and sputtered out. 
 
-And then, out of the ether, I started thinking about home construction and contractors. My wife and I did ({filename}how-we-did-our-home-addition-and-remodel.md) and it went really well. Our neighbors had the opposite experience. I felt bad for them, angry at the guys they hired, and wondered what the difference was between the contractor we hired and the one they went with. I started to look around and idea began to materialize. 
+And then, out of the ether, I started thinking about home construction and contractors. My wife and I did [a big remodel]({filename}how-we-did-our-home-addition-and-remodel.md) and it went really well. Our neighbors had the opposite experience. I felt bad for them, angry at the guys they hired, and wondered what the difference was between the contractor we hired and the one they went with. I started to look around and idea began to materialize. 
 
 There’s public data about building permits and the inspections that are required for a permit to be signed off. There’s a ton of this data, in fact, but it’s hard to get. Despite being public, there’s no standardized, simple interface to interact with it. There are a dozen different softwares among the jurisdictions that post the data online. Many simply don’t have it on the Internet. 
 
@@ -25,7 +25,7 @@ A little antenna went up in the back of my head. This is why there’s no single
 
 For a month or so, I did nothing. I told my neighbors about it and they nodded in appreciation of my excitement if not for the brilliance of the idea itself, and then as has happened for my preceding forty years, life just rolled along. 
 
-A change happened in mid-August when I brought a group of friends ({filename}my-happy-place.md) for a weekend. It was a short trip, just one night for most of the group. Two close friends stuck around while I put the cabin back together and as I swept the deck they gave me a very consequential pep talk.
+A change happened in mid-August when I brought a group of friends [to Pincerest]({filename}my-happy-place.md) for a weekend. It was a short trip, just one night for most of the group. Two close friends stuck around while I put the cabin back together and as I swept the deck they gave me a very consequential pep talk.
 
 I don’t remember exactly what was said, but I remember what I took away from it:
 
@@ -43,7 +43,7 @@ Then I reached out to a contact at [Teamworthy](https://www.teamworthy.com/) who
 
 I scheduled a meeting with my Teamworthy guy. He told me that to be competitive with their process I needed a co-founder. Fortunately, I had the perfect person in mind. 
 
-I met Luka for the first time in February 2020 when I organized a ({filename}mightysignals-new-leadership.md) retreat in Las Vegas. We rented out the “Real World Suite” at the Gold Spike in Downtown Las Vegas so everyone could stay in the same place and get more opportunity to connect (in retrospect this only worked because we were all guys). 
+I met Luka for the first time in February 2020 when I organized a [MightySignal]({filename}mightysignals-new-leadership.md) retreat in Las Vegas. We rented out the “Real World Suite” at the Gold Spike in Downtown Las Vegas so everyone could stay in the same place and get more opportunity to connect (in retrospect this only worked because we were all guys). 
 
 Luka arrived last due to a harrowing sequence of flight delays. He ended up traveling nearly 24 hours from Slovenia to Las Vegas. I felt terrible for him but he was chirpy as ever, just glad to be there, and went immediately to sleep. 
 

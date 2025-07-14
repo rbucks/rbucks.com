@@ -21,7 +21,7 @@ My approach, for the record, has been a campaign of strategic, custom commenting
 
 So far it's not yielding results, at least not in my referral traffic metrics.
 
-![Referral traffic decline chart]({static}/images/C4E12AQEyfZhT3nPJ7g.png)
+<!-- Missing image: C4E12AQEyfZhT3nPJ7g.png -->
 
 ## Organic traffic update
 
@@ -31,7 +31,7 @@ In my last post I said my competitive SEO mojo was roaring and it still is. The 
 
 So that's all I really have to say for myself on this one. It sucks to see the large dips two months in a row but outside of what I'm already doing, I don't know what else to do.
 
-![Organic traffic trends December]({static}/images/C4E12AQHXRoyREXnddg.png)
+<!-- Missing image: C4E12AQHXRoyREXnddg.png -->
 
 ## Marketplace traffic and sales update
 
@@ -43,7 +43,7 @@ It'll be a fun development project but a significant one. That's why I've been p
 
 However, both are in a good stable spot now, and I'm itching for a big Toofr project to kick off the new year. I think a [marketplace](https://www.toofr.com/marketplace) overhaul is the ticket.
 
-![Marketplace sessions growth December]({static}/images/C4E12AQHih_cqJ39Lcg.png)
+<!-- Missing image: C4E12AQHih_cqJ39Lcg.png -->
 
 ## Customer growth
 
@@ -63,7 +63,7 @@ That's why this chart matters to me so much.
 
 And not surprisingly, the customer growth chart mirrors the #1 usership metric I track, the number of unique users guessing emails each month. It looks like like this:
 
-![Unique users looking up emails chart]({static}/images/C4E12AQGgGQcx4os5tw.png)
+<!-- Missing image: C4E12AQGgGQcx4os5tw.png -->
 
 This year I went from a low in Q2, averaging about 500 unique users looking up emails to a high in Q4, averaging about 1300 unique users looking up emails. My goal is to double this metric again in 2018.
 
@@ -71,11 +71,11 @@ This year I went from a low in Q2, averaging about 500 unique users looking up e
 
 Monthly recurring revenue went up again last month. Not by much, but enough to make up some of the losses from October and November.
 
-![Monthly recurring revenue December growth]({static}/images/C4E12AQFLlKVicZ_eZg.png)
+<!-- Missing image: C4E12AQFLlKVicZ_eZg.png -->
 
 It would have been even prettier if I didn't get a couple of last-minute cancellations on New Year's Eve. You can see it more clearly here.
 
-![New customer revenue and churn December]({static}/images/C4E12AQHjTxEjfUcw1Q.png)
+<!-- Missing image: C4E12AQHjTxEjfUcw1Q.png -->
 
 $1,000 of new customer revenue has been my average for the last long while. I'll take it and will shoot for long-term growth by continuing the SEO work I'm doing. In the short-term, if I can just keep my churn under that $1,000 mark, ideally in the $300-400 range like last month, then 2018 will indeed be a good year for me.
 
@@ -91,7 +91,7 @@ I also signed and received payment for a significant credit purchase deal with a
 
 Here's the P&L.
 
-![December P&L statement]({static}/images/C4E12AQHqPYT9pblpvQ.png)
+<!-- Missing image: C4E12AQHqPYT9pblpvQ.png -->
 
 ## Product update
 
