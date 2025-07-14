@@ -129,7 +129,7 @@ This reminds me of what happened with Scripted <<Claude: link to "being the othe
 1. You write with `<<Claude: action>>` notes in your draft
 2. Claude searches `/content/` directory for relevant posts by keywords, titles, categories, tags, and content similarity
 3. Claude replaces notes with actual Markdown links `[text](url)` or requested content
-4. Claude ensures that all SEO frontmatter exists and is complete. 
+4. Claude ensures that all SEO frontmatter exists and is complete. For category, use ONLY these categories: business, family, food, health, lifestyle, personal, politics, technology
 5. Claude returns the word count, readability, and overall assessment of the post.
 6. You review changes before committing
 

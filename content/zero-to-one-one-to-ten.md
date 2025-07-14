@@ -1,7 +1,7 @@
 Title: 0 to 1, 1 to 10
 Date: 2025-06-29
 Slug: zero-to-one-one-to-ten
-Category: entrepreneurship
+Category: business
 Tags: entrepreneurship, venture capital, fundraising, shovels, startups
 Summary: The journey from rejecting venture capital to raising $5M for Shovels, building a big data business focused on the physical world and climate companies.
 
