@@ -17,7 +17,7 @@ They call their bounty app Ahoy.
 
 ---
 
-Ahoy isn't live yet. I'll link to it once it's available to the general public (which should be soon, I'm told). [Ahoy](https://ahoy.fund/)!] For this business evaluation I'm going to describe the business opportunity of Ahoy generally and my political fundraising idea specifically. 
+Ahoy isn't live yet. I'll link to it once it's available to the general public (which should be soon, I'm told). [Ahoy](https://ahoy.fund/)! For this business evaluation I'm going to describe the business opportunity of Ahoy generally and my political fundraising idea specifically. 
 
 ## The Problem
 
