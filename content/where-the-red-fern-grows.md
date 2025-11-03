@@ -1,4 +1,3 @@
-
 Title: Where the Red Fern Grows
 Date: 2025-09-30 12:00
 Slug: where-the-red-fern-grows
