@@ -3,6 +3,7 @@ Date: 2018-06-12 18:27
 Slug: what-can-i-say
 Category: Personal
 Tags: personal, reflection, family, relationships
+Description: I’m a straight white guy with no physical disabilities. That gives me a head start.
 Summary: Martin Luther King Day reflection on privilege, racism, and my grandfather's civil rights activism, questioning my role in fighting injustice.
 
 I’m a straight white guy with no physical disabilities. That gives me a head start.

@@ -3,6 +3,7 @@ Date: 2017-07-24 09:41
 Slug: my-524687-side-business
 Category: Business
 Tags: entrepreneurship, side-business, toofr, parallel-entrepreneurship
+Description: By the time I left Scripted in early 2017, its lifetime Stripe revenue was in excess of $524,000 with monthly recurring revenue (MRR) according to Nathan...
 Summary: The complete story of building Toofr into a $524K side business while working at Scripted, learning to code, and pursuing parallel entrepreneurship.
 
 By the time I [left Scripted in early 2017](https://medium.com/@rbucks/whats-next-for-me-a6418447d3d0), its lifetime Stripe revenue was in excess of $524,000 with monthly recurring revenue (MRR) [according to Nathan Latka's top software companies](http://nathanlatka.com/thetop610/).

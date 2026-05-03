@@ -3,6 +3,7 @@ Date: 2025-08-03 15:00
 Slug: twenty-five-years-since-i-graduated-high-school
 Category: personal
 Tags: nostalgia, high school, reunion, reflection
+Description: Today I went to my high school reunion. I went because I wanted to go, and also because I organized it. Why did I organize it? I don't know.
 
 Today I went to my high school reunion. I went because I wanted to go, and also because I organized it. Why did I organize it? I don't know. I'm writing this post to figure that out. 
 

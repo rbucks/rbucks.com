@@ -3,6 +3,7 @@ Date: 2020-10-24 21:17
 Slug: im-now-an-adjunct
 Category: Personal
 Tags: teaching, community-college, career, family
+Description: Last October, a professor in the business department at Diablo Valley College (DVC) asked me if I would apply to teach part-time in a new digital marketing...
 Summary: Becoming an adjunct business professor at DVC, where my grandfather once performed in choir, to teach digital marketing and bring real-world experience to students.
 
 Last October, a professor in the business department at [Diablo Valley College](https://www.dvc.edu) (DVC) asked me if I would apply to teach part-time in a new digital marketing certificate program. 

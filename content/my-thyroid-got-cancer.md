@@ -3,6 +3,7 @@ Date: 2017-06-24 14:17
 Slug: my-thyroid-got-cancer
 Category: Personal
 Tags: health, cancer, thyroid-cancer, life-lessons
+Description: My thyroid got cancer some time ago. The doctors can’t say when because there was no way to determine a growth rate.
 Summary: My personal journey with papillary thyroid cancer - from diagnosis to surgery and recovery, sharing the experience of navigating cancer during major life transitions.
 
 My thyroid got cancer some time ago. The doctors can’t say when because there was no way to determine a growth rate. It might have been thirty years ago when my throat was X-rayed during a bout with really bad [croup](https://www.babycenter.com/0_croup-in-toddlers_11421.bc), but nobody knows.

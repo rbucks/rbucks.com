@@ -3,6 +3,7 @@ Date: 2020-06-12 00:01
 Slug: ten-years-of-marriage
 Category: Family
 Tags: marriage, relationships, family, reflection
+Description: March 14, 2008. Kennebunkport, ME.
 Summary: Celebrating ten years of marriage: from meeting in Sacramento to Boston to wine country wedding, building family and community in the suburbs.
 
 ![Wedding photo from Kennebunkport]({static}/images/2020/06/IMG_0240.jpg)

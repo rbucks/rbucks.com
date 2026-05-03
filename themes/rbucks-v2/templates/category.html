@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}{{ category }} — {{ SITENAME }}{% endblock %}
+
+{% block content %}
+{% set posts = (articles_page.object_list if articles_page else articles) %}
+
+<div class="crumbs">
+  <a href="{{ SITEURL }}/">Writing</a><span class="sep">/</span>
+  <a href="{{ SITEURL }}/categories.html">Categories</a><span class="sep">/</span>
+  <span class="here">{{ category }}</span>
+</div>
+
+<header class="page-head">
+  <h1>Filed under {{ category }}.</h1>
+  {% if CATEGORY_DESCRIPTIONS and CATEGORY_DESCRIPTIONS[category|string] %}
+  <p class="sub">{{ CATEGORY_DESCRIPTIONS[category|string] }}</p>
+  {% endif %}
+</header>
+
+<div class="cat-nav">
+  <a href="{{ SITEURL }}/">All</a>
+  {% for cat, _ in categories %}
+    <a href="{{ SITEURL }}/{{ cat.url }}"{% if cat == category %} class="active"{% endif %}>{{ cat }}</a>
+  {% endfor %}
+</div>
+
+{# Group by year #}
+{% set ns = namespace(current_year=0) %}
+{% for article in posts %}
+  {% if article.date.year != ns.current_year %}
+    {% if not loop.first %}    </ul>
+</section>
+    {% endif %}
+    {% set ns.current_year = article.date.year %}
+<section class="section-block">
+  <div class="section-head"><h3>{{ ns.current_year }}</h3></div>
+  <ul class="post-list">
+  {% endif %}
+    <li class="post-item">
+      <div class="post-date">{{ article.locale_date }}</div>
+      <div class="post-body">
+        <h4><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h4>
+        {% if article.summary %}<p>{{ article.summary|striptags }}</p>{% endif %}
+      </div>
+      <div class="post-cat"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+    </li>
+  {% if loop.last %}
+  </ul>
+</section>
+  {% endif %}
+{% endfor %}
+
+{% if articles_page and articles_paginator.num_pages > 1 %}
+<div class="pagination">
+  {% if articles_page.has_previous() %}
+    <a href="{{ SITEURL }}/{{ category.url|replace('.html','') }}{% if articles_page.previous_page_number() > 1 %}{{ articles_page.previous_page_number() }}{% endif %}.html">← Newer</a>
+  {% else %}
+    <span class="disabled">← Newer</span>
+  {% endif %}
+  {% if articles_page.has_next() %}
+    <a href="{{ SITEURL }}/{{ category.url|replace('.html','') }}{{ articles_page.next_page_number() }}.html">Older →</a>
+  {% else %}
+    <span class="disabled">Older →</span>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}

@@ -3,6 +3,7 @@ Date: 2025-12-29 10:00
 Slug: my-life-in-ai
 Category: technology
 Tags: AI, Claude Code, productivity, coding, entrepreneurship, Shovels
+Description: I haven't written anything here about artificial intelligence, even though I use it every day. My work life is entirely dependent on it now.
 
 I haven't written anything here about artificial intelligence, even though I use it every day. My work life is entirely dependent on it now. Being without it would feel like doing my job with no internet.
 

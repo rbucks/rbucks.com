@@ -3,6 +3,7 @@ Date: 2017-01-02 12:18
 Slug: buckleys-grilled-cowboy-rib-eyes
 Category: Food
 Tags: recipes, grilling, cooking, lifestyle
+Description: - Get some big ass cowboy rib eye steaks. Bone-in because you’re not a wimp and you’re willing to pay $17 per pound for some carbon. Seriously, shell out.
 Summary: Recipe for grilling premium bone-in cowboy rib eye steaks with liberal salt seasoning and high-heat grilling techniques.
 
 ![Grilled cowboy rib eye steak 1]({static}/images/2017/01/a728c-1hiag9lulzmwfvtxuz7qwqg.jpeg)

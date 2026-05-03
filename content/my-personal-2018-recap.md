@@ -3,6 +3,7 @@ Date: 2019-02-06 21:04
 Slug: my-personal-2018-recap
 Category: Personal
 Tags: reflection, self-improvement, goals, reading
+Description: In 2018 I did plenty of Read Write Play (RWP). I was good about reading books; GoodReads says I knocked down 26 books of them.
 Summary: Implementing new habits for 2019: no late-night work, concentrated learning, less coffee, swimming, and commitment to Read Write Play routine.
 
 ![Goodreads reading goal completion for 2018]({static}/images/2019/02/screen-shot-2019-02-06-at-8.53.41-pm.png)

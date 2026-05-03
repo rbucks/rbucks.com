@@ -211,3 +211,4 @@ output/
 
 # Pelican production build (deployed via GitHub Actions)
 docs/
+.DS_Store

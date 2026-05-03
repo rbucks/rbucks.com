@@ -87,4 +87,7 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b gh-pages $(OUTPUTDIR)
 	git push origin gh-pages
 
-.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github
+test:
+	$(PY) -m pytest tests/ -v
+
+.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github test

@@ -3,6 +3,7 @@ Date: 2025-09-30 12:00
 Slug: where-the-red-fern-grows
 Category: family
 Tags: books, parenting, nostalgia, reading
+Description: I have been reading Where the Red Fern Grows, one chapter each night, to my kids. I can't take credit for this idea; it was my wife's.
 
 I have been reading _Where the Red Fern Grows_, one chapter each night, to my kids. I can't take credit for this idea; it was my wife's. I've been the one keeping it going, though.
 

@@ -3,6 +3,7 @@ Date: 2025-12-21 12:00
 Slug: community
 Category: Family
 Tags: community, neighbors, dogs, work
+Description: My dog is named Charlie. I kind of wish we spelled it differently. She could be Charley, the same spelling that Steinbeck used in "Travels with Charley." But...
 
 ![Charlie]({static}/images/24C05B53-A143-45EA-9146-B8C3FABBC5DB_1_102_o.jpeg)
 

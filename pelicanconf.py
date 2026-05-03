@@ -32,7 +32,7 @@ DISPLAY_PAGES_ON_MENU = True
 RELATIVE_URLS = True
 
 # Theme
-THEME = 'themes/graymill'
+THEME = 'themes/rbucks-v2'
 
 # Article settings - preserve WordPress URL structure for SEO
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
@@ -43,11 +43,11 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 
 # Static paths
-STATIC_PATHS = ['images', 'extra']
+STATIC_PATHS = ['images']
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['liquid_tags']
+PLUGINS = ['liquid_tags', 'search_index_generator', 'readtime']
 
 # Liquid tags configuration
 LIQUID_TAGS = ["youtube"]
@@ -61,3 +61,39 @@ MARKDOWN = {
     },
     'output_format': 'html5',
 }
+
+# Masthead chrome
+MASTHEAD_VOLUME   = 'Vol. XVII'
+MASTHEAD_LOCATION = 'Lafayette, California'
+MASTHEAD_TAGLINE  = 'Writing since 2008'
+
+# Homepage lede block (above the lead story)
+HOMEPAGE_LEDE_TITLE = 'I like writing and building things.'
+HOMEPAGE_LEDE       = ('Notes from a parallel entrepreneur — on companies, '
+                       'family, climate, food, and the slow work of figuring '
+                       'out what to do with the next ten years.')
+
+# Per-category descriptions used on category.html and categories.html
+CATEGORY_DESCRIPTIONS = {
+    'Business':  'Founders, fundraising, failure, and the slow work of building.',
+    'Personal':  'Birthdays, milestones, the inside of my head.',
+    'Family':    'Marriage, kids, Lafayette.',
+    'Politics':  'Housing, climate, Contra Costa County.',
+    'Food':      'Recipes I want to remember.',
+    'Health':    'Cancer, recovery, sleep.',
+    'Lifestyle': 'Books, posts, and games.',
+    'Technology':'AI, code, and tools.',
+}
+
+# Cache-bust the stylesheet on every build (recommended)
+import time
+SITE_VERSION = str(int(time.time()))
+
+# Footer social links — already in your config as LINKS, the theme reads them.
+LINKS = (
+    ('Twitter',  'https://x.com/rbucks'),
+    ('LinkedIn', 'https://www.linkedin.com/in/rbuckley'),
+    ('Email',    'mailto:rbucks@gmail.com'),
+)
+
+DIRECT_TEMPLATES = ['index', 'archives', 'categories', 'search']

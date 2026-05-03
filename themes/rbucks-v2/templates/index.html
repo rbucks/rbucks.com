@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block content %}
+{% set posts = (articles_page.object_list if articles_page else articles) %}
+
+{% if not articles_page or articles_page.number == 1 %}
+<section class="lede">
+  <h1>{{ HOMEPAGE_LEDE_TITLE|default(SITEDESCRIPTION|default('I like writing and building things.')) }}</h1>
+  {% if HOMEPAGE_LEDE %}<p>{{ HOMEPAGE_LEDE }}</p>{% endif %}
+</section>
+{% endif %}
+
+{% if posts %}
+  {# Lead story = newest post on first page only #}
+  {% if not articles_page or articles_page.number == 1 %}
+    {% set lead = posts[0] %}
+    <article class="lead-story">
+      <div class="kicker">
+        <span>Featured</span>
+        <span class="right">{{ lead.category }}</span>
+      </div>
+      <h2><a href="{{ SITEURL }}/{{ lead.url }}">{{ lead.title }}</a></h2>
+      {% if lead.summary %}<p class="summary">{{ lead.summary|striptags }}</p>{% endif %}
+      <div class="byline">{{ lead.locale_date }} &nbsp;·&nbsp; <a href="{{ SITEURL }}/{{ lead.url }}">Read the post</a></div>
+    </article>
+    {% set rest = posts[1:] %}
+  {% else %}
+    {% set rest = posts %}
+  {% endif %}
+
+  {# Group remaining posts by year #}
+  {% set ns = namespace(current_year=0) %}
+  {% for article in rest %}
+    {% if article.date.year != ns.current_year %}
+      {% if not loop.first %}    </ul>
+  </section>
+      {% endif %}
+      {% set ns.current_year = article.date.year %}
+  <section class="section-block">
+    <div class="section-head">
+      <h3>{{ ns.current_year }}</h3>
+      {% set diff = (now.year if now is defined else 2025) - ns.current_year %}
+      <span class="label">{% if diff == 0 %}This year{% elif diff == 1 %}Last year{% else %}Archive{% endif %}</span>
+    </div>
+    <ul class="post-list">
+    {% endif %}
+      <li class="post-item">
+        <div class="post-date">{{ article.locale_date }}</div>
+        <div class="post-body">
+          <h4><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h4>
+          {% if article.summary %}<p>{{ article.summary|striptags }}</p>{% endif %}
+        </div>
+        <div class="post-cat"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+      </li>
+    {% if loop.last %}
+    </ul>
+  </section>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if articles_page and articles_paginator.num_pages > 1 %}
+<div class="pagination">
+  {% if articles_page.has_previous() %}
+    <a href="{{ SITEURL }}/{% if articles_page.previous_page_number() == 1 %}index.html{% else %}index{{ articles_page.previous_page_number() }}.html{% endif %}">← Newer entries</a>
+  {% else %}
+    <span class="disabled">Page {{ articles_page.number }}</span>
+  {% endif %}
+  {% if articles_page.has_next() %}
+    <a href="{{ SITEURL }}/index{{ articles_page.next_page_number() }}.html">Older entries →</a>
+  {% else %}
+    <span class="disabled">End of archive</span>
+  {% endif %}
+</div>
+{% endif %}
+
+{% endblock %}

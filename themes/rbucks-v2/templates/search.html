@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+{% block title %}Search — {{ SITENAME }}{% endblock %}
+
+{% block head_extra %}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<div class="crumbs">
+  <a href="{{ SITEURL }}/">Writing</a><span class="sep">/</span><span class="here">Search</span>
+</div>
+
+<header class="page-head">
+  <h1>Search.</h1>
+  <p class="sub">Find a post by title, word, or year.</p>
+</header>
+
+<form class="search-form" id="search-form" onsubmit="return false;">
+  <input type="search" id="q" name="q" placeholder="Search the archive…" autocomplete="off" autofocus>
+</form>
+
+<div class="search-summary" id="summary" hidden></div>
+<ul class="results" id="results"></ul>
+
+<div class="pagination">
+  <a href="{{ SITEURL }}/">← Back to writing</a>
+  <span class="disabled" id="page-indicator">Page 1</span>
+</div>
+
+<script>
+(function() {
+  var input = document.getElementById('q');
+  var summary = document.getElementById('summary');
+  var resultsEl = document.getElementById('results');
+  var fuse = null;
+
+  // Read q from URL
+  var params = new URLSearchParams(window.location.search);
+  if (params.get('q')) input.value = params.get('q');
+
+  fetch('{{ SITEURL }}/search_index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      fuse = new Fuse(data.articles, {
+        keys: [
+          { name: 'title',       weight: 0.40 },
+          { name: 'category',    weight: 0.20 },
+          { name: 'tags',        weight: 0.15 },
+          { name: 'summary',     weight: 0.15 },
+          { name: 'description', weight: 0.10 }
+        ],
+        threshold: 0.4,
+        includeMatches: true,
+        minMatchCharLength: 2
+      });
+      if (input.value) render();
+    })
+    .catch(function(err) { console.error('search index failed:', err); });
+
+  function escapeHtml(s) {
+    var d = document.createElement('div');
+    d.appendChild(document.createTextNode(s || ''));
+    return d.innerHTML;
+  }
+
+  function highlight(text, query) {
+    if (!query) return escapeHtml(text);
+    var safe = escapeHtml(text);
+    var re = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    return safe.replace(re, '<mark>$1</mark>');
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    var d = new Date(iso);
+    if (isNaN(d)) return iso;
+    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+  }
+
+  function render() {
+    var q = input.value.trim();
+    if (!fuse || q.length < 2) {
+      summary.hidden = true;
+      resultsEl.innerHTML = '';
+      return;
+    }
+    var hits = fuse.search(q).slice(0, 25);
+    summary.hidden = false;
+    summary.innerHTML = '<strong>' + hits.length + ' result' + (hits.length === 1 ? '' : 's') + '</strong> &nbsp;·&nbsp; "' + escapeHtml(q) + '"';
+    if (!hits.length) {
+      resultsEl.innerHTML = '<li class="result"><p>No posts matched. Try a different word.</p></li>';
+      return;
+    }
+    var html = '';
+    for (var i = 0; i < hits.length; i++) {
+      var a = hits[i].item;
+      html += '<li class="result">' +
+        '<div class="meta"><span class="cat">' + escapeHtml(a.category) + '</span> &nbsp;·&nbsp; ' + escapeHtml(fmtDate(a.date)) + '</div>' +
+        '<h4><a href="' + a.url + '">' + highlight(a.title, q) + '</a></h4>' +
+        (a.summary ? '<p>' + highlight(a.summary, q) + '</p>' : '') +
+        '</li>';
+    }
+    resultsEl.innerHTML = html;
+  }
+
+  input.addEventListener('input', render);
+  document.getElementById('search-form').addEventListener('submit', function(e) { e.preventDefault(); render(); });
+})();
+</script>
+{% endblock %}

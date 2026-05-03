@@ -3,6 +3,7 @@ Date: 2022-11-06 21:18
 Slug: the-descent-of-blue
 Category: Personal
 Tags: family, personal, reflection, gratitude
+Description: Everybody who met Blue said he was the best dog they'd ever met. Everybody was right, of course.
 Summary: A heartbreaking tribute to Blue, our beloved chocolate lab, chronicling his decline from perfect companion to final goodbye under the oak tree.
 
 ![Blue as a puppy]({static}/images/2022/09/IMG_0393.jpeg)

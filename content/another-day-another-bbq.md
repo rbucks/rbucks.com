@@ -3,6 +3,7 @@ Date: 2017-05-04 20:03
 Slug: another-day-another-bbq
 Category: Food
 Tags: grilling, cooking, food, lifestyle
+Description: One of the things I dreamt about from the confines of my marina apartment in San Francisco was was barbecuing in my backyard-to-be.
 Summary: Photo collection showcasing various BBQ and grilling sessions, celebrating the joy of outdoor cooking and food preparation.
 
 - ![BBQ photo 1]({static}/images/2017/05/d58f3-1igdhihxcnfkq6t1m1-esqq.jpeg)

@@ -3,6 +3,7 @@ Date: 2017-09-18 11:42
 Slug: open-the-gate
 Category: Politics
 Tags: politics, policy, local-politics, education
+Description: I’ve thought a lot about running for office. I studied it in college and in graduate school but I decided to take a detour through the private sector to get...
 Summary: My political platform for future office: three E's of Education, Economy, and Environment, with plans to prioritize family before entering public service.
 
 I’ve thought a lot about running for office. I studied it in college and in graduate school but I decided to take a detour through the private sector to get some practical experience and financial cushion.

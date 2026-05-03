@@ -3,6 +3,7 @@ Date: 2016-09-29 20:30
 Slug: voting-your-conscience-is-bullshit
 Category: Politics
 Tags: politics, opinion, voting, leadership
+Description: The essence of my argument is this: don’t expect too much of your public officials.
 Summary: Arguing against perfectionist voting standards in the 2016 election, advocating for pragmatic choices over idealistic 'conscience voting' for Hillary Clinton.
 
 ![Political opinion illustration]({static}/images/2016/09/204cf-12zwm35k0zvgpfzcholhazg.jpeg)

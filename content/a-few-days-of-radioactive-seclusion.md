@@ -3,6 +3,7 @@ Date: 2019-09-19 12:53
 Slug: a-few-days-of-radioactive-seclusion
 Category: Health
 Tags: thyroid-cancer, cancer, health, family, writing
+Description: Part 1: My thyroid got cancer Part 2: My thyroid got cancer: one year later Part 3: The thing that won't go away Part 4: Here I go again Part 5: And now, a bit...
 Summary: Part of a thyroid cancer series describing the radioactive iodine treatment process and the required isolation period for safety.
 
 *Part 1: [My thyroid got cancer]({filename}my-thyroid-got-cancer.md)

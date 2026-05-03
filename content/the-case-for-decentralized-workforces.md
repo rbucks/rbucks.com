@@ -3,6 +3,7 @@ Date: 2020-01-16 06:12
 Slug: the-case-for-decentralized-workforces
 Category: Business
 Tags: business-strategy, technology, company-culture, entrepreneurship
+Description: At the end of Season 5 of HBO's Silicon Valley, Richard Hendrix, the CEO of Pied Piper whose company built the world’s first “decentralized Internet,” steps...
 Summary: Comprehensive guide to remote work tools and benefits: from communication platforms to financial savings, why distributed teams outperform offices.
 
 *Spoiler alert*!

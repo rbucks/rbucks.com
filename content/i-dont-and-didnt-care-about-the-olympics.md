@@ -3,6 +3,7 @@ Date: 2016-08-30 07:31
 Slug: i-dont-and-didnt-care-about-the-olympics
 Category: Personal
 Tags: opinion, sports, values, perspective
+Description: Maybe I’m anti-art, anti-sport, anti-world. Maybe I just don’t get it. But there’s only so much synchronized diving I can watch before my eyes glaze over.
 Summary: A contrarian view on Olympic Games, questioning why athletic achievements get more celebration than equally impressive accomplishments in science and technology.
 
 #### Am I the only one?

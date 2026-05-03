@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Archive — {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="crumbs">
+  <a href="{{ SITEURL }}/">Writing</a><span class="sep">/</span><span class="here">Archive</span>
+</div>
+
+<header class="page-head">
+  <h1>The complete archive.</h1>
+  <p class="sub">Everything I've written here, by year. Newest first.</p>
+</header>
+
+{% set ns = namespace(current_year=0) %}
+{% for article in dates %}
+  {% if article.date.year != ns.current_year %}
+    {% if not loop.first %}    </ul>
+</section>
+    {% endif %}
+    {% set ns.current_year = article.date.year %}
+<section class="year-block">
+  <div class="section-head"><h3>{{ ns.current_year }}</h3></div>
+  <ul class="archive-list">
+  {% endif %}
+    <li class="archive-item">
+      <span class="d">{{ article.date.strftime('%b %-d') }}</span>
+      <a href="{{ SITEURL }}/{{ article.url }}" class="t">{{ article.title }}</a>
+      <span class="c"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></span>
+    </li>
+  {% if loop.last %}
+  </ul>
+</section>
+  {% endif %}
+{% endfor %}
+{% endblock %}

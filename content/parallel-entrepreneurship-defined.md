@@ -3,6 +3,7 @@ Date: 2017-10-27 20:20
 Slug: parallel-entrepreneurship-defined
 Category: Business
 Tags: parallel-entrepreneurship, entrepreneurship, startups, toofr
+Description: You don’t quit your day job and then build a startup. You build a startup and then quit your day job.
 Summary: The core philosophy of parallel entrepreneurship: build a startup while keeping your day job to reduce risk and diversify income.
 
 ![Parallel entrepreneurship concept]({static}/images/2017/10/a2d87-16ltjqklmrny90acqqj8vvg.jpeg)

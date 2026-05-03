@@ -3,6 +3,7 @@ Date: 2017-01-05 16:39
 Slug: heres-how-ill-fix-our-churn-problem
 Category: Business
 Tags: churn, SaaS, business strategy, data analysis
+Description: The biggest problem we have at Scripted is churn. The second biggest problem, and it’s related, is burn.
 Summary: Using data analysis to identify when to contact trials and customers to reduce churn at Scripted, focusing on specific timing windows and activity patterns.
 
 The biggest problem we have at [Scripted](https://www.scripted.com) is churn. The second biggest problem, and it’s related, is burn.

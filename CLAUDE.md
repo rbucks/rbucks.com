@@ -10,11 +10,12 @@ This is Ryan Buckley's personal blog website (rbucks.com) built with Pelican, a 
 
 **Static Site Generation**: Pelican processes Markdown content files into static HTML using Jinja2 templates.
 
-**Content Structure**: Blog posts are Markdown files in `/content/` with metadata headers (Title, Date, Slug, Category, Tags). The site maintains WordPress-style URL structure for SEO preservation: `{year}/{month}/{day}/{slug}/`.
+**Content Structure**: Blog posts are Markdown files in `/content/` with metadata headers (Title, Date, Slug, Category, Tags, Description, Summary). The site maintains WordPress-style URL structure for SEO preservation: `{year}/{month}/{day}/{slug}/`.
 
 **Theme System**: Uses custom "Graymill" theme in `/themes/graymill/` with:
 - Custom CSS that includes a sidebar layout (sidebar width: 25%, main content: 75%)
 - Jinja2 templates for different page types
+- Search bar in the sidebar (Fuse.js client-side search)
 - Static assets (favicon, social icons)
 
 **Deployment Strategy**: Fully automated via GitHub Actions - never edit `/docs/` directly. The workflow builds the site using `publishconf.py` and deploys to GitHub Pages.
@@ -36,6 +37,21 @@ make publish
 make clean
 ```
 
+**Running Tests**:
+```bash
+# Run all tests (activate venv first)
+source .venv/bin/activate && make test
+
+# Or run directly
+source .venv/bin/activate && python3 -m pytest tests/ -v
+
+# Run a specific test file
+source .venv/bin/activate && python3 -m pytest tests/test_add_descriptions.py -v
+
+# Run a specific test class
+source .venv/bin/activate && python3 -m pytest tests/test_add_descriptions.py::TestGenerateDescription -v
+```
+
 **Content Management**:
 ```bash
 # Add new blog post
@@ -45,6 +61,11 @@ make clean
 # Slug: post-slug
 # Category: category-name
 # Tags: tag1, tag2
+# Description: Optional SEO-friendly description (used in search results)
+# Summary: Optional auto-displayed summary on listing pages
+
+# Auto-generate Description for posts missing it
+source .venv/bin/activate && python3 add_descriptions.py
 
 # Save as draft (won't be published)
 # Add Status: draft to metadata header:
@@ -53,6 +74,8 @@ make clean
 # Slug: post-slug
 # Category: category-name
 # Tags: tag1, tag2
+# Description: Optional description
+# Summary: Optional summary
 # Status: draft
 ```
 
@@ -77,9 +100,11 @@ git push origin main
 
 **Categories**: Uses meaningful categories like `entrepreneurship`, `health-fitness`, `politics-environment`, `technology`, etc.
 
-**Metadata**: All posts require Title, Date, Slug, Category, and Tags in the header.
+**Metadata**: All posts require Title, Date, Slug, Category, and Tags in the header. Optional fields: Description (SEO/search snippet auto-generated from first paragraph if missing), Summary (shown on listing pages).
 
-**Images**: Stored in `/content/images/` and referenced as `{static}/images/filename.ext` in posts.
+**Search**: The site has a client-side search bar in the sidebar powered by Fuse.js. Every build generates `/search_index.json` with article metadata. The search covers: title, category, tags, description (from explicit `Description:` field), and summary (from `Summary:` field or auto-generated).
+
+**Description Auto-Generation**: Run `source .venv/bin/activate && python3 add_descriptions.py` to backfill `Description:` frontmatter on any posts missing it. The script extracts the first paragraph from the post body, strips markdown, and truncates at ~160 chars.
 
 ## Theme Customization
 
@@ -129,9 +154,14 @@ This reminds me of what happened with Scripted <<Claude: link to "being the othe
 1. You write with `<<Claude: action>>` notes in your draft
 2. Claude searches `/content/` directory for relevant posts by keywords, titles, categories, tags, and content similarity
 3. Claude replaces notes with actual Markdown links `[text](url)` or requested content
-4. Claude ensures that all SEO frontmatter exists and is complete. For category, use ONLY these categories: business, family, food, health, lifestyle, personal, politics, technology
+4. Claude ensures that all SEO frontmatter exists and is complete:
+   - Required: Title, Date, Slug, Category, Tags
+   - Optional but recommended: Description, Summary
+   - For category, use ONLY these categories: business, family, food, health, lifestyle, personal, politics, technology
 5. Claude returns the word count, readability, and overall assessment of the post.
 6. You review changes before committing
+
+**Note on Description**: If no `Description:` field exists, Claude should generate one from the first paragraph of content (stripping markdown, truncating at ~160 chars at a sentence boundary). The Description is used for search results and SEO.
 
 ## Draft Workflow
 
@@ -144,6 +174,7 @@ Date: 2025-06-30 14:30
 Slug: my-unfinished-post
 Category: Personal
 Tags: writing, draft
+Description: Optional description for search
 Status: draft
 
 Content with <<Claude: action>> notes...
@@ -157,8 +188,11 @@ Content with <<Claude: action>> notes...
 
 - `/content/`: Markdown blog posts with metadata headers
 - `/themes/graymill/`: Custom theme with templates and styles  
+- `/plugins/search_index_generator.py`: Pelican plugin that generates `search_index.json` for client-side search
+- `/add_descriptions.py`: Script to auto-generate Description frontmatter on posts missing it
 - `/docs/`: Auto-generated output directory (do not edit manually)
-- Root config files control build process and deployment
+- `/plugins/`: Pelican plugins for custom features
+- `tests/`: Test suite (pytest) for search plugin and description script
 
 ## GitHub Actions
 

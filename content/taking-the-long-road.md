@@ -3,6 +3,7 @@ Date: 2018-06-26 05:52
 Slug: taking-the-long-road
 Category: Personal
 Tags: running, life-lessons, perseverance, marathon
+Description: 2003 Mardi Gras Marathon finisher
 Summary: First marathon in New Orleans 2003: brutal lessons in preparation, pacing strategy, and how marathon mindset applies to business and political campaigns.
 
 ![2003 Mardi Gras Marathon finisher]({static}/images/2019/01/march-128_orig.jpg)

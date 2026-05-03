@@ -20,6 +20,9 @@
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/milligram.css" type="text/css" />
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/custom.css" type="text/css" />
 
+  <!-- Fuse.js for client-side search -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+
   <!-- Feed Meta Data -->
   {% if FEED_ALL_ATOM %}
     <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
@@ -56,6 +59,12 @@
 
   <!-- Sidebar -->
     <sidebar>
+        <!-- Search -->
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search posts..." autocomplete="off">
+            <div id="search-results" class="search-results"></div>
+        </div>
+
         <ul class="static-item">
         {% for title, link in MENUITEMS %}
                 <li><a href="{{ link }}">{{ title }}</a></li>
@@ -121,6 +130,82 @@
         })();
     </script>
   {% endif %}
+
+  <!-- Search Script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var searchInput = document.getElementById('search-input');
+      var searchResults = document.getElementById('search-results');
+
+      if (!searchInput) return;
+
+      var fuse = null;
+
+      // Fetch the search index
+      fetch('/search_index.json')
+        .then(function(response) { return response.json(); })
+        .then(function(data) {
+          fuse = new Fuse(data.articles, {
+            keys: [
+              { name: 'title', weight: 0.35 },
+              { name: 'category', weight: 0.2 },
+              { name: 'tags', weight: 0.15 },
+              { name: 'summary', weight: 0.15 },
+              { name: 'description', weight: 0.15 }
+            ],
+            threshold: 0.4,
+            includeScore: true,
+            minMatchCharLength: 2
+          });
+        })
+        .catch(function(err) {
+          console.error('Failed to load search index:', err);
+        });
+
+      // Handle input
+      searchInput.addEventListener('input', function() {
+        var query = searchInput.value.trim();
+        if (!fuse || query.length < 2) {
+          searchResults.innerHTML = '';
+          searchResults.classList.remove('active');
+          return;
+        }
+
+        var results = fuse.search(query);
+        results = results.slice(0, 8);
+
+        if (results.length === 0) {
+          searchResults.innerHTML = '<div class="search-result-item search-no-results">No posts found</div>';
+          searchResults.classList.add('active');
+          return;
+        }
+
+        var html = '';
+        for (var i = 0; i < results.length; i++) {
+          var article = results[i].item;
+          html += '<a href="' + article.url + '" class="search-result-item">' +
+            '<span class="search-result-title">' + escapeHtml(article.title) + '</span>' +
+            '<span class="search-result-meta">' + escapeHtml(article.category) + ' &middot; ' + article.date + '</span>' +
+            '</a>';
+        }
+        searchResults.innerHTML = html;
+        searchResults.classList.add('active');
+      });
+
+      // Close results on click outside
+      document.addEventListener('click', function(e) {
+        if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+          searchResults.classList.remove('active');
+        }
+      });
+
+      function escapeHtml(text) {
+        var div = document.createElement('div');
+        div.appendChild(document.createTextNode(text));
+        return div.innerHTML;
+      }
+    });
+  </script>
 
   </div>
 </body>
