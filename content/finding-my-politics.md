@@ -7,7 +7,6 @@ Summary: Reflections on attending a political fundraiser, speaking out against p
 Subtitle: Searching for the progressive middle
 Deck: I went to a fundraiser for a Democratic Socialist. I didn't agree with him, but I respected his conviction — and it pushed me to find my own voice.
 Description: Maybe it's getting older. Maybe it's feeling comfort in my own skin, both the successes and the failures.
-Status: draft
 
 Maybe it's getting older. Maybe it's feeling comfort in my own skin, both the successes and the failures. Whatever the reason, I am finding my voice in politics, and I like it. 
 
