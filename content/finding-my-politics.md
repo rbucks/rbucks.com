@@ -1,4 +1,4 @@
-Title: Finding My Politics
+Title: Finding my politics
 Date: 2026-04-19 12:00
 Slug: finding-my-politics
 Category: politics
