@@ -1,4 +1,4 @@
-Title: The Purpose of Building
+Title: The purpose of building
 Date: 2026-05-16 09:00
 Slug: the-purpose-of-building
 Category: business
