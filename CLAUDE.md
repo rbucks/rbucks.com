@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is Ryan Buckley's personal blog website (rbucks.com) built with Pelican, a Python-based static site generator. The site uses a custom theme called "Graymill" and is deployed via GitHub Pages with automated CI/CD.
+This is Ryan Buckley's personal blog website (rbucks.com) built with Pelican, a Python-based static site generator. The site uses a custom theme called "rbucks-v2" and is deployed via GitHub Pages with automated CI/CD.
 
 ## Architecture
 
@@ -12,11 +12,14 @@ This is Ryan Buckley's personal blog website (rbucks.com) built with Pelican, a 
 
 **Content Structure**: Blog posts are Markdown files in `/content/` with metadata headers (Title, Date, Slug, Category, Tags, Description, Summary). The site maintains WordPress-style URL structure for SEO preservation: `{year}/{month}/{day}/{slug}/`.
 
-**Theme System**: Uses custom "Graymill" theme in `/themes/graymill/` with:
-- Custom CSS that includes a sidebar layout (sidebar width: 25%, main content: 75%)
-- Jinja2 templates for different page types
-- Search bar in the sidebar (Fuse.js client-side search)
-- Static assets (favicon, social icons)
+**Theme System**: Uses custom "rbucks-v2" theme in `/themes/rbucks-v2/`, set via `THEME` in `pelicanconf.py`. A newspaper-style design with:
+- A single stylesheet, `static/css/site.css` — there is no sidebar anywhere in this theme
+- Centered, measure-constrained columns (`--measure` for body, `--measure-wide` for heads)
+- A masthead with volume/location/tagline, a top nav, and a footer
+- Nine Jinja2 templates, one per page type
+- A dedicated `/search.html` page (Fuse.js), not a sidebar widget
+
+`/themes/graymill/` is the previous theme. It is retained but inactive — do not edit it expecting changes to appear on the site. `themes/rbucks-v2/README.md` documents the theme's own settings in more detail.
 
 **Deployment Strategy**: Fully automated via GitHub Actions - never edit `/docs/` directly. The workflow builds the site using `publishconf.py` and deploys to GitHub Pages.
 
@@ -98,26 +101,43 @@ git push origin main
 
 **URL Structure**: Maintains WordPress format `/{year}/{month}/{day}/{slug}/` for SEO continuity.
 
-**Categories**: Uses meaningful categories like `entrepreneurship`, `health-fitness`, `politics-environment`, `technology`, etc.
+**Categories**: Exactly eight, capitalized as shown — Business, Family, Food, Health, Lifestyle, Personal, Politics, Technology. Each has a description in `CATEGORY_DESCRIPTIONS` in `pelicanconf.py`, keyed on these exact strings. Adding a new category means adding it there too, or its pages render without a description.
 
 **Metadata**: All posts require Title, Date, Slug, Category, and Tags in the header. Optional fields: Description (SEO/search snippet auto-generated from first paragraph if missing), Summary (shown on listing pages).
 
-**Search**: The site has a client-side search bar in the sidebar powered by Fuse.js. Every build generates `/search_index.json` with article metadata. The search covers: title, category, tags, description (from explicit `Description:` field), and summary (from `Summary:` field or auto-generated).
+**Search**: The site has a dedicated client-side search page at `/search.html` powered by Fuse.js, reachable from the top nav. Every build generates `/search_index.json` with article metadata. The search covers: title, category, tags, description (from explicit `Description:` field), and summary (from `Summary:` field or auto-generated).
 
 **Description Auto-Generation**: Run `source .venv/bin/activate && python3 add_descriptions.py` to backfill `Description:` frontmatter on any posts missing it. The script extracts the first paragraph from the post body, strips markdown, and truncates at ~160 chars.
 
 ## Theme Customization
 
-**CSS**: Primary styles in `/themes/graymill/static/css/custom.css`
-- Sidebar width set to 25% to prevent category name truncation
-- Main content width set to 75%
-- Responsive breakpoints maintain these proportions
+**CSS**: All styles live in one file, `/themes/rbucks-v2/static/css/site.css` (~735 lines). Design tokens are defined in `:root` at the top — change them and the whole site re-themes:
 
-**Templates**: Located in `/themes/graymill/templates/`
-- `base.html`: Main layout with sidebar containing categories and social links
-- Category display shows as "CATEGORIES" with individual category links
+```css
+--paper, --ink, --ink-soft, --ink-mid, --ink-faint, --rule, --rule-mid   /* color */
+--display  /* Playfair Display — headlines */
+--serif    /* Source Serif 4 — body */
+--sans     /* Inter — UI/meta */
+--measure       /* 38rem — article body width */
+--measure-wide  /* 56rem — article head width */
+```
 
-**Static Assets**: Favicon converted from `ryan.svg` to `favicon.ico` in theme static directory.
+The stylesheet is cache-busted per build via `SITE_VERSION` in `pelicanconf.py`, appended as `site.css?v=...`.
+
+**Templates**: Located in `/themes/rbucks-v2/templates/`
+- `base.html`: masthead (volume/location/tagline), top nav (Home, Archives, Categories, static pages, Search), and footer with `LINKS`
+- `index.html`: homepage — lede block, lead story, then posts grouped by year
+- `article.html`: single post — kicker, deck, byline, body, and up to 3 related posts from the same category
+- `categories.html` / `category.html`: both read `CATEGORY_DESCRIPTIONS` from `pelicanconf.py` via an **exact string key** (`CATEGORY_DESCRIPTIONS[category|string]`), which is why `Category:` casing must match the dict keys exactly
+- `archives.html`, `tag.html`, `page.html`, `search.html`
+
+**Theme settings in `pelicanconf.py`**: `MASTHEAD_VOLUME`, `MASTHEAD_LOCATION`, `MASTHEAD_TAGLINE`, `HOMEPAGE_LEDE_TITLE`, `HOMEPAGE_LEDE`, `CATEGORY_DESCRIPTIONS`, `SITE_VERSION`, `LINKS`.
+
+**Optional per-article frontmatter the theme reads**: `Subtitle:` (shows in the article kicker) and `Deck:` (replaces `Summary:` as the article deck). If neither `Deck:` nor `Summary:` is set, the deck is omitted.
+
+**External assets**: Fonts load from Google Fonts via `@import` at the top of `site.css`. Fuse.js loads from jsDelivr in `search.html`. Both are the only external dependencies.
+
+**Static Assets**: `STATIC_PATHS = ['images']`, so `content/images/` is copied to the output root. Post images are referenced as `{static}/images/{year}/{month}/name.jpeg`. Note: `rbucks-v2` does not currently link a favicon — the only `favicon.ico` in the repo belongs to the inactive `graymill` theme.
 
 ## Deployment Notes
 
@@ -188,7 +208,8 @@ Content with <<Claude: action>> notes...
 ## File Structure Context
 
 - `/content/`: Markdown blog posts with metadata headers
-- `/themes/graymill/`: Custom theme with templates and styles  
+- `/themes/rbucks-v2/`: The active theme — templates, `static/css/site.css`, and its own README
+- `/themes/graymill/`: Previous theme, inactive (kept for reference only)
 - `/plugins/search_index_generator.py`: Pelican plugin that generates `search_index.json` for client-side search
 - `/add_descriptions.py`: Script to auto-generate Description frontmatter on posts missing it
 - `/docs/`: Auto-generated output directory (do not edit manually)
