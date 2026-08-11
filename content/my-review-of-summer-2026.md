@@ -20,7 +20,7 @@ It was pretty fun being there alone but I remember thinking that I should have i
 
 I really enjoyed being there with Lily on Saturday and Sunday. She's easy to travel with. She's curious, she's courteous, and she likes to have fun. She gets excited and doesn't tire easily. Even when she doesn't love the music (I was very excited to see Bush and the Foo Fighters) she doesn't complain. I felt proud to be her dad.
 
-![Lily and me at BottleRock]({static}/images/2026/08/bottlerock-with-lily.jpeg)
+![Lily and me in front of the flower wall at BottleRock]({static}/images/2026/08/bottlerock-with-lily.jpeg)
 
 My kids had school for one more week. It was a pretty normal stretch of work for me. Then I went to Pinecrest, where summer really begins.
 
@@ -35,9 +35,9 @@ I'll note this section by the "firsts" we enjoyed this summer at Pinecrest.
 - First time running up to the actual Pinecrest Peak and then down to Herring Creek campground and along Herring Creek back to my familiar trails, a 16-mile trail run
 - First time horseback riding in Kennedy Meadows
 
-![Pinecrest in the summer]({static}/images/2026/08/pinecrest-01.jpeg)
+![Looking out over the Sierra from a granite outcrop above Pinecrest]({static}/images/2026/08/pinecrest-01.jpeg)
 
-![Another view from Pinecrest]({static}/images/2026/08/pinecrest-02.jpeg)
+![Sitting on a patch of leftover snow on the hike from the Giannelli trailhead]({static}/images/2026/08/pinecrest-02.jpeg)
 
 When I think back on Pinecrest this summer, I remember how easy it felt. We gave our guests the sleeping cabin. Lily and I shared the big outdoor bed on the side porch. I made coffee early every morning and worked inside to avoid the mosquitoes. After an hour or so, as the kids would wake up, I'd go for a run around the lake. I made a lot of bacon and eggs for breakfast. We'd use leftovers to make sandwiches for lunch, and dinner almost every night involved grilling over the fire with a guitar in one hand and a cocktail in the other.
 
@@ -49,7 +49,7 @@ We eventually did have to come home. I don't enjoy the process of putting the ca
 
 I came home to the imminent arrival of Melissa's sisters and their families. We had the Powells with us, including their three kids, Anderson and his twin sisters Juno and Romie. The Mitchells stayed at the Lafayette Park, including cousins Maddox and Colette.
 
-![The cousins over the Fourth of July]({static}/images/2026/08/fourth-of-july-cousins.jpeg)
+![The girls with their scooters decked out for the Fourth of July]({static}/images/2026/08/fourth-of-july-cousins.jpeg)
 
 The highlight, again, was the freedom we gave to the kids. They wandered the cul de sac, and on the 4th of July, they had free rein of the horseshoe of Ponderosa Street where the decades-old festivities were held once again this year. They all played well together and I was able to take off with one of my brothers-in-law to wander around Walnut Creek and find a cold drink.
 
@@ -82,13 +82,13 @@ Part of me couldn't believe this was going to happen. It became real when she fo
 
 Epic, epic, epic. We were going to do all of this with our 9- and 11-year-old daughters. I couldn't wait.
 
-![Sailing the Croatian islands]({static}/images/2026/08/croatia-01.jpeg)
+![Reading in the cockpit while anchored in a quiet cove]({static}/images/2026/08/croatia-01.jpeg)
 
-![A harbor town on the Croatian coast]({static}/images/2026/08/croatia-02.jpeg)
+![Early morning on the trampoline of Summer Magic, anchored off one of the islands]({static}/images/2026/08/croatia-02.jpeg)
 
-![On board Summer Magic]({static}/images/2026/08/croatia-03.jpeg)
+![The girls at dinner in one of the small island harbors]({static}/images/2026/08/croatia-03.jpeg)
 
-![The Adriatic from the boat]({static}/images/2026/08/croatia-04.jpeg)
+![The four of us on the quay at the end of the day]({static}/images/2026/08/croatia-04.jpeg)
 
 The outcome was better than we imagined. Nobody got sick. Nobody asked to go home. The girls were wonderful, real troopers throughout. They dealt with the heat, they adapted to life on the boat, they ate the seafood and were wonderful guests at Petra's family house on Brac.
 
