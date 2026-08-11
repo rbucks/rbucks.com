@@ -1,7 +1,7 @@
 Title: Twenty-five years since I graduated high school
 Date: 2025-08-03 15:00
 Slug: twenty-five-years-since-i-graduated-high-school
-Category: personal
+Category: Personal
 Tags: nostalgia, high school, reunion, reflection
 Description: Today I went to my high school reunion. I went because I wanted to go, and also because I organized it. Why did I organize it? I don't know.
 

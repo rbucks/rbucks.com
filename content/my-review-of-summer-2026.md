@@ -1,7 +1,7 @@
 Title: My review of summer 2026
 Date: 2026-08-11 20:00
 Slug: my-review-of-summer-2026
-Category: family
+Category: Family
 Tags: summer, family, travel, croatia, pinecrest, sailing
 Description: A month at Pinecrest, the Fourth of July with cousins, and six nights sailing the Croatian islands with our daughters. The best summer we've ever had.
 Summary: We thought summer would be good. We didn't know we'd thrive. Here's what I remember from Pinecrest, the cousins, and a sailing trip through Croatia that gave me back a feeling I'd been chasing since 2009.

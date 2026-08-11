@@ -1,7 +1,7 @@
 Title: Finding my politics
 Date: 2026-04-19 12:00
 Slug: finding-my-politics
-Category: politics
+Category: Politics
 Tags: politics, activism, personal
 Summary: Reflections on attending a political fundraiser, speaking out against purist ideology, and discovering a home in the progressive middle.
 Subtitle: Searching for the progressive middle

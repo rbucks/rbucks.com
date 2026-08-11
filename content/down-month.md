@@ -1,7 +1,7 @@
 Title: What a Down Month Feels Like
 Date: 2026-05-13 09:00
 Slug: down-month
-Category: business
+Category: Business
 Tags: entrepreneurship, shovels, startups, growth, leadership
 Description: What it actually feels like to run a startup through a down month — the dull ache, the calm of resilience, and the refusal to sail small.
 Status: draft

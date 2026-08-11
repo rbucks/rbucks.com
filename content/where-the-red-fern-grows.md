@@ -1,7 +1,7 @@
 Title: Where the Red Fern Grows
 Date: 2025-09-30 12:00
 Slug: where-the-red-fern-grows
-Category: family
+Category: Family
 Tags: books, parenting, nostalgia, reading
 Description: I have been reading Where the Red Fern Grows, one chapter each night, to my kids. I can't take credit for this idea; it was my wife's.
 

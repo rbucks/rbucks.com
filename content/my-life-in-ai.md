@@ -1,7 +1,7 @@
 Title: My Life in AI
 Date: 2025-12-29 10:00
 Slug: my-life-in-ai
-Category: technology
+Category: Technology
 Tags: AI, Claude Code, productivity, coding, entrepreneurship, Shovels
 Description: I haven't written anything here about artificial intelligence, even though I use it every day. My work life is entirely dependent on it now.
 

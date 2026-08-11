@@ -1,7 +1,7 @@
 Title: The purpose of building
 Date: 2026-05-16 09:00
 Slug: the-purpose-of-building
-Category: business
+Category: Business
 Tags: entrepreneurship, building, startups, shovels, durability
 Description: I hope I never lose the drive to build. If I have one superpower, it's the interest and ability to build over a long period of time. This is what it takes to make a durable business.
 

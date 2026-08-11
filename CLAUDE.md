@@ -157,7 +157,8 @@ This reminds me of what happened with Scripted <<Claude: link to "being the othe
 4. Claude ensures that all SEO frontmatter exists and is complete:
    - Required: Title, Date, Slug, Category, Tags
    - Optional but recommended: Description, Summary
-   - For category, use ONLY these categories: business, family, food, health, lifestyle, personal, politics, technology
+   - For category, use ONLY these categories, capitalized exactly as shown: Business, Family, Food, Health, Lifestyle, Personal, Politics, Technology
+   - Capitalization matters: `CATEGORY_DESCRIPTIONS` in `pelicanconf.py` is keyed on these exact strings. A lowercase `Category:` value silently drops the description on the category pages and displays the category in lowercase.
 5. Claude returns the word count, readability, and overall assessment of the post.
 6. You review changes before committing
 

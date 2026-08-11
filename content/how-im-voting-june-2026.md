@@ -1,7 +1,7 @@
 Title: How I'm voting - June 2026
 Date: 2026-05-28 12:00
 Slug: how-im-voting-june-2026
-Category: politics
+Category: Politics
 Tags: voting, california, local-government, education, environment
 Description: The ballots have arrived and I'm writing out my endorsements for the June 2026 California primary, from the governor's race to local school measures.
 Summary: My ballot endorsements for the June 2026 primary — Tom Steyer for governor, Josh Fryday for lieutenant governor, and yes on local measures G, A, and H.
