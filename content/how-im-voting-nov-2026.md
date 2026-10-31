@@ -22,9 +22,9 @@ I’m much more “No on Steve” than “Yes on Xavier.”
 
 ##Lt. Governor: Fiona Ma
 
-As I wrote previously, this position is a nothing-burger. It doesn’t matter. I’d be inclined to vote Republican here, just to mix it up, but I happen to have followed Fiona Ma throughout her career and believe she is smart, legit, sincere, and probably would make a great governor. 
+As I [wrote in June]({filename}how-im-voting-june-2026.md), this position is a nothing-burger. It doesn’t matter. I’d be inclined to vote Republican here, just to mix it up, but I happen to have followed Fiona Ma throughout her career and believe she is smart, legit, sincere, and probably would make a great governor. 
 
-That’s the only reason to care about this position. You know they’re going to run for governor next. I picked Josh Fryday in June because he’s a peer and I liked the idea of having a younger person in office, and a Cal guy to boot. 
+That’s the only reason to care about this position. You know they’re going to run for governor next. I picked Josh Fryday [in June]({filename}how-im-voting-june-2026.md) because he’s a peer and I liked the idea of having a younger person in office, and a Cal guy to boot. 
 
 Short of that, I pick Fiona.
 
@@ -62,11 +62,14 @@ This one was hard. I picked John Pimentel because he wants to get rid of this bo
 
 I got some help here from my AI friends. There’s a lot on the ballot and I needed to see how all the endorsements landed before choosing my own.
 
-Here’s how I’m thinking about it in general: 
+Here’s how I’m thinking about it in general:
+
 - More revenue is good but we have to think long-term. No shortcuts (yes, I’m looking at you, Prop 40)! 
 - More debt is bad, especially when the debt is used to fund programs that already exist in the private sector (Prop 1, 37, 38)
 - More red tape is bad (Props 39, 41, 42, 43, 44)  
 - Removing red tape is good (Prop 45)
+
+<div class="table-wrap" markdown="1">
 
 | Proposition | East Bay Times / Mercury News | SF Chronicle | SF Bay Guardian | Press Democrat | My endorsement |
 |---|---|---|---|---|---|
@@ -85,15 +88,17 @@ Here’s how I’m thinking about it in general:
 | 44 — Community-clinic spending requirement | No | No | No | No | No |
 | 45 — Environmental-review deadlines | Yes | No | No | Not verified | Yes |
 
+</div>
+
 Checked October 31, 2026. “Not verified” means a position could not be confirmed, not that the paper is neutral. East Bay Times and Mercury News share one editorial perspective.
 
 ##Prop 45: Yes
 
 This one was harder than “removing red tape is good.” I’m still in favor.
 
-I’m voting against the housing bonds because I want California to do more to address why housing is so expensive before borrowing more money to help people afford it. If that’s my position, I should also be willing to support changes that make building easier.
+I’m voting against the housing bonds because I want California to do more to address [why housing is so expensive]({filename}the-case-for-more-housing-in-contra-costa-county.md) before borrowing more money to help people afford it. If that’s my position, I should also be willing to support changes that make building easier.
 
-Through Shovels, I spend a lot of time thinking about permits and construction. Delay is not free. Projects carry financing costs while they wait, and uncertainty makes them harder to finance in the first place. That doesn’t mean every delay is caused by CEQA, or that every environmental review is unnecessary. It means the process itself has costs, and we should take those costs seriously.
+Through [Shovels]({filename}business-evaluation-shovels.md), I spend a lot of time thinking about permits and construction. Delay is not free. Projects carry financing costs while they wait, and uncertainty makes them harder to finance in the first place. That doesn’t mean every delay is caused by CEQA, or that every environmental review is unnecessary. It means the process itself has costs, and we should take those costs seriously.
 
 I like that Prop 45 puts deadlines on environmental review and litigation. It also goes further, limiting parts of the review process and when courts can stop projects. That’s where I get uncomfortable. This covers more than housing, and critics have legitimate concerns about freeway expansion and development in fire-prone areas. 
 
@@ -113,6 +118,6 @@ In short, these programs need to reduce ongoing expenses to reflect lower riders
 
 ##Acalanes Measure W: Yes
 
-It’s an increase and extension of an existing parcel tax. I believe our schools are underfunded and I know our teachers are underpaid. We need a broader reform post-Prop 13 but punishing my local high school district for something voters decided 50 years ago is not a cure.
+It’s an increase and extension of an existing parcel tax. I believe our schools are underfunded and I know our teachers are underpaid. We need a broader reform post-[Prop 13]({filename}my-critique-of-prop-13.md) but punishing my local high school district for something voters decided 50 years ago is not a cure.
 
 This is an easy yes.  

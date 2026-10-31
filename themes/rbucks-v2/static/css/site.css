@@ -733,3 +733,48 @@ main.article-main {
   .article-body { font-size: 17.5px; }
   .related-grid { grid-template-columns: 1fr; gap: 22px; }
 }
+
+/* Wide data tables inside articles (e.g. endorsement grids) */
+.article-body .table-wrap {
+  width: min(var(--measure-wide), calc(100vw - 32px));
+  margin: 2em 0 1.6em 50%;
+  transform: translateX(-50%);
+  overflow-x: auto;
+}
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.4;
+}
+.article-body th {
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-mid);
+  padding: 0 12px 10px 0;
+  border-bottom: 2px solid var(--ink);
+  vertical-align: bottom;
+}
+.article-body td {
+  padding: 9px 12px 9px 0;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+  color: var(--ink-soft);
+}
+.article-body td:first-child { color: var(--ink); font-weight: 500; min-width: 14rem; }
+.article-body th:last-child, .article-body td:last-child {
+  padding-right: 0;
+  font-weight: 600;
+  color: var(--ink);
+}
+.article-body tbody tr:hover { background: #faf8f3; }
+.article-body .table-wrap + p {
+  font-family: var(--sans);
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--ink-mid);
+}
