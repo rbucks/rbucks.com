@@ -92,19 +92,31 @@ Here’s how I’m thinking about it in general:
 
 Checked October 31, 2026. “Not verified” means a position could not be confirmed, not that the paper is neutral. East Bay Times and Mercury News share one editorial perspective.
 
-##Prop 45: Yes
+## Prop 40: Hell No
 
-This one was harder than “removing red tape is good.” I’m still in favor.
+More revenue is good, but we have to think long-term. Prop 40 would collect a one-time 5% wealth tax from billionaires, with most of the money going to health care. I understand the appeal but it’s a terrible piece of legislation that makes no sense.
 
-I’m voting against the housing bonds because I want California to do more to address [why housing is so expensive]({filename}the-case-for-more-housing-in-contra-costa-county.md) before borrowing more money to help people afford it. If that’s my position, I should also be willing to support changes that make building easier.
+My main beef: What the heck do billionaires have to do with healthcare?? Put an asset tax on tobacco companies, breweries, wineries, fast food, tribal casinos, something that actually has an impact on peoples’ health. Billionaires are not the villain.
 
-Through [Shovels]({filename}business-evaluation-shovels.md), I spend a lot of time thinking about permits and construction. Delay is not free. Projects carry financing costs while they wait, and uncertainty makes them harder to finance in the first place. That doesn’t mean every delay is caused by CEQA, or that every environmental review is unnecessary. It means the process itself has costs, and we should take those costs seriously.
+I like gas taxes that pay for roads. I like tobacco taxes that pay for addiction prevention. That makes sense. Prop 40 does not.
 
-I like that Prop 45 puts deadlines on environmental review and litigation. It also goes further, limiting parts of the review process and when courts can stop projects. That’s where I get uncomfortable. This covers more than housing, and critics have legitimate concerns about freeway expansion and development in fire-prone areas. 
+Second beef: Health care costs don’t go away when the one-time money runs out. Worse, the assumption that billionaires won’t leave is a pre-COVID mentality that is already proven false. California was the global HQ for both Chevron and Tesla. We lost both, and now we’re kicking out the rest. I don’t understand it and I really, really don’t like it.
+
+I’m a yes on extending the high-income tax in Prop 3. I’m willing to ask wealthy people to pay more. But I want California to have a reliable tax base over time, and I don’t think this is how we get there. No shortcuts. I’m a hell no.
+
+## Prop 45: Yes
+
+This one is actually more nuanced than just “removing red tape is good.” I’m still in favor.
+
+I’m voting against the housing bonds because I want California to do more to address [why housing is so expensive](https://rbucks.com/2018/08/01/the-case-for-more-housing-in-contra-costa-county/) before borrowing more money to help people afford it. If that’s my position, I should also be willing to support changes that make building easier.
+
+Through [Shovels](https://www.shovels.ai/), I spend a lot of time thinking about permits and construction. Delay is not free. Projects carry financing costs while they wait, and uncertainty makes them harder to finance in the first place. That doesn’t mean every delay is caused by CEQA, or that every environmental review is unnecessary. It means the process itself has costs, and we should take those costs seriously.
+
+I like that Prop 45 puts deadlines on environmental review and litigation. It also goes further, limiting parts of the review process and when courts can stop projects. That’s where I get uncomfortable. This covers more than housing, and critics have legitimate concerns about freeway expansion and development in fire-prone areas.
 
 I still like open space. I haven’t suddenly decided that every hillside needs a subdivision. But I’m willing to accept some overcorrection here. California has spent years making construction expensive and unpredictable, then asking taxpayers to help finance the result. I’d rather do more to remove the costs we impose in the first place.
 
-Bgahargh. I have to make a call. It’s not perfect, but I’m a yes. 
+Bgahargh. I have to make a call. It’s not perfect, but I’m a yes.
 
 #Local Initiatives
 
