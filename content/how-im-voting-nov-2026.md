@@ -69,24 +69,24 @@ Here’s how I’m thinking about it in general:
 - More red tape is bad (Props 39, 41, 42, 43, 44)  
 - Removing red tape is good (Prop 45)
 
-<div class="table-wrap" markdown="1">
+<div class="table-wrap endorsement-table" markdown="1">
 
-| Proposition | East Bay Times / Mercury News | SF Chronicle | SF Bay Guardian | Press Democrat | My endorsement |
+| My endorsement | Proposition | East Bay Times / Mercury News | SF Chronicle | SF Bay Guardian | Press Democrat |
 |---|---|---|---|---|---|
-| 1 — Housing bonds | No | Yes | Yes | Not verified | No |
-| 2 — State reserves | Yes | Yes | Yes | Not verified | Yes |
-| 3 — High-income tax extension | Yes | Yes | Yes | Yes | Yes |
-| 4 — Public campaign financing | No | No | Yes | No | No |
-| 5 — Recall reform | No | No | Yes | Not verified | No |
-| 37 — New-homebuyer loans | No | Yes | Yes | Not verified | No |
-| 38 — Immunology research bonds | No | No | No | Not verified | No |
-| 39 — Voter identification | No | No | No | Not verified | No |
-| 40 — Billionaire wealth tax | No | No | Yes | Yes | Hell No |
-| 41 — New-tax spending limits and audits | No | No | No | Not verified | No |
-| 42 — Personal-property and retroactive tax restrictions | No | No | No | Not verified | No |
-| 43 — Local special-tax vote threshold | Yes | No endorsement | No | No | No |
-| 44 — Community-clinic spending requirement | No | No | No | No | No |
-| 45 — Environmental-review deadlines | Yes | No | No | Not verified | Yes |
+| No | 1 — Housing bonds | No | Yes | Yes | Not verified |
+| Yes | 2 — State reserves | Yes | Yes | Yes | Not verified |
+| Yes | 3 — High-income tax extension | Yes | Yes | Yes | Yes |
+| No | 4 — Public campaign financing | No | No | Yes | No |
+| No | 5 — Recall reform | No | No | Yes | Not verified |
+| No | 37 — New-homebuyer loans | No | Yes | Yes | Not verified |
+| No | 38 — Immunology research bonds | No | No | No | Not verified |
+| No | 39 — Voter identification | No | No | No | Not verified |
+| Hell No | 40 — Billionaire wealth tax | No | No | Yes | Yes |
+| No | 41 — New-tax spending limits and audits | No | No | No | Not verified |
+| No | 42 — Personal-property and retroactive tax restrictions | No | No | No | Not verified |
+| No | 43 — Local special-tax vote threshold | Yes | No endorsement | No | No |
+| No | 44 — Community-clinic spending requirement | No | No | No | No |
+| Yes | 45 — Environmental-review deadlines | Yes | No | No | Not verified |
 
 </div>
 
