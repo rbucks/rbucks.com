@@ -771,9 +771,7 @@ main.article-main {
   font-weight: 600;
   color: var(--ink);
 }
-.article-body .endorsement-table td:first-child { min-width: auto; }
-.article-body .endorsement-table td:nth-child(2) { color: var(--ink); font-weight: 500; min-width: 14rem; }
-.article-body .endorsement-table th:first-child, .article-body .endorsement-table td:first-child {
+.article-body .endorsement-table th:nth-child(2), .article-body .endorsement-table td:nth-child(2) {
   font-weight: 600;
   color: var(--ink);
 }

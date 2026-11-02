@@ -71,22 +71,22 @@ Here’s how I’m thinking about it in general:
 
 <div class="table-wrap endorsement-table" markdown="1">
 
-| My endorsement | Proposition | East Bay Times / Mercury News | SF Chronicle | SF Bay Guardian | Press Democrat |
+| Proposition | My endorsement | East Bay Times / Mercury News | SF Chronicle | SF Bay Guardian | Press Democrat |
 |---|---|---|---|---|---|
-| No | 1 — Housing bonds | No | Yes | Yes | Not verified |
-| Yes | 2 — State reserves | Yes | Yes | Yes | Not verified |
-| Yes | 3 — High-income tax extension | Yes | Yes | Yes | Yes |
-| No | 4 — Public campaign financing | No | No | Yes | No |
-| No | 5 — Recall reform | No | No | Yes | Not verified |
-| No | 37 — New-homebuyer loans | No | Yes | Yes | Not verified |
-| No | 38 — Immunology research bonds | No | No | No | Not verified |
-| No | 39 — Voter identification | No | No | No | Not verified |
-| Hell No | 40 — Billionaire wealth tax | No | No | Yes | Yes |
-| No | 41 — New-tax spending limits and audits | No | No | No | Not verified |
-| No | 42 — Personal-property and retroactive tax restrictions | No | No | No | Not verified |
-| No | 43 — Local special-tax vote threshold | Yes | No endorsement | No | No |
-| No | 44 — Community-clinic spending requirement | No | No | No | No |
-| Yes | 45 — Environmental-review deadlines | Yes | No | No | Not verified |
+| 1 — Housing bonds | No | No | Yes | Yes | Not verified |
+| 2 — State reserves | Yes | Yes | Yes | Yes | Not verified |
+| 3 — High-income tax extension | Yes | Yes | Yes | Yes | Yes |
+| 4 — Public campaign financing | No | No | No | Yes | No |
+| 5 — Recall reform | No | No | No | Yes | Not verified |
+| 37 — New-homebuyer loans | No | No | Yes | Yes | Not verified |
+| 38 — Immunology research bonds | No | No | No | No | Not verified |
+| 39 — Voter identification | No | No | No | No | Not verified |
+| 40 — Billionaire wealth tax | Hell No | No | No | Yes | Yes |
+| 41 — New-tax spending limits and audits | No | No | No | No | Not verified |
+| 42 — Personal-property and retroactive tax restrictions | No | No | No | No | Not verified |
+| 43 — Local special-tax vote threshold | No | Yes | No endorsement | No | No |
+| 44 — Community-clinic spending requirement | No | No | No | No | No |
+| 45 — Environmental-review deadlines | Yes | Yes | No | No | Not verified |
 
 </div>
 
