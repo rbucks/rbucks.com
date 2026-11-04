@@ -22,6 +22,13 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+# Drafts remain available for local preview, but must not reach GitHub Pages.
+# Status: draft alone still generates publicly accessible /drafts/ pages.
+DRAFT_SAVE_AS = ''
+DRAFT_LANG_SAVE_AS = ''
+DRAFT_PAGE_SAVE_AS = ''
+DRAFT_PAGE_LANG_SAVE_AS = ''
+
 # GitHub Pages specific settings
 OUTPUT_PATH = 'docs/'
 

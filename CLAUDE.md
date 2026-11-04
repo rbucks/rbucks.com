@@ -186,7 +186,9 @@ This reminds me of what happened with Scripted <<Claude: link to "being the othe
 
 ## Draft Workflow
 
-**Saving Drafts**: Add `Status: draft` to the frontmatter to prevent posts from being published while you're working on them.
+**Saving Drafts**: Add `Status: draft` to the frontmatter. Pelican excludes drafts from listings and feeds, but by default still generates accessible `/drafts/` pages. `publishconf.py` disables all four draft article/page output settings so production builds omit these pages too. Development builds retain draft previews. Draft source remains visible to repository readers.
+
+**Draft Images**: `content/images/` is copied independently of article status. Do not add unfinished draft images there unless they may be deployed; keep them outside the content tree until publication.
 
 **Draft Examples:**
 ```markdown
@@ -203,7 +205,7 @@ Content with <<Claude: action>> notes...
 
 **Publishing Drafts**: Remove the `Status: draft` line when ready to publish.
 
-**Testing**: Run `make html` locally to verify draft posts are excluded from the build.
+**Testing**: Run `make test` for the production draft-exclusion regression test. To inspect a full production build without changing `/docs/`, run `pelican content -o /tmp/rbucks-production-preview -s publishconf.py`; verify there are no draft pages or draft text in listings, search, or feeds. `make html` uses development settings and intentionally generates draft previews.
 
 ## File Structure Context
 
