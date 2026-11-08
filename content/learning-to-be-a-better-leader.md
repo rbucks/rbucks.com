@@ -22,7 +22,7 @@ But how?
 
 About a year ago, I was pretty anti-coaching. Investors introduced me to coaches, and I interviewed some. I thought they were too expensive and I didn't think they would help. Maybe I was right at the time.
 
-But as the complexity of our problems grew, my thinking changed. I no longer had the answers all the time. I needed to build a culture that was determined to make good decisions. I needed to be [the best leader I could be]({filename}is-it-okay-to-be-a-nice-ceo.md) for this company. An entrepreneur I admire referred me to Leaders in Tech, or LIT. I applied, interviewed, and was accepted.
+But as the complexity of our problems grew, my thinking changed. I no longer had the answers all the time. I needed to build a culture that was determined to make good decisions. I needed to be [the best leader I could be]({filename}is-it-okay-to-be-a-nice-ceo.md) for this company. An entrepreneur I admire referred me to [Leaders in Tech](https://leadersintech.org), or LIT. I applied, interviewed, and was accepted.
 
 I remember being skeptical when I first read about this program. It wasn't cheap (about $20,000), but it was cheaper than one-on-one coaching. Its name was hokey, but the roster of tech leaders that went through it was wildly impressive. It also helped that the program traced its origins to a popular course at the Stanford Graduate School of Business called Interpersonal Dynamics, or "Touchy Feely" as it was known to students.
 
