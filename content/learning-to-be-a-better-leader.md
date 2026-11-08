@@ -6,7 +6,7 @@ Tags: leadership, management, teaching, shovels, learning
 Description: Why I changed my mind about leadership coaching, and how teaching, building Shovels, and learning by doing led me to Leaders in Tech.
 Summary: Teaching and building Shovels have made me think about my own development as a leader, and what kind of learning works for me.
 
-I applied to be a professor at Diablo Valley College around the same time I started building Shovels. Part of what attracted me to teaching was the responsibility of being at the front of the room. There's a performance to it. The students are depending on what I bring that day, how well prepared I am, and how confident I am on my feet.
+I applied to be a professor at Diablo Valley College around the same time I started building [Shovels](https://www.shovels.ai). Part of what attracted me to teaching was the responsibility of [being at the front of the room]({filename}my-first-month-of-real-teaching.md). There's a performance to it. The students are depending on what I bring that day, how well prepared I am, and how confident I am on my feet.
 
 It feels like running a business in some ways, except there's no team. It's just me.
 
@@ -22,7 +22,7 @@ But how?
 
 About a year ago, I was pretty anti-coaching. Investors introduced me to coaches, and I interviewed some. I thought they were too expensive and I didn't think they would help. Maybe I was right at the time.
 
-But as the complexity of our problems grew, my thinking changed. I no longer had the answers all the time. I needed to build a culture that was determined to make good decisions. I needed to be the best leader I could be for this company. An entrepreneur I admire referred me to Leaders in Tech, or LIT. I applied, interviewed, and was accepted.
+But as the complexity of our problems grew, my thinking changed. I no longer had the answers all the time. I needed to build a culture that was determined to make good decisions. I needed to be [the best leader I could be]({filename}is-it-okay-to-be-a-nice-ceo.md) for this company. An entrepreneur I admire referred me to Leaders in Tech, or LIT. I applied, interviewed, and was accepted.
 
 I remember being skeptical when I first read about this program. It wasn't cheap (about $20,000), but it was cheaper than one-on-one coaching. Its name was hokey, but the roster of tech leaders that went through it was wildly impressive. It also helped that the program traced its origins to a popular course at the Stanford Graduate School of Business called Interpersonal Dynamics, or "Touchy Feely" as it was known to students.
 
@@ -30,7 +30,7 @@ The thing that convinced me I would love this was T-groups.
 
 I'm old enough to know how I like to learn. With guitar, I learn best by jamming with different musicians. I've taken lessons, bought lesson books, and watched hours of guitar videos on YouTube. Nothing compares to playing in a band. A band is like a project. Let's learn the songs, memorize whether the verse or the bridge comes after the second chorus, hit those breaks on the intro vamp. There's no better way for me to learn.
 
-Programming was the same for me. Books didn't get me very far with Ruby on Rails. Having a project I was desperate to build did. That's the story of Toofr: I desperately wanted to learn to program, but it didn't make sense until I had to build a website that guessed business email addresses. The project helped me push through the learning curve. The project made it all click!
+Programming was the same for me. Books didn't get me very far with Ruby on Rails. Having a project I was desperate to build did. That's [the story of Toofr]({filename}my-524687-side-business.md): I desperately wanted to learn to program, but it didn't make sense until I had to build a website that guessed business email addresses. The project helped me push through the learning curve. The project made it all click!
 
 T-groups are project-based learning for leadership. Learning by doing, with other people. That was much more appealing to me than spending an hour with a coach and filling out personality surveys. I'd learn by watching other leaders, studying their flaws and their feats.
 
