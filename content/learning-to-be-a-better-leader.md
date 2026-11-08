@@ -39,3 +39,48 @@ T-groups are project-based learning for leadership. Learning by doing, with othe
 This was all just assumption. I'd need to attend the opening retreat to see if my assumption was correct. 
 
 <!-- Unfinished draft. Next: Describe the retreat itself, the specific experiences and lessons, and how they connect to being a CEO, manager, and professor. Ryan has not supplied this material yet. -->
+
+I arrived on a crisp Friday morning. The drive from Walnut Creek to Santa Cruz was easy. Podcasts and a brainstorming call with my cofounder make the hours fall away. I was quite early so I sat in the car and finished my conversation. There was a lot to discuss. Our decisions are only getting more complex, the stakes only getting higher. He wished me well and I thanked him for being supportive of this program. I texted my wife and told her I was here safely and would let her know how it was going. 
+
+And that was it, my professional and personal obligations were met. Both were going to be fine without me for a few days. I was still early, so I took a seat in the lobby and read the newspaper. When people filed in with name badges, I figured it was time to find the meeting room. I planned to be early, obviously, but I didn't want to be the first one there. 
+
+I want things to start on time. It's not just respect; it's a signal that demonstrates preparation and confidence. The LIT kickoff meeting, as I recall, started right on time, and I remember looking around the room and noting that everyone was there. It looked like all of my fellow founders showed up -- on time! That was the first little tingle I'd found "my people." 
+
+I had already met a few of them. They came from all over the country, across many tech industries: finance, biotech, semiconductor, marketplace. They raised a lot of money, they recently exited or were about to exit, they had cofounder or investor conflicts, and each came with their own reason for needing some sort of help. 
+
+Why else do you spend this money and give up a 4-day weekend, 9am to 10pm every day, to meet a bunch of strangers? You do it because you need it. I didn't know all of this upfront, of course, but even those early conversations dropped clues. 
+
+The days were structured like this:
+
+- A short morning skill or framework session, providing context and "data" for the T-group. These were 30-45 mins. 
+- Two T-group sessions, each a little over an hour, with a short break.
+- Lunch, followed by another framework session.
+- More T-group, followed by a longer break which included an hour for dinner.
+- Another framework session.
+- Two more T-group sessions with a break.
+
+I suppose at this point I should describe what the T-group is like. The kickoff session defined it as a lab for experimentation. There's "no leader, task, structure, plan, or predetermined agenda." My group was a dozen founders and two facilitators. There was one other T-group at the retreat. I think they had 13. Our T-groups were completely separate; only the framework sessions and meals were shared. 
+
+I'd never heard of anything like this and I was fascinated by it. I eagerly found my room, sat, and looked around.
+
+After a few moments, the first person spoke. We discussed norms, whether we'd be allowed to take notes, and how to handle late arrivals after breaks. I didn't know it, but the T-group was launched. All the stuff we'd been told to consider, like how to share and disclose information about ourselves to become "known" was happening in real-time. 
+
+I was fascinated. I was hooked. The time flew. We had more framework sessions, but I just wanted to get back into T-group so I could learn and watch and participate. Knowing that my tendency is to sit back and let conversations unfold before I speak, I tried being more assertive. 
+
+Knowing that I really don't like giving negative feedback (LIT calls it "developmental"), I seized an opportunity to tell the group how I felt about them being late after a break. Was I actually miffed? No, not really, we were becoming more casual and that was probably okay, but needed the practice, so I did it. I admonished them. I told them why it mattered to me and how it made me feel. 
+
+And then spotlighted shifted on me. It was rough. I shared my discomfort with giving feedback and one of the facilitators suggested I give developmental feedback to everyone in the room, 11 of my peeers and both facilitators. Right then, right there. He presented as a challenge. I had to accept it. I tried not to hesitate. I just went for it, and when I was done, I let the feelings wash over me. I felt hurt, embarrassed, confused, angry. All the things! Most of all, overwhelmed, and I felt the tears welling in my eyes and I didn't know what to do about it. They fell and I felt the arm of the facilitator around my shoulder. I appreciated the comfort but it only exascerbated my surprise: who am I, again? A 44-year-old CEO, crying in some group therapy session in Santa Cruz? 
+
+I couldn't believe it. But that's the point. And the other point is my T-group was fired up by my performance. They loved it. To be more clear, they loved the emotion. They loved that I showed how I was feeling, rather than just telling them. I learned that I tend to operate on a narrow band of visible emotion. I feel things, but I soften those feelings when I share them. I'm very transparent about facts, but not about feelings. Going forward, I need to do both.
+
+This learning happened halfway through the retreat; it was referenced a few times in our closing remarks a couple of days later. I still think about it a lot. 
+
+This was my own experience, the only experience I can share. The others in my group had their own journeys with it. Not everybody cried, but I think most of it did. I wasn't counting. Disclosure is hard for everyone. 
+
+The common theme was this: "if I open up, you'll find more reasons to dislike me." And the common experience is the opposite. The more my T-group opened up, and it's so apparent when someone is speaking their truth, the more connected I became, and the feelings of admiration and commaraderie follow naturally. 
+
+We never dissected the word "like". It came up a lot, we all used the word, but I still don't know what it means. The LIT-approved word is probably "known" or "connected" because those seem to lead to what we refer to as "like." I don't know. I'm still learning this. 
+
+I have another eight months in the LIT program. The time won't be as condensed as it was in Santa Cruz, so I don't know if I'll learn the same way, but I'm excited to get back in T-group and refine my approach to emotional disclosure. 
+
+Just writing this, I think, makes me a better leader. 
